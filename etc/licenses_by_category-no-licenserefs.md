@@ -1,0 +1,918 @@
+# Licenses by Category
+
+## Safe for most uses
+
+### Free Restricted
+
+- ASWF Digital Assets License v1.0, `ASWF-Digital-Assets-1.0`
+- ASWF Digital Assets License v1.1, `ASWF-Digital-Assets-1.1`
+- BSD 3-Clause No Nuclear Warranty, `BSD-3-Clause-No-Nuclear-Warranty`
+- BSD-3-Clause-No-Military, `BSD-3-Clause-No-Military-License`
+- Caldera License, `Caldera`
+- Computational Use of Data Agreement v1.0, `C-UDA-1.0`
+- Code Project Open License (CPOL) 1.02, `CPOL-1.02`
+- Hippocratic License v2.1, `Hippocratic-2.1`
+- Historical Permission Notice and Disclaimer - University of California, US export warning, `HPND-UC-export-US`
+- HPND with US Government export control warning and acknowledgment, `HPND-export-US-acknowledgement`
+- HPND with US Government export control warning, `HPND-export-US`
+- Non-Commercial Government Licence, `NCGL-UK-2.0`
+- Obsolete Font License 1.0, `unbuntu-font-1.0`
+- Oracle BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License-2014`
+- SGI Free Software License B v1.0, `SGI-B-1.0`
+- Sun BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License`
+- Sustainable Use License 1.0, `SUL-1.0`
+
+### Permissive
+
+- 3D Slicer Contribution and Software License Agreement v1.0, `3D-Slicer-1.0`
+- Attribution Assurance License, `AAL`
+- Abstyles License, `Abstyles`
+- ACE TAO License, `DOC`
+- AdaCore Doc License, `AdaCore-doc`
+- Adobe Glyph License, `Adobe-Glyph`
+- Adobe Postscript AFM License, `APAFML`
+- Adobe Systems Incorporated Source Code License Agreement, `Adobe-2006`
+- Adobe Utopia Font License, `Adobe-Utopia`
+- Academic Free License 1.1, `AFL-1.1`
+- Academic Free License 1.2, `AFL-1.2`
+- Academic Free License 2.0, `AFL-2.0`
+- Academic Free License 2.1, `AFL-2.1`
+- Academic Free License 3.0, `AFL-3.0`
+- afmparse License, `Afmparse`
+- Aladdin MD5 License, `aladdin-md5`
+- Allegro 4 License, `Giftware`
+- Altera License, `Xnet`
+- Amazon Digital Services License, `ADSL`
+- AMD Historical License, `AMD-newlib`
+- AMD PLPA License, `AMDPLPA`
+- Academy of Motion Picture Arts and Sciences BSD-Style, `AMPAS`
+- ANTLR Software Rights Notice, `ANTLR-PD`
+- Apache License 1.0, `Apache-1.0`
+- Apache License 1.1, `Apache-1.1`
+- Apache License 2.0, `Apache-2.0`
+- Apache 2.0 with Linking Exception, `apache-2.0-linking-exception`
+- Apache 2.0 with Runtime Library Exception, `apache-2.0-runtime-library-exception`
+- Apache Due Credit Variant, `apache-due-credit`
+- Apache Patent Provision Exception Deprecated, `apache-patent-provision-exception`
+- Apache Patent Provision Exception Terms, `mxml-exception`
+- Apache Exception LLVM, `apache-exception-llvm`
+- App::s2p License, `App-s2p`
+- Apple Sample Code License 2006, `AML`
+- Aspell Russian License, `Aspell-RU`
+- Baekmuk Fonts License, `Baekmuk`
+- Bahyph License, `Bahyph`
+- Barr TeX License, `Barr`
+- bcrypt Solar Designer License, `bcrypt-Solar-Designer`
+- Beer-Ware License, `Beerware`
+- Bigelow & Holmes Lucida Fonts License, `Lucida-Bitmap-Fonts`
+- Bitstream Vera Font License, `Bitstream-Vera`
+- Blue Oak Model License 1.0.0, `BlueOak-1.0.0`
+- Boost Software License 1.0, `BSL-1.0`
+- Borceux License, `Borceux`
+- Brian Gladman Dual BSD-GPL, `Brian-Gladman-3-Clause`
+- Brian Gladman License, `Brian-Gladman-2-Clause`
+- BSD 2-Clause - first lines requirement, `BSD-2-Clause-first-lines`
+- BSD 2-Clause pkgconf disclaimer variant, `BSD-2-Clause-pkgconf-disclaimer`
+- BSD 3-Clause Open MPI variant, `BSD-3-Clause-Open-MPI`
+- BSD 3-Clause Sun, `BSD-3-Clause-Sun`
+- BSD Acknowledgment License, `BSD-3-Clause-Attribution`
+- BSD Advertising Acknowledgement License, `BSD-Advertising-Acknowledgement`
+- BSD Intel License, `bsd-intel`
+- BSD Simplified Darwin, `BSD-2-Clause-Darwin`
+- BSD Source Code Attribution, `BSD-Source-Code`
+- BSD Zero Clause License, `0BSD`
+- BSD-1-Clause, `BSD-1-Clause`
+- BSD-2-Clause, `BSD-2-Clause`
+- BSD-2-Clause Plus Patent, `BSD-2-Clause-Patent`
+- BSD-2-Clause-FreeBSD License, `bsd-2-clause-freebsd`
+- BSD-2-Clause-NetBSD License, `bsd-2-clause-netbsd`
+- BSD 2-Clause with views sentence, `BSD-2-Clause-Views`
+- BSD-3-Clause, `BSD-3-Clause`
+- BSD-3-Clause with Far Manager exception, `bsd-new-far-manager`
+- BSD-4-Clause-Shortened, `BSD-4-Clause-Shortened`
+- BSD-Axis, `bsd-axis`
+- BSD-Inferno-Nettverk, `BSD-Inferno-Nettverk`
+- BSD-Original, `BSD-4-Clause`
+- BSD-Original-UC, `BSD-4-Clause-UC`
+- BSD-Original-UC-1986, `BSD-4.3RENO`
+- BSD-Original-UC-1990, `bsd-original-uc-1990`
+- BSD-Top, `BSD-Source-beginning-file`
+- Berkeley Software License Agreement, `BSD-4.3TAHOE`
+- bzip2 License, `bzip2-libbzip-1.0.5`
+- bzip2 License 2010, `bzip2-1.0.6`
+- Caldera License (without preamble), `Caldera-no-preamble`
+- Carnegie Mellon Contributors License, `CMU-Mach`
+- Catharon Open Source License, `Catharon`
+- Creative Commons Attribution License 1.0, `CC-BY-1.0`
+- Creative Commons Attribution License 2.0, `CC-BY-2.0`
+- Creative Commons Attribution License 2.5, `CC-BY-2.5`
+- Creative Commons Attribution License 3.0, `CC-BY-3.0`
+- Creative Commons Attribution 3.0 Austria, `CC-BY-3.0-AT`
+- Creative Commons Attribution 3.0 United States, `CC-BY-3.0-US`
+- Creative Commons Attribution 4.0 International Public License, `CC-BY-4.0`
+- Community Data License Agreement Permissive 1.0, `CDLA-Permissive-1.0`
+- Community Data License Agreement Permissive 2.0, `CDLA-Permissive-2.0`
+- CeCILL-B Free Software License Agreement, `CECILL-B`
+- CERN Open Hardware Licence v1.2, `CERN-OHL-1.2`
+- CERN Open Hardware License v1.1, `CERN-OHL-1.1`
+- CERN Open Hardware Licence Version 2 - Permissive, `CERN-OHL-P-2.0`
+- CFITSIO License, `CFITSIO`
+- check-cvs License, `check-cvs`
+- Checkmk License, `checkmk`
+- Classworlds License, `classworlds`
+- Clear BSD License, `BSD-3-Clause-Clear`
+- Click License, `MIT-Click`
+- CLIPS License 2017, `Clips`
+- Christian Michelsen Research AS License, `cmr-no`
+- Carnegie Mellon Computing Services License, `BSD-Attribution-HPND-disclaimer`
+- CMU Style, `MIT-CMU`
+- CNRI Jython License, `CNRI-Jython`
+- CNRI Open Source License Agreement for Python 1.6, `CNRI-Python`
+- CNRI Open Source License Agreement for Python 1.6.1, `CNRI-Python-GPL-Compatible`
+- CodeSourcery 2004, `HPND-merchantability-variant`
+- Copyfree Open Innovation License 1.0, `COIL-1.0`
+- Common Lisp LOOP License, `LOOP`
+- Condor Public License 1.1, `Condor-1.1`
+- Cornell Lossless JPEG License, `Cornell-Lossless-JPEG`
+- Creative Commons Attribution 2.5 Australia, `CC-BY-2.5-AU`
+- Creative Commons Attribution 3.0 Australia, `CC-BY-3.0-AU`
+- Creative Commons Attribution 3.0 Germany, `CC-BY-3.0-DE`
+- Creative Commons Attribution 3.0 IGO, `CC-BY-3.0-IGO`
+- Creative Commons Attribution 3.0 Netherlands, `CC-BY-3.0-NL`
+- Cronyx License, `Cronyx`
+- Crossword License, `Crossword`
+- CryptoSwift License, `CryptoSwift`
+- Crystal Stacker License, `CrystalStacker`
+- Community Specification License 1.0, `Community-Spec-1.0`
+- Cube License, `Cube`
+- cURL License, `curl`
+- Common Vulnerability Enumeration ToU License, `cve-tou`
+- Dante Treglia License, `Game-Programming-Gems`
+- Data licence Germany – zero – version 2.0, `DL-DE-ZERO-2.0`
+- DEC 3-Clause License, `DEC-3-Clause`
+- Datenlizenz Deutschland - Namensnennung - Version 2.0 - Deutsch, `DL-DE-BY-2.0`
+- DocBook DTD License, `DocBook-DTD`
+- Docbook License, `DocBook-XML`
+- DocBook Schema License, `DocBook-Schema`
+- DocBook Stylesheet License, `DocBook-Stylesheet`
+- Dom4j License, `Plexus`
+- Dotseqn License, `Dotseqn`
+- Dr John Maddock License, `dr-john-maddock`
+- Detection Rule License 1.0, `DRL-1.0`
+- Detection Rule License (DRL) 1.1, `DRL-1.1`
+- DSDP License, `DSDP`
+- Dual BSD-GPL, `dual-bsd-gpl`
+- Duplicate Network Time Protocol License, `network-time-protocol`
+- dvipdfm License, `dvipdfm`
+- Educational Community License 1.0, `ECL-1.0`
+- Educational Community License 2.0, `ECL-2.0`
+- Eiffel Forum License 1.0, `EFL-1.0`
+- Eiffel Forum License 2.0, `EFL-2.0`
+- Enlightenment (EFL) MIT-Style License, `MIT-advertising`
+- eGenix Public License 1.1.0, `eGenix`
+- Ekioh License, `ekioh`
+- enna License, `MIT-enna`
+- Entessa Public License v1.0, `Entessa`
+- EPICS Open License, `EPICS`
+- Etalab Open License 2.0, `etalab-2.0`
+- EU DataGrid Software License, `EUDatagrid`
+- Fair License, `Fair`
+- FastCGI DevKit, `OML`
+- Ferguson Twofish License, `Ferguson-Twofish`
+- FFTPACK License 2004, `NCL`
+- Flex License v2.5, `BSD-3-Clause-flex`
+- FreeBSD Doc License, `FreeBSD-DOC`
+- FreeTTS License, `MIT-Festival`
+- FreeType Project License, `FTL`
+- FSF All Permissive License, `FSFAP`
+- FSF All Permissive License (without Warranty), `FSFAP-no-warranty-disclaimer`
+- FSF Unlimited License No Warranty, `FSFULLRWD`
+- FSF Unlimited License (with License Retention and Short Disclaimer), `FSFULLRSD`
+- Free Software Foundation - Unlimited License, `FSFULLR`
+- Furuseth License, `Furuseth`
+- Fuzzy Bitmap License, `FBM`
+- fwlw License, `fwlw`
+- Generic XTS License, `generic-xts`
+- Glulxe License, `Glulxe`
+- Good Luck With That Public License, `GLWTPL`
+- GNOME examples exception, `GNOME-examples-exception`
+- Graphics Gems License, `Graphics-Gems`
+- GStreamer Exception (2005), `GStreamer-exception-2005`
+- GStreamer Exception (2008), `GStreamer-exception-2008`
+- gtkbook License, `gtkbook`
+- Gutmann License, `Gutmann`
+- Haskell Language Report License, `HaskellReport`
+- HDF5 License, `HDF5`
+- HDPARM License, `hdparm`
+- Henry Spencer License 1999, `Spencer-99`
+- Henry Spencer Original Regexp License, `hs-regexp-orig`
+- Henry Spencer Regexp License, `Spencer-94`
+- Hewlett-Packard BSD variant license, `BSD-3-Clause-HP`
+- HIDAPI License, `HIDAPI`
+- Historical Permission Notice and Disclaimer - INRIA-IMAG variant, `HPND-INRIA-IMAG`
+- Historical Permission Notice and Disclaimer - documentation sell variant, `HPND-doc-sell`
+- Historical Permission Notice and Disclaimer - documentation variant, `HPND-doc`
+- Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant, `HPND-Fenneberg-Livingston`
+- Historical Permission Notice and Disclaimer Pbmplus variant, `HPND-Pbmplus`
+- Historical Permission Notice and Disclaimer, `HPND`
+- Historical Permission Notice and Disclaimer - sell variant, `historical-sell-variant`
+- Historical Permission Notice and Disclaimer sell regexpr variant, `HPND-sell-regexpr`
+- Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer, `HPND-sell-MIT-disclaimer-xserver`
+- Historical Permission Notice and Disclaimer University of California variant, `HPND-UC`
+- Historical Permission Notice and Disclaimer with MIT disclaimer, `HPND-MIT-disclaimer`
+- Hewlett-Packard 1986 License, `HP-1986`
+- Historical Permission Notice and Disclaimer Netrek variant, `HPND-Netrek`
+- HPND sell variant with MIT disclaimer, `HPND-sell-variant-MIT-disclaimer`
+- HPND sell variant with MIT disclaimer - reverse, `HPND-sell-variant-MIT-disclaimer-rev`
+- IBM PowerPC Initialization and Boot Software, `IBM-pibs`
+- IEC Code Components End-user licence agreement, `IEC-Code-Components-EULA`
+- ImageMagick License, `ImageMagick`
+- Independent JPEG Group License - short, `IJG-short`
+- Indiana University Extreme! Lab Software License Version 1.2, `xpp`
+- Info-Zip License, `Info-ZIP`
+- Inner Net License 2.0, `Inner-Net-2.0`
+- Inno Setup License, `InnoSetup`
+- Intel ACPI Software License Agreement, `Intel-ACPI`
+- Intel BSD - Export Control, `Intel`
+- Intel BSD License, `BSD-3-Clause-acpica`
+- Intel Open Source License 1993, `HPND-Intel`
+- ISC License, `ISC`
+- Jam License, `Jam`
+- JasPer License 2.0, `JasPer-2.0`
+- Jove License, `jove`
+- Independent JPEG Group License, `IJG`
+- JPNIC idnkit License, `JPNIC`
+- JSON License, `JSON`
+- Kastrup License, `Kastrup`
+- Kazlib License, `Kazlib`
+- Kevlin Henney License, `HPND-Kevlin-Henney`
+- Knuth CTAN License, `Knuth-CTAN`
+- Latex2e License, `Latex2e`
+- Latex2e with translated notice permission, `Latex2e-translated-notice`
+- Lawrence Berkeley National Labs BSD variant license, `BSD-3-Clause-LBNL`
+- Leptonica License, `Leptonica`
+- libcap License, `libcap`
+- libgd License 2018, `GD`
+- Libpng License, `Libpng`
+- PNG Reference Library License version 2, `libpng-2.0`
+- libutil David Nugent License, `libutil-David-Nugent`
+- NiH libzip License, `libzip`
+- Linum Software License, `linum`
+- Linux-OpenIB, `Linux-OpenIB`
+- LLVM Exception to Apache 2.0, `LLVM-exception`
+- M+ Fonts license, `mplus`
+- MadWifi Dual BSD-GPL, `madwifi-dual`
+- magaz License, `magaz`
+- mailprio License, `mailprio`
+- man2html License, `man2html`
+- Markus Kuhn License, `HPND-Markus-Kuhn`
+- Martin Bergmeier License, `Martin-Birgmeier`
+- Matrix Template Library License, `MTLL`
+- McPhee Slideshow License, `McPhee-slideshow`
+- Mentalis Source Code License, `mentalis`
+- metamail License, `metamail`
+- Michigan/Merit Networks License, `UMich-Merit`
+- Minpack Copyright Notice, `Minpack`
+- MIPS License, `MIPS`
+- MirOS License, `MirOS`
+- MIT Acknowledgment License, `MIT-feh`
+- MIT Addition License, `MIT-Wu`
+- MIT Khronos - old variant, `MIT-Khronos-old`
+- MIT License, `MIT`
+- MIT Modern Variant, `MIT-Modern-Variant`
+- MIT no advertising with Export Control, `HPND-export2-US`
+- MIT with no false attribution License, `MITNFA`
+- MIT Old Style no advertising, `NTP`
+- MIT Taylor Variant, `pkgconf`
+- MIT testregex Variant, `MIT-testregex`
+- MIT Veillard Variant, `ISC-Veillard`
+- MIT with Export Control, `Xerox`
+- MIT With Modification Obligations, `HPND-export-US-modify`
+- MIT Xfig Variant, `Xfig`
+- MIT No Attribution, `MIT-0`
+- MMIXware License, `MMIXware`
+- Mozilla GC License, `Boehm-GC`
+- MPEG SSG License, `MPEG-SSG`
+- mpi Permissive License, `mpi-permissive`
+- MPICH License, `mpich2`
+- Microsoft Limited Public License, `ms-limited-public`
+- Microsoft Limited Permissive License (MS-LPL), `MS-LPL`
+- Microsoft Public License, `MS-PL`
+- Microsoft Permissive License (MS-PL) v1.1, `ms-permissive-1.1`
+- Mulan Permissive Software License, Version 1, `MulanPSL-1.0`
+- Mulan Permissive Software License, Version 2, `MulanPSL-2.0`
+- Multics License, `Multics`
+- Mup License, `Mup`
+- Nara Institute License 2003, `NAIST-2003`
+- NAUMEN Public License, `Naumen`
+- University of Illinois/NCSA Open Source License, `NCSA`
+- NetCDF License, `NetCDF`
+- Newsletr License, `Newsletr`
+- ngrep License, `ngrep`
+- NICTA Public Software Licence 1.0, `NICTA-1.0`
+- NIST Public Domain Notice with license fallback, `NIST-PD-fallback`
+- NIST Software License, `NIST-Software`
+- Norwegian Licence for Open Government Data, `NLOD-1.0`
+- Norwegian Licence for Open Government Data (NLOD) 2.0, `NLOD-2.0`
+- NRL License, `NRL`
+- NRL permission, `CMU-Mach-nodoc`
+- Network Time Protocol License, `ntpl`
+- NTP No Attribution, `NTP-0`
+- NUnit v2 License, `nunit-v2`
+- NVIDIA 2002 License, `AML-glslang`
+- Open Use of Data Agreement v1.0, `O-UDA-1.0`
+- Object Form Exception to MIT, `fmt-exception`
+- Open Data Commons Attribution License v1.0, `ODC-By-1.0`
+- OFFIS License, `OFFIS`
+- SIL Open Font License 1.0, `OFL-1.0`
+- SIL Open Font License 1.0 with no Reserved Font Name, `OFL-1.0-no-RFN`
+- SIL Open Font License 1.0 with Reserved Font Name, `OFL-1.0-RFN`
+- SIL Open Font License 1.1 with no Reserved Font Name, `OFL-1.1-no-RFN`
+- OGC Software License, Version 1.0, `OGC-1.0`
+- OGC Software Notice 2006, `ogc-2006`
+- Open Government Licence Canada 2.0, `OGL-Canada-2.0`
+- U.K. Open Government License for Public Sector Information v1.0, `OGL-UK-1.0`
+- U.K. Open Government License for Public Sector Information v2.0, `OGL-UK-2.0`
+- U.K. Open Government License for Public Sector Information v3.0, `OGL-UK-3.0`
+- Open Logistics Foundation License Version 1.3, `OLFL-1.3`
+- Open Publication License v1.0, `OPUBL-1.0`
+- OpenLDAP Public License 2.0, `OLDAP-2.0`
+- OpenLDAP Public License 2.0.1, `OLDAP-2.0.1`
+- OpenLDAP Public License 2.1, `OLDAP-2.1`
+- OpenLDAP Public License 2.2, `OLDAP-2.2`
+- OpenLDAP Public License 2.2.1, `OLDAP-2.2.1`
+- OpenLDAP Public License 2.2.2, `OLDAP-2.2.2`
+- OpenLDAP Public License 2.3, `OLDAP-2.3`
+- OpenLDAP Public License 2.4, `OLDAP-2.4`
+- OpenLDAP Public License 2.5, `OLDAP-2.5`
+- OpenLDAP Public License 2.6, `OLDAP-2.6`
+- OpenLDAP Public License 2.7, `OLDAP-2.7`
+- OpenLDAP Public License 2.8, `OLDAP-2.8`
+- OpenSSH License, `SSH-OpenSSH`
+- OpenSSL License, `OpenSSL-standalone`
+- OpenSSL/SSLeay License, `OpenSSL`
+- OpenVision License, `OpenVision`
+- Original SSLeay License with Windows Clause, `SSLeay-standalone`
+- OSF 1990 License, `HP-1989`
+- PADL License, `PADL`
+- Paul Mackerras License, `Mackerras-3-Clause-acknowledgment`
+- Paul Mackerras New License, `Mackerras-3-Clause`
+- PBM Library License, `xlock`
+- Peter Deutsch Document License, `LPD-document`
+- PHP License 3.0, `PHP-3.0`
+- PHP License 3.01, `PHP-3.01`
+- Pixar License, `Pixar`
+- PNG Reference Library License v1 (for libpng 0.5 through 1.6.35), `libpng-1.6.35`
+- pnmstitch License, `pnmstitch`
+- PostgreSQL License, `PostgreSQL`
+- PS Utilities License, `psutils`
+- PSF-2.0, `PSF-2.0`
+- psfrag License, `psfrag`
+- Purdue BSD-Style License, `lsof`
+- Python ldap License, `python-ldap`
+- Python Software Foundation License v2, `Python-2.0`
+- Python Software Foundation License v2.0.1, `Python-2.0.1`
+- radvd License, `radvd`
+- Ralf Corsepius License, `ralf-corsepius`
+- Rdisc License, `Rdisc`
+- Regexp License, `Spencer-86`
+- Repoze License, `BSD-3-Clause-Modification`
+- RSA Data Security MD5, `RSA-MD`
+- Ruby pty extension license, `Ruby-pty`
+- Runtime Library Exception to the Apache 2.0 License, `Swift-exception`
+- Saxpath License, `Saxpath`
+- SCEA Shared Source License 1.0, `SCEA`
+- Scheme Language Report License, `SchemeReport`
+- Scheme Widget Library (SWL) Software License Agreement, `SWL`
+- Sendmail License, `Sendmail`
+- Sendmail Open Source License v1.1, `Sendmail-Open-Source-1.1`
+- SFL License Agreement, `iMatix`
+- SGI Free Software License B v1.1, `SGI-B-1.1`
+- SGI Free Software License B v2.0, `SGI-B-2.0`
+- SGP4 Permission Notice, `SGP4`
+- OFL 1.1 Reserved Font Name, `OFL-1.1-RFN`
+- SL License, `SL`
+- SLF4J License 2005, `slf4j-2005`
+- SLF4J License 2008, `slf4j-2008`
+- snprintf License, `snprintf`
+- softSurfer License, `softSurfer`
+- SolderPad Hardware License v0.5, `SHL-0.5`
+- Solderpad Hardware License v2.0, `SHL-2.0`
+- Solderpad Hardware License v2.1, `SHL-2.1`
+- SolderPad Hardware License, Version 0.51, `SHL-0.51`
+- Soundex License, `Soundex`
+- ssh-keyscan License, `ssh-keyscan`
+- Standard ML of New Jersey, `SMLNJ`
+- STLport License v4.5, `Boehm-GC-without-fee`
+- Sun PPP License, `Sun-PPP`
+- Sun PPP License (2000), `Sun-PPP-2000`
+- SunPro Attribution License, `SunPro`
+- swrule License, `swrule`
+- Systemics BSD variant license, `BSD-Systemics`
+- Systemics W3Works BSD variant license, `BSD-Systemics-W3Works`
+- Taiwan Open Government Data License, version 1.0, `OGDL-Taiwan-1.0`
+- Tatu Ylonen License, `SSH-short`
+- TCL/TK License, `TCL`
+- TCP Wrappers License, `TCP-wrappers`
+- Term Readkey License, `TermReadKey`
+- Text-Tabs+Wrap License, `TTWL`
+- ThirdEye License, `ThirdEye`
+- threeparttable License, `threeparttable`
+- Tidy License, `HTMLTIDY`
+- Time::ParseDate License, `TPDL`
+- TrustedQSL License, `TrustedQSL`
+- TTF2PT1 Project License, `ttf2pt1`
+- TTYP0 License, `TTYP0`
+- Technische Universitaet Berlin Attribution License 1.0, `TU-Berlin-1.0`
+- Technische Universitaet Berlin License 2.0, `TU-Berlin-2.0`
+- UCAR License, `UCAR`
+- ulem License, `ulem`
+- Unicode License Agreement - Data Files and Software, `unicode-data-software`
+- Unicode License Agreement - Data Files and Software (2015), `Unicode-DFS-2015`
+- Unicode License Agreement - Data Files and Software (2016), `Unicode-DFS-2016`
+- Unicode License v3, `Unicode-3.0`
+- United Kingdom Open Parliament Licence v3.0, `OPL-UK-3.0`
+- UnixCrypt License, `UnixCrypt`
+- Universal Permissive License (UPL) v1.0, `UPL-1.0`
+- Vovida Software License v. 1.0, `VSL-1.0`
+- W3C Software Notice and License, `W3C`
+- W3C Software Notice and License (1998-07-20), `W3C-19980720`
+- W3C Software Notice and License (2002-12-31), `w3c-software-20021231`
+- W3C Software and Document (2015-05-13), `W3C-20150513`
+- w3m License, `w3m`
+- Widget Workshop License, `Widget-Workshop`
+- Wsuipa License, `Wsuipa`
+- WWL License, `wwl`
+- X11 License, `ICU`
+- X11 swapped final paragraphs, `X11-swapped`
+- X11-R5 Authors, `x11r5-authors`
+- X.Org Preferred License, `x11-r75`
+- X11-Style (Adobe), `Adobe-Display-PostScript`
+- X11-Style (Bitstream Charter), `Bitstream-Charter`
+- X11-Style (DEC 2), `HPND-DEC`
+- X11-Style (FSF), `X11-distribute-modifications-variant`
+- X11-Style (Keith Packard), `HPND-sell-variant`
+- X11-Style (Lucent), `dtoa`
+- X11-Style (OAR), `OAR`
+- X11-Style (Open Group), `MIT-open-group`
+- X11-Style (OpenGL), `SGI-OpenGL`
+- X11-Style (Tiff), `libtiff`
+- X11-Style (X Consortium Veillard) - Deprecated, `x11-xconsortium_veillard`
+- X11-Style (X Consortium), `X11`
+- Xdebug License v 1.03, `Xdebug-1.03`
+- XFree86 License 1.1, `XFree86-1.1`
+- xinetd License, `xinetd`
+- xkeyboard-config Zinoviev License, `xkeyboard-config-Zinoviev`
+- XSkat License, `XSkat`
+- xzoom License, `xzoom`
+- Zed License, `Zed`
+- Zeeff License, `Zeeff`
+- Zend Engine License 2.0, `Zend-2.0`
+- ZLIB License, `Zlib`
+- ZLIB License with Acknowledgment, `zlib-acknowledgement`
+- Zope Public License 1.1, `ZPL-1.1`
+- Zope Public License 2.0, `ZPL-2.0`
+- Zope Public License 2.1, `ZPL-2.1`
+
+### Public Domain
+
+- ANTLR Software Rights Notice with license fallback, `ANTLR-PD-fallback`
+- AOP Public Domain License, `aop-pd`
+- Creative Commons Public Domain Certification, `CC-PDDC`
+- Creative Commons Public Domain Mark 1.0, `CC-PDM-1.0`
+- Creative Commons CC0 1.0 Universal, `CC0-1.0`
+- diffmark License, `diffmark`
+- Doug Lea License, `doug-lea`
+- Free Software Foundation - Free Software License, `FSFUL`
+- LZMA SDK License (versions 9.11 to 9.20), `LZMA-SDK-9.11-to-9.20`
+- LZMA SDK License (versions 9.22 and beyond), `LZMA-SDK-9.22`
+- NCBI Public Domain Notice, `NCBI-PD`
+- NIST Public Domain Notice, `NIST-PD`
+- No Limit Public License, `NLPL`
+- NTIA Public Domain Notice, `NTIA-PD`
+- Public Domain Dedication & Licence (PDDL), `PDDL-1.0`
+- Sax Public Domain Notice 2.0, `SAX-PD-2.0`
+- SAX Public Domain Notice, `SAX-PD`
+- selinux-nsa-declaration-1.0, `libselinux-1.0`
+- SQLite Blessing, `blessing`
+- Symlinks License, `Symlinks`
+- Unlicense, `Unlicense`
+- Unlicense - libwhirlpool variant, `Unlicense-libwhirlpool`
+- Unlicense - libtelnet variant, `Unlicense-libtelnet`
+- WTFPL 2.0, `WTFPL`
+
+## Usually requires review
+
+### Copyleft Limited
+
+- 389 Directory Server Exception to GPL 2.0, `389-exception`
+- Apple Common Documentation License v1.0, `CDL-1.0`
+- Ada linking exception to GPL 2.0 or later, `GNAT-exception`
+- AGPL 3.0 linking exception, `agpl-3.0-linking-exception`
+- Apple Public Source License 1.0, `APSL-1.0`
+- Apple Public Source License 1.1, `APSL-1.1`
+- Apple Public Source License 1.2, `APSL-1.2`
+- Apple Public Source License 2.0, `APSL-2.0`
+- Artistic License 1.0, `Artistic-1.0`
+- Artistic License 1.0 w/clause 8, `Artistic-1.0-cl8`
+- Artistic License 2.0, `Artistic-2.0`
+- Artistic License for dist 1.0, `Artistic-dist`
+- Artistic License (Perl) 1.0, `Artistic-1.0-Perl`
+- Asterisk linking protocols exception, `Asterisk-linking-protocols-exception`
+- Autoconf exception to GPL 2.0 or later, `Autoconf-exception-2.0`
+- Autoconf exception to GPL 3.0, `Autoconf-exception-3.0`
+- Autoconf macro exception, `Autoconf-exception-macro`
+- Autoconf simple exception, `Autoconf-exception-generic-3.0`
+- Autoconf simple exception to GPL-2.0, `Autoconf-exception-generic`
+- Bison 2.2 exception to GPL 2.0 or later, `Bison-exception-2.2`
+- Bison exception to GPL 2.0 or later, `Bison-exception-1.24`
+- BitTorrent Open Source License 1.0, `BitTorrent-1.0`
+- BitTorrent Open Source License 1.1, `BitTorrent-1.1`
+- Bootloader Distribution Exception to GPL 2.0 or later, `Bootloader-exception`
+- Computer Associates Trusted Open Source License 1.1, `CATOSL-1.1`
+- Cryptographic Autonomy License 1.0 (Combined Work Exception), `CAL-1.0-Combined-Work-Exception`
+- Creative Commons Attribution Share Alike License 1.0, `CC-BY-SA-1.0`
+- Creative Commons Attribution Share Alike License 2.0, `CC-BY-SA-2.0`
+- Creative Commons Attribution Share Alike 2.0 England and Wales, `CC-BY-SA-2.0-UK`
+- Creative Commons Attribution Share Alike License 2.5, `CC-BY-SA-2.5`
+- Creative Commons Attribution Share Alike License 3.0, `CC-BY-SA-3.0`
+- Creative Commons Attribution Share Alike License 3.0 Austria, `CC-BY-SA-3.0-AT`
+- Creative Commons Attribution Share Alike 3.0 Germany, `CC-BY-SA-3.0-DE`
+- Creative Commons Attribution ShareAlike 3.0 IGO, `CC-BY-SA-3.0-IGO`
+- Creative Commons Attribution-ShareAlike 4.0 International Public License, `CC-BY-SA-4.0`
+- Common Development and Distribution License 1.0, `CDDL-1.0`
+- Common Development and Distribution License 1.1, `CDDL-1.1`
+- Community Data License Agreement Sharing 1.0, `CDLA-Sharing-1.0`
+- CeCILL Free Software License Agreement v1.1, `CECILL-1.1`
+- CeCILL Free Software License Agreement v2.0, `CECILL-2.0`
+- CeCILL Free Software License Agreement v2.1, `CECILL-2.1`
+- CERN Open Hardware Licence Version 2 - Weakly Reciprocal, `CERN-OHL-W-2.0`
+- CGAL Linking Exception, `CGAL-linking-exception`
+- Clarified Artistic License, `ClArtistic`
+- Classpath exception to GPL 2.0 or later, `Classpath-exception-2.0`
+- Clause 6 Exception to LGPL 2.1, `polyparse-exception`
+- CLISP Exception to GPL 2.0, `CLISP-exception-2.0`
+- Common Public License 1.0, `CPL-1.0`
+- Creative Commons Attribution Share Alike 2.1 Japan, `CC-BY-SA-2.1-JP`
+- CUA Office Public License 1.0, `CUA-OPL-1.0`
+- Digia Qt Exception to LGPL 2.1, `digia-qt-exception-lgpl-2.1`
+- DigiRule FOSS License Exception to GPL 2.0, `DigiRule-FOSS-exception`
+- eCos Exception to GPL 2.0 or later, `eCos-exception-2.0`
+- Eclipse Public License 1.0, `EPL-1.0`
+- Eclipse Public License 2.0, `EPL-2.0`
+- Erlang/OTP Linking Exception, `erlang-otp-linking-exception`
+- European Union Public Licence 1.1, `EUPL-1.1`
+- European Union Public Licence 1.2, `EUPL-1.2`
+- Eurosym License, `Eurosym`
+- Fawkes Runtime Exception to GPL 2.0 or later, `Fawkes-Runtime-exception`
+- FLTK exception to LGPL 2.0, `FLTK-exception`
+- Font exception to GPL, `Font-exception-2.0`
+- Frameworx Open License v1.0, `Frameworx-1.0`
+- Fraunhofer FDK AAC Codec Library for Android, `FDK-AAC`
+- FreeImage Public License Version 1.0, `FreeImage`
+- FreeRTOS exception to GPL 2.0, `freertos-exception-2.0`
+- GCC Runtime Library exception to GPL 2.0 or later, `GCC-exception-2.0`
+- GCC Runtime Library exception 2.0 - note variant, `GCC-exception-2.0-note`
+- GCC Runtime Library Exception v3.1, `GCC-exception-3.1`
+- GNU Free Documentation License v1.1, `GFDL-1.1-only`
+- GNU Free Documentation License v1.1 or later, `GFDL-1.1-or-later`
+- GNU Free Documentation License v1.2, `GFDL-1.2-only`
+- GNU Free Documentation License v1.2 or later, `GFDL-1.2-or-later`
+- GNU Free Documentation License v1.3, `GFDL-1.3-only`
+- GNU Free Documentation License v1.3 or later, `GFDL-1.3-or-later`
+- GNU Free Documentation License v1.1 only - invariants, `GFDL-1.1-invariants-only`
+- GNU Free Documentation License v1.1 or later - invariants, `GFDL-1.1-invariants-or-later`
+- GNU Free Documentation License v1.1 only - no invariants, `GFDL-1.1-no-invariants-only`
+- GNU Free Documentation License v1.1 or later - no invariants, `GFDL-1.1-no-invariants-or-later`
+- GNU Free Documentation License v1.2 only - invariants, `GFDL-1.2-invariants-only`
+- GNU Free Documentation License v1.2 or later - invariants, `GFDL-1.2-invariants-or-later`
+- GNU Free Documentation License v1.2 only - no invariants, `GFDL-1.2-no-invariants-only`
+- GNU Free Documentation License v1.2 or later - no invariants, `GFDL-1.2-no-invariants-or-later`
+- GNU Free Documentation License v1.3 only - invariants, `GFDL-1.3-invariants-only`
+- GNU Free Documentation License v1.3 or later - invariants, `GFDL-1.3-invariants-or-later`
+- GNU Free Documentation License v1.3 only - no invariants, `GFDL-1.3-no-invariants-only`
+- GNU Free Documentation License v1.3 or later - no invariants, `GFDL-1.3-no-invariants-or-later`
+- GL2PS License, `GL2PS`
+- Gmsh exception, `Gmsh-exception`
+- Gnome GCR Documentation License, `GCR-docs`
+- GNU IO Library exception to GPL 2.0, `GNU-compiler-exception`
+- GNU JavaMail exception to GPL 2.0 or later, `gnu-javamail-exception`
+- GNU Libtool exception to GPL 2.0, `Libtool-exception`
+- gnuplot License, `gnuplot`
+- GPL 2.0 or GPL 3.0 with Syntext Serna exception, `gpl-2.0-plus-syntext`
+- GPL 2.0 or later with Ada exception, `gpl-2.0-plus-ada`
+- GPL 2.0 or later with AutoOpts exception, `gpl-2.0-autoopts`
+- GPL 2.0 or later with Bison 2.2 exception, `gpl-2.0-bison-2.2`
+- GPL 2.0 or later with eCos Exception, `eCos-2.0`
+- GPL 2.0 or later with Ekiga exception, `gpl-2.0-plus-ekiga`
+- GPL 2.0 or later with GCC exception, `gpl-2.0-plus-gcc`
+- GPL 2.0 or later with GCC Runtime Library exception, `GPL-2.0-with-GCC-exception`
+- GPL 2.0 or later with GeoServer exception, `gpl-2.0-plus-geoserver`
+- GPL 2.0 or later with Linking exception, `gpl-2.0-plus-linking`
+- GPL 2.0 or later with NAnt exception, `gpl-2.0-plus-nant`
+- GPL 2.0 or later with Open Motif exception, `gpl-2.0-plus-openmotif`
+- GPL 2.0 or later with SANE exception, `gpl-2.0-plus-sane`
+- GPL 2.0 or later with Subcommander exception, `gpl-2.0-plus-subcommander`
+- GPL 2.0 or later with UPX exception, `gpl-2.0-plus-upx`
+- GPL 2.0 with Autoconf exception, `GPL-2.0-with-autoconf-exception`
+- GPL 2.0 with bison exception, `gpl-2.0-bison`
+- GPL 2.0 with Broadcom Linking Exception, `gpl-2.0-broadcom-linking`
+- GPL 2.0 with classpath exception, `GPL-2.0-with-classpath-exception`
+- GPL 2.0 with Cygwin exception, `gpl-2.0-cygwin`
+- GPL 2.0 with Fedora Red Hat Exception, `gpl-2.0-redhat`
+- GPL 2.0 with font exception, `GPL-2.0-with-font-exception`
+- GPL 2.0 with FreeRTOS exception, `gpl-2.0-freertos`
+- GPL 2.0 with GCC compiler exception, `gpl-2.0-gcc-compiler-exception`
+- GPL 2.0 with GLibC exception, `gpl-2.0-glibc`
+- GPL 2.0 with GNU IO Library exception, `gpl-2.0-iolib`
+- GPL 2.0 with GNU Libtool exception, `gpl-2.0-libtool`
+- GPL 2.0 with GUILE exception, `gpl-2.0-guile`
+- GPL 2.0 with Independent Module Linking exception, `gpl-2.0-independent-module-linking`
+- GPL 2.0 with ISO C++ Library exception, `gpl-2.0-iso-cpp`
+- GPL 2.0 with Javascript exception, `gpl-2.0-javascript`
+- GPL 2.0 with Kernel Exception, `gpl-2.0-kernel`
+- GPL 2.0 with libgit2 exception, `gpl-2.0-libgit2`
+- GPL 2.0 with Library exception, `gpl-2.0-library`
+- GPL 2.0 with MySQL Connector ODBC exception, `gpl-2.0-mysql-connector-odbc`
+- GPL 2.0 with OpenJDK Classpath exception, `gpl-2.0-openjdk`
+- GPL 2.0 with OpenSSL exception, `gpl-2.0-openssl`
+- GPL 2.0 with Oracle OpenJDK classpath exception, `gpl-2.0-oracle-openjdk`
+- GPL 2.0 with ProGuard exception, `gpl-2.0-proguard`
+- GPL 2.0 with Qt-QCA exception, `gpl-2.0-qt-qca`
+- GPL 2.0 with RRDtool FLOSS Exception, `gpl-2.0-rrdtool-floss`
+- GPL 2.0 with U-Boot exception, `gpl-2.0-uboot`
+- GPL 3.0 or later with Bison exception, `gpl-3.0-bison`
+- GPL 3.0 or later with Cygwin exception, `gpl-3.0-cygwin`
+- GPL 3.0 or later with font exception, `gpl-3.0-font`
+- GPL 3.0 or later with OpenSSL exception, `gpl-3.0-plus-openssl`
+- GPL 3.0 with Autoconf exception, `GPL-3.0-with-autoconf-exception`
+- GPL 3.0 with GCC runtime library exception, `GPL-3.0-with-GCC-exception`
+- GPL Cooperation Commitment 1.0, `GPL-CC-1.0`
+- GPL-3.0 389 DS Base Exception, `GPL-3.0-389-ds-base-exception`
+- GPL-3.0 Interface Exception, `GPL-3.0-interface-exception`
+- GPL-3.0 Linking Exception, `GPL-3.0-linking-exception`
+- GPL-3.0 Linking Exception (with Corresponding Source), `GPL-3.0-linking-source-exception`
+- gSOAP Public License v1.3b, `gSOAP-1.3b`
+- GUILE exception to GPL 2.0, `harbour-exception`
+- i2p GPL plus Java Exception, `i2p-gpl-java-exception`
+- Imlib2 License, `Imlib2`
+- Independent Module Linking Exception, `Independent-modules-exception`
+- INRIA Linking Exception to QPL 1.0, `QPL-1.0-INRIA-2004-exception`
+- IPA Font License Agreement v1.0, `IPA`
+- IBM Public License, `IPL-1.0`
+- KiCad Libraries Exception to CC-BY-SA-4.0, `KiCad-libraries-exception`
+- GNU Library General Public License 2.0, `LGPL-2.0-only`
+- GNU Library General Public License 2.0 or later, `LGPL-2.0-or-later`
+- LGPL 2.0 or later with GCC Runtime Library exception, `lgpl-2.0-plus-gcc`
+- LGPL 2.0 with FLTK exception, `lgpl-2.0-fltk`
+- LGPL 2.0 with Mini-XML exception, `mini-xml`
+- GNU Lesser General Public License 2.1, `LGPL-2.1-only`
+- GNU Lesser General Public License 2.1 or later, `LGPL-2.1-or-later`
+- LGPL 2.1 or later with Linking exception, `lgpl-2.1-plus-linking`
+- LGPL 2.1 or later with Spell-Checker exception, `lgpl-2.1-spell-checker`
+- LGPL 2.1 or later with Unlimited linking exception, `lgpl-2.1-plus-unlimited-linking`
+- LGPL 2.1 with Digia Qt Exception, `lgpl-2.1-digia-qt`
+- LGPL 2.1 with Nokia Qt Exception, `lgpl-2.1-nokia-qt`
+- LGPL 2.1 with Qt Company Exception, `lgpl-2.1-qt-company`
+- LGPL 2.1 with Qt Company Exception 2017, `lgpl-2.1-qt-company-2017`
+- LGPL 2.1 with RXTX exception, `lgpl-2.1-rxtx`
+- GNU Lesser General Public License 3.0, `LGPL-3.0-only`
+- GNU Lesser General Public License 3.0 or later, `LGPL-3.0-or-later`
+- LGPL 3.0 or later with Cygwin exception, `lgpl-3.0-cygwin`
+- LGPL 3.0 or later with Linking exception, `lgpl-3-plus-linking`
+- LGPL 3.0 or later with OpenSSL exception, `lgpl-3.0-plus-openssl`
+- LGPL 3.0 with ZeroMQ exception, `lgpl-3.0-zeromq`
+- LGPL-3.0 Linking Exception, `LGPL-3.0-linking-exception`
+- Lesser General Public License For Linguistic Resources, `LGPLLR`
+- GNU Libtool Exception, `libtool-exception`
+- Licence Libre du Québec – Permissive version 1.1, `LiLiQ-P-1.1`
+- Licence Libre du Québec – Réciprocité version 1.1, `LiLiQ-R-1.1`
+- Linking exception to AGPL 3.0, `romic-exception`
+- Linking exception to LGPL 3.0, `linking-exception-lgpl-3.0`
+- Linux man-pages - 1 paragraph, `Linux-man-pages-1-para`
+- Linux man-pages Copyleft - 2 paragraphs, `Linux-man-pages-copyleft-2-para`
+- Linux man-pages Copyleft Variant, `Linux-man-pages-copyleft-var`
+- Linux Syscall Exception to GPL, `Linux-syscall-note`
+- Lisp Lesser General Public License (LLPGL), `LLGPL`
+- Lucent Public License 1.0, `LPL-1.0`
+- Lucent Public License 1.02, `LPL-1.02`
+- LZMA exception to CPL 1.0, `LZMA-exception`
+- Macros and Inline Functions Exception to GPL 2.0, `mif-exception`
+- Mozilla Public License 1.0, `MPL-1.0`
+- Mozilla Public License 1.1, `MPL-1.1`
+- Mozilla Public License 2.0, `MPL-2.0`
+- Mozilla Public License 2.0 (no copyleft exception), `MPL-2.0-no-copyleft-exception`
+- Microsoft Reciprocal License, `MS-RL`
+- NASA Open Source License v1.3, `NASA-1.3`
+- Net Boolean Public License 1.0, `NBPL-1.0`
+- Nethack General Public License, `NGPL`
+- Nokia Qt Exception to LGPL 2.1, `nokia-qt-exception-1.1`
+- Nokia Qt LGPL Exception v1.0, `lgpl-2.1-nokia-qt-1.0`
+- Nokia Qt LGPL Exception v1.1, `lgpl-2.1-nokia-qt-1.1`
+- Nokia Open Source License 1.0a, `Nokia`
+- Netizen Open Source License 1.0, `NOSL`
+- Noweb License, `Noweb`
+- Netscape Public License 1.0, `NPL-1.0`
+- Netscape Public License 1.1, `NPL-1.1`
+- OCaml LGPL Linking Exception, `OCaml-LGPL-linking-exception`
+- Open CASCADE Technology Public License, `OCCT-PL`
+- OCLC Research Public License 2.0, `OCLC-2.0`
+- SIL Open Font License 1.1, `OFL-1.1`
+- Open CASCADE Exception to LGPL 2.1, `OCCT-exception-1.0`
+- Open Group Test Suite License, `OGTSL`
+- Open Public License v1.0, `OPL-1.0`
+- OpenJDK Assembly exception to GPL 2.0, `OpenJDK-assembly-exception-1.0`
+- OpenLDAP Public License 1.1, `OLDAP-1.1`
+- OpenLDAP Public License 1.2, `OLDAP-1.2`
+- OpenLDAP Public License 1.3, `OLDAP-1.3`
+- OpenLDAP Public License 1.4, `OLDAP-1.4`
+- OpenPBS Software License v2.3, `OpenPBS-2.3`
+- OpenVPN OpenSSL Exception to GPL, `openvpn-openssl-exception`
+- OSET Public License v2.1, `osetpl-2.1`
+- OSET Public License version 2.1, `OSET-PL-2.1`
+- PS/PDF font exception (2017-08-17), `PS-or-PDF-font-exception-20170817`
+- Q Public License 1.0 - INRIA 2004 variant, `QPL-1.0-INRIA-2004`
+- Qhull License, `Qhull`
+- Q Public License Version 1.0, `QPL-1.0`
+- Qt Company Exception to LGPL 2.1, `Digia-Qt-LGPL-exception-1.1`
+- Qt Company Exception to LGPL 2.1 2017, `qt-company-exception-2017-lgpl-2.1`
+- Qt GPL exception 1.0, `Qt-GPL-exception-1.0`
+- Qt LGPL exception 1.1, `Qt-LGPL-exception-1.1`
+- Qwt exception to LGPL 2.1, `Qwt-exception-1.0`
+- Qwt License 1.0 Deprecated, `qwt-1.0`
+- RealNetworks Public Source License v1.0, `RPSL-1.0`
+- Ricoh Source Code Public License v1.0, `RSCPL`
+- Reciprocal Public License 1.1, `RPL-1.1`
+- Reciprocal Public License 1.5, `RPL-1.5`
+- RRDtool FLOSS Exception to GPL 2.0, `RRDtool-FLOSS-exception-2.0`
+- Ruby License, `Ruby`
+- SANE exception to GPL 2.0 or later, `SANE-exception`
+- Sendmail License 8.23, `Sendmail-8.23`
+- Secure Messaging Protocol Public License, `SMPPL`
+- Sun Public License 1.0, `SPL-1.0`
+- stunnel Exception, `stunnel-exception`
+- SWI exception to GPL 2.0 or later, `SWI-exception`
+- TAPR Open Hardware License v1.0, `TAPR-OHL-1.0`
+- TeX exception to GPL 3.0, `Texinfo-exception`
+- Thor Public License, `TPL-1.0`
+- TORQUE v2.5+ Software License v1.1, `TORQUE-1.1`
+- U-Boot exception to GPL 2.0, `u-boot-exception-2.0`
+- Ubuntu Font Licence v1.0, `Ubuntu-font-1.0`
+- Upstream Compatibility License v1.0, `UCL-1.0`
+- Universal FOSS Exception v1.0, `Universal-FOSS-exception-1.0`
+- Unmodified Binary Distribution Licence Exception, `UBDL-exception`
+- Utah Raster Toolkit Run Length Encoded License, `URT-RLE`
+- vsftpd OpenSSL exception, `vsftpd-openssl-exception`
+- WxWindows Library Exception to GNU Licenses, `WxWindows-exception-3.1`
+- wxWindows Library Licence 3.1, `wxWindows`
+- Yahoo! Public License v1.0, `YPL-1.0`
+- Zimbra Public License v1.3, `Zimbra-1.3`
+- Zimbra Public License v1.4, `Zimbra-1.4`
+
+### Source-available
+
+- Business Source License 1.1, `BUSL-1.1`
+- Creative Commons Attribution Non-Commercial 1.0, `CC-BY-NC-1.0`
+- Creative Commons Attribution Non-Commercial 2.0, `CC-BY-NC-2.0`
+- Creative Commons Attribution Non-Commercial 2.5, `CC-BY-NC-2.5`
+- Creative Commons Attribution Non-Commercial 3.0, `CC-BY-NC-3.0`
+- Creative Commons Attribution Non Commercial 3.0 Germany, `CC-BY-NC-3.0-DE`
+- Creative Commons Attribution-NonCommercial 4.0 International Public License, `CC-BY-NC-4.0`
+- Creative Commons Attribution Non-Commercial No Derivatives License 1.0, `CC-BY-NC-ND-1.0`
+- Creative Commons Attribution Non-Commercial No Derivatives License 2.0, `CC-BY-NC-ND-2.0`
+- Creative Commons Attribution Non-Commercial No Derivatives License 2.5, `CC-BY-NC-ND-2.5`
+- Creative Commons Attribution Non-Commercial No Derivatives License 3.0, `CC-BY-NC-ND-3.0`
+- Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany, `CC-BY-NC-ND-3.0-DE`
+- Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO, `CC-BY-NC-ND-3.0-IGO`
+- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, `CC-BY-NC-ND-4.0`
+- Creative Commons Attribution Non-Commercial Share Alike License 1.0, `CC-BY-NC-SA-1.0`
+- Creative Commons Attribution Non-Commercial Share Alike License 2.0, `CC-BY-NC-SA-2.0`
+- Creative Commons Attribution Non Commercial Share Alike 2.0 Germany, `CC-BY-NC-SA-2.0-DE`
+- Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France, `CC-BY-NC-SA-2.0-FR`
+- Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales, `CC-BY-NC-SA-2.0-UK`
+- Creative Commons Attribution Non-Commercial Share Alike License 2.5, `CC-BY-NC-SA-2.5`
+- Creative Commons Attribution Non-Commercial Share Alike License 3.0, `CC-BY-NC-SA-3.0`
+- Creative Commons Attribution Non Commercial Share Alike 3.0 Germany, `CC-BY-NC-SA-3.0-DE`
+- Creative Commons Attribution Non Commercial Share Alike 3.0 IGO, `CC-BY-NC-SA-3.0-IGO`
+- Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License, `CC-BY-NC-SA-4.0`
+- Creative Commons Attribution No Derivatives License 1.0, `CC-BY-ND-1.0`
+- Creative Commons Attribution No Derivatives License 2.0, `CC-BY-ND-2.0`
+- Creative Commons Attribution No Derivatives License 2.5, `CC-BY-ND-2.5`
+- Creative Commons Attribution No Derivatives License 3.0, `CC-BY-ND-3.0`
+- Creative Commons Attribution No Derivatives 3.0 Germany, `CC-BY-ND-3.0-DE`
+- Creative Commons Attribution-NoDerivatives 4.0 International Public License, `CC-BY-ND-4.0`
+- Elastic License 2.0 (ELv2), `Elastic-2.0`
+- Functional Source License, Version 1.1, Apache 2.0 Future License, `FSL-1.1-ALv2`
+- Functional Source License, Version 1.1, MIT Future License, `FSL-1.1-MIT`
+- JPL Image Use Policy, `JPL-image`
+- PolyForm Defensive License 1.0.0, `polyform-defensive-1.0.0`
+- Polyform Noncommercial License 1.0.0, `PolyForm-Noncommercial-1.0.0`
+- Polyform Small Business License 1.0.0, `PolyForm-Small-Business-1.0.0`
+- Server Side Public License (SSPL) 1.0, `SSPL-1.0`
+
+## High-risk for businesses
+
+### Commercial
+
+- Broadcom Unpublished Source License, `broadcom-unpublished-source`
+- Commercial Option, `commercial-option`
+- Sun proprietary notice for Java sources, `sun-proprietary-jdk`
+
+### Copyleft
+
+- 3DFX GLIDE Source Code General Public License, `Glide`
+- Affero General Public License 1.0, `AGPL-1.0-only`
+- Affero General Public License 1.0 or later, `AGPL-1.0-or-later`
+- GNU Affero General Public License 3.0, `AGPL-3.0-only`
+- GNU Affero General Public License 3.0 or later, `AGPL-3.0-or-later`
+- AGPL 3.0 with Bacula exception, `agpl-3.0-bacula`
+- AGPL 3.0 with OpenSSL exception, `agpl-3.0-openssl`
+- Aladdin Free Public License v8, `Aladdin`
+- Adaptive Public License, `APL-1.0`
+- Arphic Public License, `Arphic-1999`
+- Asterisk exception, `Asterisk-exception`
+- Broadcom Dual GPL-Commercial, `broadcom-dual`
+- BSD Protection License, `BSD-Protection`
+- Cryptographic Autonomy License 1.0, `CAL-1.0`
+- Creative Commons ShareAlike License 1.0, `CC-SA-1.0`
+- CeCILL Free Software License Agreement v1.0, `CECILL-1.0`
+- CeCILL-C Free Software License Agreement, `CECILL-C`
+- CERN Open Hardware Licence Version 2 - Strongly Reciprocal, `CERN-OHL-S-2.0`
+- Common Cure Rights Commitment v1.0, `ccrc-1.0`
+- copyleft-next 0.3.0, `copyleft-next-0.3.0`
+- copyleft-next 0.3.1, `copyleft-next-0.3.1`
+- Common Public Attribution License 1.0, `CPAL-1.0`
+- Deutsche Freie Software Lizenz, `D-FSL-1.0`
+- Erlang Public License v1.1, `ErlPL-1.1`
+- European Union Public Licence 1.0, `EUPL-1.0`
+- GNU General Public License 1.0, `GPL-1.0-only`
+- GNU General Public License 1.0 or later, `GPL-1.0-or-later`
+- GNU General Public License 2.0, `GPL-2.0-only`
+- GNU General Public License 2.0 or later, `GPL-2.0-or-later`
+- GPL 2.0 or later with OpenSSL exception, `gpl-2.0-plus-openssl`
+- GPL 2.0 with Ice exception, `gpl-2.0-ice`
+- GPL 2.0 with LMBench exception, `gpl-2.0-lmbench`
+- GPL 2.0 with MySQL FLOSS exception, `gpl-2.0-mysql-floss`
+- GPL 2.0 with Oracle MySQL FOSS exception, `gpl-2.0-oracle-mysql-foss`
+- GNU General Public License 3.0, `GPL-3.0-only`
+- GNU General Public License 3.0 or later, `GPL-3.0-or-later`
+- GPL 3.0 with Aptana exception, `gpl-3.0-aptana`
+- GPL 3.0h with OpenBD exception, `gpl-3.0-openbd`
+- Interbase Public License 1.0, `Interbase-1.0`
+- libpri OpenH323 exception, `libpri-OpenH323-exception`
+- Licence Art Libre 1.2, `LAL-1.2`
+- Licence Art Libre 1.3, `LAL-1.3`
+- Licence Libre du Québec – Réciprocité forte version 1.1, `LiLiQ-Rplus-1.1`
+- LaTeX Project Public License v1.0, `LPPL-1.0`
+- LaTeX Project Public License v1.1, `LPPL-1.1`
+- LaTeX Project Public License v1.2, `LPPL-1.2`
+- LaTeX Project Public License v1.3a, `LPPL-1.3a`
+- LaTeX Project Public License v1.3c, `LPPL-1.3c`
+- MakeIndex Distribution Notice, `MakeIndex`
+- Motosoto Open Source License v0.9.1, `Motosoto`
+- Non-Profit Open Software License 3.0, `NPOSL-3.0`
+- ODC Open Database License v1.0, `ODbL-1.0`
+- Open Data Commons Attribution License, `odc-1.0`
+- OpenSSL exception to GPL 2.0, `x11vnc-openssl-exception`
+- OpenSSL exception to GPL 3.0 or later, `cryptsetup-OpenSSL-exception`
+- Open Software License 1.0, `OSL-1.0`
+- Open Software License 1.1, `OSL-1.1`
+- Open Software License 2.0, `OSL-2.0`
+- Open Software License 2.1, `OSL-2.1`
+- Open Software License 3.0, `OSL-3.0`
+- Peer Production License, `PPL`
+- Red Hat eCos Public License 1.1, `RHeCos-1.1`
+- Simple Public License Version 2.0, `SimPL-2.0`
+- Sleepycat License (Berkeley Database License), `Sleepycat`
+- SMAIL General Public License, `SMAIL-GPL`
+- SNIA Public License 1.1, `SNIA`
+- SugarCRM Public License v1.1.3, `SugarCRM-1.1.3`
+- Transitive Grace Period Public Licence 1.0, `TGPPL-1.0`
+- The Parity Public License 6.0.0, `Parity-6.0.0`
+- The Parity Public License 7.0.0, `Parity-7.0.0`
+- TMate Open Source License, `TMate`
+- Trusster Open Source License 1.0a, `TOSL`
+- Verbatim Copies Permission, `Linux-man-pages-copyleft`
+- VIM License, `Vim`
+- VOSTROM Public License for Open Source, `VOSTROM`
+- Yahoo! Public License v1.1, `YPL-1.1`
+
+## Other
+
+### CLA
+
+
+### Patent License
+
+- Google Patent License for Fuschia, `google-patent-license-fuschia`
+
+### Unstated License
+
+- Any OSI License, `any-OSI`
+- Any OSI License - Perl Modules, `any-OSI-perl-modules`
+- Etalab Open License 2.0 French, `etalab-2.0-fr`
+- license-file-reference, `license-file-reference`
+- PCRE2 exception, `PCRE2-exception`
+- See License mention, `see-license`
+- Generic Trademark Notice, `trademark-notice`
+
