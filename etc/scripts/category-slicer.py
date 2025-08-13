@@ -57,7 +57,25 @@ def main():
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
     
+    # Write the markdown file
+    markdown_file = 'licenses_by_category.md'
+    with open(markdown_file, 'w', encoding='utf-8') as f:
+        f.write("# Licenses by Category\n\n")
+        
+        for category, licenses in sorted(result.items()):
+            f.write(f"## {category}\n\n")
+            
+            for license_entry in licenses:
+                name = license_entry['name']
+                short_name = license_entry['short_name']
+                spdx_key = license_entry['spdx_license_key']
+                
+                f.write(f"- {name}, {short_name}, {spdx_key}\n")
+            
+            f.write("\n")
+    
     print(f"Created unified JSON file: {output_file}")
+    print(f"Created markdown file: {markdown_file}")
     print(f"Found {len(result)} categories:")
     for category, licenses in sorted(result.items()):
         print(f"  {category}: {len(licenses)} licenses")
