@@ -69,7 +69,7 @@ def main():
                 name = license_entry['name']
                 spdx_key = license_entry['spdx_license_key']
                 
-                f.write(f"- {name}, {spdx_key}\n")
+                f.write(f"- {name}, `{spdx_key}`\n")
             
             f.write("\n")
     

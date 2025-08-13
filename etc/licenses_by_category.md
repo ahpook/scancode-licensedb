@@ -2,2616 +2,2616 @@
 
 ## CLA
 
-- Canonical Entity Contributor License Agreement v1.2, LicenseRef-scancode-canonical-ha-cla-any-e-v1.2
-- Canonical Individual Contributor License Agreement v1.2, LicenseRef-scancode-canonical-ha-cla-any-i-v1.2
-- Software Grant and Corporate Contributor License Agreement ("Agreement") v1.0, LicenseRef-scancode-cncf-corporate-cla-1.0
-- CNCF Individual Contributor License Agreement ("Agreement") v1.0, LicenseRef-scancode-cncf-individual-cla-1.0
-- Developer Certificate of Origin 1.0, LicenseRef-scancode-dco-1.0
-- Developer Certificate of Origin 1.1, LicenseRef-scancode-dco-1.1
-- Djangosnippets Terms of Service, LicenseRef-scancode-djangosnippets-tos
-- Prior Generic Contributor License Agreement, LicenseRef-scancode-generic-cla
-- Google Individual Contributor License Agreement, LicenseRef-scancode-google-cla
-- Google Software Grant and Corporate Contributor License Agreement, LicenseRef-scancode-google-corporate-cla
-- IPFire Project Contributor Agreement, LicenseRef-scancode-ipca
-- Jetty Project Corporate Contributor License Agreement V1.1, LicenseRef-scancode-jetty-ccla-1.1
-- Microsoft Contribution License Agreement (CLA), LicenseRef-scancode-ms-cla
-- James Newton-King CLA, LicenseRef-scancode-newton-king-cla
-- Open Logistics Foundation Corporate Contributor CLA 1.0, LicenseRef-scancode-olf-ccla-1.0
-- Open Logistics Foundation Individual Contributor ICLA 1.0, LicenseRef-scancode-olf-icla-1.0
-- OWF Contributor License Agreement 1.0 - Copyright, LicenseRef-scancode-owf-cla-1.0-copyright
-- OWF Contributor License Agreement 1.0 - Copyright and Patent, LicenseRef-scancode-owf-cla-1.0-copyright-patent
-- Samba Developer's Declaration, Version 1.0, LicenseRef-scancode-samba-dc-1.0
-- Samba Developer's Declaration, Version 1.0, LicenseRef-scancode-samba-dco-1.0
-- Software Heritage Contributor License Agreement 1.1, LicenseRef-scancode-sh-cla-1.1
-- Square Inc. Individual Contributor License Agreement, LicenseRef-scancode-square-cla
-- W3C Community Contributor License Agreement (CLA), LicenseRef-scancode-w3c-community-cla
+- Canonical Entity Contributor License Agreement v1.2, `LicenseRef-scancode-canonical-ha-cla-any-e-v1.2`
+- Canonical Individual Contributor License Agreement v1.2, `LicenseRef-scancode-canonical-ha-cla-any-i-v1.2`
+- Software Grant and Corporate Contributor License Agreement ("Agreement") v1.0, `LicenseRef-scancode-cncf-corporate-cla-1.0`
+- CNCF Individual Contributor License Agreement ("Agreement") v1.0, `LicenseRef-scancode-cncf-individual-cla-1.0`
+- Developer Certificate of Origin 1.0, `LicenseRef-scancode-dco-1.0`
+- Developer Certificate of Origin 1.1, `LicenseRef-scancode-dco-1.1`
+- Djangosnippets Terms of Service, `LicenseRef-scancode-djangosnippets-tos`
+- Prior Generic Contributor License Agreement, `LicenseRef-scancode-generic-cla`
+- Google Individual Contributor License Agreement, `LicenseRef-scancode-google-cla`
+- Google Software Grant and Corporate Contributor License Agreement, `LicenseRef-scancode-google-corporate-cla`
+- IPFire Project Contributor Agreement, `LicenseRef-scancode-ipca`
+- Jetty Project Corporate Contributor License Agreement V1.1, `LicenseRef-scancode-jetty-ccla-1.1`
+- Microsoft Contribution License Agreement (CLA), `LicenseRef-scancode-ms-cla`
+- James Newton-King CLA, `LicenseRef-scancode-newton-king-cla`
+- Open Logistics Foundation Corporate Contributor CLA 1.0, `LicenseRef-scancode-olf-ccla-1.0`
+- Open Logistics Foundation Individual Contributor ICLA 1.0, `LicenseRef-scancode-olf-icla-1.0`
+- OWF Contributor License Agreement 1.0 - Copyright, `LicenseRef-scancode-owf-cla-1.0-copyright`
+- OWF Contributor License Agreement 1.0 - Copyright and Patent, `LicenseRef-scancode-owf-cla-1.0-copyright-patent`
+- Samba Developer's Declaration, Version 1.0, `LicenseRef-scancode-samba-dc-1.0`
+- Samba Developer's Declaration, Version 1.0, `LicenseRef-scancode-samba-dco-1.0`
+- Software Heritage Contributor License Agreement 1.1, `LicenseRef-scancode-sh-cla-1.1`
+- Square Inc. Individual Contributor License Agreement, `LicenseRef-scancode-square-cla`
+- W3C Community Contributor License Agreement (CLA), `LicenseRef-scancode-w3c-community-cla`
 
 ## Commercial
 
-- Acki Nacki Node License 2024-10-04, LicenseRef-scancode-acki-nacki-node-2024-10-04
-- Activepieces Enterprise License 2023, LicenseRef-scancode-activepieces-enterprise-2023
-- Adobe End User License Agreement, LicenseRef-scancode-adobe-eula
-- Adobe General Terms of Use, LicenseRef-scancode-adobe-general-tou
-- AG Grid Enterprise License, LicenseRef-scancode-ag-grid-enterprise
-- AgentX++ License Agreement, LicenseRef-scancode-agentxpp
-- Altova EULA, LicenseRef-scancode-altova-eula
-- Anaconda Terms of Service 2024-03-30, LicenseRef-scancode-anaconda-tos-2024-03-30
-- Ascender Web Fonts License, LicenseRef-scancode-ascender-web-fonts
-- Baserow Enterprise Edition License (the "EE License") 2019, LicenseRef-scancode-baserow-ee-2019
-- Baserow Premium Edition License (the "PE License") 2019, LicenseRef-scancode-baserow-pe-2019
-- BerriAI Enterprise license 2024, LicenseRef-scancode-berryai-2024
-- Broadcom Commercial Notice, LicenseRef-scancode-broadcom-commercial
-- Broadcom Confidential, LicenseRef-scancode-broadcom-confidential
-- Broadcom Standard Terms, LicenseRef-scancode-broadcom-standard-terms
-- Broadcom Unpublished Source License, broadcom-unpublished-source
-- com.oreilly.servlet License, LicenseRef-scancode-com-oreilly-servlet
-- Commercial License, LicenseRef-scancode-commercial-license
-- Commercial Option, commercial-option
-- Commercial Vaadin Developer License 4.0, LicenseRef-scancode-vaadin-cvdl-4.0
-- Crashlytics Agreement 2018, LicenseRef-scancode-crashlytics-agreement-2018
-- Cubiware Sp. z o.o. Software License Version 1.0, LicenseRef-scancode-cubiware-software-1.0
-- Digia Qt Commercial License Usage, LicenseRef-scancode-digia-qt-commercial
-- Digia Qt Technology Preview License Agreement 2.4, LicenseRef-scancode-digia-qt-preview
-- Dynarch Developer Agreement, LicenseRef-scancode-dynarch-developer
-- eGrappler License, LicenseRef-scancode-egrappler
-- ej-technologies EULA, LicenseRef-scancode-ej-technologies-eula
-- EmbedThis Terms of Use 2022, LicenseRef-scancode-embedthis-tou-2022
-- Esri License, LicenseRef-scancode-esri
-- Excelsior JET Runtime License, LicenseRef-scancode-excelsior-jet-runtime
-- Fabric Software and Services Agreement 2017, LicenseRef-scancode-fabric-agreement-2017
-- Genivia gSOAP Commercial Licensing, LicenseRef-scancode-genivia-gsoap
-- GitLab Enterprise Edition (EE) license, LicenseRef-scancode-gitlab-ee
-- Gitleaks-Action EULA, LicenseRef-scancode-gitleaks-action-eula
-- Gradle Enterprise Software License Agreement 2022-11-08, LicenseRef-scancode-gradle-enterprise-sla-2022-11-
-- Helios EULA, LicenseRef-scancode-helios-eula
-- HERE Proprietary License, LicenseRef-scancode-here-proprietary
-- hp-proliant-essentials EULA, LicenseRef-scancode-hp-proliant-essentials
-- HuggingFace Terms of Service 2022-09-15, LicenseRef-scancode-huggingface-tos-20220915
-- IBM Data Server License 2011, LicenseRef-scancode-ibm-data-server-2011
-- IBM Java Runtime Environment License, LicenseRef-scancode-ibm-jre
-- InfoNode Software License Version 1.1, LicenseRef-scancode-infonode-1.1
-- Intel Confidential, LicenseRef-scancode-intel-confidential
-- Intel Material License, LicenseRef-scancode-intel-material
-- IrfanView EULA, LicenseRef-scancode-irfanview-eula
-- Isotope Commercial License Agreement, LicenseRef-scancode-isotope-cla
-- ITC End User License Agreement, LicenseRef-scancode-itc-eula
-- JetBrains Purchase Terms, LicenseRef-scancode-jetbrains-purchase-terms
-- JIDE SLA, LicenseRef-scancode-jide-sla
-- JAHIA Sustainable Enterprise License (JSEL) 2.0, LicenseRef-scancode-jsel-2.0
-- The Keep Enterprise Edition (EE) license (the Enterprise License), LicenseRef-scancode-keep-ee-2024
-- LavanTech License, LicenseRef-scancode-lavantech
-- Liferay Portal Enterprise Edition License, LicenseRef-scancode-liferay-ee
-- Linotype EULA, LicenseRef-scancode-linotype-eula
-- Mapbox Terms of Service 2021, LicenseRef-scancode-mapbox-tos-2021
-- Mapbox Terms of Service 2024, LicenseRef-scancode-mapbox-tos-2024
-- Microsoft .NET Framework Redistributable EULA, LicenseRef-scancode-ms-net-framework-deployment
-- Microsoft Enterprise Windows Driver Kit License 2021, LicenseRef-scancode-ms-windows-sdk-win10
-- Microsoft EULA for Windows Script Host, LicenseRef-scancode-ms-eula-win-script-host
-- Microsoft NT Resource Kit License, LicenseRef-scancode-ms-nt-resource-kit
-- Microsoft Office System Programs Software EULA, LicenseRef-scancode-ms-office-system-programs-eula
-- Microsoft Platform SDK License, LicenseRef-scancode-ms-platform-sdk
-- Microsoft Pylance Extension for Visual Studio Code License, LicenseRef-scancode-ms-python-vscode-pylance-2021
-- Microsoft Remote NDIS USB Kit EULA, LicenseRef-scancode-ms-remote-ndis-usb-kit
-- Microsoft Sysinternals Software License Terms, LicenseRef-scancode-ms-sysinternals-sla
-- Microsoft TrueType Fonts EULA, LicenseRef-scancode-ms-ttf-eula
-- Microsoft Visual Studio 2017, LicenseRef-scancode-ms-visual-studio-2017
-- Microsoft Visual Studio 2017 Tools, LicenseRef-scancode-ms-visual-studio-2017-tools
-- Microsoft Windows Operating System License 2019, LicenseRef-scancode-ms-windows-os-2018
-- Microsoft Windows SDK for Windows Server 2008 and .NET Framework 3.5, LicenseRef-scancode-ms-win-sdk-server-2008-net-3.5
-- MUI X End User License Agreement 2024, LicenseRef-scancode-mui-x-eula-2024
-- n8n Enterprise License 2022, LicenseRef-scancode-n8n-ee-2022
-- Nero EULA, LicenseRef-scancode-nero-eula
-- New Relic Software License v1.0, LicenseRef-scancode-new-relic-1.0
-- nexB EULA for SaaS 1.1.0, LicenseRef-scancode-nexb-eula-saas-1.1.0
-- nexB Software Subscription License Agreement 1.1.0, LicenseRef-scancode-nexb-ssla-1.1.0
-- Northwoods Software SLA 2021, LicenseRef-scancode-northwoods-sla-2021
-- Northwoods Software SLA 2024, LicenseRef-scancode-northwoods-sla-2024
-- Numerical Recipes Notice, LicenseRef-scancode-numerical-recipes-notice
-- ODB Commercial Proprietary License (CPL), LicenseRef-scancode-odb-cpl
-- OFRAK Pro License Agreement 1.0, LicenseRef-scancode-ofrak-pro-1.0
-- Oknosoft License 2021, LicenseRef-scancode-oknosoft-2021
-- OpenAI Terms of Use 20230314, LicenseRef-scancode-openai-tou-20230314
-- OpenAI Terms of Use 20241211, LicenseRef-scancode-openai-tou-20241211
-- Oracle Commercial Database License 11g Release 2 (11.2), LicenseRef-scancode-oracle-commercial-db-11g2
-- Oracle Master Agreement (OMA), LicenseRef-scancode-oracle-master-agreement
-- Oxygen XML Developer End User License Agreement 2025, LicenseRef-scancode-oxygen-xml-dev-eula-2025
-- Oxygen XML WebHelp End-User License Agreement, LicenseRef-scancode-oxygen-xml-webhelp-eula
-- PDF Creator Pilot License Agreement, LicenseRef-scancode-pdf-creator-pilot
-- Phaser Commercial EULA (CCP4), LicenseRef-scancode-phaser-ccp4
-- Phaser Commercial EULA (Phenix), LicenseRef-scancode-phaser-phenix
-- Philips Proprietary Notice 2000, LicenseRef-scancode-philips-proprietary-notice2000
-- Pivotal Software Terms of Use, LicenseRef-scancode-pivotal-tou
-- Proprietary License, LicenseRef-scancode-proprietary-license
-- Qt for Application Development License Agreement v1.1, LicenseRef-scancode-qt-commercial-1.1
-- Qt License Agreement v4.4.1, LicenseRef-scancode-qt-commercial-agreement-4.4.1
-- RAR and WinRAR EULA, LicenseRef-scancode-rar-winrar-eula
-- Rocket Software Master Terms and Conditions 2022, LicenseRef-scancode-rocket-master-terms-2022
-- Rogue Wave Software License, LicenseRef-scancode-rogue-wave
-- RSA Proprietary Shrinkwrap License, LicenseRef-scancode-rsa-proprietary
-- RubyEncoder Commercial Licence, LicenseRef-scancode-rubyencoder-commercial
-- Stalwart Enterprise License 1.0 (SELv1) Agreement, LicenseRef-scancode-selv1
-- Sencha Commercial License v1.1, LicenseRef-scancode-sencha-commercial
-- Sencha Software License Agreement v3.9, LicenseRef-scancode-sencha-commercial-3.9
-- Sencha Software License Agreement v3.17, LicenseRef-scancode-sencha-commercial-3.17
-- Shavlik Technologies EULA, LicenseRef-scancode-shavlik-eula
-- Slint Software License Agreement Version 2.0, LicenseRef-scancode-slint-commercial-2.0
-- SlySoft EULA, LicenseRef-scancode-slysoft-eula
-- SNMP4J-SMI License, LicenseRef-scancode-snmp4j-smi
-- SNORT Subscriber Rules License Agreement v3.1, LicenseRef-scancode-snort-subscriber-rules-3.1
-- Sourcegraph Enterprise License 2018, LicenseRef-scancode-sourcegraph-enterprise-2018
-- Splunk Software License Agreement, LicenseRef-scancode-splunk-sla
-- Sun proprietary notice for Java sources, sun-proprietary-jdk
-- Tanuki Development Software License Agreement 1.3, LicenseRef-scancode-tanuki-development
-- Tanuki Maintenance Support Services Addendum 1.3, LicenseRef-scancode-tanuki-maintenance
-- TeamDev Services License, LicenseRef-scancode-teamdev-services
-- Telerik EULA, LicenseRef-scancode-telerik-eula
-- Texas Instruments Restricted Use License, LicenseRef-scancode-ti-restricted
-- Treeware Option 2, LicenseRef-scancode-treeware-option-2
-- Unpublished Source License, LicenseRef-scancode-unpublished-source
-- Vicomsoft Software License, LicenseRef-scancode-vicomsoft-software
-- VNCViewer for iOS EULA, LicenseRef-scancode-vnc-viewer-ios
-- Wi-Fi Alliance License, LicenseRef-scancode-wifi-alliance
-- Wind River License, LicenseRef-scancode-windriver-commercial
-- WinZip EULA, LicenseRef-scancode-winzip-eula
-- WinZip Self-Extractor License, LicenseRef-scancode-winzip-self-extractor
-- Xming License, LicenseRef-scancode-xming
-- XMOS Commercial 2017, LicenseRef-scancode-xmos-commercial-2017
-- Zapatec DHTML Javascript Calendar License Agreement, LicenseRef-scancode-zapatec-calendar
-- Zendesk Application Developer and API Agreement 2022, LicenseRef-scancode-zendesk-appdev-api-2022
-- ZIPList5 Geocode Duplication License Addendum, LicenseRef-scancode-ziplist5-geocode-dup-addendum
-- ZIPList5 Geocode End-User Enterprise License Agreement, LicenseRef-scancode-ziplist5-geocode-enterprise
-- ZIPList5 Geocode End-User Workstation (Single-User) License Agreement, LicenseRef-scancode-ziplist5-geocode-workstation
+- Acki Nacki Node License 2024-10-04, `LicenseRef-scancode-acki-nacki-node-2024-10-04`
+- Activepieces Enterprise License 2023, `LicenseRef-scancode-activepieces-enterprise-2023`
+- Adobe End User License Agreement, `LicenseRef-scancode-adobe-eula`
+- Adobe General Terms of Use, `LicenseRef-scancode-adobe-general-tou`
+- AG Grid Enterprise License, `LicenseRef-scancode-ag-grid-enterprise`
+- AgentX++ License Agreement, `LicenseRef-scancode-agentxpp`
+- Altova EULA, `LicenseRef-scancode-altova-eula`
+- Anaconda Terms of Service 2024-03-30, `LicenseRef-scancode-anaconda-tos-2024-03-30`
+- Ascender Web Fonts License, `LicenseRef-scancode-ascender-web-fonts`
+- Baserow Enterprise Edition License (the "EE License") 2019, `LicenseRef-scancode-baserow-ee-2019`
+- Baserow Premium Edition License (the "PE License") 2019, `LicenseRef-scancode-baserow-pe-2019`
+- BerriAI Enterprise license 2024, `LicenseRef-scancode-berryai-2024`
+- Broadcom Commercial Notice, `LicenseRef-scancode-broadcom-commercial`
+- Broadcom Confidential, `LicenseRef-scancode-broadcom-confidential`
+- Broadcom Standard Terms, `LicenseRef-scancode-broadcom-standard-terms`
+- Broadcom Unpublished Source License, `broadcom-unpublished-source`
+- com.oreilly.servlet License, `LicenseRef-scancode-com-oreilly-servlet`
+- Commercial License, `LicenseRef-scancode-commercial-license`
+- Commercial Option, `commercial-option`
+- Commercial Vaadin Developer License 4.0, `LicenseRef-scancode-vaadin-cvdl-4.0`
+- Crashlytics Agreement 2018, `LicenseRef-scancode-crashlytics-agreement-2018`
+- Cubiware Sp. z o.o. Software License Version 1.0, `LicenseRef-scancode-cubiware-software-1.0`
+- Digia Qt Commercial License Usage, `LicenseRef-scancode-digia-qt-commercial`
+- Digia Qt Technology Preview License Agreement 2.4, `LicenseRef-scancode-digia-qt-preview`
+- Dynarch Developer Agreement, `LicenseRef-scancode-dynarch-developer`
+- eGrappler License, `LicenseRef-scancode-egrappler`
+- ej-technologies EULA, `LicenseRef-scancode-ej-technologies-eula`
+- EmbedThis Terms of Use 2022, `LicenseRef-scancode-embedthis-tou-2022`
+- Esri License, `LicenseRef-scancode-esri`
+- Excelsior JET Runtime License, `LicenseRef-scancode-excelsior-jet-runtime`
+- Fabric Software and Services Agreement 2017, `LicenseRef-scancode-fabric-agreement-2017`
+- Genivia gSOAP Commercial Licensing, `LicenseRef-scancode-genivia-gsoap`
+- GitLab Enterprise Edition (EE) license, `LicenseRef-scancode-gitlab-ee`
+- Gitleaks-Action EULA, `LicenseRef-scancode-gitleaks-action-eula`
+- Gradle Enterprise Software License Agreement 2022-11-08, `LicenseRef-scancode-gradle-enterprise-sla-2022-11-`
+- Helios EULA, `LicenseRef-scancode-helios-eula`
+- HERE Proprietary License, `LicenseRef-scancode-here-proprietary`
+- hp-proliant-essentials EULA, `LicenseRef-scancode-hp-proliant-essentials`
+- HuggingFace Terms of Service 2022-09-15, `LicenseRef-scancode-huggingface-tos-20220915`
+- IBM Data Server License 2011, `LicenseRef-scancode-ibm-data-server-2011`
+- IBM Java Runtime Environment License, `LicenseRef-scancode-ibm-jre`
+- InfoNode Software License Version 1.1, `LicenseRef-scancode-infonode-1.1`
+- Intel Confidential, `LicenseRef-scancode-intel-confidential`
+- Intel Material License, `LicenseRef-scancode-intel-material`
+- IrfanView EULA, `LicenseRef-scancode-irfanview-eula`
+- Isotope Commercial License Agreement, `LicenseRef-scancode-isotope-cla`
+- ITC End User License Agreement, `LicenseRef-scancode-itc-eula`
+- JetBrains Purchase Terms, `LicenseRef-scancode-jetbrains-purchase-terms`
+- JIDE SLA, `LicenseRef-scancode-jide-sla`
+- JAHIA Sustainable Enterprise License (JSEL) 2.0, `LicenseRef-scancode-jsel-2.0`
+- The Keep Enterprise Edition (EE) license (the Enterprise License), `LicenseRef-scancode-keep-ee-2024`
+- LavanTech License, `LicenseRef-scancode-lavantech`
+- Liferay Portal Enterprise Edition License, `LicenseRef-scancode-liferay-ee`
+- Linotype EULA, `LicenseRef-scancode-linotype-eula`
+- Mapbox Terms of Service 2021, `LicenseRef-scancode-mapbox-tos-2021`
+- Mapbox Terms of Service 2024, `LicenseRef-scancode-mapbox-tos-2024`
+- Microsoft .NET Framework Redistributable EULA, `LicenseRef-scancode-ms-net-framework-deployment`
+- Microsoft Enterprise Windows Driver Kit License 2021, `LicenseRef-scancode-ms-windows-sdk-win10`
+- Microsoft EULA for Windows Script Host, `LicenseRef-scancode-ms-eula-win-script-host`
+- Microsoft NT Resource Kit License, `LicenseRef-scancode-ms-nt-resource-kit`
+- Microsoft Office System Programs Software EULA, `LicenseRef-scancode-ms-office-system-programs-eula`
+- Microsoft Platform SDK License, `LicenseRef-scancode-ms-platform-sdk`
+- Microsoft Pylance Extension for Visual Studio Code License, `LicenseRef-scancode-ms-python-vscode-pylance-2021`
+- Microsoft Remote NDIS USB Kit EULA, `LicenseRef-scancode-ms-remote-ndis-usb-kit`
+- Microsoft Sysinternals Software License Terms, `LicenseRef-scancode-ms-sysinternals-sla`
+- Microsoft TrueType Fonts EULA, `LicenseRef-scancode-ms-ttf-eula`
+- Microsoft Visual Studio 2017, `LicenseRef-scancode-ms-visual-studio-2017`
+- Microsoft Visual Studio 2017 Tools, `LicenseRef-scancode-ms-visual-studio-2017-tools`
+- Microsoft Windows Operating System License 2019, `LicenseRef-scancode-ms-windows-os-2018`
+- Microsoft Windows SDK for Windows Server 2008 and .NET Framework 3.5, `LicenseRef-scancode-ms-win-sdk-server-2008-net-3.5`
+- MUI X End User License Agreement 2024, `LicenseRef-scancode-mui-x-eula-2024`
+- n8n Enterprise License 2022, `LicenseRef-scancode-n8n-ee-2022`
+- Nero EULA, `LicenseRef-scancode-nero-eula`
+- New Relic Software License v1.0, `LicenseRef-scancode-new-relic-1.0`
+- nexB EULA for SaaS 1.1.0, `LicenseRef-scancode-nexb-eula-saas-1.1.0`
+- nexB Software Subscription License Agreement 1.1.0, `LicenseRef-scancode-nexb-ssla-1.1.0`
+- Northwoods Software SLA 2021, `LicenseRef-scancode-northwoods-sla-2021`
+- Northwoods Software SLA 2024, `LicenseRef-scancode-northwoods-sla-2024`
+- Numerical Recipes Notice, `LicenseRef-scancode-numerical-recipes-notice`
+- ODB Commercial Proprietary License (CPL), `LicenseRef-scancode-odb-cpl`
+- OFRAK Pro License Agreement 1.0, `LicenseRef-scancode-ofrak-pro-1.0`
+- Oknosoft License 2021, `LicenseRef-scancode-oknosoft-2021`
+- OpenAI Terms of Use 20230314, `LicenseRef-scancode-openai-tou-20230314`
+- OpenAI Terms of Use 20241211, `LicenseRef-scancode-openai-tou-20241211`
+- Oracle Commercial Database License 11g Release 2 (11.2), `LicenseRef-scancode-oracle-commercial-db-11g2`
+- Oracle Master Agreement (OMA), `LicenseRef-scancode-oracle-master-agreement`
+- Oxygen XML Developer End User License Agreement 2025, `LicenseRef-scancode-oxygen-xml-dev-eula-2025`
+- Oxygen XML WebHelp End-User License Agreement, `LicenseRef-scancode-oxygen-xml-webhelp-eula`
+- PDF Creator Pilot License Agreement, `LicenseRef-scancode-pdf-creator-pilot`
+- Phaser Commercial EULA (CCP4), `LicenseRef-scancode-phaser-ccp4`
+- Phaser Commercial EULA (Phenix), `LicenseRef-scancode-phaser-phenix`
+- Philips Proprietary Notice 2000, `LicenseRef-scancode-philips-proprietary-notice2000`
+- Pivotal Software Terms of Use, `LicenseRef-scancode-pivotal-tou`
+- Proprietary License, `LicenseRef-scancode-proprietary-license`
+- Qt for Application Development License Agreement v1.1, `LicenseRef-scancode-qt-commercial-1.1`
+- Qt License Agreement v4.4.1, `LicenseRef-scancode-qt-commercial-agreement-4.4.1`
+- RAR and WinRAR EULA, `LicenseRef-scancode-rar-winrar-eula`
+- Rocket Software Master Terms and Conditions 2022, `LicenseRef-scancode-rocket-master-terms-2022`
+- Rogue Wave Software License, `LicenseRef-scancode-rogue-wave`
+- RSA Proprietary Shrinkwrap License, `LicenseRef-scancode-rsa-proprietary`
+- RubyEncoder Commercial Licence, `LicenseRef-scancode-rubyencoder-commercial`
+- Stalwart Enterprise License 1.0 (SELv1) Agreement, `LicenseRef-scancode-selv1`
+- Sencha Commercial License v1.1, `LicenseRef-scancode-sencha-commercial`
+- Sencha Software License Agreement v3.9, `LicenseRef-scancode-sencha-commercial-3.9`
+- Sencha Software License Agreement v3.17, `LicenseRef-scancode-sencha-commercial-3.17`
+- Shavlik Technologies EULA, `LicenseRef-scancode-shavlik-eula`
+- Slint Software License Agreement Version 2.0, `LicenseRef-scancode-slint-commercial-2.0`
+- SlySoft EULA, `LicenseRef-scancode-slysoft-eula`
+- SNMP4J-SMI License, `LicenseRef-scancode-snmp4j-smi`
+- SNORT Subscriber Rules License Agreement v3.1, `LicenseRef-scancode-snort-subscriber-rules-3.1`
+- Sourcegraph Enterprise License 2018, `LicenseRef-scancode-sourcegraph-enterprise-2018`
+- Splunk Software License Agreement, `LicenseRef-scancode-splunk-sla`
+- Sun proprietary notice for Java sources, `sun-proprietary-jdk`
+- Tanuki Development Software License Agreement 1.3, `LicenseRef-scancode-tanuki-development`
+- Tanuki Maintenance Support Services Addendum 1.3, `LicenseRef-scancode-tanuki-maintenance`
+- TeamDev Services License, `LicenseRef-scancode-teamdev-services`
+- Telerik EULA, `LicenseRef-scancode-telerik-eula`
+- Texas Instruments Restricted Use License, `LicenseRef-scancode-ti-restricted`
+- Treeware Option 2, `LicenseRef-scancode-treeware-option-2`
+- Unpublished Source License, `LicenseRef-scancode-unpublished-source`
+- Vicomsoft Software License, `LicenseRef-scancode-vicomsoft-software`
+- VNCViewer for iOS EULA, `LicenseRef-scancode-vnc-viewer-ios`
+- Wi-Fi Alliance License, `LicenseRef-scancode-wifi-alliance`
+- Wind River License, `LicenseRef-scancode-windriver-commercial`
+- WinZip EULA, `LicenseRef-scancode-winzip-eula`
+- WinZip Self-Extractor License, `LicenseRef-scancode-winzip-self-extractor`
+- Xming License, `LicenseRef-scancode-xming`
+- XMOS Commercial 2017, `LicenseRef-scancode-xmos-commercial-2017`
+- Zapatec DHTML Javascript Calendar License Agreement, `LicenseRef-scancode-zapatec-calendar`
+- Zendesk Application Developer and API Agreement 2022, `LicenseRef-scancode-zendesk-appdev-api-2022`
+- ZIPList5 Geocode Duplication License Addendum, `LicenseRef-scancode-ziplist5-geocode-dup-addendum`
+- ZIPList5 Geocode End-User Enterprise License Agreement, `LicenseRef-scancode-ziplist5-geocode-enterprise`
+- ZIPList5 Geocode End-User Workstation (Single-User) License Agreement, `LicenseRef-scancode-ziplist5-geocode-workstation`
 
 ## Copyleft
 
-- 3DFX GLIDE Source Code General Public License, Glide
-- AC3Filter License, LicenseRef-scancode-ac3filter
-- Affero General Public License 1.0, AGPL-1.0-only
-- Affero General Public License 1.0 or later, AGPL-1.0-or-later
-- Affero General Public License 2.0, LicenseRef-scancode-agpl-2.0
-- GNU Affero General Public License 3.0, AGPL-3.0-only
-- GNU Affero General Public License 3.0 or later, AGPL-3.0-or-later
-- AGPL 3.0 with Bacula exception, agpl-3.0-bacula
-- AGPL 3.0 with OpenSSL exception, agpl-3.0-openssl
-- AGPL Generic Additional Terms, LicenseRef-scancode-agpl-generic-additional-terms
-- Aladdin Free Public License v8, Aladdin
-- Aladdin Free Public License v9, LicenseRef-scancode-afpl-9.0
-- Alfresco FLOSS Exception v0.5, LicenseRef-scancode-alfresco-exception-0.5
-- Anepokis License 1.0, LicenseRef-scancode-anepokis-1.0
-- Adaptive Public License, APL-1.0
-- Apromore Exception to GPL 2.0 or later, LicenseRef-scancode-apromore-exception-2.0
-- Arphic Public License, Arphic-1999
-- Artop Software License Based on AUTOSAR Released Material, LicenseRef-scancode-aslr
-- Asterisk exception, Asterisk-exception
-- Bash exception to GPL, LicenseRef-scancode-bash-exception-gpl-2.0
-- Blender License 2010, LicenseRef-scancode-blender-2010
-- Broadcom Dual GPL-Commercial, broadcom-dual
-- BSD Protection License, BSD-Protection
-- Cryptographic Autonomy License 1.0, CAL-1.0
-- Creative Commons Licença Pública Geral do GNU (GPL) [General Public License], LicenseRef-scancode-cc-gpl-2.0-pt
-- Creative Commons ShareAlike License 1.0, CC-SA-1.0
-- CeCILL Free Software License Agreement v1.0, CECILL-1.0
-- CeCILL Free Software License Agreement v1.0 English, LicenseRef-scancode-cecill-1.0-en
-- CeCILL-C Free Software License Agreement, CECILL-C
-- CERN Open Hardware Licence Version 2 - Strongly Reciprocal, CERN-OHL-S-2.0
-- CiviCRM Exception to AGPL-3.0, LicenseRef-scancode-civicrm-exception-to-agpl-3.0
-- Clojure Exception to GPL-3.0, LicenseRef-scancode-clojure-exception-to-gpl-3.0
-- Common Cure Rights Commitment v1.0, ccrc-1.0
-- copyleft-next 0.3.0, copyleft-next-0.3.0
-- copyleft-next 0.3.1, copyleft-next-0.3.1
-- Common Public Attribution License 1.0, CPAL-1.0
-- Cryptographic keys redistribution, LicenseRef-scancode-crypto-keys-redistribution
-- CUPS License, LicenseRef-scancode-cups
-- Cygnus eCos Public License 1.0, LicenseRef-scancode-ecosrh-1.0
-- ODC Database Contents License v1.0, LicenseRef-scancode-dbcl-1.0
-- Defensive Patent License v1.1, LicenseRef-scancode-defensive-patent-1.1
-- Deutsche Freie Software Lizenz, D-FSL-1.0
-- Devblocks Public License 1.0, LicenseRef-scancode-devblocks-1.0
-- Dual Commercial-GPL, LicenseRef-scancode-dual-commercial-gpl
-- EPO Open Source Licence No. 2005/1, LicenseRef-scancode-epo-osl-2005.1
-- Erlang Public License v1.1, ErlPL-1.1
-- European Union Public Licence 1.0, EUPL-1.0
-- Fair AI Public License 1.0, LicenseRef-scancode-fair-ai-public-1.0
-- Flowplayer GPL 3.0, LicenseRef-scancode-flowplayer-gpl-3.0
-- FSF Regex GPL, LicenseRef-scancode-fsf-regex-gpl
-- German Free Software License, LicenseRef-scancode-d-fsl-1.0-en
-- Ghostscript General Public License 1988, LicenseRef-scancode-ghostscript-1988
-- GNU emacs General Public License 1985, LicenseRef-scancode-gnu-emacs-gpl-1985
-- GNU emacs General Public License 1988, LicenseRef-scancode-gnu-emacs-gpl-1988
-- GNU General Public License 1.0, GPL-1.0-only
-- GNU General Public License 1.0 or later, GPL-1.0-or-later
-- GNU General Public License 2.0, GPL-2.0-only
-- GNU General Public License 2.0 or later, GPL-2.0-or-later
-- GPL 2.0 or later with OpenSSL exception, gpl-2.0-plus-openssl
-- GPL 2.0 plus Adaptec conditions, LicenseRef-scancode-gpl-2.0-adaptec
-- GNU General Public License 2.0 with DjVu Patent Grant, LicenseRef-scancode-gpl-2.0-djvu
-- GPL 2.0 with Dmitry Koterov additions, LicenseRef-scancode-gpl-2.0-koterov
-- GPL 2.0 with Ice exception, gpl-2.0-ice
-- GPL 2.0 with LMBench exception, gpl-2.0-lmbench
-- GPL 2.0 with MySQL FLOSS exception, gpl-2.0-mysql-floss
-- GPL 2.0 with Oracle MySQL FOSS exception, gpl-2.0-oracle-mysql-foss
-- GNU General Public License 3.0, GPL-3.0-only
-- GNU General Public License 3.0 or later, GPL-3.0-or-later
-- GPL 3.0 with Aptana exception, gpl-3.0-aptana
-- GPL 3.0h with OpenBD exception, gpl-3.0-openbd
-- GPL Generic Additional Terms, LicenseRef-scancode-gpl-generic-additional-terms
-- GNU Elib General Public License, LicenseRef-scancode-elib-gpl
-- GUST Font License 1.0, LicenseRef-scancode-gust-font-1.0
-- GUST Font License 2006-09-30, LicenseRef-scancode-gust-font-2006-09-30
-- Hacking License, LicenseRef-scancode-hacking-license
-- Health Administration Corporation Open Source License 1.2, LicenseRef-scancode-hacos-1.2
-- Houdini Project License, LicenseRef-scancode-houdini
-- IBM Derivative Works License, LicenseRef-scancode-x11-ibm
-- Initial Developer Public License, LicenseRef-scancode-initial-developer-public
-- Interbase Public License 1.0, Interbase-1.0
-- ITU-T Software Tools General Public License, LicenseRef-scancode-itu-t-gpl
-- Jahia Collaborative Source License v1.3.1, LicenseRef-scancode-jahia-1.3.1
-- Jeulurida Public License 1.1, LicenseRef-scancode-jelurida-public-1.1
-- KDE Accepted GPL, LicenseRef-scancode-kde-accepted-gpl
-- KDE Accepted LGPL, LicenseRef-scancode-kde-accepted-lgpl
-- KFQF Accepted GPL, LicenseRef-scancode-kfqf-accepted-gpl
-- Linux Documentation Project Copying License 1994-03-30, LicenseRef-scancode-ldpc-1994
-- Linux Documentation Project Copying License 1997-01-06, LicenseRef-scancode-ldpc-1997
-- Linux Documentation Project Copying License 1999-09-30, LicenseRef-scancode-ldpc-1999
-- Linux Documentation Project General Public License v1, September 1998, LicenseRef-scancode-ldpgpl-1
-- Linux Documentation Project General Public License v1a, November 1998, LicenseRef-scancode-ldpgpl-1a
-- Linux Documentation Project License (LDPL) v2.0, LicenseRef-scancode-ldpl-2.0
-- Linux Documentation Project Manifesto Template License 1998-09-21, LicenseRef-scancode-ldpm-1998
-- Liberation Font Exception to GPL 2.0, LicenseRef-scancode-liberation-font-exception
-- libpri OpenH323 exception, libpri-OpenH323-exception
-- Licence Art Libre 1.2, LAL-1.2
-- Licence Art Libre 1.3, LAL-1.3
-- Licence Libre du Québec – Réciprocité forte version 1.1, LiLiQ-Rplus-1.1
-- LaTeX Project Public License v1.0, LPPL-1.0
-- LaTeX Project Public License v1.1, LPPL-1.1
-- LaTeX Project Public License v1.2, LPPL-1.2
-- LaTeX Project Public License v1.3a, LPPL-1.3a
-- LaTeX Project Public License v1.3c, LPPL-1.3c
-- MAgPIE License Exception to AGPL 3.0, LicenseRef-scancode-magpie-exception-1.0
-- MakeIndex Distribution Notice, MakeIndex
-- MaxMind GeoLite2 End User License Agreement 2019, LicenseRef-scancode-maxmind-geolite2-eula-2019
-- Merit Network Derivative Works License, LicenseRef-scancode-merit-network-derivative
-- Metro Link Public License 1.0, LicenseRef-scancode-metrolink-1.0
-- Motosoto Open Source License v0.9.1, Motosoto
-- MSNTP software license, LicenseRef-scancode-msntp
-- Mulan Public License, Version 1 (Mulan PubL v1), LicenseRef-scancode-mulanpubl-1.0
-- Mulan Public License, Version 2 (Mulan PubL v2), LicenseRef-scancode-mulanpubl-2.0
-- NICTA Exception to AGPL, LicenseRef-scancode-nicta-exception
-- Nmap NPSL Exception 0.92, LicenseRef-scancode-npsl-exception-0.92
-- Nmap NPSL Exception 0.93, LicenseRef-scancode-npsl-exception-0.93
-- Nmap NPSL Exception 0.94, LicenseRef-scancode-npsl-exception-0.94
-- Nmap NPSL Exception 0.95, LicenseRef-scancode-npsl-exception-0.95
-- Non-Profit Open Software License 3.0, NPOSL-3.0
-- ODB Non-Commercial Use and Evaluation License (NCUEL), LicenseRef-scancode-odb-ncuel
-- ODC Open Database License v1.0, ODbL-1.0
-- Open Data Commons Attribution License, odc-1.0
-- OKL license, LicenseRef-scancode-okl
-- Open Diameter License, LicenseRef-scancode-open-diameter
-- OpenSC and OpenSSL linking exception to GPL in OpenPace, LicenseRef-scancode-openpace-exception-gpl
-- OpenSSL exception to AGPL 3.0, LicenseRef-scancode-openssl-exception-agpl-3.0
-- OpenSSL exception to AGPL 3.0 - Monit style, LicenseRef-scancode-openssl-exception-agpl3.0monit
-- OpenSSL exception to AGPL 3.0 or later, LicenseRef-scancode-openssl-exception-agpl3.0plus
-- OpenSSL exception to GPL 2.0, x11vnc-openssl-exception
-- OpenSSL exception to GPL 2.0 or later, LicenseRef-scancode-openssl-exception-gpl-2.0-plus
-- OpenSSL exception to GPL 3.0 or later, cryptsetup-OpenSSL-exception
-- OpenSSL exception to the Server Side Public License, LicenseRef-scancode-openssl-exception-mongodb-sspl
-- Open Software License 1.0, OSL-1.0
-- Open Software License 1.1, OSL-1.1
-- Open Software License 2.0, OSL-2.0
-- Open Software License 2.1, OSL-2.1
-- Open Software License 3.0, OSL-3.0
-- Other Copyleft Licenses, LicenseRef-scancode-other-copyleft
-- Peer Production License, PPL
-- Red Hat eCos Public License 1.1, RHeCos-1.1
-- Red Hat EULA for Enterprise Linux and Applications, LicenseRef-scancode-rh-eula
-- Red Hat GPLv2-Based End User License Agreement, LicenseRef-scancode-rh-eula-gpl2
-- Sencha Open Source License Exception for Applications, LicenseRef-scancode-sencha-app-floss-exception
-- Sencha Open Source License Exception for Development, LicenseRef-scancode-sencha-dev-floss-exception
-- Simple Public License Version 2.0, SimPL-2.0
-- Sleepycat License (Berkeley Database License), Sleepycat
-- SMAIL General Public License, SMAIL-GPL
-- SNIA Public License 1.1, SNIA
-- Software for Open Models License (SOM) 1.0, LicenseRef-scancode-soml-1.0
-- strongSwan exception to GPL, LicenseRef-scancode-strongswan-exception
-- SugarCRM Public License v1.1.3, SugarCRM-1.1.3
-- Tanuki Community Software License Agreement 1.0, LicenseRef-scancode-tanuki-community-sla-1.0
-- Tanuki Community Software License Agreement 1.1, LicenseRef-scancode-tanuki-community-sla-1.1
-- Tanuki Community Software License Agreement 1.2, LicenseRef-scancode-tanuki-community-sla-1.2
-- Tanuki Community Software License Agreement 1.3, LicenseRef-scancode-tanuki-community-sla-1.3
-- Transitive Grace Period Public Licence 1.0, TGPPL-1.0
-- The Parity Public License 6.0.0, Parity-6.0.0
-- The Parity Public License 7.0.0, Parity-7.0.0
-- TMate Open Source License, TMate
-- Trusster Open Source License 1.0a, TOSL
-- Trolltech GPL Exception version v1.0, LicenseRef-scancode-trolltech-gpl-exception-1.0
-- Trolltech GPL Exception version v1.1, LicenseRef-scancode-trolltech-gpl-exception-1.1
-- Trolltech GPL Exception version v1.2, LicenseRef-scancode-trolltech-gpl-exception-1.2
-- Unlimited linking exception to GPL, LicenseRef-scancode-unlimited-link-exception-gpl
-- Verbatim Copies Permission, Linux-man-pages-copyleft
-- vhf Public License V 1.1, LicenseRef-scancode-vhfpl-1.1
-- VIM License, Vim
-- Vita Nuova Liberal Source License, LicenseRef-scancode-vita-nuova-liberal
-- VOSTROM Public License for Open Source, VOSTROM
-- Yahoo! Public License v1.1, YPL-1.1
-- Zrythm Exception to AGPL 3.0, LicenseRef-scancode-zrythm-exception-agpl-3.0
+- 3DFX GLIDE Source Code General Public License, `Glide`
+- AC3Filter License, `LicenseRef-scancode-ac3filter`
+- Affero General Public License 1.0, `AGPL-1.0-only`
+- Affero General Public License 1.0 or later, `AGPL-1.0-or-later`
+- Affero General Public License 2.0, `LicenseRef-scancode-agpl-2.0`
+- GNU Affero General Public License 3.0, `AGPL-3.0-only`
+- GNU Affero General Public License 3.0 or later, `AGPL-3.0-or-later`
+- AGPL 3.0 with Bacula exception, `agpl-3.0-bacula`
+- AGPL 3.0 with OpenSSL exception, `agpl-3.0-openssl`
+- AGPL Generic Additional Terms, `LicenseRef-scancode-agpl-generic-additional-terms`
+- Aladdin Free Public License v8, `Aladdin`
+- Aladdin Free Public License v9, `LicenseRef-scancode-afpl-9.0`
+- Alfresco FLOSS Exception v0.5, `LicenseRef-scancode-alfresco-exception-0.5`
+- Anepokis License 1.0, `LicenseRef-scancode-anepokis-1.0`
+- Adaptive Public License, `APL-1.0`
+- Apromore Exception to GPL 2.0 or later, `LicenseRef-scancode-apromore-exception-2.0`
+- Arphic Public License, `Arphic-1999`
+- Artop Software License Based on AUTOSAR Released Material, `LicenseRef-scancode-aslr`
+- Asterisk exception, `Asterisk-exception`
+- Bash exception to GPL, `LicenseRef-scancode-bash-exception-gpl-2.0`
+- Blender License 2010, `LicenseRef-scancode-blender-2010`
+- Broadcom Dual GPL-Commercial, `broadcom-dual`
+- BSD Protection License, `BSD-Protection`
+- Cryptographic Autonomy License 1.0, `CAL-1.0`
+- Creative Commons Licença Pública Geral do GNU (GPL) [General Public License], `LicenseRef-scancode-cc-gpl-2.0-pt`
+- Creative Commons ShareAlike License 1.0, `CC-SA-1.0`
+- CeCILL Free Software License Agreement v1.0, `CECILL-1.0`
+- CeCILL Free Software License Agreement v1.0 English, `LicenseRef-scancode-cecill-1.0-en`
+- CeCILL-C Free Software License Agreement, `CECILL-C`
+- CERN Open Hardware Licence Version 2 - Strongly Reciprocal, `CERN-OHL-S-2.0`
+- CiviCRM Exception to AGPL-3.0, `LicenseRef-scancode-civicrm-exception-to-agpl-3.0`
+- Clojure Exception to GPL-3.0, `LicenseRef-scancode-clojure-exception-to-gpl-3.0`
+- Common Cure Rights Commitment v1.0, `ccrc-1.0`
+- copyleft-next 0.3.0, `copyleft-next-0.3.0`
+- copyleft-next 0.3.1, `copyleft-next-0.3.1`
+- Common Public Attribution License 1.0, `CPAL-1.0`
+- Cryptographic keys redistribution, `LicenseRef-scancode-crypto-keys-redistribution`
+- CUPS License, `LicenseRef-scancode-cups`
+- Cygnus eCos Public License 1.0, `LicenseRef-scancode-ecosrh-1.0`
+- ODC Database Contents License v1.0, `LicenseRef-scancode-dbcl-1.0`
+- Defensive Patent License v1.1, `LicenseRef-scancode-defensive-patent-1.1`
+- Deutsche Freie Software Lizenz, `D-FSL-1.0`
+- Devblocks Public License 1.0, `LicenseRef-scancode-devblocks-1.0`
+- Dual Commercial-GPL, `LicenseRef-scancode-dual-commercial-gpl`
+- EPO Open Source Licence No. 2005/1, `LicenseRef-scancode-epo-osl-2005.1`
+- Erlang Public License v1.1, `ErlPL-1.1`
+- European Union Public Licence 1.0, `EUPL-1.0`
+- Fair AI Public License 1.0, `LicenseRef-scancode-fair-ai-public-1.0`
+- Flowplayer GPL 3.0, `LicenseRef-scancode-flowplayer-gpl-3.0`
+- FSF Regex GPL, `LicenseRef-scancode-fsf-regex-gpl`
+- German Free Software License, `LicenseRef-scancode-d-fsl-1.0-en`
+- Ghostscript General Public License 1988, `LicenseRef-scancode-ghostscript-1988`
+- GNU emacs General Public License 1985, `LicenseRef-scancode-gnu-emacs-gpl-1985`
+- GNU emacs General Public License 1988, `LicenseRef-scancode-gnu-emacs-gpl-1988`
+- GNU General Public License 1.0, `GPL-1.0-only`
+- GNU General Public License 1.0 or later, `GPL-1.0-or-later`
+- GNU General Public License 2.0, `GPL-2.0-only`
+- GNU General Public License 2.0 or later, `GPL-2.0-or-later`
+- GPL 2.0 or later with OpenSSL exception, `gpl-2.0-plus-openssl`
+- GPL 2.0 plus Adaptec conditions, `LicenseRef-scancode-gpl-2.0-adaptec`
+- GNU General Public License 2.0 with DjVu Patent Grant, `LicenseRef-scancode-gpl-2.0-djvu`
+- GPL 2.0 with Dmitry Koterov additions, `LicenseRef-scancode-gpl-2.0-koterov`
+- GPL 2.0 with Ice exception, `gpl-2.0-ice`
+- GPL 2.0 with LMBench exception, `gpl-2.0-lmbench`
+- GPL 2.0 with MySQL FLOSS exception, `gpl-2.0-mysql-floss`
+- GPL 2.0 with Oracle MySQL FOSS exception, `gpl-2.0-oracle-mysql-foss`
+- GNU General Public License 3.0, `GPL-3.0-only`
+- GNU General Public License 3.0 or later, `GPL-3.0-or-later`
+- GPL 3.0 with Aptana exception, `gpl-3.0-aptana`
+- GPL 3.0h with OpenBD exception, `gpl-3.0-openbd`
+- GPL Generic Additional Terms, `LicenseRef-scancode-gpl-generic-additional-terms`
+- GNU Elib General Public License, `LicenseRef-scancode-elib-gpl`
+- GUST Font License 1.0, `LicenseRef-scancode-gust-font-1.0`
+- GUST Font License 2006-09-30, `LicenseRef-scancode-gust-font-2006-09-30`
+- Hacking License, `LicenseRef-scancode-hacking-license`
+- Health Administration Corporation Open Source License 1.2, `LicenseRef-scancode-hacos-1.2`
+- Houdini Project License, `LicenseRef-scancode-houdini`
+- IBM Derivative Works License, `LicenseRef-scancode-x11-ibm`
+- Initial Developer Public License, `LicenseRef-scancode-initial-developer-public`
+- Interbase Public License 1.0, `Interbase-1.0`
+- ITU-T Software Tools General Public License, `LicenseRef-scancode-itu-t-gpl`
+- Jahia Collaborative Source License v1.3.1, `LicenseRef-scancode-jahia-1.3.1`
+- Jeulurida Public License 1.1, `LicenseRef-scancode-jelurida-public-1.1`
+- KDE Accepted GPL, `LicenseRef-scancode-kde-accepted-gpl`
+- KDE Accepted LGPL, `LicenseRef-scancode-kde-accepted-lgpl`
+- KFQF Accepted GPL, `LicenseRef-scancode-kfqf-accepted-gpl`
+- Linux Documentation Project Copying License 1994-03-30, `LicenseRef-scancode-ldpc-1994`
+- Linux Documentation Project Copying License 1997-01-06, `LicenseRef-scancode-ldpc-1997`
+- Linux Documentation Project Copying License 1999-09-30, `LicenseRef-scancode-ldpc-1999`
+- Linux Documentation Project General Public License v1, September 1998, `LicenseRef-scancode-ldpgpl-1`
+- Linux Documentation Project General Public License v1a, November 1998, `LicenseRef-scancode-ldpgpl-1a`
+- Linux Documentation Project License (LDPL) v2.0, `LicenseRef-scancode-ldpl-2.0`
+- Linux Documentation Project Manifesto Template License 1998-09-21, `LicenseRef-scancode-ldpm-1998`
+- Liberation Font Exception to GPL 2.0, `LicenseRef-scancode-liberation-font-exception`
+- libpri OpenH323 exception, `libpri-OpenH323-exception`
+- Licence Art Libre 1.2, `LAL-1.2`
+- Licence Art Libre 1.3, `LAL-1.3`
+- Licence Libre du Québec – Réciprocité forte version 1.1, `LiLiQ-Rplus-1.1`
+- LaTeX Project Public License v1.0, `LPPL-1.0`
+- LaTeX Project Public License v1.1, `LPPL-1.1`
+- LaTeX Project Public License v1.2, `LPPL-1.2`
+- LaTeX Project Public License v1.3a, `LPPL-1.3a`
+- LaTeX Project Public License v1.3c, `LPPL-1.3c`
+- MAgPIE License Exception to AGPL 3.0, `LicenseRef-scancode-magpie-exception-1.0`
+- MakeIndex Distribution Notice, `MakeIndex`
+- MaxMind GeoLite2 End User License Agreement 2019, `LicenseRef-scancode-maxmind-geolite2-eula-2019`
+- Merit Network Derivative Works License, `LicenseRef-scancode-merit-network-derivative`
+- Metro Link Public License 1.0, `LicenseRef-scancode-metrolink-1.0`
+- Motosoto Open Source License v0.9.1, `Motosoto`
+- MSNTP software license, `LicenseRef-scancode-msntp`
+- Mulan Public License, Version 1 (Mulan PubL v1), `LicenseRef-scancode-mulanpubl-1.0`
+- Mulan Public License, Version 2 (Mulan PubL v2), `LicenseRef-scancode-mulanpubl-2.0`
+- NICTA Exception to AGPL, `LicenseRef-scancode-nicta-exception`
+- Nmap NPSL Exception 0.92, `LicenseRef-scancode-npsl-exception-0.92`
+- Nmap NPSL Exception 0.93, `LicenseRef-scancode-npsl-exception-0.93`
+- Nmap NPSL Exception 0.94, `LicenseRef-scancode-npsl-exception-0.94`
+- Nmap NPSL Exception 0.95, `LicenseRef-scancode-npsl-exception-0.95`
+- Non-Profit Open Software License 3.0, `NPOSL-3.0`
+- ODB Non-Commercial Use and Evaluation License (NCUEL), `LicenseRef-scancode-odb-ncuel`
+- ODC Open Database License v1.0, `ODbL-1.0`
+- Open Data Commons Attribution License, `odc-1.0`
+- OKL license, `LicenseRef-scancode-okl`
+- Open Diameter License, `LicenseRef-scancode-open-diameter`
+- OpenSC and OpenSSL linking exception to GPL in OpenPace, `LicenseRef-scancode-openpace-exception-gpl`
+- OpenSSL exception to AGPL 3.0, `LicenseRef-scancode-openssl-exception-agpl-3.0`
+- OpenSSL exception to AGPL 3.0 - Monit style, `LicenseRef-scancode-openssl-exception-agpl3.0monit`
+- OpenSSL exception to AGPL 3.0 or later, `LicenseRef-scancode-openssl-exception-agpl3.0plus`
+- OpenSSL exception to GPL 2.0, `x11vnc-openssl-exception`
+- OpenSSL exception to GPL 2.0 or later, `LicenseRef-scancode-openssl-exception-gpl-2.0-plus`
+- OpenSSL exception to GPL 3.0 or later, `cryptsetup-OpenSSL-exception`
+- OpenSSL exception to the Server Side Public License, `LicenseRef-scancode-openssl-exception-mongodb-sspl`
+- Open Software License 1.0, `OSL-1.0`
+- Open Software License 1.1, `OSL-1.1`
+- Open Software License 2.0, `OSL-2.0`
+- Open Software License 2.1, `OSL-2.1`
+- Open Software License 3.0, `OSL-3.0`
+- Other Copyleft Licenses, `LicenseRef-scancode-other-copyleft`
+- Peer Production License, `PPL`
+- Red Hat eCos Public License 1.1, `RHeCos-1.1`
+- Red Hat EULA for Enterprise Linux and Applications, `LicenseRef-scancode-rh-eula`
+- Red Hat GPLv2-Based End User License Agreement, `LicenseRef-scancode-rh-eula-gpl2`
+- Sencha Open Source License Exception for Applications, `LicenseRef-scancode-sencha-app-floss-exception`
+- Sencha Open Source License Exception for Development, `LicenseRef-scancode-sencha-dev-floss-exception`
+- Simple Public License Version 2.0, `SimPL-2.0`
+- Sleepycat License (Berkeley Database License), `Sleepycat`
+- SMAIL General Public License, `SMAIL-GPL`
+- SNIA Public License 1.1, `SNIA`
+- Software for Open Models License (SOM) 1.0, `LicenseRef-scancode-soml-1.0`
+- strongSwan exception to GPL, `LicenseRef-scancode-strongswan-exception`
+- SugarCRM Public License v1.1.3, `SugarCRM-1.1.3`
+- Tanuki Community Software License Agreement 1.0, `LicenseRef-scancode-tanuki-community-sla-1.0`
+- Tanuki Community Software License Agreement 1.1, `LicenseRef-scancode-tanuki-community-sla-1.1`
+- Tanuki Community Software License Agreement 1.2, `LicenseRef-scancode-tanuki-community-sla-1.2`
+- Tanuki Community Software License Agreement 1.3, `LicenseRef-scancode-tanuki-community-sla-1.3`
+- Transitive Grace Period Public Licence 1.0, `TGPPL-1.0`
+- The Parity Public License 6.0.0, `Parity-6.0.0`
+- The Parity Public License 7.0.0, `Parity-7.0.0`
+- TMate Open Source License, `TMate`
+- Trusster Open Source License 1.0a, `TOSL`
+- Trolltech GPL Exception version v1.0, `LicenseRef-scancode-trolltech-gpl-exception-1.0`
+- Trolltech GPL Exception version v1.1, `LicenseRef-scancode-trolltech-gpl-exception-1.1`
+- Trolltech GPL Exception version v1.2, `LicenseRef-scancode-trolltech-gpl-exception-1.2`
+- Unlimited linking exception to GPL, `LicenseRef-scancode-unlimited-link-exception-gpl`
+- Verbatim Copies Permission, `Linux-man-pages-copyleft`
+- vhf Public License V 1.1, `LicenseRef-scancode-vhfpl-1.1`
+- VIM License, `Vim`
+- Vita Nuova Liberal Source License, `LicenseRef-scancode-vita-nuova-liberal`
+- VOSTROM Public License for Open Source, `VOSTROM`
+- Yahoo! Public License v1.1, `YPL-1.1`
+- Zrythm Exception to AGPL 3.0, `LicenseRef-scancode-zrythm-exception-agpl-3.0`
 
 ## Copyleft Limited
 
-- 389 Directory Server Exception to GPL 2.0, 389-exception
-- Apple Common Documentation License v1.0, CDL-1.0
-- Ada linking exception to GPL 2.0 or later, GNAT-exception
-- AGPL 3.0 linking exception, agpl-3.0-linking-exception
-- alterMIME License, LicenseRef-scancode-altermime
-- Acki Nacki Gossip Igniter License 1.0, LicenseRef-scancode-angi-1.0
-- Apple Public Source License 1.0, APSL-1.0
-- Apple Public Source License 1.1, APSL-1.1
-- Apple Public Source License 1.2, APSL-1.2
-- Apple Public Source License 2.0, APSL-2.0
-- Aptana Public License 1.0, LicenseRef-scancode-aptana-1.0
-- Aptana exception to GPL 3.0, LicenseRef-scancode-aptana-exception-3.0
-- Artistic License 1.0, Artistic-1.0
-- Artistic License 1.0 w/clause 8, Artistic-1.0-cl8
-- Artistic License 2.0, Artistic-2.0
-- Artistic License for dist 1.0, Artistic-dist
-- Artistic License (Perl) 1.0, Artistic-1.0-Perl
-- ASN1SCC Exception to GPL-2.0, LicenseRef-scancode-asn1cc-exception-gpl-2.0
-- Asterisk linking protocols exception, Asterisk-linking-protocols-exception
-- Autoconf exception to GPL 2.0 or later, Autoconf-exception-2.0
-- Autoconf exception to GPL 3.0, Autoconf-exception-3.0
-- Autoconf macro exception, Autoconf-exception-macro
-- Autoconf simple exception, Autoconf-exception-generic-3.0
-- Autoconf simple exception to GPL-2.0, Autoconf-exception-generic
-- AutoOpts exception to GPL 2.0 or later, LicenseRef-scancode-autoopts-exception-2.0
-- Avisynth C Interface Exception, LicenseRef-scancode-avisynth-c-exception
-- Avisynth Linking Exception, LicenseRef-scancode-avisynth-linking-exception
-- Bacula exception to AGPL 3.0, LicenseRef-scancode-bacula-exception
-- Bison 2.2 exception to GPL 2.0 or later, Bison-exception-2.2
-- Bison exception to GPL 2.0 or later, Bison-exception-1.24
-- BitTorrent Open Source License 1.0, BitTorrent-1.0
-- BitTorrent Open Source License 1.1, BitTorrent-1.1
-- BitTorrent Open Source License 1.2, LicenseRef-scancode-bittorrent-1.2
-- Blitz++ Artistic License, LicenseRef-scancode-blitz-artistic
-- Bootloader Distribution Exception to GPL 2.0 or later, Bootloader-exception
-- Broadcom Linking Exception if unmodified, LicenseRef-scancode-broadcom-linking-unmodified
-- Broadcom Linking Exception to GPL 2.0, LicenseRef-scancode-bcm-linking-exception-2.0
-- Broadcom Unmodified Linking Exception, LicenseRef-scancode-broadcom-unmodified-exception
-- Convertible Free Software License 1.1, LicenseRef-scancode-c-fsl-1.1
-- Computer Associates Trusted Open Source License 1.1, CATOSL-1.1
-- Cryptographic Autonomy License 1.0 (Combined Work Exception), CAL-1.0-Combined-Work-Exception
-- Creative Commons Attribution Share Alike License 1.0, CC-BY-SA-1.0
-- Creative Commons Attribution Share Alike License 2.0, CC-BY-SA-2.0
-- Creative Commons Attribution Share Alike 2.0 England and Wales, CC-BY-SA-2.0-UK
-- Creative Commons Attribution Share Alike License 2.5, CC-BY-SA-2.5
-- Creative Commons Attribution Share Alike License 3.0, CC-BY-SA-3.0
-- Creative Commons Attribution Share Alike License 3.0 Austria, CC-BY-SA-3.0-AT
-- Creative Commons Attribution Share Alike 3.0 Germany, CC-BY-SA-3.0-DE
-- Creative Commons Attribution ShareAlike 3.0 IGO, CC-BY-SA-3.0-IGO
-- Creative Commons Attribution-ShareAlike 4.0 International Public License, CC-BY-SA-4.0
-- Creative Commons Licença Pública Geral Menor do GNU, LicenseRef-scancode-cc-lgpl-2.1-pt
-- Common Development and Distribution License 1.0, CDDL-1.0
-- Common Development and Distribution License 1.1, CDDL-1.1
-- Community Data License Agreement Sharing 1.0, CDLA-Sharing-1.0
-- CeCILL Free Software License Agreement v1.1, CECILL-1.1
-- CeCILL Free Software License Agreement v2.0, CECILL-2.0
-- CeCILL Free Software License Agreement v2.0 French, LicenseRef-scancode-cecill-2.0-fr
-- CeCILL Free Software License Agreement v2.1, CECILL-2.1
-- CeCILL Free Software License Agreement v2.1 French, LicenseRef-scancode-cecill-2.1-fr
-- CeCILL-C Free Software License Agreement English, LicenseRef-scancode-cecill-c-en
-- CERN Open Hardware Licence Version 2 - Weakly Reciprocal, CERN-OHL-W-2.0
-- CGAL Linking Exception, CGAL-linking-exception
-- ChilliCream License 1.0, LicenseRef-scancode-chillicream-1.0
-- Clarified Artistic License, ClArtistic
-- Classpath exception to GPL 2.0 or later, Classpath-exception-2.0
-- Clause 6 Exception to LGPL 2.1, polyparse-exception
-- CLISP Exception to GPL 2.0, CLISP-exception-2.0
-- CodeLite Exception to GPL, LicenseRef-scancode-codelite-exception-to-gpl
-- CognitiveWeb Open Source License 1.1, LicenseRef-scancode-cognitive-web-osl-1.1
-- Common Public License 0.5, LicenseRef-scancode-cpl-0.5
-- Common Public License 1.0, CPL-1.0
-- Creative Commons Attribution Share Alike 2.1 Japan, CC-BY-SA-2.1-JP
-- CUA Office Public License 1.0, CUA-OPL-1.0
-- CUPS Apple OS Exception to GPL and LGPL, LicenseRef-scancode-cups-apple-os-exception
-- Cygwin exception to GPL 2.0, LicenseRef-scancode-cygwin-exception-2.0
-- Cygwin exception to GPL 3.0 or later, LicenseRef-scancode-cygwin-exception-3.0
-- Cygwin exception to LGPL 3.0 or later, LicenseRef-scancode-cygwin-exception-lgpl-3.0-plus
-- Deutsche Bahn Inner Source License 1.0, LicenseRef-scancode-dbisl-1.0
-- David H. Bailey LBNL BSD License 2007, LicenseRef-scancode-dhb-lbnl-bsd-2007
-- David H. Bailey Limited BSD License 2015, LicenseRef-scancode-dhb-limited-bsd-2015
-- Digia Qt Exception to LGPL 2.1, digia-qt-exception-lgpl-2.1
-- DigiRule FOSS License Exception to GPL 2.0, DigiRule-FOSS-exception
-- DivX Open License v1.0, LicenseRef-scancode-divx-open-1.0
-- DivX Open License v2.1, LicenseRef-scancode-divx-open-2.1
-- DSTC Public License (DPL) v1.1, LicenseRef-scancode-dpl-1.1
-- DUNE exception to the GPL, LicenseRef-scancode-dune-exception
-- Eclipse Foundation Software User Agreement 2001, LicenseRef-scancode-eclipse-sua-2001
-- Eclipse Foundation Software User Agreement 2002, LicenseRef-scancode-eclipse-sua-2002
-- Eclipse Foundation Software User Agreement 2003, LicenseRef-scancode-eclipse-sua-2003
-- Eclipse Foundation Software User Agreement 2004, LicenseRef-scancode-eclipse-sua-2004
-- Eclipse Foundation Software User Agreement 2005, LicenseRef-scancode-eclipse-sua-2005
-- Eclipse Foundation Software User Agreement 2010, LicenseRef-scancode-eclipse-sua-2010
-- Eclipse Foundation Software User Agreement 2011, LicenseRef-scancode-eclipse-sua-2011
-- Eclipse Foundation Software User Agreement 2014, LicenseRef-scancode-eclipse-sua-2014
-- Eclipse Foundation Software User Agreement 2014-11, LicenseRef-scancode-eclipse-sua-2014-11
-- Eclipse Foundation Software User Agreement 2017, LicenseRef-scancode-eclipse-sua-2017
-- eCos Exception to GPL 2.0 or later, eCos-exception-2.0
-- EDRDG General Dictionary License 2000, LicenseRef-scancode-edrdg-2000
-- Ekiga exception to GPL 2.0 or later, LicenseRef-scancode-ekiga-exception-2.0-plus
-- Enhydra Public License 1.1, LicenseRef-scancode-enhydra-1.1
-- Eclipse Public License 1.0, EPL-1.0
-- Eclipse Public License 2.0, EPL-2.0
-- Erlang/OTP Linking Exception, erlang-otp-linking-exception
-- European Union Public Licence 1.1, EUPL-1.1
-- European Union Public Licence 1.2, EUPL-1.2
-- Eurosym License, Eurosym
-- Fawkes Runtime Exception to GPL 2.0 or later, Fawkes-Runtime-exception
-- Floodgap Free Software License v1, LicenseRef-scancode-ffsl-1
-- FLTK exception to LGPL 2.0, FLTK-exception
-- Font exception to GPL, Font-exception-2.0
-- Frameworx Open License v1.0, Frameworx-1.0
-- Fraunhofer FDK AAC Codec Library for Android, FDK-AAC
-- University of Washington Free-Fork License, LicenseRef-scancode-free-fork
-- FreeImage Public License Version 1.0, FreeImage
-- FreeRTOS exception to GPL 2.0, freertos-exception-2.0
-- Frontier Artistic License, LicenseRef-scancode-frontier-1.0
-- GCC Compiler exception to GPL 2.0, LicenseRef-scancode-gcc-compiler-exception-2.0
-- GCC Runtime Library exception to GPL 2.0 or later, GCC-exception-2.0
-- GCC Runtime Library exception 2.0 - note variant, GCC-exception-2.0-note
-- GCC Runtime Library Exception v3.0, LicenseRef-scancode-gcc-exception-3.0
-- GCC Runtime Library Exception v3.1, GCC-exception-3.1
-- Genode exception to AGPL 3.0, LicenseRef-scancode-genode-agpl-3.0-exception
-- GeoServer exception to GPL 2.0 or later, LicenseRef-scancode-geoserver-exception-2.0-plus
-- GNU Free Documentation License v1.1, GFDL-1.1-only
-- GNU Free Documentation License v1.1 or later, GFDL-1.1-or-later
-- GNU Free Documentation License v1.2, GFDL-1.2-only
-- GNU Free Documentation License v1.2 or later, GFDL-1.2-or-later
-- GNU Free Documentation License v1.3, GFDL-1.3-only
-- GNU Free Documentation License v1.3 or later, GFDL-1.3-or-later
-- GNU Free Documentation License v1.1 only - invariants, GFDL-1.1-invariants-only
-- GNU Free Documentation License v1.1 or later - invariants, GFDL-1.1-invariants-or-later
-- GNU Free Documentation License v1.1 only - no invariants, GFDL-1.1-no-invariants-only
-- GNU Free Documentation License v1.1 or later - no invariants, GFDL-1.1-no-invariants-or-later
-- GNU Free Documentation License v1.2 only - invariants, GFDL-1.2-invariants-only
-- GNU Free Documentation License v1.2 or later - invariants, GFDL-1.2-invariants-or-later
-- GNU Free Documentation License v1.2 only - no invariants, GFDL-1.2-no-invariants-only
-- GNU Free Documentation License v1.2 or later - no invariants, GFDL-1.2-no-invariants-or-later
-- GNU Free Documentation License v1.3 only - invariants, GFDL-1.3-invariants-only
-- GNU Free Documentation License v1.3 or later - invariants, GFDL-1.3-invariants-or-later
-- GNU Free Documentation License v1.3 only - no invariants, GFDL-1.3-no-invariants-only
-- GNU Free Documentation License v1.3 or later - no invariants, GFDL-1.3-no-invariants-or-later
-- GL2PS License, GL2PS
-- Gmsh exception, Gmsh-exception
-- Gnome GCR Documentation License, GCR-docs
-- GNU IO Library exception to GPL 2.0, GNU-compiler-exception
-- GNU JavaMail exception to GPL 2.0 or later, gnu-javamail-exception
-- GNU Libtool exception to GPL 2.0, Libtool-exception
-- GNU Libtool exception to LGPL, LicenseRef-scancode-libtool-exception-lgpl
-- gnuplot License, gnuplot
-- GPL 2.0 or GPL 3.0 with Syntext Serna exception, gpl-2.0-plus-syntext
-- GPL 2.0 or later with Ada exception, gpl-2.0-plus-ada
-- GPL 2.0 or later with AutoOpts exception, gpl-2.0-autoopts
-- GPL 2.0 or later with Bison 2.2 exception, gpl-2.0-bison-2.2
-- GPL 2.0 or later with eCos Exception, eCos-2.0
-- GPL 2.0 or later with Ekiga exception, gpl-2.0-plus-ekiga
-- GPL 2.0 or later with GCC exception, gpl-2.0-plus-gcc
-- GPL 2.0 or later with GCC Runtime Library exception, GPL-2.0-with-GCC-exception
-- GPL 2.0 or later with GeoServer exception, gpl-2.0-plus-geoserver
-- GPL 2.0 or later with Linking exception, gpl-2.0-plus-linking
-- GPL 2.0 or later with NAnt exception, gpl-2.0-plus-nant
-- GPL 2.0 or later with Open Motif exception, gpl-2.0-plus-openmotif
-- GPL 2.0 or later with SANE exception, gpl-2.0-plus-sane
-- GPL 2.0 or later with Subcommander exception, gpl-2.0-plus-subcommander
-- GPL 2.0 or later with UPX exception, gpl-2.0-plus-upx
-- GPL 2.0 with Autoconf exception, GPL-2.0-with-autoconf-exception
-- GPL 2.0 with bison exception, gpl-2.0-bison
-- GPL 2.0 with Broadcom Linking Exception, gpl-2.0-broadcom-linking
-- GPL 2.0 with classpath exception, GPL-2.0-with-classpath-exception
-- GPL 2.0 with Cygwin exception, gpl-2.0-cygwin
-- GPL 2.0 with Fedora Red Hat Exception, gpl-2.0-redhat
-- GPL 2.0 with font exception, GPL-2.0-with-font-exception
-- GPL 2.0 with FreeRTOS exception, gpl-2.0-freertos
-- GPL 2.0 with GCC compiler exception, gpl-2.0-gcc-compiler-exception
-- GPL 2.0 with GLibC exception, gpl-2.0-glibc
-- GPL 2.0 with GNU IO Library exception, gpl-2.0-iolib
-- GPL 2.0 with GNU Libtool exception, gpl-2.0-libtool
-- GPL 2.0 with GUILE exception, gpl-2.0-guile
-- GPL 2.0 with Independent Module Linking exception, gpl-2.0-independent-module-linking
-- GPL 2.0 with ISO C++ Library exception, gpl-2.0-iso-cpp
-- GPL 2.0 with Javascript exception, gpl-2.0-javascript
-- GPL 2.0 with Kernel Exception, gpl-2.0-kernel
-- GPL 2.0 with libgit2 exception, gpl-2.0-libgit2
-- GPL 2.0 with Library exception, gpl-2.0-library
-- GPL 2.0 with MySQL Connector ODBC exception, gpl-2.0-mysql-connector-odbc
-- GPL 2.0 with OpenJDK Classpath exception, gpl-2.0-openjdk
-- GPL 2.0 with OpenSSL exception, gpl-2.0-openssl
-- GPL 2.0 with Oracle OpenJDK classpath exception, gpl-2.0-oracle-openjdk
-- GPL 2.0 with ProGuard exception, gpl-2.0-proguard
-- GPL 2.0 with Qt-QCA exception, gpl-2.0-qt-qca
-- GPL 2.0 with RRDtool FLOSS Exception, gpl-2.0-rrdtool-floss
-- GPL 2.0 with U-Boot exception, gpl-2.0-uboot
-- GPL 3.0 or later with Bison exception, gpl-3.0-bison
-- GPL 3.0 or later with Cygwin exception, gpl-3.0-cygwin
-- GPL 3.0 or later with font exception, gpl-3.0-font
-- GPL 3.0 or later with OpenSSL exception, gpl-3.0-plus-openssl
-- GPL 3.0 with Autoconf exception, GPL-3.0-with-autoconf-exception
-- GPL 3.0 with GCC runtime library exception, GPL-3.0-with-GCC-exception
-- GPL Cooperation Commitment 1.0, GPL-CC-1.0
-- GPL-3.0 389 DS Base Exception, GPL-3.0-389-ds-base-exception
-- GPL-3.0 Interface Exception, GPL-3.0-interface-exception
-- GPL-3.0 Linking Exception, GPL-3.0-linking-exception
-- GPL-3.0 Linking Exception (with Corresponding Source), GPL-3.0-linking-source-exception
-- gSOAP Public License v1.3a, LicenseRef-scancode-gsoap-1.3a
-- gSOAP Public License v1.3b, gSOAP-1.3b
-- GStreamer exception to GPL 2.0 or later, LicenseRef-scancode-gstreamer-exception-2.0
-- GUILE exception to GPL 2.0, harbour-exception
-- H2 License 1.0, LicenseRef-scancode-h2-1.0
-- i2p GPL plus Java Exception, i2p-gpl-java-exception
-- Ice exception to GPL 2.0, LicenseRef-scancode-ice-exception-2.0
-- Imlib2 License, Imlib2
-- Independent Module Linking Exception, Independent-modules-exception
-- INRIA Linking Exception to QPL 1.0, QPL-1.0-INRIA-2004-exception
-- IPA Font License Agreement v1.0, IPA
-- IBM Public License, IPL-1.0
-- Jabber Open Source License 1.0, LicenseRef-scancode-josl-1.0
-- Javascript exception to GPL 2.0, LicenseRef-scancode-javascript-exception-2.0
-- KiCad Libraries Exception to CC-BY-SA-4.0, KiCad-libraries-exception
-- Kyoto Products Specific FOSS Library Linking Exception v1.0, LicenseRef-scancode-dbmx-linking-exception-1.0
-- Kyoto Products FOSS License Exception v1.0.9, LicenseRef-scancode-dbmx-foss-exception-1.0.9
-- Lattice Open Source License 2017, LicenseRef-scancode-lattice-osl-2017
-- GNU Library General Public License 2.0, LGPL-2.0-only
-- GNU Library General Public License 2.0 or later, LGPL-2.0-or-later
-- LGPL 2.0 or later with GCC Runtime Library exception, lgpl-2.0-plus-gcc
-- LGPL 2.0 with FLTK exception, lgpl-2.0-fltk
-- LGPL 2.0 with Mini-XML exception, mini-xml
-- GNU Lesser General Public License 2.1, LGPL-2.1-only
-- GNU Lesser General Public License 2.1 or later, LGPL-2.1-or-later
-- LGPL 2.1 or later with Linking exception, lgpl-2.1-plus-linking
-- LGPL 2.1 or later with Spell-Checker exception, lgpl-2.1-spell-checker
-- LGPL 2.1 or later with Unlimited linking exception, lgpl-2.1-plus-unlimited-linking
-- LGPL 2.1 with Digia Qt Exception, lgpl-2.1-digia-qt
-- LGPL 2.1 with Nokia Qt Exception, lgpl-2.1-nokia-qt
-- LGPL 2.1 with Qt Company Exception, lgpl-2.1-qt-company
-- LGPL 2.1 with Qt Company Exception 2017, lgpl-2.1-qt-company-2017
-- LGPL 2.1 with RXTX exception, lgpl-2.1-rxtx
-- GNU Lesser General Public License 3.0, LGPL-3.0-only
-- GNU Lesser General Public License 3.0 or later, LGPL-3.0-or-later
-- LGPL 3.0 or later with Cygwin exception, lgpl-3.0-cygwin
-- LGPL 3.0 or later with Linking exception, lgpl-3-plus-linking
-- LGPL 3.0 or later with OpenSSL exception, lgpl-3.0-plus-openssl
-- LGPL 3.0 with ZeroMQ exception, lgpl-3.0-zeromq
-- LGPL-3.0 Linking Exception, LGPL-3.0-linking-exception
-- Lesser General Public License For Linguistic Resources, LGPLLR
-- libticables2 exception to GPL 2.0, LicenseRef-scancode-libticables2-exception-gpl-2.0
-- GNU Libtool Exception, libtool-exception
-- libwebsockets exception to LGPL 2.1, LicenseRef-scancode-libwebsockets-exception
-- Licence Libre du Québec – Permissive version 1.1, LiLiQ-P-1.1
-- Licence Libre du Québec – Réciprocité version 1.1, LiLiQ-R-1.1
-- Linking exception to AGPL 3.0, romic-exception
-- Linking exception to GPL 2.0 or later, LicenseRef-scancode-linking-exception-2.0-plus
-- Linking exception to LGPL 2.0 or later, LicenseRef-scancode-linking-exception-lgpl-2.0plus
-- Linking exception to LGPL 2.1 or later, LicenseRef-scancode-linking-exception-2.1-plus
-- Linking exception to LGPL 3.0, linking-exception-lgpl-3.0
-- Linux man-pages - 1 paragraph, Linux-man-pages-1-para
-- Linux man-pages Copyleft - 2 paragraphs, Linux-man-pages-copyleft-2-para
-- Linux man-pages Copyleft Variant, Linux-man-pages-copyleft-var
-- Linux Syscall Exception to GPL, Linux-syscall-note
-- Lisp Lesser General Public License (LLPGL), LLGPL
-- LMBench exception to GPL 2.0, LicenseRef-scancode-lmbench-exception-2.0
-- LEGO Open Source License Agreement, LicenseRef-scancode-losla
-- Lucent Public License 1.0, LPL-1.0
-- Lucent Public License 1.02, LPL-1.02
-- LZMA exception to CPL 1.0, LZMA-exception
-- LZMA SDK 2006, LicenseRef-scancode-lzma-sdk-2006
-- LZMA SDK 2006 CPL and LGPL Exception, LicenseRef-scancode-lzma-sdk-2006-exception
-- LZMA SDK 2008, LicenseRef-scancode-lzma-sdk-2008
-- LZMA SDK Original, LicenseRef-scancode-lzma-sdk-original
-- Macros and Inline Functions Exception to GPL 2.0, mif-exception
-- Mini-XML exception to LGPL 2.0, LicenseRef-scancode-mini-xml-exception-lgpl-2.0
-- MLDonkey Exception to GPL 2.0, LicenseRef-scancode-mldonkey-exception-gpl-2.0
-- MonetDB Public License Version 1.1, LicenseRef-scancode-monetdb-1.1
-- Mozilla Public License 1.0, MPL-1.0
-- Mozilla Public License 1.1, MPL-1.1
-- Mozilla Public License 2.0, MPL-2.0
-- Mozilla Public License 2.0 (no copyleft exception), MPL-2.0-no-copyleft-exception
-- Microsoft Shared Source Community License, LicenseRef-scancode-ms-cl
-- Microsoft Reciprocal License, MS-RL
-- Mule Source Public License version 1.1.3, LicenseRef-scancode-mule-source-1.1.3
-- Mule Source Public License 1.1.4, LicenseRef-scancode-mule-source-1.1.4
-- MuseScore Exception to GPL 2.0, LicenseRef-scancode-musescore-exception-gpl-2.0
-- MySQL Connector ODBC exception to GPL 2.0, LicenseRef-scancode-mysql-con-odbc-exception-2.0
-- MySQL FLOSS exception to GPL 2.0, LicenseRef-scancode-mysql-floss-exception-2.0
-- MySQL linking exception 2018, LicenseRef-scancode-mysql-linking-exception-2018
-- NAnt exception to GPL 2.0 or later, LicenseRef-scancode-nant-exception-2.0-plus
-- NASA Open Source License v1.3, NASA-1.3
-- Net Boolean Public License 1.0, NBPL-1.0
-- Nethack General Public License, NGPL
-- Nokia Qt Exception to LGPL 2.1, nokia-qt-exception-1.1
-- Nokia Qt LGPL Exception v1.0, lgpl-2.1-nokia-qt-1.0
-- Nokia Qt LGPL Exception v1.1, lgpl-2.1-nokia-qt-1.1
-- Nokia Open Source License 1.0a, Nokia
-- Netizen Open Source License 1.0, NOSL
-- Noweb License, Noweb
-- Netscape Public License 1.0, NPL-1.0
-- Netscape Public License 1.1, NPL-1.1
-- OCaml LGPL Linking Exception, OCaml-LGPL-linking-exception
-- Open CASCADE Technology Public License, OCCT-PL
-- OCLC Research Public License 1.0, LicenseRef-scancode-oclc-1.0
-- OCLC Research Public License 2.0, OCLC-2.0
-- Oracle Community Source License v1.0, LicenseRef-scancode-ocsl-1.0
-- Oculus SDK License Agreement, LicenseRef-scancode-oculus-sdk
-- SIL Open Font License 1.1, OFL-1.1
-- Open Hardware Description License Version 1.0, LicenseRef-scancode-ohdl-1.0
-- Open CASCADE Exception to LGPL 2.1, OCCT-exception-1.0
-- Open Group Public License, LicenseRef-scancode-open-group
-- Open Group Public License, LicenseRef-scancode-opengroup-pl
-- Open Group Test Suite License, OGTSL
-- Open Motif exception to GPL 2.0 or later, LicenseRef-scancode-openmotif-exception-2.0-plus
-- Open Public License v1.0, OPL-1.0
-- OpenBD exception to GPL 3.0, LicenseRef-scancode-openbd-exception-3.0
-- OpenContent Public License v1.0, LicenseRef-scancode-opl-1.0
-- OpenI Public License 1.0, LicenseRef-scancode-openi-pl-1.0
-- OpenJDK Assembly exception to GPL 2.0, OpenJDK-assembly-exception-1.0
-- OpenJDK Classpath exception to GPL 2.0, LicenseRef-scancode-openjdk-classpath-exception2.0
-- OpenJDK Classpath and Assembly Exception, LicenseRef-scancode-openjdk-exception
-- OpenLDAP Public License 1.1, OLDAP-1.1
-- OpenLDAP Public License 1.2, OLDAP-1.2
-- OpenLDAP Public License 1.3, OLDAP-1.3
-- OpenLDAP Public License 1.4, OLDAP-1.4
-- OpenMap Software License Agreement, LicenseRef-scancode-openmap
-- OpenMRS Exception to MPL-2.0, LicenseRef-scancode-openmrs-exception-to-mpl-2.0
-- OpenPBS Software License v2.3, OpenPBS-2.3
-- OpenSSL exception to LGPL, LicenseRef-scancode-openssl-exception-lgpl
-- OpenSSL exception to LGPL 2.0 or later, LicenseRef-scancode-openssl-exception-lgpl2.0plus
-- OpenSSL exception to LGPL 3.0 or later, LicenseRef-scancode-openssl-exception-lgpl3.0plus
-- OpenVPN OpenSSL Exception to GPL, openvpn-openssl-exception
-- Oracle MySQL FOSS exception to GPL 2.0, LicenseRef-scancode-oracle-mysql-foss-exception2.0
-- Oracle OpenJDK classpath exception to GPL 2.0, LicenseRef-scancode-oracle-openjdk-exception-2.0
-- OSET Public License v2.1, osetpl-2.1
-- OSET Public License version 2.1, OSET-PL-2.1
-- Public Documentation License Version 1.0, LicenseRef-scancode-pdl-1.0
-- PfTijah Public License v1.1, LicenseRef-scancode-pftijah-1.1
-- ProGuard exception to GPL 2.0, LicenseRef-scancode-proguard-exception-2.0
-- PS/PDF font exception (2017-08-17), PS-or-PDF-font-exception-20170817
-- Q Public License 1.0 - INRIA 2004 variant, QPL-1.0-INRIA-2004
-- QCAD Exception to GPL, LicenseRef-scancode-qcad-exception-gpl
-- Qhull License, Qhull
-- Q Public License Version 1.0, QPL-1.0
-- QSkinny Exception to LGPL 2.1, LicenseRef-scancode-qskinny-exception-lgpl-2.1
-- Qt Company Exception to LGPL 2.1, Digia-Qt-LGPL-exception-1.1
-- Qt Company Exception to LGPL 2.1 2017, qt-company-exception-2017-lgpl-2.1
-- Qt GPL exception 1.0, Qt-GPL-exception-1.0
-- Qt LGPL exception 1.1, Qt-LGPL-exception-1.1
-- Qt Linking Exception to GPL 2.0 or later, LicenseRef-scancode-qt-kde-linking-exception
-- Qt-QCA exception to GPL 2.0, LicenseRef-scancode-qt-qca-exception-2.0
-- Qwt exception to LGPL 2.1, Qwt-exception-1.0
-- Qwt License 1.0 Deprecated, qwt-1.0
-- Radiance Software License, Version 2.0, LicenseRef-scancode-radiance-sl-v2.0
-- ReactOS Exception to GPL 2.0, LicenseRef-scancode-reactos-exception-gpl-2.0
-- RealNetworks Public Source License v1.0, RPSL-1.0
-- Red Hat LGPL-Based End User License Agreement, LicenseRef-scancode-rh-eula-lgpl
-- Ricoh Source Code Public License v1.0, RSCPL
-- Reciprocal Public License 1.1, RPL-1.1
-- Reciprocal Public License 1.5, RPL-1.5
-- RRDtool FLOSS Exception to GPL 2.0, RRDtool-FLOSS-exception-2.0
-- RTEMS exception to GPL 2.0, LicenseRef-scancode-rtems-exception-2.0
-- Ruby License, Ruby
-- RXTX exception to LGPL 2.1, LicenseRef-scancode-rxtx-exception-lgpl-2.1
-- SANE exception to GPL 2.0 or later, SANE-exception
-- Sendmail License 8.23, Sendmail-8.23
-- Signal Exception to GPL 3.0, LicenseRef-scancode-signal-gpl-3.0-exception
-- SKIP License 2014, LicenseRef-scancode-skip-2014
-- Secure Messaging Protocol Public License, SMPPL
-- Spell-Checker exception to LGPL 2.1 or later, LicenseRef-scancode-spell-exception-lgpl-2.1-plus
-- Sun Public License 1.0, SPL-1.0
-- Stanford mrouted License, LicenseRef-scancode-stanford-mrouted
-- StateWizard License Agreement, LicenseRef-scancode-statewizard
-- Stax License, LicenseRef-scancode-stax
-- stunnel Exception, stunnel-exception
-- Subcommander exception to GPL 2.0 or later, LicenseRef-scancode-subcommander-exception-2.0plus
-- Sun Community Source License 3.0, LicenseRef-scancode-scsl-3.0
-- Sun Solaris Source Code (Foundation Release) License 1.1, LicenseRef-scancode-sun-ssscfr-1.1
-- SWI exception to GPL 2.0 or later, SWI-exception
-- Syntext Serna exception to GPL 2.0 or GPL 3.0, LicenseRef-scancode-syntext-serna-exception-1.0
-- TAPR Open Hardware License v1.0, TAPR-OHL-1.0
-- TeX exception to GPL 3.0, Texinfo-exception
-- HuggingFace The Stack TOS 2023-07, LicenseRef-scancode-the-stack-tos-2023-07
-- Thor Public License, TPL-1.0
-- TORQUE v2.5+ Software License v1.1, TORQUE-1.1
-- Terracotta Public License 1.0, LicenseRef-scancode-tpl-1.0
-- Terracotta Public License 2.0, LicenseRef-scancode-tpl-2.0
-- TrueCrypt License 3.1, LicenseRef-scancode-truecrypt-3.1
-- U-Boot exception to GPL 2.0, u-boot-exception-2.0
-- Ubuntu Font Licence v1.0, Ubuntu-font-1.0
-- Upstream Compatibility License v1.0, UCL-1.0
-- Universal FOSS Exception v1.0, Universal-FOSS-exception-1.0
-- Unlimited linking exception to LGPL, LicenseRef-scancode-unlimited-link-exception-lgpl
-- Unmodified Binary Distribution Licence Exception, UBDL-exception
-- UPX exception to GPL 2.0 or later, LicenseRef-scancode-upx-exception-2.0-plus
-- US Government GeoTransform, LicenseRef-scancode-us-govt-geotranform
-- Utah Raster Toolkit Run Length Encoded License, URT-RLE
-- VCV Rack Non-Commercial Plugin License Exception to GPL 3.0, LicenseRef-scancode-vcvrack-exception-to-gpl-3.0
-- Viewflow Library Exception to AGPL 3.0, LicenseRef-scancode-viewflow-agpl-3.0-exception
-- Volatility Software License Version 1.0, LicenseRef-scancode-volatility-vsl-v1.0
-- Vtiger Public License 1.1, LicenseRef-scancode-vpl-1.1
-- Vtiger Public License 1.2, LicenseRef-scancode-vpl-1.2
-- vsftpd OpenSSL exception, vsftpd-openssl-exception
-- wxWindows Free Documentation Licence, Version 3, LicenseRef-scancode-wxwindows-free-doc-3
-- WxWindows Library Exception to GNU Licenses, WxWindows-exception-3.1
-- wxWindows Library Licence 3.1, wxWindows
-- wxWindows Restricted Licence 3.0, LicenseRef-scancode-wxwindows-r-3.0
-- Xenomai GPL Exception, LicenseRef-scancode-xenomai-gpl-exception
-- Yahoo! Public License v1.0, YPL-1.0
-- ZeroMQ exception to LGPL 3.0, LicenseRef-scancode-zeromq-exception-lgpl-3.0
-- Zimbra Public License v1.3, Zimbra-1.3
-- Zimbra Public License v1.4, Zimbra-1.4
+- 389 Directory Server Exception to GPL 2.0, `389-exception`
+- Apple Common Documentation License v1.0, `CDL-1.0`
+- Ada linking exception to GPL 2.0 or later, `GNAT-exception`
+- AGPL 3.0 linking exception, `agpl-3.0-linking-exception`
+- alterMIME License, `LicenseRef-scancode-altermime`
+- Acki Nacki Gossip Igniter License 1.0, `LicenseRef-scancode-angi-1.0`
+- Apple Public Source License 1.0, `APSL-1.0`
+- Apple Public Source License 1.1, `APSL-1.1`
+- Apple Public Source License 1.2, `APSL-1.2`
+- Apple Public Source License 2.0, `APSL-2.0`
+- Aptana Public License 1.0, `LicenseRef-scancode-aptana-1.0`
+- Aptana exception to GPL 3.0, `LicenseRef-scancode-aptana-exception-3.0`
+- Artistic License 1.0, `Artistic-1.0`
+- Artistic License 1.0 w/clause 8, `Artistic-1.0-cl8`
+- Artistic License 2.0, `Artistic-2.0`
+- Artistic License for dist 1.0, `Artistic-dist`
+- Artistic License (Perl) 1.0, `Artistic-1.0-Perl`
+- ASN1SCC Exception to GPL-2.0, `LicenseRef-scancode-asn1cc-exception-gpl-2.0`
+- Asterisk linking protocols exception, `Asterisk-linking-protocols-exception`
+- Autoconf exception to GPL 2.0 or later, `Autoconf-exception-2.0`
+- Autoconf exception to GPL 3.0, `Autoconf-exception-3.0`
+- Autoconf macro exception, `Autoconf-exception-macro`
+- Autoconf simple exception, `Autoconf-exception-generic-3.0`
+- Autoconf simple exception to GPL-2.0, `Autoconf-exception-generic`
+- AutoOpts exception to GPL 2.0 or later, `LicenseRef-scancode-autoopts-exception-2.0`
+- Avisynth C Interface Exception, `LicenseRef-scancode-avisynth-c-exception`
+- Avisynth Linking Exception, `LicenseRef-scancode-avisynth-linking-exception`
+- Bacula exception to AGPL 3.0, `LicenseRef-scancode-bacula-exception`
+- Bison 2.2 exception to GPL 2.0 or later, `Bison-exception-2.2`
+- Bison exception to GPL 2.0 or later, `Bison-exception-1.24`
+- BitTorrent Open Source License 1.0, `BitTorrent-1.0`
+- BitTorrent Open Source License 1.1, `BitTorrent-1.1`
+- BitTorrent Open Source License 1.2, `LicenseRef-scancode-bittorrent-1.2`
+- Blitz++ Artistic License, `LicenseRef-scancode-blitz-artistic`
+- Bootloader Distribution Exception to GPL 2.0 or later, `Bootloader-exception`
+- Broadcom Linking Exception if unmodified, `LicenseRef-scancode-broadcom-linking-unmodified`
+- Broadcom Linking Exception to GPL 2.0, `LicenseRef-scancode-bcm-linking-exception-2.0`
+- Broadcom Unmodified Linking Exception, `LicenseRef-scancode-broadcom-unmodified-exception`
+- Convertible Free Software License 1.1, `LicenseRef-scancode-c-fsl-1.1`
+- Computer Associates Trusted Open Source License 1.1, `CATOSL-1.1`
+- Cryptographic Autonomy License 1.0 (Combined Work Exception), `CAL-1.0-Combined-Work-Exception`
+- Creative Commons Attribution Share Alike License 1.0, `CC-BY-SA-1.0`
+- Creative Commons Attribution Share Alike License 2.0, `CC-BY-SA-2.0`
+- Creative Commons Attribution Share Alike 2.0 England and Wales, `CC-BY-SA-2.0-UK`
+- Creative Commons Attribution Share Alike License 2.5, `CC-BY-SA-2.5`
+- Creative Commons Attribution Share Alike License 3.0, `CC-BY-SA-3.0`
+- Creative Commons Attribution Share Alike License 3.0 Austria, `CC-BY-SA-3.0-AT`
+- Creative Commons Attribution Share Alike 3.0 Germany, `CC-BY-SA-3.0-DE`
+- Creative Commons Attribution ShareAlike 3.0 IGO, `CC-BY-SA-3.0-IGO`
+- Creative Commons Attribution-ShareAlike 4.0 International Public License, `CC-BY-SA-4.0`
+- Creative Commons Licença Pública Geral Menor do GNU, `LicenseRef-scancode-cc-lgpl-2.1-pt`
+- Common Development and Distribution License 1.0, `CDDL-1.0`
+- Common Development and Distribution License 1.1, `CDDL-1.1`
+- Community Data License Agreement Sharing 1.0, `CDLA-Sharing-1.0`
+- CeCILL Free Software License Agreement v1.1, `CECILL-1.1`
+- CeCILL Free Software License Agreement v2.0, `CECILL-2.0`
+- CeCILL Free Software License Agreement v2.0 French, `LicenseRef-scancode-cecill-2.0-fr`
+- CeCILL Free Software License Agreement v2.1, `CECILL-2.1`
+- CeCILL Free Software License Agreement v2.1 French, `LicenseRef-scancode-cecill-2.1-fr`
+- CeCILL-C Free Software License Agreement English, `LicenseRef-scancode-cecill-c-en`
+- CERN Open Hardware Licence Version 2 - Weakly Reciprocal, `CERN-OHL-W-2.0`
+- CGAL Linking Exception, `CGAL-linking-exception`
+- ChilliCream License 1.0, `LicenseRef-scancode-chillicream-1.0`
+- Clarified Artistic License, `ClArtistic`
+- Classpath exception to GPL 2.0 or later, `Classpath-exception-2.0`
+- Clause 6 Exception to LGPL 2.1, `polyparse-exception`
+- CLISP Exception to GPL 2.0, `CLISP-exception-2.0`
+- CodeLite Exception to GPL, `LicenseRef-scancode-codelite-exception-to-gpl`
+- CognitiveWeb Open Source License 1.1, `LicenseRef-scancode-cognitive-web-osl-1.1`
+- Common Public License 0.5, `LicenseRef-scancode-cpl-0.5`
+- Common Public License 1.0, `CPL-1.0`
+- Creative Commons Attribution Share Alike 2.1 Japan, `CC-BY-SA-2.1-JP`
+- CUA Office Public License 1.0, `CUA-OPL-1.0`
+- CUPS Apple OS Exception to GPL and LGPL, `LicenseRef-scancode-cups-apple-os-exception`
+- Cygwin exception to GPL 2.0, `LicenseRef-scancode-cygwin-exception-2.0`
+- Cygwin exception to GPL 3.0 or later, `LicenseRef-scancode-cygwin-exception-3.0`
+- Cygwin exception to LGPL 3.0 or later, `LicenseRef-scancode-cygwin-exception-lgpl-3.0-plus`
+- Deutsche Bahn Inner Source License 1.0, `LicenseRef-scancode-dbisl-1.0`
+- David H. Bailey LBNL BSD License 2007, `LicenseRef-scancode-dhb-lbnl-bsd-2007`
+- David H. Bailey Limited BSD License 2015, `LicenseRef-scancode-dhb-limited-bsd-2015`
+- Digia Qt Exception to LGPL 2.1, `digia-qt-exception-lgpl-2.1`
+- DigiRule FOSS License Exception to GPL 2.0, `DigiRule-FOSS-exception`
+- DivX Open License v1.0, `LicenseRef-scancode-divx-open-1.0`
+- DivX Open License v2.1, `LicenseRef-scancode-divx-open-2.1`
+- DSTC Public License (DPL) v1.1, `LicenseRef-scancode-dpl-1.1`
+- DUNE exception to the GPL, `LicenseRef-scancode-dune-exception`
+- Eclipse Foundation Software User Agreement 2001, `LicenseRef-scancode-eclipse-sua-2001`
+- Eclipse Foundation Software User Agreement 2002, `LicenseRef-scancode-eclipse-sua-2002`
+- Eclipse Foundation Software User Agreement 2003, `LicenseRef-scancode-eclipse-sua-2003`
+- Eclipse Foundation Software User Agreement 2004, `LicenseRef-scancode-eclipse-sua-2004`
+- Eclipse Foundation Software User Agreement 2005, `LicenseRef-scancode-eclipse-sua-2005`
+- Eclipse Foundation Software User Agreement 2010, `LicenseRef-scancode-eclipse-sua-2010`
+- Eclipse Foundation Software User Agreement 2011, `LicenseRef-scancode-eclipse-sua-2011`
+- Eclipse Foundation Software User Agreement 2014, `LicenseRef-scancode-eclipse-sua-2014`
+- Eclipse Foundation Software User Agreement 2014-11, `LicenseRef-scancode-eclipse-sua-2014-11`
+- Eclipse Foundation Software User Agreement 2017, `LicenseRef-scancode-eclipse-sua-2017`
+- eCos Exception to GPL 2.0 or later, `eCos-exception-2.0`
+- EDRDG General Dictionary License 2000, `LicenseRef-scancode-edrdg-2000`
+- Ekiga exception to GPL 2.0 or later, `LicenseRef-scancode-ekiga-exception-2.0-plus`
+- Enhydra Public License 1.1, `LicenseRef-scancode-enhydra-1.1`
+- Eclipse Public License 1.0, `EPL-1.0`
+- Eclipse Public License 2.0, `EPL-2.0`
+- Erlang/OTP Linking Exception, `erlang-otp-linking-exception`
+- European Union Public Licence 1.1, `EUPL-1.1`
+- European Union Public Licence 1.2, `EUPL-1.2`
+- Eurosym License, `Eurosym`
+- Fawkes Runtime Exception to GPL 2.0 or later, `Fawkes-Runtime-exception`
+- Floodgap Free Software License v1, `LicenseRef-scancode-ffsl-1`
+- FLTK exception to LGPL 2.0, `FLTK-exception`
+- Font exception to GPL, `Font-exception-2.0`
+- Frameworx Open License v1.0, `Frameworx-1.0`
+- Fraunhofer FDK AAC Codec Library for Android, `FDK-AAC`
+- University of Washington Free-Fork License, `LicenseRef-scancode-free-fork`
+- FreeImage Public License Version 1.0, `FreeImage`
+- FreeRTOS exception to GPL 2.0, `freertos-exception-2.0`
+- Frontier Artistic License, `LicenseRef-scancode-frontier-1.0`
+- GCC Compiler exception to GPL 2.0, `LicenseRef-scancode-gcc-compiler-exception-2.0`
+- GCC Runtime Library exception to GPL 2.0 or later, `GCC-exception-2.0`
+- GCC Runtime Library exception 2.0 - note variant, `GCC-exception-2.0-note`
+- GCC Runtime Library Exception v3.0, `LicenseRef-scancode-gcc-exception-3.0`
+- GCC Runtime Library Exception v3.1, `GCC-exception-3.1`
+- Genode exception to AGPL 3.0, `LicenseRef-scancode-genode-agpl-3.0-exception`
+- GeoServer exception to GPL 2.0 or later, `LicenseRef-scancode-geoserver-exception-2.0-plus`
+- GNU Free Documentation License v1.1, `GFDL-1.1-only`
+- GNU Free Documentation License v1.1 or later, `GFDL-1.1-or-later`
+- GNU Free Documentation License v1.2, `GFDL-1.2-only`
+- GNU Free Documentation License v1.2 or later, `GFDL-1.2-or-later`
+- GNU Free Documentation License v1.3, `GFDL-1.3-only`
+- GNU Free Documentation License v1.3 or later, `GFDL-1.3-or-later`
+- GNU Free Documentation License v1.1 only - invariants, `GFDL-1.1-invariants-only`
+- GNU Free Documentation License v1.1 or later - invariants, `GFDL-1.1-invariants-or-later`
+- GNU Free Documentation License v1.1 only - no invariants, `GFDL-1.1-no-invariants-only`
+- GNU Free Documentation License v1.1 or later - no invariants, `GFDL-1.1-no-invariants-or-later`
+- GNU Free Documentation License v1.2 only - invariants, `GFDL-1.2-invariants-only`
+- GNU Free Documentation License v1.2 or later - invariants, `GFDL-1.2-invariants-or-later`
+- GNU Free Documentation License v1.2 only - no invariants, `GFDL-1.2-no-invariants-only`
+- GNU Free Documentation License v1.2 or later - no invariants, `GFDL-1.2-no-invariants-or-later`
+- GNU Free Documentation License v1.3 only - invariants, `GFDL-1.3-invariants-only`
+- GNU Free Documentation License v1.3 or later - invariants, `GFDL-1.3-invariants-or-later`
+- GNU Free Documentation License v1.3 only - no invariants, `GFDL-1.3-no-invariants-only`
+- GNU Free Documentation License v1.3 or later - no invariants, `GFDL-1.3-no-invariants-or-later`
+- GL2PS License, `GL2PS`
+- Gmsh exception, `Gmsh-exception`
+- Gnome GCR Documentation License, `GCR-docs`
+- GNU IO Library exception to GPL 2.0, `GNU-compiler-exception`
+- GNU JavaMail exception to GPL 2.0 or later, `gnu-javamail-exception`
+- GNU Libtool exception to GPL 2.0, `Libtool-exception`
+- GNU Libtool exception to LGPL, `LicenseRef-scancode-libtool-exception-lgpl`
+- gnuplot License, `gnuplot`
+- GPL 2.0 or GPL 3.0 with Syntext Serna exception, `gpl-2.0-plus-syntext`
+- GPL 2.0 or later with Ada exception, `gpl-2.0-plus-ada`
+- GPL 2.0 or later with AutoOpts exception, `gpl-2.0-autoopts`
+- GPL 2.0 or later with Bison 2.2 exception, `gpl-2.0-bison-2.2`
+- GPL 2.0 or later with eCos Exception, `eCos-2.0`
+- GPL 2.0 or later with Ekiga exception, `gpl-2.0-plus-ekiga`
+- GPL 2.0 or later with GCC exception, `gpl-2.0-plus-gcc`
+- GPL 2.0 or later with GCC Runtime Library exception, `GPL-2.0-with-GCC-exception`
+- GPL 2.0 or later with GeoServer exception, `gpl-2.0-plus-geoserver`
+- GPL 2.0 or later with Linking exception, `gpl-2.0-plus-linking`
+- GPL 2.0 or later with NAnt exception, `gpl-2.0-plus-nant`
+- GPL 2.0 or later with Open Motif exception, `gpl-2.0-plus-openmotif`
+- GPL 2.0 or later with SANE exception, `gpl-2.0-plus-sane`
+- GPL 2.0 or later with Subcommander exception, `gpl-2.0-plus-subcommander`
+- GPL 2.0 or later with UPX exception, `gpl-2.0-plus-upx`
+- GPL 2.0 with Autoconf exception, `GPL-2.0-with-autoconf-exception`
+- GPL 2.0 with bison exception, `gpl-2.0-bison`
+- GPL 2.0 with Broadcom Linking Exception, `gpl-2.0-broadcom-linking`
+- GPL 2.0 with classpath exception, `GPL-2.0-with-classpath-exception`
+- GPL 2.0 with Cygwin exception, `gpl-2.0-cygwin`
+- GPL 2.0 with Fedora Red Hat Exception, `gpl-2.0-redhat`
+- GPL 2.0 with font exception, `GPL-2.0-with-font-exception`
+- GPL 2.0 with FreeRTOS exception, `gpl-2.0-freertos`
+- GPL 2.0 with GCC compiler exception, `gpl-2.0-gcc-compiler-exception`
+- GPL 2.0 with GLibC exception, `gpl-2.0-glibc`
+- GPL 2.0 with GNU IO Library exception, `gpl-2.0-iolib`
+- GPL 2.0 with GNU Libtool exception, `gpl-2.0-libtool`
+- GPL 2.0 with GUILE exception, `gpl-2.0-guile`
+- GPL 2.0 with Independent Module Linking exception, `gpl-2.0-independent-module-linking`
+- GPL 2.0 with ISO C++ Library exception, `gpl-2.0-iso-cpp`
+- GPL 2.0 with Javascript exception, `gpl-2.0-javascript`
+- GPL 2.0 with Kernel Exception, `gpl-2.0-kernel`
+- GPL 2.0 with libgit2 exception, `gpl-2.0-libgit2`
+- GPL 2.0 with Library exception, `gpl-2.0-library`
+- GPL 2.0 with MySQL Connector ODBC exception, `gpl-2.0-mysql-connector-odbc`
+- GPL 2.0 with OpenJDK Classpath exception, `gpl-2.0-openjdk`
+- GPL 2.0 with OpenSSL exception, `gpl-2.0-openssl`
+- GPL 2.0 with Oracle OpenJDK classpath exception, `gpl-2.0-oracle-openjdk`
+- GPL 2.0 with ProGuard exception, `gpl-2.0-proguard`
+- GPL 2.0 with Qt-QCA exception, `gpl-2.0-qt-qca`
+- GPL 2.0 with RRDtool FLOSS Exception, `gpl-2.0-rrdtool-floss`
+- GPL 2.0 with U-Boot exception, `gpl-2.0-uboot`
+- GPL 3.0 or later with Bison exception, `gpl-3.0-bison`
+- GPL 3.0 or later with Cygwin exception, `gpl-3.0-cygwin`
+- GPL 3.0 or later with font exception, `gpl-3.0-font`
+- GPL 3.0 or later with OpenSSL exception, `gpl-3.0-plus-openssl`
+- GPL 3.0 with Autoconf exception, `GPL-3.0-with-autoconf-exception`
+- GPL 3.0 with GCC runtime library exception, `GPL-3.0-with-GCC-exception`
+- GPL Cooperation Commitment 1.0, `GPL-CC-1.0`
+- GPL-3.0 389 DS Base Exception, `GPL-3.0-389-ds-base-exception`
+- GPL-3.0 Interface Exception, `GPL-3.0-interface-exception`
+- GPL-3.0 Linking Exception, `GPL-3.0-linking-exception`
+- GPL-3.0 Linking Exception (with Corresponding Source), `GPL-3.0-linking-source-exception`
+- gSOAP Public License v1.3a, `LicenseRef-scancode-gsoap-1.3a`
+- gSOAP Public License v1.3b, `gSOAP-1.3b`
+- GStreamer exception to GPL 2.0 or later, `LicenseRef-scancode-gstreamer-exception-2.0`
+- GUILE exception to GPL 2.0, `harbour-exception`
+- H2 License 1.0, `LicenseRef-scancode-h2-1.0`
+- i2p GPL plus Java Exception, `i2p-gpl-java-exception`
+- Ice exception to GPL 2.0, `LicenseRef-scancode-ice-exception-2.0`
+- Imlib2 License, `Imlib2`
+- Independent Module Linking Exception, `Independent-modules-exception`
+- INRIA Linking Exception to QPL 1.0, `QPL-1.0-INRIA-2004-exception`
+- IPA Font License Agreement v1.0, `IPA`
+- IBM Public License, `IPL-1.0`
+- Jabber Open Source License 1.0, `LicenseRef-scancode-josl-1.0`
+- Javascript exception to GPL 2.0, `LicenseRef-scancode-javascript-exception-2.0`
+- KiCad Libraries Exception to CC-BY-SA-4.0, `KiCad-libraries-exception`
+- Kyoto Products Specific FOSS Library Linking Exception v1.0, `LicenseRef-scancode-dbmx-linking-exception-1.0`
+- Kyoto Products FOSS License Exception v1.0.9, `LicenseRef-scancode-dbmx-foss-exception-1.0.9`
+- Lattice Open Source License 2017, `LicenseRef-scancode-lattice-osl-2017`
+- GNU Library General Public License 2.0, `LGPL-2.0-only`
+- GNU Library General Public License 2.0 or later, `LGPL-2.0-or-later`
+- LGPL 2.0 or later with GCC Runtime Library exception, `lgpl-2.0-plus-gcc`
+- LGPL 2.0 with FLTK exception, `lgpl-2.0-fltk`
+- LGPL 2.0 with Mini-XML exception, `mini-xml`
+- GNU Lesser General Public License 2.1, `LGPL-2.1-only`
+- GNU Lesser General Public License 2.1 or later, `LGPL-2.1-or-later`
+- LGPL 2.1 or later with Linking exception, `lgpl-2.1-plus-linking`
+- LGPL 2.1 or later with Spell-Checker exception, `lgpl-2.1-spell-checker`
+- LGPL 2.1 or later with Unlimited linking exception, `lgpl-2.1-plus-unlimited-linking`
+- LGPL 2.1 with Digia Qt Exception, `lgpl-2.1-digia-qt`
+- LGPL 2.1 with Nokia Qt Exception, `lgpl-2.1-nokia-qt`
+- LGPL 2.1 with Qt Company Exception, `lgpl-2.1-qt-company`
+- LGPL 2.1 with Qt Company Exception 2017, `lgpl-2.1-qt-company-2017`
+- LGPL 2.1 with RXTX exception, `lgpl-2.1-rxtx`
+- GNU Lesser General Public License 3.0, `LGPL-3.0-only`
+- GNU Lesser General Public License 3.0 or later, `LGPL-3.0-or-later`
+- LGPL 3.0 or later with Cygwin exception, `lgpl-3.0-cygwin`
+- LGPL 3.0 or later with Linking exception, `lgpl-3-plus-linking`
+- LGPL 3.0 or later with OpenSSL exception, `lgpl-3.0-plus-openssl`
+- LGPL 3.0 with ZeroMQ exception, `lgpl-3.0-zeromq`
+- LGPL-3.0 Linking Exception, `LGPL-3.0-linking-exception`
+- Lesser General Public License For Linguistic Resources, `LGPLLR`
+- libticables2 exception to GPL 2.0, `LicenseRef-scancode-libticables2-exception-gpl-2.0`
+- GNU Libtool Exception, `libtool-exception`
+- libwebsockets exception to LGPL 2.1, `LicenseRef-scancode-libwebsockets-exception`
+- Licence Libre du Québec – Permissive version 1.1, `LiLiQ-P-1.1`
+- Licence Libre du Québec – Réciprocité version 1.1, `LiLiQ-R-1.1`
+- Linking exception to AGPL 3.0, `romic-exception`
+- Linking exception to GPL 2.0 or later, `LicenseRef-scancode-linking-exception-2.0-plus`
+- Linking exception to LGPL 2.0 or later, `LicenseRef-scancode-linking-exception-lgpl-2.0plus`
+- Linking exception to LGPL 2.1 or later, `LicenseRef-scancode-linking-exception-2.1-plus`
+- Linking exception to LGPL 3.0, `linking-exception-lgpl-3.0`
+- Linux man-pages - 1 paragraph, `Linux-man-pages-1-para`
+- Linux man-pages Copyleft - 2 paragraphs, `Linux-man-pages-copyleft-2-para`
+- Linux man-pages Copyleft Variant, `Linux-man-pages-copyleft-var`
+- Linux Syscall Exception to GPL, `Linux-syscall-note`
+- Lisp Lesser General Public License (LLPGL), `LLGPL`
+- LMBench exception to GPL 2.0, `LicenseRef-scancode-lmbench-exception-2.0`
+- LEGO Open Source License Agreement, `LicenseRef-scancode-losla`
+- Lucent Public License 1.0, `LPL-1.0`
+- Lucent Public License 1.02, `LPL-1.02`
+- LZMA exception to CPL 1.0, `LZMA-exception`
+- LZMA SDK 2006, `LicenseRef-scancode-lzma-sdk-2006`
+- LZMA SDK 2006 CPL and LGPL Exception, `LicenseRef-scancode-lzma-sdk-2006-exception`
+- LZMA SDK 2008, `LicenseRef-scancode-lzma-sdk-2008`
+- LZMA SDK Original, `LicenseRef-scancode-lzma-sdk-original`
+- Macros and Inline Functions Exception to GPL 2.0, `mif-exception`
+- Mini-XML exception to LGPL 2.0, `LicenseRef-scancode-mini-xml-exception-lgpl-2.0`
+- MLDonkey Exception to GPL 2.0, `LicenseRef-scancode-mldonkey-exception-gpl-2.0`
+- MonetDB Public License Version 1.1, `LicenseRef-scancode-monetdb-1.1`
+- Mozilla Public License 1.0, `MPL-1.0`
+- Mozilla Public License 1.1, `MPL-1.1`
+- Mozilla Public License 2.0, `MPL-2.0`
+- Mozilla Public License 2.0 (no copyleft exception), `MPL-2.0-no-copyleft-exception`
+- Microsoft Shared Source Community License, `LicenseRef-scancode-ms-cl`
+- Microsoft Reciprocal License, `MS-RL`
+- Mule Source Public License version 1.1.3, `LicenseRef-scancode-mule-source-1.1.3`
+- Mule Source Public License 1.1.4, `LicenseRef-scancode-mule-source-1.1.4`
+- MuseScore Exception to GPL 2.0, `LicenseRef-scancode-musescore-exception-gpl-2.0`
+- MySQL Connector ODBC exception to GPL 2.0, `LicenseRef-scancode-mysql-con-odbc-exception-2.0`
+- MySQL FLOSS exception to GPL 2.0, `LicenseRef-scancode-mysql-floss-exception-2.0`
+- MySQL linking exception 2018, `LicenseRef-scancode-mysql-linking-exception-2018`
+- NAnt exception to GPL 2.0 or later, `LicenseRef-scancode-nant-exception-2.0-plus`
+- NASA Open Source License v1.3, `NASA-1.3`
+- Net Boolean Public License 1.0, `NBPL-1.0`
+- Nethack General Public License, `NGPL`
+- Nokia Qt Exception to LGPL 2.1, `nokia-qt-exception-1.1`
+- Nokia Qt LGPL Exception v1.0, `lgpl-2.1-nokia-qt-1.0`
+- Nokia Qt LGPL Exception v1.1, `lgpl-2.1-nokia-qt-1.1`
+- Nokia Open Source License 1.0a, `Nokia`
+- Netizen Open Source License 1.0, `NOSL`
+- Noweb License, `Noweb`
+- Netscape Public License 1.0, `NPL-1.0`
+- Netscape Public License 1.1, `NPL-1.1`
+- OCaml LGPL Linking Exception, `OCaml-LGPL-linking-exception`
+- Open CASCADE Technology Public License, `OCCT-PL`
+- OCLC Research Public License 1.0, `LicenseRef-scancode-oclc-1.0`
+- OCLC Research Public License 2.0, `OCLC-2.0`
+- Oracle Community Source License v1.0, `LicenseRef-scancode-ocsl-1.0`
+- Oculus SDK License Agreement, `LicenseRef-scancode-oculus-sdk`
+- SIL Open Font License 1.1, `OFL-1.1`
+- Open Hardware Description License Version 1.0, `LicenseRef-scancode-ohdl-1.0`
+- Open CASCADE Exception to LGPL 2.1, `OCCT-exception-1.0`
+- Open Group Public License, `LicenseRef-scancode-open-group`
+- Open Group Public License, `LicenseRef-scancode-opengroup-pl`
+- Open Group Test Suite License, `OGTSL`
+- Open Motif exception to GPL 2.0 or later, `LicenseRef-scancode-openmotif-exception-2.0-plus`
+- Open Public License v1.0, `OPL-1.0`
+- OpenBD exception to GPL 3.0, `LicenseRef-scancode-openbd-exception-3.0`
+- OpenContent Public License v1.0, `LicenseRef-scancode-opl-1.0`
+- OpenI Public License 1.0, `LicenseRef-scancode-openi-pl-1.0`
+- OpenJDK Assembly exception to GPL 2.0, `OpenJDK-assembly-exception-1.0`
+- OpenJDK Classpath exception to GPL 2.0, `LicenseRef-scancode-openjdk-classpath-exception2.0`
+- OpenJDK Classpath and Assembly Exception, `LicenseRef-scancode-openjdk-exception`
+- OpenLDAP Public License 1.1, `OLDAP-1.1`
+- OpenLDAP Public License 1.2, `OLDAP-1.2`
+- OpenLDAP Public License 1.3, `OLDAP-1.3`
+- OpenLDAP Public License 1.4, `OLDAP-1.4`
+- OpenMap Software License Agreement, `LicenseRef-scancode-openmap`
+- OpenMRS Exception to MPL-2.0, `LicenseRef-scancode-openmrs-exception-to-mpl-2.0`
+- OpenPBS Software License v2.3, `OpenPBS-2.3`
+- OpenSSL exception to LGPL, `LicenseRef-scancode-openssl-exception-lgpl`
+- OpenSSL exception to LGPL 2.0 or later, `LicenseRef-scancode-openssl-exception-lgpl2.0plus`
+- OpenSSL exception to LGPL 3.0 or later, `LicenseRef-scancode-openssl-exception-lgpl3.0plus`
+- OpenVPN OpenSSL Exception to GPL, `openvpn-openssl-exception`
+- Oracle MySQL FOSS exception to GPL 2.0, `LicenseRef-scancode-oracle-mysql-foss-exception2.0`
+- Oracle OpenJDK classpath exception to GPL 2.0, `LicenseRef-scancode-oracle-openjdk-exception-2.0`
+- OSET Public License v2.1, `osetpl-2.1`
+- OSET Public License version 2.1, `OSET-PL-2.1`
+- Public Documentation License Version 1.0, `LicenseRef-scancode-pdl-1.0`
+- PfTijah Public License v1.1, `LicenseRef-scancode-pftijah-1.1`
+- ProGuard exception to GPL 2.0, `LicenseRef-scancode-proguard-exception-2.0`
+- PS/PDF font exception (2017-08-17), `PS-or-PDF-font-exception-20170817`
+- Q Public License 1.0 - INRIA 2004 variant, `QPL-1.0-INRIA-2004`
+- QCAD Exception to GPL, `LicenseRef-scancode-qcad-exception-gpl`
+- Qhull License, `Qhull`
+- Q Public License Version 1.0, `QPL-1.0`
+- QSkinny Exception to LGPL 2.1, `LicenseRef-scancode-qskinny-exception-lgpl-2.1`
+- Qt Company Exception to LGPL 2.1, `Digia-Qt-LGPL-exception-1.1`
+- Qt Company Exception to LGPL 2.1 2017, `qt-company-exception-2017-lgpl-2.1`
+- Qt GPL exception 1.0, `Qt-GPL-exception-1.0`
+- Qt LGPL exception 1.1, `Qt-LGPL-exception-1.1`
+- Qt Linking Exception to GPL 2.0 or later, `LicenseRef-scancode-qt-kde-linking-exception`
+- Qt-QCA exception to GPL 2.0, `LicenseRef-scancode-qt-qca-exception-2.0`
+- Qwt exception to LGPL 2.1, `Qwt-exception-1.0`
+- Qwt License 1.0 Deprecated, `qwt-1.0`
+- Radiance Software License, Version 2.0, `LicenseRef-scancode-radiance-sl-v2.0`
+- ReactOS Exception to GPL 2.0, `LicenseRef-scancode-reactos-exception-gpl-2.0`
+- RealNetworks Public Source License v1.0, `RPSL-1.0`
+- Red Hat LGPL-Based End User License Agreement, `LicenseRef-scancode-rh-eula-lgpl`
+- Ricoh Source Code Public License v1.0, `RSCPL`
+- Reciprocal Public License 1.1, `RPL-1.1`
+- Reciprocal Public License 1.5, `RPL-1.5`
+- RRDtool FLOSS Exception to GPL 2.0, `RRDtool-FLOSS-exception-2.0`
+- RTEMS exception to GPL 2.0, `LicenseRef-scancode-rtems-exception-2.0`
+- Ruby License, `Ruby`
+- RXTX exception to LGPL 2.1, `LicenseRef-scancode-rxtx-exception-lgpl-2.1`
+- SANE exception to GPL 2.0 or later, `SANE-exception`
+- Sendmail License 8.23, `Sendmail-8.23`
+- Signal Exception to GPL 3.0, `LicenseRef-scancode-signal-gpl-3.0-exception`
+- SKIP License 2014, `LicenseRef-scancode-skip-2014`
+- Secure Messaging Protocol Public License, `SMPPL`
+- Spell-Checker exception to LGPL 2.1 or later, `LicenseRef-scancode-spell-exception-lgpl-2.1-plus`
+- Sun Public License 1.0, `SPL-1.0`
+- Stanford mrouted License, `LicenseRef-scancode-stanford-mrouted`
+- StateWizard License Agreement, `LicenseRef-scancode-statewizard`
+- Stax License, `LicenseRef-scancode-stax`
+- stunnel Exception, `stunnel-exception`
+- Subcommander exception to GPL 2.0 or later, `LicenseRef-scancode-subcommander-exception-2.0plus`
+- Sun Community Source License 3.0, `LicenseRef-scancode-scsl-3.0`
+- Sun Solaris Source Code (Foundation Release) License 1.1, `LicenseRef-scancode-sun-ssscfr-1.1`
+- SWI exception to GPL 2.0 or later, `SWI-exception`
+- Syntext Serna exception to GPL 2.0 or GPL 3.0, `LicenseRef-scancode-syntext-serna-exception-1.0`
+- TAPR Open Hardware License v1.0, `TAPR-OHL-1.0`
+- TeX exception to GPL 3.0, `Texinfo-exception`
+- HuggingFace The Stack TOS 2023-07, `LicenseRef-scancode-the-stack-tos-2023-07`
+- Thor Public License, `TPL-1.0`
+- TORQUE v2.5+ Software License v1.1, `TORQUE-1.1`
+- Terracotta Public License 1.0, `LicenseRef-scancode-tpl-1.0`
+- Terracotta Public License 2.0, `LicenseRef-scancode-tpl-2.0`
+- TrueCrypt License 3.1, `LicenseRef-scancode-truecrypt-3.1`
+- U-Boot exception to GPL 2.0, `u-boot-exception-2.0`
+- Ubuntu Font Licence v1.0, `Ubuntu-font-1.0`
+- Upstream Compatibility License v1.0, `UCL-1.0`
+- Universal FOSS Exception v1.0, `Universal-FOSS-exception-1.0`
+- Unlimited linking exception to LGPL, `LicenseRef-scancode-unlimited-link-exception-lgpl`
+- Unmodified Binary Distribution Licence Exception, `UBDL-exception`
+- UPX exception to GPL 2.0 or later, `LicenseRef-scancode-upx-exception-2.0-plus`
+- US Government GeoTransform, `LicenseRef-scancode-us-govt-geotranform`
+- Utah Raster Toolkit Run Length Encoded License, `URT-RLE`
+- VCV Rack Non-Commercial Plugin License Exception to GPL 3.0, `LicenseRef-scancode-vcvrack-exception-to-gpl-3.0`
+- Viewflow Library Exception to AGPL 3.0, `LicenseRef-scancode-viewflow-agpl-3.0-exception`
+- Volatility Software License Version 1.0, `LicenseRef-scancode-volatility-vsl-v1.0`
+- Vtiger Public License 1.1, `LicenseRef-scancode-vpl-1.1`
+- Vtiger Public License 1.2, `LicenseRef-scancode-vpl-1.2`
+- vsftpd OpenSSL exception, `vsftpd-openssl-exception`
+- wxWindows Free Documentation Licence, Version 3, `LicenseRef-scancode-wxwindows-free-doc-3`
+- WxWindows Library Exception to GNU Licenses, `WxWindows-exception-3.1`
+- wxWindows Library Licence 3.1, `wxWindows`
+- wxWindows Restricted Licence 3.0, `LicenseRef-scancode-wxwindows-r-3.0`
+- Xenomai GPL Exception, `LicenseRef-scancode-xenomai-gpl-exception`
+- Yahoo! Public License v1.0, `YPL-1.0`
+- ZeroMQ exception to LGPL 3.0, `LicenseRef-scancode-zeromq-exception-lgpl-3.0`
+- Zimbra Public License v1.3, `Zimbra-1.3`
+- Zimbra Public License v1.4, `Zimbra-1.4`
 
 ## Free Restricted
 
-- Anti-Capitalist Software License (v 1.4), LicenseRef-scancode-anti-capitalist-1.4
-- Allen Institute Software License 2018, LicenseRef-scancode-allen-institute-software-2018
-- AMD Secure Encrypted Virtualization (SEV) Firmware License, LicenseRef-scancode-amd-aspf-2023
-- Anti 996 License Version 1.0 (Draft), LicenseRef-scancode-996-icu-1.0
-- Apple MPEG-4 License, LicenseRef-scancode-apple-mpeg-4
-- Artop Software License for Preparatory Development, LicenseRef-scancode-aslp
-- ASWF Digital Assets License v1.0, ASWF-Digital-Assets-1.0
-- ASWF Digital Assets License v1.1, ASWF-Digital-Assets-1.1
-- AuthorizeNet Software Development Kit (SDK) License Agreement, LicenseRef-scancode-authorizenet-sdk
-- AVC/H.264 Patent Portfolio License, LicenseRef-scancode-cisco-avch264-patent
-- Brad Martinez VB-32 License, LicenseRef-scancode-brad-martinez-vb-32
-- Brankas Open License 1.0, LicenseRef-scancode-brankas-open-license-1.0
-- BSD 3-Clause No Nuclear Warranty, BSD-3-Clause-No-Nuclear-Warranty
-- BSD-3-Clause-No-Military, BSD-3-Clause-No-Military-License
-- Caldera License, Caldera
-- Cavium Targeted Hardware License, LicenseRef-scancode-cavium-targeted-hardware
-- CCLRC License, LicenseRef-scancode-cclrc
-- Colt License Agreement, LicenseRef-scancode-colt
-- Computational Use of Data Agreement v1.0, C-UDA-1.0
-- Civilian Open Source License, LicenseRef-scancode-cosli
-- Code Project Open License (CPOL) 1.0, LicenseRef-scancode-cpol-1.0
-- Code Project Open License (CPOL) 1.02, CPOL-1.02
-- CSLA .NET License, LicenseRef-scancode-csla
-- Dennis Ferguson License, LicenseRef-scancode-dennis-ferguson
-- Datenlizenz Deutschland - Namensnennung - nicht kommerziell - Version 1.0 - Deutsch, LicenseRef-scancode-dl-de-by-nc-1-0-de
-- Data licence Germany - attribution - non-commercial - Version 1.0 - English, LicenseRef-scancode-dl-de-by-nc-1-0-en
-- Dynarch Linkware Agreement, LicenseRef-scancode-dynarch-linkware
-- Ecma Documentation License, LicenseRef-scancode-ecma-documentation
-- Embedthis Extension License, LicenseRef-scancode-embedthis-extension
-- GridGain Community Edition License 2022, LicenseRef-scancode-gcel-2022
-- Hippocratic License v1.0, LicenseRef-scancode-hippocratic-1.0
-- Hippocratic License v1.1, LicenseRef-scancode-hippocratic-1.1
-- Hippocratic License v2.0, LicenseRef-scancode-hippocratic-2.0
-- Hippocratic License v1.2, LicenseRef-scancode-hippocratic-1.2
-- Hippocratic License v2.1, Hippocratic-2.1
-- Hippocratic License v3.0, LicenseRef-scancode-Hippocratic-3.0
-- HP Netperf License, LicenseRef-scancode-hp-netperf
-- Historical Permission Notice and Disclaimer - University of California, US export warning, HPND-UC-export-US
-- HPND with US Government export control warning and acknowledgment, HPND-export-US-acknowledgement
-- HPND with US Government export control warning, HPND-export-US
-- Internet Computer Community Source License 1.0, LicenseRef-scancode-ic-1.0
-- Internet Computer Shared Community Source License 1.0, LicenseRef-scancode-ic-shared-1.0
-- IMAGEN License, LicenseRef-scancode-imagen
-- InstallSite License Agreement, LicenseRef-scancode-installsite
-- Intel Simplified Software License (Version April 2018), LicenseRef-scancode-issl-2018
-- Intel Simplified Software License (Version October 2022), LicenseRef-scancode-issl-2022
-- ITU-T License, LicenseRef-scancode-itu-t
-- Jam STAPL Software License, LicenseRef-scancode-jam-stapl
-- JAMon License, LicenseRef-scancode-jamon
-- JJ2000 License, LicenseRef-scancode-jj2000
-- JPEG XR License, LicenseRef-scancode-jpegxr
-- JPRS Open Source Code License v1.1, LicenseRef-scancode-jprs-oscl-1.1
-- Karl Peterson License, LicenseRef-scancode-karl-peterson
-- LHA, LicenseRef-scancode-lha
-- Madwifi License Agreement, LicenseRef-scancode-bsd-no-mod
-- MAME license, LicenseRef-scancode-mame
-- Manfred Klein Fonts TOS, LicenseRef-scancode-manfred-klein-fonts-tos
-- Matthew Welch Font License, LicenseRef-scancode-matthew-welch-font-license
-- MaxMind Open Data License, LicenseRef-scancode-maxmind-odl
-- Mike95 License, LicenseRef-scancode-mike95
-- Monkeys Audio License Agreement, LicenseRef-scancode-monkeysaudio
-- Microsoft Specification License, LicenseRef-scancode-ms-specification
-- MVT License 1.1, LicenseRef-scancode-mvt-1.1
-- Naughter Software License, LicenseRef-scancode-naughter
-- Non-Commercial Government Licence, NCGL-UK-2.0
-- Obsolete Font License 1.0, unbuntu-font-1.0
-- OFRAK Community License Agreement 1.0, LicenseRef-scancode-ofrak-community-1.0
-- Oracle BSD-Style with Nuclear Restrictions, BSD-3-Clause-No-Nuclear-License-2014
-- Oracle Code Samples BSD-Style License, LicenseRef-scancode-oracle-code-samples-bsd
-- Paul Hsieh Derivative License, LicenseRef-scancode-paul-hsieh-derivative
-- Paul Hsieh Exposition License, LicenseRef-scancode-paul-hsieh-exposition
-- Permissive Binary License 1.0, LicenseRef-scancode-pbl-1.0
-- Pixabay Content License, LicenseRef-scancode-pixabay-content
-- Planet Source Code License, LicenseRef-scancode-planet-source-code
-- Qualcomm ISO/IEC MPEG-B DASH License, LicenseRef-scancode-qualcomm-iso
-- Rackspace License, LicenseRef-scancode-rackspace
-- Riverbank SIP License, LicenseRef-scancode-riverbank-sip
-- RSA Data Security MD2, LicenseRef-scancode-rsa-md2
-- SGI Free Software License B v1.0, SGI-B-1.0
-- Six Labors Split License 1.0, LicenseRef-scancode-six-labors-split-1.0
-- Slint Royalty-free Desktop and Web Applications License, version 1.0.1, LicenseRef-scancode-slint-royalty-free-1.0
-- STMicro BSD Restricted, LicenseRef-scancode-st-bsd-restricted
-- STMicroelectronics CentralLabs License, LicenseRef-scancode-stmicroelectronics-centrallabs
-- Sun BSD-Style with Additional Restrictions, LicenseRef-scancode-sun-bsd-extra
-- Sun BSD-Style with Nuclear Restrictions, BSD-3-Clause-No-Nuclear-License
-- Sun Industry Standards Source License 1.0, LicenseRef-scancode-sun-sissl-1.0
-- Sun No High Risk Activities License, LicenseRef-scancode-sun-no-high-risk-activities
-- Sustainable Use License 1.0, SUL-1.0
-- Synopsys Attribution License, LicenseRef-scancode-synopsys-attribution
-- Thomas Bandt License, LicenseRef-scancode-thomas-bandt
-- Toronto Region Conservation Authority Open Data Licence 1.0, LicenseRef-scancode-trca-odl-1.0
-- TXL 10.5 License, LicenseRef-scancode-txl-10.5
-- Unsplash License, LicenseRef-scancode-unsplash
-- vbAccelerator Distribution Notice, LicenseRef-scancode-vbaccelerator
-- W3C Documentation License, LicenseRef-scancode-w3c-documentation
-- W3C Test Suite Licence, LicenseRef-scancode-w3c-test-suite
-- W3C Document Notice and License (1999-04-05), LicenseRef-scancode-w3c-docs-19990405
-- W3C Document License (2002-12-31), LicenseRef-scancode-w3c-docs-20021231
-- Waterfall Feed Parser License, LicenseRef-scancode-waterfall-feed-parser
-- Woodruff Restricted MIT 2002, LicenseRef-scancode-woodruff-2002
-- Xilinx License 2016, LicenseRef-scancode-xilinx-2016
+- Anti-Capitalist Software License (v 1.4), `LicenseRef-scancode-anti-capitalist-1.4`
+- Allen Institute Software License 2018, `LicenseRef-scancode-allen-institute-software-2018`
+- AMD Secure Encrypted Virtualization (SEV) Firmware License, `LicenseRef-scancode-amd-aspf-2023`
+- Anti 996 License Version 1.0 (Draft), `LicenseRef-scancode-996-icu-1.0`
+- Apple MPEG-4 License, `LicenseRef-scancode-apple-mpeg-4`
+- Artop Software License for Preparatory Development, `LicenseRef-scancode-aslp`
+- ASWF Digital Assets License v1.0, `ASWF-Digital-Assets-1.0`
+- ASWF Digital Assets License v1.1, `ASWF-Digital-Assets-1.1`
+- AuthorizeNet Software Development Kit (SDK) License Agreement, `LicenseRef-scancode-authorizenet-sdk`
+- AVC/H.264 Patent Portfolio License, `LicenseRef-scancode-cisco-avch264-patent`
+- Brad Martinez VB-32 License, `LicenseRef-scancode-brad-martinez-vb-32`
+- Brankas Open License 1.0, `LicenseRef-scancode-brankas-open-license-1.0`
+- BSD 3-Clause No Nuclear Warranty, `BSD-3-Clause-No-Nuclear-Warranty`
+- BSD-3-Clause-No-Military, `BSD-3-Clause-No-Military-License`
+- Caldera License, `Caldera`
+- Cavium Targeted Hardware License, `LicenseRef-scancode-cavium-targeted-hardware`
+- CCLRC License, `LicenseRef-scancode-cclrc`
+- Colt License Agreement, `LicenseRef-scancode-colt`
+- Computational Use of Data Agreement v1.0, `C-UDA-1.0`
+- Civilian Open Source License, `LicenseRef-scancode-cosli`
+- Code Project Open License (CPOL) 1.0, `LicenseRef-scancode-cpol-1.0`
+- Code Project Open License (CPOL) 1.02, `CPOL-1.02`
+- CSLA .NET License, `LicenseRef-scancode-csla`
+- Dennis Ferguson License, `LicenseRef-scancode-dennis-ferguson`
+- Datenlizenz Deutschland - Namensnennung - nicht kommerziell - Version 1.0 - Deutsch, `LicenseRef-scancode-dl-de-by-nc-1-0-de`
+- Data licence Germany - attribution - non-commercial - Version 1.0 - English, `LicenseRef-scancode-dl-de-by-nc-1-0-en`
+- Dynarch Linkware Agreement, `LicenseRef-scancode-dynarch-linkware`
+- Ecma Documentation License, `LicenseRef-scancode-ecma-documentation`
+- Embedthis Extension License, `LicenseRef-scancode-embedthis-extension`
+- GridGain Community Edition License 2022, `LicenseRef-scancode-gcel-2022`
+- Hippocratic License v1.0, `LicenseRef-scancode-hippocratic-1.0`
+- Hippocratic License v1.1, `LicenseRef-scancode-hippocratic-1.1`
+- Hippocratic License v2.0, `LicenseRef-scancode-hippocratic-2.0`
+- Hippocratic License v1.2, `LicenseRef-scancode-hippocratic-1.2`
+- Hippocratic License v2.1, `Hippocratic-2.1`
+- Hippocratic License v3.0, `LicenseRef-scancode-Hippocratic-3.0`
+- HP Netperf License, `LicenseRef-scancode-hp-netperf`
+- Historical Permission Notice and Disclaimer - University of California, US export warning, `HPND-UC-export-US`
+- HPND with US Government export control warning and acknowledgment, `HPND-export-US-acknowledgement`
+- HPND with US Government export control warning, `HPND-export-US`
+- Internet Computer Community Source License 1.0, `LicenseRef-scancode-ic-1.0`
+- Internet Computer Shared Community Source License 1.0, `LicenseRef-scancode-ic-shared-1.0`
+- IMAGEN License, `LicenseRef-scancode-imagen`
+- InstallSite License Agreement, `LicenseRef-scancode-installsite`
+- Intel Simplified Software License (Version April 2018), `LicenseRef-scancode-issl-2018`
+- Intel Simplified Software License (Version October 2022), `LicenseRef-scancode-issl-2022`
+- ITU-T License, `LicenseRef-scancode-itu-t`
+- Jam STAPL Software License, `LicenseRef-scancode-jam-stapl`
+- JAMon License, `LicenseRef-scancode-jamon`
+- JJ2000 License, `LicenseRef-scancode-jj2000`
+- JPEG XR License, `LicenseRef-scancode-jpegxr`
+- JPRS Open Source Code License v1.1, `LicenseRef-scancode-jprs-oscl-1.1`
+- Karl Peterson License, `LicenseRef-scancode-karl-peterson`
+- LHA, `LicenseRef-scancode-lha`
+- Madwifi License Agreement, `LicenseRef-scancode-bsd-no-mod`
+- MAME license, `LicenseRef-scancode-mame`
+- Manfred Klein Fonts TOS, `LicenseRef-scancode-manfred-klein-fonts-tos`
+- Matthew Welch Font License, `LicenseRef-scancode-matthew-welch-font-license`
+- MaxMind Open Data License, `LicenseRef-scancode-maxmind-odl`
+- Mike95 License, `LicenseRef-scancode-mike95`
+- Monkeys Audio License Agreement, `LicenseRef-scancode-monkeysaudio`
+- Microsoft Specification License, `LicenseRef-scancode-ms-specification`
+- MVT License 1.1, `LicenseRef-scancode-mvt-1.1`
+- Naughter Software License, `LicenseRef-scancode-naughter`
+- Non-Commercial Government Licence, `NCGL-UK-2.0`
+- Obsolete Font License 1.0, `unbuntu-font-1.0`
+- OFRAK Community License Agreement 1.0, `LicenseRef-scancode-ofrak-community-1.0`
+- Oracle BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License-2014`
+- Oracle Code Samples BSD-Style License, `LicenseRef-scancode-oracle-code-samples-bsd`
+- Paul Hsieh Derivative License, `LicenseRef-scancode-paul-hsieh-derivative`
+- Paul Hsieh Exposition License, `LicenseRef-scancode-paul-hsieh-exposition`
+- Permissive Binary License 1.0, `LicenseRef-scancode-pbl-1.0`
+- Pixabay Content License, `LicenseRef-scancode-pixabay-content`
+- Planet Source Code License, `LicenseRef-scancode-planet-source-code`
+- Qualcomm ISO/IEC MPEG-B DASH License, `LicenseRef-scancode-qualcomm-iso`
+- Rackspace License, `LicenseRef-scancode-rackspace`
+- Riverbank SIP License, `LicenseRef-scancode-riverbank-sip`
+- RSA Data Security MD2, `LicenseRef-scancode-rsa-md2`
+- SGI Free Software License B v1.0, `SGI-B-1.0`
+- Six Labors Split License 1.0, `LicenseRef-scancode-six-labors-split-1.0`
+- Slint Royalty-free Desktop and Web Applications License, version 1.0.1, `LicenseRef-scancode-slint-royalty-free-1.0`
+- STMicro BSD Restricted, `LicenseRef-scancode-st-bsd-restricted`
+- STMicroelectronics CentralLabs License, `LicenseRef-scancode-stmicroelectronics-centrallabs`
+- Sun BSD-Style with Additional Restrictions, `LicenseRef-scancode-sun-bsd-extra`
+- Sun BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License`
+- Sun Industry Standards Source License 1.0, `LicenseRef-scancode-sun-sissl-1.0`
+- Sun No High Risk Activities License, `LicenseRef-scancode-sun-no-high-risk-activities`
+- Sustainable Use License 1.0, `SUL-1.0`
+- Synopsys Attribution License, `LicenseRef-scancode-synopsys-attribution`
+- Thomas Bandt License, `LicenseRef-scancode-thomas-bandt`
+- Toronto Region Conservation Authority Open Data Licence 1.0, `LicenseRef-scancode-trca-odl-1.0`
+- TXL 10.5 License, `LicenseRef-scancode-txl-10.5`
+- Unsplash License, `LicenseRef-scancode-unsplash`
+- vbAccelerator Distribution Notice, `LicenseRef-scancode-vbaccelerator`
+- W3C Documentation License, `LicenseRef-scancode-w3c-documentation`
+- W3C Test Suite Licence, `LicenseRef-scancode-w3c-test-suite`
+- W3C Document Notice and License (1999-04-05), `LicenseRef-scancode-w3c-docs-19990405`
+- W3C Document License (2002-12-31), `LicenseRef-scancode-w3c-docs-20021231`
+- Waterfall Feed Parser License, `LicenseRef-scancode-waterfall-feed-parser`
+- Woodruff Restricted MIT 2002, `LicenseRef-scancode-woodruff-2002`
+- Xilinx License 2016, `LicenseRef-scancode-xilinx-2016`
 
 ## Patent License
 
-- Adobe Digital Negative (DNG) Specification patent license, LicenseRef-scancode-adobe-dng-spec-patent
-- Broadcom Opus Patent License, LicenseRef-scancode-broadcom-opus-patent
-- Facebook Additional Grant of Patent Rights Version 2, LicenseRef-scancode-facebook-patent-rights-2
-- FreeType Patent Grant, LicenseRef-scancode-freetype-patent
-- Google Patent License, LicenseRef-scancode-google-patent-license
-- Google Patent License for Fuchsia, LicenseRef-scancode-google-patent-license-fuchsia
-- Google Patent License for Fuschia, google-patent-license-fuschia
-- Google Patent License for Go, LicenseRef-scancode-google-patent-license-golang
-- Google Patent License for WebM, LicenseRef-scancode-google-patent-license-webm
-- Google Patent License for WebRTC, LicenseRef-scancode-google-patent-license-webrtc
-- Microsoft Patent Promise for Mono, LicenseRef-scancode-ms-patent-promise-mono
-- Mozilla Open Software Patent License Agreement v1, LicenseRef-scancode-mozilla-ospl-1.0
-- Microsoft Opus Patent Terms 2012, LicenseRef-scancode-ms-opus-patent-2012
-- Microsoft Patent Promise for .NET Libraries and Runtime Components, LicenseRef-scancode-ms-patent-promise
-- On2 VP3 Codec Software Patent grant, LicenseRef-scancode-on2-patent
-- Alliance for Open Media Patent License 1.0, LicenseRef-scancode-alliance-open-media-patent-1.0
-- OWFa 1.0 - Patent and Copyright Grants, LicenseRef-scancode-owfa-1.0
-- OWFa 1.0 - Patent Only, LicenseRef-scancode-owfa-1.0-patent-only
-- Patent Disclaimer for OpenSSL, LicenseRef-scancode-openssl-nokia-psk-contribution
-- Xiph Opus Patent License, LicenseRef-scancode-xiph-patent
+- Adobe Digital Negative (DNG) Specification patent license, `LicenseRef-scancode-adobe-dng-spec-patent`
+- Broadcom Opus Patent License, `LicenseRef-scancode-broadcom-opus-patent`
+- Facebook Additional Grant of Patent Rights Version 2, `LicenseRef-scancode-facebook-patent-rights-2`
+- FreeType Patent Grant, `LicenseRef-scancode-freetype-patent`
+- Google Patent License, `LicenseRef-scancode-google-patent-license`
+- Google Patent License for Fuchsia, `LicenseRef-scancode-google-patent-license-fuchsia`
+- Google Patent License for Fuschia, `google-patent-license-fuschia`
+- Google Patent License for Go, `LicenseRef-scancode-google-patent-license-golang`
+- Google Patent License for WebM, `LicenseRef-scancode-google-patent-license-webm`
+- Google Patent License for WebRTC, `LicenseRef-scancode-google-patent-license-webrtc`
+- Microsoft Patent Promise for Mono, `LicenseRef-scancode-ms-patent-promise-mono`
+- Mozilla Open Software Patent License Agreement v1, `LicenseRef-scancode-mozilla-ospl-1.0`
+- Microsoft Opus Patent Terms 2012, `LicenseRef-scancode-ms-opus-patent-2012`
+- Microsoft Patent Promise for .NET Libraries and Runtime Components, `LicenseRef-scancode-ms-patent-promise`
+- On2 VP3 Codec Software Patent grant, `LicenseRef-scancode-on2-patent`
+- Alliance for Open Media Patent License 1.0, `LicenseRef-scancode-alliance-open-media-patent-1.0`
+- OWFa 1.0 - Patent and Copyright Grants, `LicenseRef-scancode-owfa-1.0`
+- OWFa 1.0 - Patent Only, `LicenseRef-scancode-owfa-1.0-patent-only`
+- Patent Disclaimer for OpenSSL, `LicenseRef-scancode-openssl-nokia-psk-contribution`
+- Xiph Opus Patent License, `LicenseRef-scancode-xiph-patent`
 
 ## Permissive
 
-- 3Com Microcode, LicenseRef-scancode-3com-microcode
-- 3D Slicer Contribution and Software License Agreement v1.0, 3D-Slicer-1.0
-- 4Suite License v1.1, LicenseRef-scancode-4suite-1.1
-- Attribution Assurance License, AAL
-- Abstyles License, Abstyles
-- ACE TAO License, DOC
-- AdaCore Doc License, AdaCore-doc
-- ADI BSD License, LicenseRef-scancode-adi-bsd
-- Adobe Glyph License, Adobe-Glyph
-- Adobe Postscript AFM License, APAFML
-- Adobe Systems Incorporated Source Code License Agreement, Adobe-2006
-- Adobe Utopia Font License, Adobe-Utopia
-- Academic Free License 1.1, AFL-1.1
-- Academic Free License 1.2, AFL-1.2
-- Academic Free License 2.0, AFL-2.0
-- Academic Free License 2.1, AFL-2.1
-- Academic Free License 3.0, AFL-3.0
-- afmparse License, Afmparse
-- Agere Systems BSD Software license, LicenseRef-scancode-agere-bsd
-- Access Grid Toolkit Public License (AGTPL), LicenseRef-scancode-agtpl
-- Aladdin MD5 License, aladdin-md5
-- Alexisisaac Freeware License, LicenseRef-scancode-alexisisaac-freeware
-- Allegro 4 License, Giftware
-- Altera License, Xnet
-- Amazon Digital Services License, ADSL
-- AMD Historical License, AMD-newlib
-- AMD PLPA License, AMDPLPA
-- Academy of Motion Picture Arts and Sciences BSD-Style, AMPAS
-- AMSFonts license, LicenseRef-scancode-ams-fonts
-- Andre Adrian DFS license, LicenseRef-scancode-adrian
-- ANTLR Software Rights Notice, ANTLR-PD
-- Australian National University License, LicenseRef-scancode-anu-license
-- Apache License 1.0, Apache-1.0
-- Apache License 1.1, Apache-1.1
-- Apache License 2.0, Apache-2.0
-- Apache 2.0 with Linking Exception, apache-2.0-linking-exception
-- Apache 2.0 with Runtime Library Exception, apache-2.0-runtime-library-exception
-- Apache Due Credit Variant, apache-due-credit
-- Apache Patent Provision Exception Deprecated, apache-patent-provision-exception
-- Apache Patent Provision Exception Terms, mxml-exception
-- Apache Exception LLVM, apache-exception-llvm
-- App::s2p License, App-s2p
-- Apple Attribution License 1997, LicenseRef-scancode-apple-attribution-1997
-- Apple Attribution License, LicenseRef-scancode-apple-attribution
-- Apple Example Code License, LicenseRef-scancode-apple-excl
-- Apple Sample Code License 2006, AML
-- Apple ML Ferret License 2023, LicenseRef-scancode-apple-ml-ferret-2023
-- Apple Sample Source Code License, LicenseRef-scancode-apple-sscl
-- Aravindan Premkumar Licenase, LicenseRef-scancode-aravindan-premkumar
-- ArgoUML License, LicenseRef-scancode-argouml
-- ARM LLVM Software Grant License Agreement, LicenseRef-scancode-arm-llvm-sga
-- Array Input Method Public License, LicenseRef-scancode-array-input-method-pl
-- ASMUS License, LicenseRef-scancode-asmus
-- ASN.1 Object Dumping Code License, LicenseRef-scancode-asn1
-- Aspell Russian License, Aspell-RU
-- Atkinson Hyperlegible Font License, LicenseRef-scancode-atkinson-hyperlegible-font
-- Baekmuk Fonts License, Baekmuk
-- Bahyph License, Bahyph
-- BaKoMa Fonts Licence 1995, LicenseRef-scancode-bakoma-fonts-1995
-- Barr TeX License, Barr
-- bcrypt Solar Designer License, bcrypt-Solar-Designer
-- BEA Public License 2.1, LicenseRef-scancode-bea-2.1
-- Beal Screamer License, LicenseRef-scancode-beal-screamer
-- Beer-Ware License, Beerware
-- BERI Hardware-Software License v1.0, LicenseRef-scancode-beri-hw-sw-1.0
-- BigDigits License, LicenseRef-scancode-bigdigits
-- Bigelow & Holmes Lucida Fonts License, Lucida-Bitmap-Fonts
-- Biopython License Agreement, LicenseRef-scancode-biopython
-- Bitstream Vera Font License, Bitstream-Vera
-- Bitzi Public Domain, LicenseRef-scancode-bitzi-pd
-- BLAS License 2017, LicenseRef-scancode-blas-2017
-- Blue Oak Model License 1.0.0, BlueOak-1.0.0
-- The Balloon Open Hardware License v0.2, LicenseRef-scancode-bohl-0.2
-- BOLA - Buena Onda License Agreement (v1.0), LicenseRef-scancode-bola10
-- BOLA - Buena Onda License Agreement (v1.1), LicenseRef-scancode-bola11
-- Boost Software License 1.0, BSL-1.0
-- Boost Original, LicenseRef-scancode-boost-original
-- Borceux License, Borceux
-- Boutell libgd declarations 2021, LicenseRef-scancode-boutell-libgd-2021
-- bpmn.io License, LicenseRef-scancode-bpmn-io
-- Brent Corkum License, LicenseRef-scancode-brent-corkum
-- Brian Clapper License, LicenseRef-scancode-brian-clapper
-- Brian Gladman 3-Clause License, LicenseRef-scancode-brian-gladman-3-clause
-- Brian Gladman Dual BSD-GPL, Brian-Gladman-3-Clause
-- Brian Gladman License, Brian-Gladman-2-Clause
-- Broadcom CFE License, LicenseRef-scancode-broadcom-cfe
-- Broadcom Warranty Disclaimer, LicenseRef-scancode-broadcom-linux-timer
-- Brocade Firmware License, LicenseRef-scancode-brocade-firmware
-- Bruno Podetti License, LicenseRef-scancode-bruno-podetti
-- BSD 1988, LicenseRef-scancode-bsd-1988
-- BSD 2-Clause - first lines requirement, BSD-2-Clause-first-lines
-- BSD 2-Clause pkgconf disclaimer variant, BSD-2-Clause-pkgconf-disclaimer
-- BSD 3-Clause Devine, LicenseRef-scancode-bsd-3-clause-devine
-- BSD 3-Clause FDA, LicenseRef-scancode-bsd-3-clause-fda
-- BSD 3-Clause jtag, LicenseRef-scancode-bsd-3-clause-jtag
-- BSD 3-Clause No Change, LicenseRef-scancode-bsd-3-clause-no-change
-- BSD 3-Clause no trademark, LicenseRef-scancode-bsd-3-clause-no-trademark
-- BSD 3-Clause Open MPI variant, BSD-3-Clause-Open-MPI
-- BSD 3-Clause Sun, BSD-3-Clause-Sun
-- BSD 3-Clause with GPL reference, LicenseRef-scancode-bsd-top-gpl-addition
-- BSD Acknowledgment (Carrot2) License, LicenseRef-scancode-bsd-ack-carrot2
-- BSD Acknowledgment License, BSD-3-Clause-Attribution
-- BSD Advertising Acknowledgement License, BSD-Advertising-Acknowledgement
-- BSD Artwork License, LicenseRef-scancode-bsd-artwork
-- BSD Atmel License, LicenseRef-scancode-bsd-atmel
-- BSD Distributed Processing Technology License, LicenseRef-scancode-bsd-dpt
-- BSD Endorsement Allowed, LicenseRef-scancode-bsd-endorsement-allowed
-- BSD GNU EFI License 2000, LicenseRef-scancode-bsd-gnu-efi
-- BSD Intel License, bsd-intel
-- BSD plus modification notice, LicenseRef-scancode-bsd-plus-mod-notice
-- BSD Simplified Darwin, BSD-2-Clause-Darwin
-- BSD Source Code Attribution, BSD-Source-Code
-- BSD Simplified with Unchanged requirement, LicenseRef-scancode-bsd-unchanged
-- BSD Simplified with Unmodified requirement, LicenseRef-scancode-bsd-unmodified
-- BSD Zero Clause License, 0BSD
-- BSD-1-Clause, BSD-1-Clause
-- BSD-1-Clause Build system, LicenseRef-scancode-bsd-1-clause-build
-- BSD-2-Clause, BSD-2-Clause
-- BSD-2-Clause without Warranty Disclaimer, LicenseRef-scancode-bsd-no-disclaimer
-- BSD-2-Clause without Warranty Disclaimer with Unmodified requirement, LicenseRef-scancode-bsd-no-disclaimer-unmodified
-- BSD-2-Clause Plus Patent, BSD-2-Clause-Patent
-- BSD-2-Clause-FreeBSD License, bsd-2-clause-freebsd
-- BSD-2-Clause-NetBSD License, bsd-2-clause-netbsd
-- BSD-2-Clause-plus-advertizing, LicenseRef-scancode-bsd-2-clause-plus-advertizing
-- BSD 2-Clause with views sentence, BSD-2-Clause-Views
-- BSD-3-Clause, BSD-3-Clause
-- BSD-3-Clause tcpdump variant, LicenseRef-scancode-bsd-new-tcpdump
-- BSD-3-Clause with Far Manager exception, bsd-new-far-manager
-- BSD-3-Clause without notice modification, LicenseRef-scancode-bsd-new-nomod
-- BSD-3-Clause with X11 disclaimer, LicenseRef-scancode-bsd-x11
-- BSD-4-Clause with Voices in Head, LicenseRef-scancode-bsd-original-voices
-- BSD-4-Clause-Shortened, BSD-4-Clause-Shortened
-- BSD-Axis, bsd-axis
-- BSD-Axis without modification, LicenseRef-scancode-bsd-axis-nomod
-- BSD-Credit, LicenseRef-scancode-bsd-credit
-- BSD-Derivative, LicenseRef-scancode-bsd-new-derivative
-- BSD-Export, LicenseRef-scancode-bsd-export
-- BSD-Inferno-Nettverk, BSD-Inferno-Nettverk
-- BSD-InnoSys, LicenseRef-scancode-bsd-innosys
-- BSD-Mylex, LicenseRef-scancode-bsd-mylex
-- BSD-Original, BSD-4-Clause
-- BSD-Original-Muscle, LicenseRef-scancode-bsd-original-muscle
-- BSD-Original-UC, BSD-4-Clause-UC
-- BSD-Original-UC-1986, BSD-4.3RENO
-- BSD-Original-UC-1990, bsd-original-uc-1990
-- BSD-Simplified Intel, LicenseRef-scancode-bsd-simplified-intel
-- BSD-Simplified source, LicenseRef-scancode-bsd-simplified-source
-- BSD-Top, BSD-Source-beginning-file
-- Berkeley Software License Agreement, BSD-4.3TAHOE
-- Berkeley Software License Agreement with no advertizing, LicenseRef-scancode-bsla-no-advert
-- BYTEmark License, LicenseRef-scancode-bytemark
-- bzip2 License, bzip2-libbzip-1.0.5
-- bzip2 License 2010, bzip2-1.0.6
-- Computer Associates Open Source Software License 1.0, LicenseRef-scancode-ca-ossl-1.0
-- Caldera License (without preamble), Caldera-no-preamble
-- Common Attack Pattern Enumeration and Classification ToU, LicenseRef-scancode-capec-tou
-- Caramel Software License 1.0, LicenseRef-scancode-caramel-1.0
-- Careware License, LicenseRef-scancode-careware
-- Carnegie Mellon Contributors License, CMU-Mach
-- Carnegie Mellon License, LicenseRef-scancode-carnegie-mellon
-- Catharon Open Source License, Catharon
-- Cavium malloc License, LicenseRef-scancode-cavium-malloc
-- Creative Commons Attribution License 1.0, CC-BY-1.0
-- Creative Commons Attribution License 2.0, CC-BY-2.0
-- Creative Commons Attribution License 2.0 UK, LicenseRef-scancode-cc-by-2.0-uk
-- Creative Commons Attribution License 2.5, CC-BY-2.5
-- Creative Commons Attribution License 3.0, CC-BY-3.0
-- Creative Commons Attribution 3.0 Austria, CC-BY-3.0-AT
-- Creative Commons Attribution 3.0 United States, CC-BY-3.0-US
-- Creative Commons Attribution 4.0 International Public License, CC-BY-4.0
-- Community Data License Agreement Permissive 1.0, CDLA-Permissive-1.0
-- Community Data License Agreement Permissive 2.0, CDLA-Permissive-2.0
-- CeCILL-B Free Software License Agreement, CECILL-B
-- CeCILL-B Free Software License Agreement English, LicenseRef-scancode-cecill-b-en
-- CERN Attribution 1995, LicenseRef-scancode-cern-attribution-1995
-- CERN Open Hardware Licence v1.2, CERN-OHL-1.2
-- CERN Open Hardware License v1.1, CERN-OHL-1.1
-- CERN Open Hardware Licence Version 2 - Permissive, CERN-OHL-P-2.0
-- cexcept License 2008, LicenseRef-scancode-cexcept-2008
-- CFITSIO License, CFITSIO
-- CGIC License, LicenseRef-scancode-cgic
-- check-cvs License, check-cvs
-- Checkmk License, checkmk
-- Chicken Dance v0.2, LicenseRef-scancode-chicken-dl-0.2
-- Chris Maunder License, LicenseRef-scancode-chris-maunder
-- Chris Stoy Attribution License, LicenseRef-scancode-chris-stoy
-- Classic VB License, LicenseRef-scancode-classic-vb
-- Classworlds License, classworlds
-- Clear BSD 1-Clause License, LicenseRef-scancode-clear-bsd-1-clause
-- Clear BSD License, BSD-3-Clause-Clear
-- Click License, MIT-Click
-- CLIPS License 2017, Clips
-- Christian Michelsen Research AS License, cmr-no
-- Carnegie Mellon Computing Services License, BSD-Attribution-HPND-disclaimer
-- Carnegie Mellon University Flite License, LicenseRef-scancode-cmu-flite
-- Carnegie Mellon Template License, LicenseRef-scancode-cmu-template
-- Carnegie Mellon UC Regents MIT-style License, LicenseRef-scancode-cmu-mit
-- CMU Nara Nagoya License, LicenseRef-scancode-cmu-nara-nagoya
-- Carnegie Mellon Simple License, LicenseRef-scancode-cmu-simple
-- CMU Style, MIT-CMU
-- CNRI Jython License, CNRI-Jython
-- CNRI Open Source License Agreement for Python 1.6, CNRI-Python
-- CNRI Open Source License Agreement for Python 1.6.1, CNRI-Python-GPL-Compatible
-- Code Credit License v1.0.0, LicenseRef-scancode-code-credit-license-1.0.0
-- Code Credit License v1.0.0, LicenseRef-scancode-code-credit-license-1.0.0
-- Code Credit License v1.0.1, LicenseRef-scancode-code-credit-license-1.0.1
-- Code Credit License v1.1.0, LicenseRef-scancode-code-credit-license-1.1.0
-- CodeGuru Permissions, LicenseRef-scancode-codeguru-permissions
-- CodeSourcery 2004, HPND-merchantability-variant
-- Copyfree Open Innovation License 1.0, COIL-1.0
-- Common Lisp Generic LOOP License, LicenseRef-scancode-generic-loop
-- Common Lisp LOOP License, LOOP
-- CommonJ Timer and Work Manager License, LicenseRef-scancode-commonj-timer
-- Compass License, LicenseRef-scancode-compass
-- ComponentAce JCraft License, LicenseRef-scancode-componentace-jcraft
-- compuphase Linking Exception to Apache 2.0, LicenseRef-scancode-compuphase-linking-exception
-- Condor Public License 1.1, Condor-1.1
-- Cornell Lossless JPEG License, Cornell-Lossless-JPEG
-- Cougaar Open Source License, LicenseRef-scancode-cosl
-- CP/M License 2022, LicenseRef-scancode-cpm-2022
-- CppCoreGuidelines License, LicenseRef-scancode-cpp-core-guidelines
-- CRCalc license, LicenseRef-scancode-crcalc
-- Creative Commons Attribution 2.5 Australia, CC-BY-2.5-AU
-- Creative Commons Attribution 3.0 Australia, CC-BY-3.0-AU
-- Creative Commons Attribution 3.0 Germany, CC-BY-3.0-DE
-- Creative Commons Attribution 3.0 IGO, CC-BY-3.0-IGO
-- Creative Commons Attribution 3.0 Netherlands, CC-BY-3.0-NL
-- Cronyx License, Cronyx
-- Crossword License, Crossword
-- Crypto++ License, LicenseRef-scancode-cryptopp
-- CryptoSwift License, CryptoSwift
-- Crystal Stacker License, CrystalStacker
-- Community Specification License 1.0, Community-Spec-1.0
-- CSPRNG, LicenseRef-scancode-csprng
-- Cube License, Cube
-- cURL License, curl
-- Common Vulnerability Enumeration ToU License, cve-tou
-- Common Weaness Enumeration ToU License, LicenseRef-scancode-cwe-tou
-- CxImage License, LicenseRef-scancode-cximage
-- Cyverse 3-Clause License 2017, LicenseRef-scancode-cyverse-3-clause-2017
-- Digital Mars Zlib, LicenseRef-scancode-d-zlib
-- Daikon License 2022, LicenseRef-scancode-daikon-2022
-- Don't Ask Me About It License, LicenseRef-scancode-damail
-- Dante Treglia License, Game-Programming-Gems
-- Data licence Germany – zero – version 2.0, DL-DE-ZERO-2.0
-- DataMekanix License, LicenseRef-scancode-datamekanix-license
-- Don't Be a Dick Public License 1.1, LicenseRef-scancode-dbad-1.1
-- Debian reportbug License, LicenseRef-scancode-reportbug
-- DEC 3-Clause License, DEC-3-Clause
-- DejaVu Font License, LicenseRef-scancode-dejavu-font
-- Delorie Historical License, LicenseRef-scancode-delorie-historical
-- Dynamic HTML Lab Public License, LicenseRef-scancode-dhtmlab-public
-- Datenlizenz Deutschland - Namensnennung - Version 1.0 - Deutsch, LicenseRef-scancode-dl-de-by-1-0-de
-- Data licence Germany - attribution - Version 1 - English, LicenseRef-scancode-dl-de-by-1-0-en
-- Datenlizenz Deutschland - Namensnennung - Version 2.0 - Deutsch, DL-DE-BY-2.0
-- Data licence Germany - attribution - Version 2 - English, LicenseRef-scancode-dl-de-by-2-0-en
-- dmalloc License, LicenseRef-scancode-dmalloc
-- DMTF License 2017, LicenseRef-scancode-dmtf-2017
-- DocBook DTD License, DocBook-DTD
-- Docbook License, DocBook-XML
-- DocBook Schema License, DocBook-Schema
-- DocBook Stylesheet License, DocBook-Stylesheet
-- Dom4j License, Plexus
-- DOS32 Advanced DOS Extender Software License, LicenseRef-scancode-dos32a-extender
-- Dotseqn License, Dotseqn
-- Douglas Young License, LicenseRef-scancode-douglas-young
-- Dr John Maddock License, dr-john-maddock
-- Detection Rule License 1.0, DRL-1.0
-- Detection Rule License (DRL) 1.1, DRL-1.1
-- Dropbear License, LicenseRef-scancode-dropbear
-- Dropbear-2016, LicenseRef-scancode-dropbear-2016
-- Detection Rule Usage License (DRUL) 1.0, LicenseRef-scancode-drul-1.0
-- DSDP License, DSDP
-- Dtree License, LicenseRef-scancode-dtree
-- Dual BSD-GPL, dual-bsd-gpl
-- DUMB License, LicenseRef-scancode-dumb
-- Duplicate Network Time Protocol License, network-time-protocol
-- dvipdfm License, dvipdfm
-- DWTFNMFPL-3.0, LicenseRef-scancode-dwtfnmfpl-3.0
-- Dynamic Drive Terms of Use, LicenseRef-scancode-dynamic-drive-tou
-- Educational Community License 1.0, ECL-1.0
-- Educational Community License 2.0, ECL-2.0
-- Eiffel Forum License 1.0, EFL-1.0
-- Eiffel Forum License 2.0, EFL-2.0
-- Enlightenment (EFL) MIT-Style License, MIT-advertising
-- eGenix Public License 1.0.0, LicenseRef-scancode-egenix-1.0.0
-- eGenix Public License 1.1.0, eGenix
-- Ekioh License, ekioh
-- EllisLab License, LicenseRef-scancode-ellis-lab
-- EMX Library License, LicenseRef-scancode-emx-library
-- EnergyPlus BSD-Style License, LicenseRef-scancode-energyplus-bsd
-- EnergyPlus License, LicenseRef-scancode-energyplus-2023
-- Enhanced MIT License, LicenseRef-scancode-emit
-- enna License, MIT-enna
-- Entessa Public License v1.0, Entessa
-- ePaperPress License, LicenseRef-scancode-epaperpress
-- EPICS Open License, EPICS
-- Eric Glass License, LicenseRef-scancode-eric-glass
-- Errbot exception, LicenseRef-scancode-errbot-exception
-- Etalab Open License 2.0, etalab-2.0
-- Etalab Open License 2.0 English, LicenseRef-scancode-etalab-2.0-en
-- EU DataGrid Software License, EUDatagrid
-- Fabien Tassin License, LicenseRef-scancode-fabien-tassin
-- Fair License, Fair
-- Free Art License 1.3, LicenseRef-scancode-free-art-1.3
-- Far Manager exception to BSD-3-Clause, LicenseRef-scancode-far-manager-exception
-- FASTBuild License 2012-2020, LicenseRef-scancode-fastbuild-2012-2020
-- FastCGI DevKit, OML
-- FastCGI License for Spec Implementation, LicenseRef-scancode-openmarket-fastcgi
-- FatFs License, LicenseRef-scancode-fatfs
-- Ferguson Twofish License, Ferguson-Twofish
-- FFTPACK License 2004, NCL
-- Filament Group MIT License, LicenseRef-scancode-filament-group-mit
-- FIRST EPSS Usage Agreement, LicenseRef-scancode-first-epss-usage
-- Flex License v2.5, BSD-3-Clause-flex
-- Flora License v1.1, LicenseRef-scancode-flora-1.1
-- font-alias License, LicenseRef-scancode-font-alias
-- FPDF License, LicenseRef-scancode-fpdf
-- FPLOT LIcense, LicenseRef-scancode-fplot
-- Fraunhofer ISO 14496-10 License, LicenseRef-scancode-fraunhofer-iso-14496-10
-- FreeBSD Boot, LicenseRef-scancode-freebsd-boot
-- FreeBSD Doc License, FreeBSD-DOC
-- FreeBSD unmodified first lines License, LicenseRef-scancode-freebsd-first
-- FreeMarker License, LicenseRef-scancode-freemarker
-- FreeRTOS MIT, LicenseRef-scancode-freertos-mit
-- FreeSurfer Software License Agreement 1.0, LicenseRef-scancode-free-surfer-1.0
-- FreeTTS License, MIT-Festival
-- FreeType Project License, FTL
-- Freeware Public License (FPL), LicenseRef-scancode-fpl
-- FSF All Permissive License, FSFAP
-- FSF All Permissive License (without Warranty), FSFAP-no-warranty-disclaimer
-- FSF Notice, LicenseRef-scancode-fsf-notice
-- FSF Unlimited License No Warranty, FSFULLRWD
-- FSF Unlimited License (with License Retention and Short Disclaimer), FSFULLRSD
-- Free Software Foundation - Unlimited License, FSFULLR
-- Fujion Clinical Exception to Apache 2.0, LicenseRef-scancode-fujion-exception-to-apache-2.0
-- Furuseth License, Furuseth
-- Fuzzy Bitmap License, FBM
-- fwlw License, fwlw
-- g10-permissive, LicenseRef-scancode-g10-permissive
-- Gareth McCaughan License, LicenseRef-scancode-gareth-mccaughan
-- Gary S. Brown License, LicenseRef-scancode-gary-s-brown
-- GDCL License, LicenseRef-scancode-gdcl
-- Geant4 Software License v1.0, LicenseRef-scancode-geant4-sl-1.0
-- GeneralUser GS License v2.0, LicenseRef-scancode-generaluser-gs-2.0
-- Generic patent disclaimer, LicenseRef-scancode-patent-disclaimer
-- Generic XTS License, generic-xts
-- Geoff Kuenning License 1993, LicenseRef-scancode-geoff-kuenning-1993
-- Ghostpdl Permissive, LicenseRef-scancode-ghostpdl-permissive
-- Gladman Older Rigndael Code Use, LicenseRef-scancode-gladman-older-rijndael-code
-- Glulxe License, Glulxe
-- OpenGL Utility Toolkit (GLUT) License, LicenseRef-scancode-glut
-- Good Luck With That Public License, GLWTPL
-- GNOME examples exception, GNOME-examples-exception
-- Good Boy License, LicenseRef-scancode-good-boy
-- Graphics Gems License, Graphics-Gems
-- Greg Roelofs License, LicenseRef-scancode-greg-roelofs
-- Gregory Pietsch Liberal License, LicenseRef-scancode-gregory-pietsch
-- GStreamer Exception (2005), GStreamer-exception-2005
-- GStreamer Exception (2008), GStreamer-exception-2008
-- gtkbook License, gtkbook
-- Globus Toolkit Public License (GTPL) v1, LicenseRef-scancode-gtpl-v1
-- Globus Toolkit Public License (GTPL) v2, LicenseRef-scancode-gtpl-v2
-- Globus Toolkit Public License (GTPL) v3, LicenseRef-scancode-gtpl-v3
-- Gutmann License, Gutmann
-- Haskell Language Report License, HaskellReport
-- HDF4 License, LicenseRef-scancode-hdf4
-- HDF5 License, HDF5
-- HDPARM License, hdparm
-- Henry Spencer License 1999, Spencer-99
-- Henry Spencer Original Regexp License, hs-regexp-orig
-- Henry Spencer Regexp License, Spencer-94
-- Hewlett-Packard BSD variant license, BSD-3-Clause-HP
-- HIDAPI License, HIDAPI
-- Historical Permission Notice and Disclaimer - INRIA-IMAG variant, HPND-INRIA-IMAG
-- Historical Permission Notice and Disclaimer - documentation sell variant, HPND-doc-sell
-- Historical Permission Notice and Disclaimer - documentation variant, HPND-doc
-- Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant, HPND-Fenneberg-Livingston
-- Historical Notice - NTP, LicenseRef-scancode-historical-ntp
-- Historical Permission Notice and Disclaimer Pbmplus variant, HPND-Pbmplus
-- Historical Permission Notice and Disclaimer, HPND
-- Historical Permission Notice and Disclaimer - sell variant, historical-sell-variant
-- Historical Permission Notice and Disclaimer sell regexpr variant, HPND-sell-regexpr
-- Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer, HPND-sell-MIT-disclaimer-xserver
-- Historical Permission Notice and Disclaimer University of California variant, HPND-UC
-- Historical Permission Notice and Disclaimer with MIT disclaimer, HPND-MIT-disclaimer
-- Homebrewed or Craft Beer License, LicenseRef-scancode-homebrewed
-- Hot Potato, LicenseRef-scancode-hot-potato
-- Hewlett-Packard 1986 License, HP-1986
-- Historical Permission Notice and Disclaimer Netrek variant, HPND-Netrek
-- HPND sell variant with MIT disclaimer, HPND-sell-variant-MIT-disclaimer
-- HPND sell variant with MIT disclaimer - reverse, HPND-sell-variant-MIT-disclaimer-rev
-- HTML 5 specification License, LicenseRef-scancode-html5
-- httpget notice and disclaimer, LicenseRef-scancode-httpget
-- Ian Kaplan License, LicenseRef-scancode-ian-kaplan
-- Ian Piumarta License, LicenseRef-scancode-ian-piumarta
-- IBM AS-IS License, LicenseRef-scancode-ibm-as-is
-- IBM DHCP License, LicenseRef-scancode-ibm-dhcp
-- IBM glextrusion License, LicenseRef-scancode-ibm-glextrusion
-- IBM Java Portlet Specification 2.0 License, LicenseRef-scancode-ibm-java-portlet-spec-2.0
-- IBM International License Agreement for Non-Warranted Sample Code, LicenseRef-scancode-ibm-nwsc
-- IBM PowerPC Initialization and Boot Software, IBM-pibs
-- IBM Sample Program License, LicenseRef-scancode-ibm-sample
-- IBPP License, LicenseRef-scancode-ibpp
-- ICOT Free Software, LicenseRef-scancode-icot-free
-- ICU Composite License, LicenseRef-scancode-ibm-icu
-- ICU License 58 and later, LicenseRef-scancode-unicode-icu-58
-- IDT License Notice, LicenseRef-scancode-idt-notice
-- IEC Code Components End-user licence agreement, IEC-Code-Components-EULA
-- IEEE Std 1003.1 Text Usage, LicenseRef-scancode-morbig-ieee-std-usage
-- Internet Engineering Task Force License, LicenseRef-scancode-ietf
-- IETF Trust License, LicenseRef-scancode-ietf-trust
-- ilmid License, LicenseRef-scancode-ilmid
-- ImageMagick License, ImageMagick
-- Independent JPEG Group License - short, IJG-short
-- Indiana University Extreme! Lab Software License Version 1.1.1, LicenseRef-scancode-indiana-extreme
-- Indiana University Extreme! Lab Software License Version 1.2, xpp
-- Infineon Free Software License, LicenseRef-scancode-infineon-free
-- Info-Zip License, Info-ZIP
-- Info-Zip License 1997-10, LicenseRef-scancode-info-zip-1997-10
-- Info-Zip License 2001-01, LicenseRef-scancode-info-zip-2001-01
-- Info-Zip License 2002-02, LicenseRef-scancode-info-zip-2002-02
-- Info-Zip License 2003-05, LicenseRef-scancode-info-zip-2003-05
-- Info-Zip License 2004-05, LicenseRef-scancode-info-zip-2004-05
-- Info-Zip License 2005-02, LicenseRef-scancode-info-zip-2005-02
-- Info-Zip License 2007-03, LicenseRef-scancode-info-zip-2007-03
-- Info-Zip License 2009-01, LicenseRef-scancode-info-zip-2009-01
-- Inner Net License 2.0, Inner-Net-2.0
-- Inno Setup License, InnoSetup
-- Intel ACPI Software License Agreement, Intel-ACPI
-- Intel BSD - Export Control, Intel
-- Intel BSD 2 Clause License, LicenseRef-scancode-intel-bsd-2-clause
-- Intel BSD License, BSD-3-Clause-acpica
-- Intel Open Source License 1989, LicenseRef-scancode-intel-osl-1989
-- Intel Open Source License 1993, HPND-Intel
-- Intel Royalty Free License, LicenseRef-scancode-intel-royalty-free
-- ISC License, ISC
-- ISO 14496-10, LicenseRef-scancode-iso-14496-10
-- ISO 8879, LicenseRef-scancode-iso-8879
-- ITU License, LicenseRef-scancode-itu
-- JA-SiG License, LicenseRef-scancode-ja-sig
-- Jam License, Jam
-- Jason Mayes License, LicenseRef-scancode-jason-mayes
-- Jasper Reports License 1.0, LicenseRef-scancode-jasper-1.0
-- JasPer License 2.0, JasPer-2.0
-- Java Application Stub Binary Module License, LicenseRef-scancode-java-app-stub
-- JDBM License v1.00, LicenseRef-scancode-jdbm-1.00
-- JDOM License, LicenseRef-scancode-jdom
-- Jetty License, LicenseRef-scancode-jetty
-- JGraph License, LicenseRef-scancode-jgraph
-- Jove License, jove
-- Independent JPEG Group License, IJG
-- Independent JPEG Group License 2020, LicenseRef-scancode-ijg-2020
-- JPNIC idnkit License, JPNIC
-- JPNIC mdnkit License, LicenseRef-scancode-jpnic-mdnkit
-- JPython License 1.1, LicenseRef-scancode-jpython-1.1
-- Jscheme License, LicenseRef-scancode-jscheme
-- JSFromHell License, LicenseRef-scancode-jsfromhell
-- JSON License, JSON
-- Jython License, LicenseRef-scancode-jython
-- Kalle Kaukonen License, LicenseRef-scancode-kalle-kaukonen
-- Kastrup License, Kastrup
-- Kazlib License, Kazlib
-- Keith Rule License, LicenseRef-scancode-keith-rule
-- Kerberos License, LicenseRef-scancode-kerberos
-- Kevan Stannard Free Software License, LicenseRef-scancode-kevan-stannard
-- Kevlin Henney License, HPND-Kevlin-Henney
-- Khronos License, LicenseRef-scancode-khronos
-- Knuth CTAN License, Knuth-CTAN
-- Korean Manpage Project License, LicenseRef-scancode-ko-man-page
-- Kumar Robotics License, LicenseRef-scancode-kumar-robotics
-- Lance Norskog License, LicenseRef-scancode-lance-norskog-license
-- Los Alamos National Labs BSD-3 Variant, LicenseRef-scancode-lanl-bsd-3-variant
-- Copyright notice to the ec fonts, LicenseRef-scancode-ecfonts-1.0
-- Latex2e License, Latex2e
-- Latex2e with translated notice permission, Latex2e-translated-notice
-- Lawrence Berkeley National Labs BSD variant license, BSD-3-Clause-LBNL
-- LCS-Telegraphics License, LicenseRef-scancode-lcs-telegraphics
-- Leptonica License, Leptonica
-- libcap License, libcap
-- libgd License 2018, GD
-- libgeoTiff License, LicenseRef-scancode-libgeotiff
-- LibMib License, LicenseRef-scancode-libmib
-- libmng License 2007, LicenseRef-scancode-libmng-2007
-- Libpng License, Libpng
-- PNG Reference Library License version 2, libpng-2.0
-- libsrv License v1.0.2, LicenseRef-scancode-libsrv-1.0.2
-- libutil David Nugent License, libutil-David-Nugent
-- NiH libzip License, libzip
-- Lil License v1, LicenseRef-scancode-lil-1
-- LILO License, LicenseRef-scancode-lilo
-- Linum Software License, linum
-- Linux Device Drivers License, LicenseRef-scancode-linux-device-drivers
-- Linux-OpenIB, Linux-OpenIB
-- LinuxBIOS License, LicenseRef-scancode-linuxbios
-- linuxhowtos License, LicenseRef-scancode-linuxhowtos
-- LLNL, LicenseRef-scancode-llnl
-- LLVM Exception to Apache 2.0, LLVM-exception
-- Logica Open Source License v1.0, LicenseRef-scancode-logica-1.0
-- Lucre License, LicenseRef-scancode-lucre
-- M+ Fonts license, mplus
-- MadWifi Dual BSD-GPL, madwifi-dual
-- magaz License, magaz
-- mailprio License, mailprio
-- MakeHuman License, LicenseRef-scancode-make-human-exception
-- man2html License, man2html
-- Markus Kuhn License, HPND-Markus-Kuhn
-- Markus Mummert Permissive, LicenseRef-scancode-markus-mummert-permissive
-- Martin Bergmeier License, Martin-Birgmeier
-- matplotlib 1.3.0, LicenseRef-scancode-matplotlib-1.3.0
-- Matrix Template Library License, MTLL
-- Matt Gallagher Attribution License, LicenseRef-scancode-matt-gallagher-attribution
-- Matt Kruse License, LicenseRef-scancode-mattkruse
-- Matthew Kwan License, LicenseRef-scancode-matthew-kwan
-- McPhee Slideshow License, McPhee-slideshow
-- MediaInfo(Lib) License, LicenseRef-scancode-mediainfo-lib
-- Mentalis Source Code License, mentalis
-- metamail License, metamail
-- MGB Open Source License 1.0, LicenseRef-scancode-mgb-1.0
-- MgOpen Font License, LicenseRef-scancode-mgopen-font-license
-- Michael Barr License, LicenseRef-scancode-michael-barr
-- Michigan/Merit Networks License, UMich-Merit
-- Minpack Copyright Notice, Minpack
-- MIPS License, MIPS
-- MirOS License, MirOS
-- MIT (SEI), LicenseRef-scancode-vince
-- MIT INRIA W3C 1995, LicenseRef-scancode-mit-1995
-- MIT Acknowledgment License, MIT-feh
-- MIT Addition License, MIT-Wu
-- MIT Khronos - old variant, MIT-Khronos-old
-- MIT License, MIT
-- MIT License 1998, LicenseRef-scancode-mit-license-1998
-- MIT Modern Variant, MIT-Modern-Variant
-- MIT Szabolcs Nagy Variant, LicenseRef-scancode-mit-nagy
-- MIT no advertising with Export Control, HPND-export2-US
-- MIT No Commercial Use of Trademarks, LicenseRef-scancode-mit-no-trademarks
-- MIT with no false attribution License, MITNFA
-- MIT Old Style, LicenseRef-scancode-mit-old-style
-- MIT Old Style no advertising, NTP
-- MIT Old Style Spare, LicenseRef-scancode-mit-old-style-sparse
-- MIT README License, LicenseRef-scancode-mit-readme
-- MIT Synopsys License, LicenseRef-scancode-mit-synopsys
-- MIT Taylor Variant, pkgconf
-- MIT testregex Variant, MIT-testregex
-- MIT Veillard Variant, ISC-Veillard
-- MIT with Export Control, Xerox
-- MIT With Modification Obligations, HPND-export-US-modify
-- MIT with Specification Disclaimer, LicenseRef-scancode-mit-specification-disclaimer
-- MIT Xfig Variant, Xfig
-- MIT No Attribution, MIT-0
-- MMIXware License, MMIXware
-- mod_dav License Agreement v1, LicenseRef-scancode-mod-dav-1.0
-- Modified MIT License for Public Domain software, LicenseRef-scancode-pd-mit
-- Motorola Microprocessor & Memory Technology Group License, LicenseRef-scancode-motorola
-- Mozilla GC License, Boehm-GC
-- MPEG SSG License, MPEG-SSG
-- MPEG-2 NBC MPEG-4 Audio ISO License, LicenseRef-scancode-mpeg-iso
-- mpi Permissive License, mpi-permissive
-- MPICH License, mpich2
-- Microsoft Limited Public License, ms-limited-public
-- Microsoft Systems Journal Sample Code License, LicenseRef-scancode-msj-sample-code
-- Microsoft WS Routing Specifications License, LicenseRef-scancode-ms-ws-routing-spec
-- Microsoft Limited Permissive License (MS-LPL), MS-LPL
-- Microsoft Public License, MS-PL
-- Microsoft Permissive License (MS-PL) v1.1, ms-permissive-1.1
-- Microsoft Shared Source Permissive License (SS-PL), LicenseRef-scancode-ms-sspl
-- Mulan Permissive Software License, Version 1, MulanPSL-1.0
-- Mulan Permissive Software License, Version 1 (English), LicenseRef-scancode-mulanpsl-1.0-en
-- Mulan Permissive Software License, Version 2, MulanPSL-2.0
-- Mulan Permissive Software License, Version 2 (English), LicenseRef-scancode-mulanpsl-2.0-en
-- Mulle Kybernetik License, LicenseRef-scancode-mulle-kybernetik
-- Multics License, Multics
-- Mup License, Mup
-- musl attribution exception, LicenseRef-scancode-musl-exception
-- MX4J License 1.0, LicenseRef-scancode-mx4j
-- Nara Institute License 2003, NAIST-2003
-- NAUMEN Public License, Naumen
-- University of Illinois/NCSA Open Source License, NCSA
-- Net SNMP License, LicenseRef-scancode-net-snmp
-- Netcat License, LicenseRef-scancode-netcat
-- NetCDF License, NetCDF
-- NetComponents License, LicenseRef-scancode-netcomponents
-- Netron Project License, LicenseRef-scancode-netron
-- Newlib Historical License, LicenseRef-scancode-newlib-historical
-- Newran License, LicenseRef-scancode-newran
-- Newsletr License, Newsletr
-- ngrep License, ngrep
-- Nice License, LicenseRef-scancode-nice
-- NICTA Public Software Licence 1.0, NICTA-1.0
-- Niels Ferguson License, LicenseRef-scancode-niels-ferguson
-- Nilsson Historical License, LicenseRef-scancode-nilsson-historical
-- NIST NVD API Terms of Use, LicenseRef-scancode-nist-nvd-api-tou
-- NIST Public Domain Notice with license fallback, NIST-PD-fallback
-- NIST Software License, NIST-Software
-- NIST Standard Reference Data License, LicenseRef-scancode-nist-srd
-- Norwegian Licence for Open Government Data, NLOD-1.0
-- Norwegian Licence for Open Government Data (NLOD) 2.0, NLOD-2.0
-- Node License, LicenseRef-scancode-node-js
-- Non White Heterosexual Male, LicenseRef-scancode-nwhm
-- Nonexclusive License, LicenseRef-scancode-nonexclusive
-- Nortel DASA License, LicenseRef-scancode-nortel-dasa
-- University of Notre Dame License, LicenseRef-scancode-notre-dame
-- NRL License, NRL
-- NRL permission, CMU-Mach-nodoc
-- NTLM License, LicenseRef-scancode-ntlm
-- Network Time Protocol License, ntpl
-- NTP Origin License, LicenseRef-scancode-ntpl-origin
-- NTP No Attribution, NTP-0
-- NUnit v2 License, nunit-v2
-- NVIDIA 2002 License, AML-glslang
-- NVIDIA License, LicenseRef-scancode-nvidia
-- NVIDIA License with Government Qualifications, LicenseRef-scancode-nvidia-gov
-- NYSL 0.9982, LicenseRef-scancode-nysl-0.9982
-- NYSL 0.9982 Japanese, LicenseRef-scancode-nysl-0.9982-jp
-- O Young Jong License, LicenseRef-scancode-o-young-jong
-- O'Reilly Code Sample Notice, LicenseRef-scancode-oreilly-notice
-- Open Use of Data Agreement v1.0, O-UDA-1.0
-- Oasis WS Security Specification License, LicenseRef-scancode-oasis-ws-security-spec
-- Object Form Exception to MIT, fmt-exception
-- Open Data Commons Attribution License v1.0, ODC-By-1.0
-- ODMG License, LicenseRef-scancode-odmg
-- OFFIS License, OFFIS
-- SIL Open Font License 1.0, OFL-1.0
-- SIL Open Font License 1.0 with no Reserved Font Name, OFL-1.0-no-RFN
-- SIL Open Font License 1.0 with Reserved Font Name, OFL-1.0-RFN
-- SIL Open Font License 1.1 with no Reserved Font Name, OFL-1.1-no-RFN
-- OGC Software License, Version 1.0, OGC-1.0
-- OGC Software Notice, LicenseRef-scancode-ogc
-- OGC Software Notice 2006, ogc-2006
-- Open Game License v1.0a, LicenseRef-scancode-ogl-1.0a
-- Open Government Licence Alberta 2.1, LicenseRef-scancode-can-ogl-alberta-2.1
-- Open Government Licence British Columbia 2.0, LicenseRef-scancode-can-ogl-british-columbia-2.0
-- Open Government Licence Canada 2.0, OGL-Canada-2.0
-- Licence du gouvernement ouvert Canada 2.0, LicenseRef-scancode-ogl-canada-2.0-fr
-- Open Government Licence Nova Scotia 1.0, LicenseRef-scancode-can-ogl-nova-scotia-1.0
-- Open Government Licence Ontario 1.0, LicenseRef-scancode-can-ogl-ontario-1.0
-- Open Government Licence Toronto 1.0, LicenseRef-scancode-can-ogl-toronto-1.0
-- U.K. Open Government License for Public Sector Information v1.0, OGL-UK-1.0
-- U.K. Open Government License for Public Sector Information v2.0, OGL-UK-2.0
-- U.K. Open Government License for Public Sector Information v3.0, OGL-UK-3.0
-- Western Power Distribution Open Data Licence v3.0, LicenseRef-scancode-ogl-wpd-3.0
-- Open Logistics License Version 1.0, LicenseRef-scancode-oll-1.0
-- Open Directory License, LicenseRef-scancode-odl
-- Open Logistics Foundation License Version 1.3, OLFL-1.3
-- Open Publication License v1.0, OPUBL-1.0
-- Open Weights Permissive License Version 1.0.0, LicenseRef-scancode-open-weights-permissive-1.0.0
-- OpenLDAP Public License 2.0, OLDAP-2.0
-- OpenLDAP Public License 2.0.1, OLDAP-2.0.1
-- OpenLDAP Public License 2.1, OLDAP-2.1
-- OpenLDAP Public License 2.2, OLDAP-2.2
-- OpenLDAP Public License 2.2.1, OLDAP-2.2.1
-- OpenLDAP Public License 2.2.2, OLDAP-2.2.2
-- OpenLDAP Public License 2.3, OLDAP-2.3
-- OpenLDAP Public License 2.4, OLDAP-2.4
-- OpenLDAP Public License 2.5, OLDAP-2.5
-- OpenLDAP Public License 2.6, OLDAP-2.6
-- OpenLDAP Public License 2.7, OLDAP-2.7
-- OpenLDAP Public License 2.8, OLDAP-2.8
-- OpenMDW License Agreement, version 1.0, LicenseRef-scancode-openmdw-1.0
-- OpenORB Community Software License Version 1.0, LicenseRef-scancode-openorb-1.0
-- OpenSAML License Version 1, LicenseRef-scancode-opensaml-1.0
-- OpenSSH License, SSH-OpenSSH
-- OpenSSL License, OpenSSL-standalone
-- OpenSSL/SSLeay License, OpenSSL
-- OpenVision License, OpenVision
-- Openwall MD5 Permissive, LicenseRef-scancode-openwall-md5-permissive
-- OPML Specification License 1.0, LicenseRef-scancode-opml-1.0
-- Open Innovation License version 1.0, LicenseRef-scancode-opnl-1.0
-- Open Innovation License version 2.0, LicenseRef-scancode-opnl-2.0
-- Original SSLeay License, LicenseRef-scancode-ssleay
-- Original SSLeay License with Windows Clause, SSLeay-standalone
-- OSF 1990 License, HP-1989
-- Oswego Concurrent License, LicenseRef-scancode-oswego-concurrent
-- Other Permissive Licenses, LicenseRef-scancode-other-permissive
-- Open Works License v0.9.4, LicenseRef-scancode-owl-0.9.4
-- OWTChart License, LicenseRef-scancode-owtchart
-- Australian Public Licence B Version 1.0, LicenseRef-scancode-ozplb-1.0
-- Australian Public Licence B Version 1.1, LicenseRef-scancode-ozplb-1.1
-- PADL License, PADL
-- Paolo Messina 2000, LicenseRef-scancode-paolo-messina-2000
-- ParaView License 1.2, LicenseRef-scancode-paraview-1.2
-- Paul Mackerras Binary License, LicenseRef-scancode-paul-mackerras-binary
-- Paul Mackerras License, Mackerras-3-Clause-acknowledgment
-- Paul Mackerras New License, Mackerras-3-Clause
-- Paul Mackerras Simplified License, LicenseRef-scancode-paul-mackerras-simplified
-- Paulo Soares License, LicenseRef-scancode-paulo-soares
-- PayPal SDK License 2013-2016, LicenseRef-scancode-paypal-sdk-2013-2016
-- PBM Library License, xlock
-- PCRE License, LicenseRef-scancode-pcre
-- PD'Programming License, LicenseRef-scancode-pd-programming
-- Perl 1.0, LicenseRef-scancode-perl-1.0
-- Peter Deutsch Document License, LPD-document
-- Philippe De Muyter License, LicenseRef-scancode-philippe-de-muyter
-- Phorum License 2.0, LicenseRef-scancode-phorum-2.0
-- PHP License 2.0.2, LicenseRef-scancode-php-2.0.2
-- PHP License 3.0, PHP-3.0
-- PHP License 3.01, PHP-3.01
-- Pine License, LicenseRef-scancode-pine
-- Pixar License, Pixar
-- Plastimatch Software License Version 1.0, LicenseRef-scancode-plastimatch-1.0
-- PNG Reference Library License v1 (for libpng 0.5 through 1.6.35), libpng-1.6.35
-- PngSuite License, LicenseRef-scancode-pngsuite
-- pnmstitch License, pnmstitch
-- Politepix Public License 1.0, LicenseRef-scancode-politepix-pl-1.0
-- PostgreSQL License, PostgreSQL
-- ppp License, LicenseRef-scancode-ppp
-- Protobuf License, LicenseRef-scancode-protobuf
-- PS Utilities License, psutils
-- PSF License Agreement for Python 3.7.2, LicenseRef-scancode-psf-3.7.2
-- PSF-2.0, PSF-2.0
-- psfrag License, psfrag
-- Psytec Free Software License, LicenseRef-scancode-psytec-freesoft
-- Punycode License, LicenseRef-scancode-punycode
-- Purdue BSD-Style License, lsof
-- pybench License, LicenseRef-scancode-pybench
-- PyCrypto License, LicenseRef-scancode-pycrypto
-- PyGres License v2.2, LicenseRef-scancode-pygres-2.2
-- Python CWI License Agreement, LicenseRef-scancode-python-cwi
-- Python ldap License, python-ldap
-- Python Software Foundation License v2, Python-2.0
-- Python Software Foundation License v2.0.1, Python-2.0.1
-- QLogic Microcode, LicenseRef-scancode-qlogic-microcode
-- Qpopper License, LicenseRef-scancode-qpopper
-- Qualcomm Turing License, LicenseRef-scancode-qualcomm-turing
-- The QuickFIX Software License, Version 1.0, LicenseRef-scancode-quickfix-1.0
-- Quirksmode Copyright Notice, LicenseRef-scancode-quirksmode
-- Radiance Software License, Version 1.0, LicenseRef-scancode-radiance-sl-v1.0
-- radvd License, radvd
-- Ralf Corsepius License, ralf-corsepius
-- Rdisc License, Rdisc
-- Reading Godiva License 2010, LicenseRef-scancode-reading-godiva-2010
-- Red Hat Apache-Based End User License Agreement, LicenseRef-scancode-rh-eula-apache2
-- Red Hat Attribution License, LicenseRef-scancode-red-hat-attribution
-- Red Hat BSD-Simplified, LicenseRef-scancode-red-hat-bsd-simplified
-- Regexp License, Spencer-86
-- Repoze License, BSD-3-Clause-Modification
-- Rice BSD Software License, LicenseRef-scancode-ricebsd
-- Richard Black License, LicenseRef-scancode-richard-black
-- RIL (Rick's Internet Licence) 3-Clause License 2019, LicenseRef-scancode-ril-2019
-- Robert Hubley License, LicenseRef-scancode-robert-hubley
-- RSA Data Security Notice 1990, LicenseRef-scancode-rsa-1990
-- RSA Cryptoki License, LicenseRef-scancode-rsa-cryptoki
-- RSA Demo License, LicenseRef-scancode-rsa-demo
-- RSA Data Security MD4, LicenseRef-scancode-rsa-md4
-- RSA Data Security MD5, RSA-MD
-- RTools.Util License, LicenseRef-scancode-rtools-util
-- Ruby pty extension license, Ruby-pty
-- Runtime Library Exception to the Apache 2.0 License, Swift-exception
-- Rute Users Tutorial and Exposition License v0.8.0, LicenseRef-scancode-rute
-- Ryszard Szopa License, LicenseRef-scancode-ryszard-szopa
-- SaaS MIT License, LicenseRef-scancode-saas-mit
-- Sash Notice, LicenseRef-scancode-sash
-- Star And Thank Author License, LicenseRef-scancode-sata
-- Saxpath License, Saxpath
-- SBIA Software license - Downloading Agreement, LicenseRef-scancode-sbia-b
-- ScanCode generated data acknowledgment, LicenseRef-scancode-scancode-acknowledgment
-- scanlogd License, LicenseRef-scancode-scanlogd-license
-- ScanSoft Public License v1.2, LicenseRef-scancode-scansoft-1.2
-- SCEA Shared Source License 1.0, SCEA
-- Scheme Language Report License, SchemeReport
-- Scheme Widget Library (SWL) Software License Agreement, SWL
-- Scintilla License, LicenseRef-scancode-scintilla
-- Scribbles Demos Recognizer Notice, LicenseRef-scancode-scribbles
-- Script Asylum License, LicenseRef-scancode-script-asylum
-- Secret Labs License 2011, LicenseRef-scancode-secret-labs-2011
-- Sendmail License, Sendmail
-- Sendmail Open Source License v1.1, Sendmail-Open-Source-1.1
-- Service Availability Forum License, LicenseRef-scancode-saf
-- License for the Service Component Architecture JavaDoc, Interface Definition files and XSD files, LicenseRef-scancode-service-comp-arch
-- SFL License Agreement, iMatix
-- SGI CID Font Code Public License v1.0, LicenseRef-scancode-sgi-cid-1.0
-- SGI Free Software License B v1.1, SGI-B-1.1
-- SGI Free Software License B v2.0, SGI-B-2.0
-- SGI GLX Public License v1.0, LicenseRef-scancode-sgi-glx-1.0
-- Sglib License, LicenseRef-scancode-sglib
-- SGMLUG, LicenseRef-scancode-sgmlug
-- SGP4 Permission Notice, SGP4
-- Shital Shah License, LicenseRef-scancode-shital-shah
-- OFL 1.1 Reserved Font Name, OFL-1.1-RFN
-- Simple Public License Version 1.1, LicenseRef-scancode-simpl-1.1
-- SL License, SL
-- SLF4J License 2005, slf4j-2005
-- SLF4J License 2008, slf4j-2008
-- SnapEDA Design Exception 1.0, LicenseRef-scancode-snapeda-design-exception-1.0
-- SNMP++ License, LicenseRef-scancode-hp-snmp-pp
-- snprintf License, snprintf
-- Socketxx License 2003, LicenseRef-scancode-socketxx-2003
-- SoftFloat Legal Notice, LicenseRef-scancode-softfloat
-- SoftFloat Legal Notice with Prominent Notice, LicenseRef-scancode-softfloat-2.0
-- SoftFloat Legal Notice 2c, LicenseRef-scancode-softfloat-2c
-- softSurfer License, softSurfer
-- SolderPad Hardware License v0.5, SHL-0.5
-- Solderpad Hardware License v2.0, SHL-2.0
-- Solderpad Hardware License v2.1, SHL-2.1
-- SolderPad Hardware License, Version 0.51, SHL-0.51
-- Soundex License, Soundex
-- Sparky License, LicenseRef-scancode-sparky
-- SpeechWorks Public License v1.1, LicenseRef-scancode-speechworks-1.1
-- ssh-keyscan License, ssh-keyscan
-- Standard ML of New Jersey, SMLNJ
-- Stanford PVRG License, LicenseRef-scancode-stanford-pvrg
-- STLport License 2000, LicenseRef-scancode-stlport-2000
-- STLport License v4.5, Boehm-GC-without-fee
-- STREAM Benchmark License, LicenseRef-scancode-stream-benchmark
-- Stu Nicholls License, LicenseRef-scancode-stu-nicholls
-- Sudo License, LicenseRef-scancode-sudo
-- Sun PPP License, Sun-PPP
-- Sun PPP License (2000), Sun-PPP-2000
-- Sun RPC License, LicenseRef-scancode-sun-rpc
-- Sun source code License, LicenseRef-scancode-sun-source
-- SunPro Attribution License, SunPro
-- Sunsoft License, LicenseRef-scancode-sunsoft
-- Supervisor License, LicenseRef-scancode-supervisor
-- svndiff License, LicenseRef-scancode-svndiff
-- SWIG Library License, LicenseRef-scancode-swig
-- swrule License, swrule
-- Symphonysoft License, LicenseRef-scancode-symphonysoft
-- Synopsys MIT License, LicenseRef-scancode-synopsys-mit
-- Synthesis Toolkit License, LicenseRef-scancode-synthesis-toolkit
-- SystemC Open Source License Agreement, LicenseRef-scancode-accellera-systemc
-- Systemics BSD variant license, BSD-Systemics
-- Systemics W3Works BSD variant license, BSD-Systemics-W3Works
-- Taiwan Open Government Data License, version 1.0, OGDL-Taiwan-1.0
-- Takao Abe License, LicenseRef-scancode-takao-abe
-- Takuya OOURA License, LicenseRef-scancode-takuya-ooura
-- The Talis Community License, LicenseRef-scancode-ttcl
-- Tatu Ylonen License, SSH-short
-- Trusted Computing Group Spec License v1, LicenseRef-scancode-tcg-spec-license-v1
-- Trusted Computing Group Spec License v2, LicenseRef-scancode-tcg-spec-license-v2
-- TCL/TK License, TCL
-- TCP Wrappers License, TCP-wrappers
-- TekHVC License, LicenseRef-scancode-tekhvc
-- Term Readkey License, TermReadKey
-- Tested Software License, LicenseRef-scancode-tested-software
-- TeX Live License, LicenseRef-scancode-tex-live
-- Text-Tabs+Wrap License, TTWL
-- The Happy Bunny License, LicenseRef-scancode-happy-bunny
-- Theodore Ts'o license, LicenseRef-scancode-tso-license
-- Things I Made (TIM) Public License, LicenseRef-scancode-things-i-made-public-license
-- ThirdEye License, ThirdEye
-- threeparttable License, threeparttable
-- Tidy License, HTMLTIDY
-- Tiger Cryptography License, LicenseRef-scancode-tiger-crypto
-- Tigra Calendar v3.2 License, LicenseRef-scancode-tigra-calendar-3.2
-- Tigra Calendar v4.0 License, LicenseRef-scancode-tigra-calendar-4.0
-- Tim Janik License 2003, LicenseRef-scancode-tim-janik-2003
-- Time::ParseDate License, TPDL
-- Timestamp Picker License, LicenseRef-scancode-timestamp-picker
-- TOPPERS Educational contents license agreement, LicenseRef-scancode-toppers-educational
-- TOPPERS License Agreement, LicenseRef-scancode-toppers-license
-- Treeware Option 1, LicenseRef-scancode-treeware-option-1
-- TrustedQSL License, TrustedQSL
-- TTF2PT1 Project License, ttf2pt1
-- TTYP0 License, TTYP0
-- Technische Universitaet Berlin Attribution License 1.0, TU-Berlin-1.0
-- Technische Universitaet Berlin License 2.0, TU-Berlin-2.0
-- Tumbolia Public License, LicenseRef-scancode-tumbolia
-- TwistedSNMP License, LicenseRef-scancode-twisted-snmp
-- UCAR License, UCAR
-- UGUI License, LicenseRef-scancode-ugui
-- ulem License, ulem
-- UN-CEFACT License 2016, LicenseRef-scancode-un-cefact-2016
-- UnboundID LDAP SDK Free Use License, LicenseRef-scancode-ldap-sdk-free-use
-- Unicode License Agreement - Data Files and Software, unicode-data-software
-- Unicode License Agreement - Data Files and Software (2015), Unicode-DFS-2015
-- Unicode License Agreement - Data Files and Software (2016), Unicode-DFS-2016
-- Unicode Inc License Agreement, LicenseRef-scancode-unicode
-- Unicode License v3, Unicode-3.0
-- Unicode Mappings License, LicenseRef-scancode-unicode-mappings
-- Unicode Character Database (UCD) Terms of Use, LicenseRef-scancode-unicode-ucd
-- United Kingdom Open Parliament Licence v3.0, OPL-UK-3.0
-- University of British Columbia License, LicenseRef-scancode-ubc
-- University of Michigan Open Source License, LicenseRef-scancode-michigan-disclaimer
-- UNIX Network Programming Book License, LicenseRef-scancode-unpbook
-- UnixCrypt License, UnixCrypt
-- Unlimited Binary Linking Exception, LicenseRef-scancode-unlimited-binary-linking
-- Unlimited Binary Use Exception, LicenseRef-scancode-unlimited-binary-use-exception
-- Universal Permissive License (UPL) v1.0, UPL-1.0
-- US Government Grant of Unlimited Rights, LicenseRef-scancode-us-govt-unlimited-rights
-- USRobotics Permissive License, LicenseRef-scancode-usrobotics-permissive
-- University of Utah Computer Systems Laboratory License, LicenseRef-scancode-utah-csl
-- License to TeX Users Group for the Utopia Typeface, LicenseRef-scancode-utopia
-- VCalendar License, LicenseRef-scancode-vcalendar
-- Visual Idiot License, LicenseRef-scancode-visual-idiot
-- Visual Numerics License, LicenseRef-scancode-visual-numerics
-- Vixie Cron License, LicenseRef-scancode-vixie-cron
-- Vovida Software License v. 1.0, VSL-1.0
-- W3C 3-Clause BSD License, LicenseRef-scancode-w3c-03-bsd-license
-- W3C Community Final Specification Agreement, LicenseRef-scancode-w3c-community-final-spec
-- W3C Software License 2023, LicenseRef-scancode-w3c-software-2023
-- W3C Software Notice and License, W3C
-- W3C Software Notice and License (1998-07-20), W3C-19980720
-- W3C Software Notice and License (2002-12-31), w3c-software-20021231
-- W3C Software and Document (2015-05-13), W3C-20150513
-- w3m License, w3m
-- Wadalab Font License, LicenseRef-scancode-wadalab
-- Westhawk License, LicenseRef-scancode-westhawk
-- Whistle Communications License, LicenseRef-scancode-whistle
-- Whitecat License, LicenseRef-scancode-whitecat
-- WIDE License, LicenseRef-scancode-wide-license
-- Wide Open License, LicenseRef-scancode-wol
-- Widget Workshop License, Widget-Workshop
-- William Alexander License, LicenseRef-scancode-william-alexander
-- wingo License, LicenseRef-scancode-wingo
-- Wordnet License, LicenseRef-scancode-wordnet
-- Wrox Press License, LicenseRef-scancode-wrox
-- WS-Addressing Specification License, LicenseRef-scancode-ws-addressing-spec
-- WS-Policy Specification, LicenseRef-scancode-ws-policy-specification
-- WS-Trust Specification, LicenseRef-scancode-ws-trust-specification
-- Wsuipa License, Wsuipa
-- WTFNMFPL-1.0, LicenseRef-scancode-wtfnmfpl-1.0
-- WWL License, wwl
-- wxWidgets Licence, LicenseRef-scancode-wxwidgets
-- wxWindows Unrestricted Licence 3.0, LicenseRef-scancode-wxwindows-u-3.0
-- X11 Documentation License, LicenseRef-scancode-x11-doc
-- X11 License, ICU
-- X11 swapped final paragraphs, X11-swapped
-- X11-R5, LicenseRef-scancode-x11-x11r5
-- X11-R5 Authors, x11r5-authors
-- X.Org Preferred License, x11-r75
-- X11-Style (Acer), LicenseRef-scancode-x11-acer
-- X11-Style (Adobe), Adobe-Display-PostScript
-- X11-Style (Adobe-DEC), LicenseRef-scancode-x11-adobe-dec
-- X11-Style (Bitstream Charter), Bitstream-Charter
-- X11-Style (David R. Hanson), LicenseRef-scancode-x11-hanson
-- X11-Style (DEC 1), LicenseRef-scancode-x11-dec1
-- X11-Style (DEC 2), HPND-DEC
-- X11-Style (DSC Technologies), LicenseRef-scancode-x11-dsc
-- X11-Style (FSF), X11-distribute-modifications-variant
-- X11-Style (Keith Packard), HPND-sell-variant
-- X11-Style (Lucent), dtoa
-- X11-Style (Lucent-variant), LicenseRef-scancode-x11-lucent-variant
-- X11-Style (OAR), OAR
-- X11-Style (Open Group), MIT-open-group
-- X11-Style (OpenGL), SGI-OpenGL
-- X11-Style (Quarterdeck), LicenseRef-scancode-x11-quarterdeck
-- X11-Style (Realmode), LicenseRef-scancode-x11-realmode
-- X11-Style (Silicon Graphics), LicenseRef-scancode-x11-sg
-- X11-Style (Stanford University), LicenseRef-scancode-x11-stanford
-- X11-Style (Tektronix), LicenseRef-scancode-x11-tektronix
-- X11-Style (Tiff), libtiff
-- X11-Style (X Consortium Veillard), LicenseRef-scancode-x11-xconsortium-veillard
-- X11-Style (X Consortium Veillard) - Deprecated, x11-xconsortium_veillard
-- X11-Style (X Consortium), X11
-- Xdebug License v 1.03, Xdebug-1.03
-- XFree86 License 1.0, LicenseRef-scancode-xfree86-1.0
-- XFree86 License 1.1, XFree86-1.1
-- xinetd License, xinetd
-- xkeyboard-config Zinoviev License, xkeyboard-config-Zinoviev
-- XML:DB Initiative Software License 1.0, LicenseRef-scancode-xmldb-1.0
-- XSkat License, XSkat
-- xxd License, LicenseRef-scancode-xxd
-- xzoom License, xzoom
-- Yale CAS License, LicenseRef-scancode-yale-cas
-- Yensdesign License, LicenseRef-scancode-yensdesign
-- Zed License, Zed
-- Zeeff License, Zeeff
-- Zend Engine License 2.0, Zend-2.0
-- ZeusBench notice, LicenseRef-scancode-zeusbench
-- ZLIB License, Zlib
-- ZLIB License with Acknowledgment, zlib-acknowledgement
-- Zope Public License 1.0, LicenseRef-scancode-zpl-1.0
-- Zope Public License 1.1, ZPL-1.1
-- Zope Public License 2.0, ZPL-2.0
-- Zope Public License 2.1, ZPL-2.1
-- Z Shell License, LicenseRef-scancode-zsh
-- Zuora Software License, LicenseRef-scancode-zuora-software
-- Zveno Research License, LicenseRef-scancode-zveno-research
+- 3Com Microcode, `LicenseRef-scancode-3com-microcode`
+- 3D Slicer Contribution and Software License Agreement v1.0, `3D-Slicer-1.0`
+- 4Suite License v1.1, `LicenseRef-scancode-4suite-1.1`
+- Attribution Assurance License, `AAL`
+- Abstyles License, `Abstyles`
+- ACE TAO License, `DOC`
+- AdaCore Doc License, `AdaCore-doc`
+- ADI BSD License, `LicenseRef-scancode-adi-bsd`
+- Adobe Glyph License, `Adobe-Glyph`
+- Adobe Postscript AFM License, `APAFML`
+- Adobe Systems Incorporated Source Code License Agreement, `Adobe-2006`
+- Adobe Utopia Font License, `Adobe-Utopia`
+- Academic Free License 1.1, `AFL-1.1`
+- Academic Free License 1.2, `AFL-1.2`
+- Academic Free License 2.0, `AFL-2.0`
+- Academic Free License 2.1, `AFL-2.1`
+- Academic Free License 3.0, `AFL-3.0`
+- afmparse License, `Afmparse`
+- Agere Systems BSD Software license, `LicenseRef-scancode-agere-bsd`
+- Access Grid Toolkit Public License (AGTPL), `LicenseRef-scancode-agtpl`
+- Aladdin MD5 License, `aladdin-md5`
+- Alexisisaac Freeware License, `LicenseRef-scancode-alexisisaac-freeware`
+- Allegro 4 License, `Giftware`
+- Altera License, `Xnet`
+- Amazon Digital Services License, `ADSL`
+- AMD Historical License, `AMD-newlib`
+- AMD PLPA License, `AMDPLPA`
+- Academy of Motion Picture Arts and Sciences BSD-Style, `AMPAS`
+- AMSFonts license, `LicenseRef-scancode-ams-fonts`
+- Andre Adrian DFS license, `LicenseRef-scancode-adrian`
+- ANTLR Software Rights Notice, `ANTLR-PD`
+- Australian National University License, `LicenseRef-scancode-anu-license`
+- Apache License 1.0, `Apache-1.0`
+- Apache License 1.1, `Apache-1.1`
+- Apache License 2.0, `Apache-2.0`
+- Apache 2.0 with Linking Exception, `apache-2.0-linking-exception`
+- Apache 2.0 with Runtime Library Exception, `apache-2.0-runtime-library-exception`
+- Apache Due Credit Variant, `apache-due-credit`
+- Apache Patent Provision Exception Deprecated, `apache-patent-provision-exception`
+- Apache Patent Provision Exception Terms, `mxml-exception`
+- Apache Exception LLVM, `apache-exception-llvm`
+- App::s2p License, `App-s2p`
+- Apple Attribution License 1997, `LicenseRef-scancode-apple-attribution-1997`
+- Apple Attribution License, `LicenseRef-scancode-apple-attribution`
+- Apple Example Code License, `LicenseRef-scancode-apple-excl`
+- Apple Sample Code License 2006, `AML`
+- Apple ML Ferret License 2023, `LicenseRef-scancode-apple-ml-ferret-2023`
+- Apple Sample Source Code License, `LicenseRef-scancode-apple-sscl`
+- Aravindan Premkumar Licenase, `LicenseRef-scancode-aravindan-premkumar`
+- ArgoUML License, `LicenseRef-scancode-argouml`
+- ARM LLVM Software Grant License Agreement, `LicenseRef-scancode-arm-llvm-sga`
+- Array Input Method Public License, `LicenseRef-scancode-array-input-method-pl`
+- ASMUS License, `LicenseRef-scancode-asmus`
+- ASN.1 Object Dumping Code License, `LicenseRef-scancode-asn1`
+- Aspell Russian License, `Aspell-RU`
+- Atkinson Hyperlegible Font License, `LicenseRef-scancode-atkinson-hyperlegible-font`
+- Baekmuk Fonts License, `Baekmuk`
+- Bahyph License, `Bahyph`
+- BaKoMa Fonts Licence 1995, `LicenseRef-scancode-bakoma-fonts-1995`
+- Barr TeX License, `Barr`
+- bcrypt Solar Designer License, `bcrypt-Solar-Designer`
+- BEA Public License 2.1, `LicenseRef-scancode-bea-2.1`
+- Beal Screamer License, `LicenseRef-scancode-beal-screamer`
+- Beer-Ware License, `Beerware`
+- BERI Hardware-Software License v1.0, `LicenseRef-scancode-beri-hw-sw-1.0`
+- BigDigits License, `LicenseRef-scancode-bigdigits`
+- Bigelow & Holmes Lucida Fonts License, `Lucida-Bitmap-Fonts`
+- Biopython License Agreement, `LicenseRef-scancode-biopython`
+- Bitstream Vera Font License, `Bitstream-Vera`
+- Bitzi Public Domain, `LicenseRef-scancode-bitzi-pd`
+- BLAS License 2017, `LicenseRef-scancode-blas-2017`
+- Blue Oak Model License 1.0.0, `BlueOak-1.0.0`
+- The Balloon Open Hardware License v0.2, `LicenseRef-scancode-bohl-0.2`
+- BOLA - Buena Onda License Agreement (v1.0), `LicenseRef-scancode-bola10`
+- BOLA - Buena Onda License Agreement (v1.1), `LicenseRef-scancode-bola11`
+- Boost Software License 1.0, `BSL-1.0`
+- Boost Original, `LicenseRef-scancode-boost-original`
+- Borceux License, `Borceux`
+- Boutell libgd declarations 2021, `LicenseRef-scancode-boutell-libgd-2021`
+- bpmn.io License, `LicenseRef-scancode-bpmn-io`
+- Brent Corkum License, `LicenseRef-scancode-brent-corkum`
+- Brian Clapper License, `LicenseRef-scancode-brian-clapper`
+- Brian Gladman 3-Clause License, `LicenseRef-scancode-brian-gladman-3-clause`
+- Brian Gladman Dual BSD-GPL, `Brian-Gladman-3-Clause`
+- Brian Gladman License, `Brian-Gladman-2-Clause`
+- Broadcom CFE License, `LicenseRef-scancode-broadcom-cfe`
+- Broadcom Warranty Disclaimer, `LicenseRef-scancode-broadcom-linux-timer`
+- Brocade Firmware License, `LicenseRef-scancode-brocade-firmware`
+- Bruno Podetti License, `LicenseRef-scancode-bruno-podetti`
+- BSD 1988, `LicenseRef-scancode-bsd-1988`
+- BSD 2-Clause - first lines requirement, `BSD-2-Clause-first-lines`
+- BSD 2-Clause pkgconf disclaimer variant, `BSD-2-Clause-pkgconf-disclaimer`
+- BSD 3-Clause Devine, `LicenseRef-scancode-bsd-3-clause-devine`
+- BSD 3-Clause FDA, `LicenseRef-scancode-bsd-3-clause-fda`
+- BSD 3-Clause jtag, `LicenseRef-scancode-bsd-3-clause-jtag`
+- BSD 3-Clause No Change, `LicenseRef-scancode-bsd-3-clause-no-change`
+- BSD 3-Clause no trademark, `LicenseRef-scancode-bsd-3-clause-no-trademark`
+- BSD 3-Clause Open MPI variant, `BSD-3-Clause-Open-MPI`
+- BSD 3-Clause Sun, `BSD-3-Clause-Sun`
+- BSD 3-Clause with GPL reference, `LicenseRef-scancode-bsd-top-gpl-addition`
+- BSD Acknowledgment (Carrot2) License, `LicenseRef-scancode-bsd-ack-carrot2`
+- BSD Acknowledgment License, `BSD-3-Clause-Attribution`
+- BSD Advertising Acknowledgement License, `BSD-Advertising-Acknowledgement`
+- BSD Artwork License, `LicenseRef-scancode-bsd-artwork`
+- BSD Atmel License, `LicenseRef-scancode-bsd-atmel`
+- BSD Distributed Processing Technology License, `LicenseRef-scancode-bsd-dpt`
+- BSD Endorsement Allowed, `LicenseRef-scancode-bsd-endorsement-allowed`
+- BSD GNU EFI License 2000, `LicenseRef-scancode-bsd-gnu-efi`
+- BSD Intel License, `bsd-intel`
+- BSD plus modification notice, `LicenseRef-scancode-bsd-plus-mod-notice`
+- BSD Simplified Darwin, `BSD-2-Clause-Darwin`
+- BSD Source Code Attribution, `BSD-Source-Code`
+- BSD Simplified with Unchanged requirement, `LicenseRef-scancode-bsd-unchanged`
+- BSD Simplified with Unmodified requirement, `LicenseRef-scancode-bsd-unmodified`
+- BSD Zero Clause License, `0BSD`
+- BSD-1-Clause, `BSD-1-Clause`
+- BSD-1-Clause Build system, `LicenseRef-scancode-bsd-1-clause-build`
+- BSD-2-Clause, `BSD-2-Clause`
+- BSD-2-Clause without Warranty Disclaimer, `LicenseRef-scancode-bsd-no-disclaimer`
+- BSD-2-Clause without Warranty Disclaimer with Unmodified requirement, `LicenseRef-scancode-bsd-no-disclaimer-unmodified`
+- BSD-2-Clause Plus Patent, `BSD-2-Clause-Patent`
+- BSD-2-Clause-FreeBSD License, `bsd-2-clause-freebsd`
+- BSD-2-Clause-NetBSD License, `bsd-2-clause-netbsd`
+- BSD-2-Clause-plus-advertizing, `LicenseRef-scancode-bsd-2-clause-plus-advertizing`
+- BSD 2-Clause with views sentence, `BSD-2-Clause-Views`
+- BSD-3-Clause, `BSD-3-Clause`
+- BSD-3-Clause tcpdump variant, `LicenseRef-scancode-bsd-new-tcpdump`
+- BSD-3-Clause with Far Manager exception, `bsd-new-far-manager`
+- BSD-3-Clause without notice modification, `LicenseRef-scancode-bsd-new-nomod`
+- BSD-3-Clause with X11 disclaimer, `LicenseRef-scancode-bsd-x11`
+- BSD-4-Clause with Voices in Head, `LicenseRef-scancode-bsd-original-voices`
+- BSD-4-Clause-Shortened, `BSD-4-Clause-Shortened`
+- BSD-Axis, `bsd-axis`
+- BSD-Axis without modification, `LicenseRef-scancode-bsd-axis-nomod`
+- BSD-Credit, `LicenseRef-scancode-bsd-credit`
+- BSD-Derivative, `LicenseRef-scancode-bsd-new-derivative`
+- BSD-Export, `LicenseRef-scancode-bsd-export`
+- BSD-Inferno-Nettverk, `BSD-Inferno-Nettverk`
+- BSD-InnoSys, `LicenseRef-scancode-bsd-innosys`
+- BSD-Mylex, `LicenseRef-scancode-bsd-mylex`
+- BSD-Original, `BSD-4-Clause`
+- BSD-Original-Muscle, `LicenseRef-scancode-bsd-original-muscle`
+- BSD-Original-UC, `BSD-4-Clause-UC`
+- BSD-Original-UC-1986, `BSD-4.3RENO`
+- BSD-Original-UC-1990, `bsd-original-uc-1990`
+- BSD-Simplified Intel, `LicenseRef-scancode-bsd-simplified-intel`
+- BSD-Simplified source, `LicenseRef-scancode-bsd-simplified-source`
+- BSD-Top, `BSD-Source-beginning-file`
+- Berkeley Software License Agreement, `BSD-4.3TAHOE`
+- Berkeley Software License Agreement with no advertizing, `LicenseRef-scancode-bsla-no-advert`
+- BYTEmark License, `LicenseRef-scancode-bytemark`
+- bzip2 License, `bzip2-libbzip-1.0.5`
+- bzip2 License 2010, `bzip2-1.0.6`
+- Computer Associates Open Source Software License 1.0, `LicenseRef-scancode-ca-ossl-1.0`
+- Caldera License (without preamble), `Caldera-no-preamble`
+- Common Attack Pattern Enumeration and Classification ToU, `LicenseRef-scancode-capec-tou`
+- Caramel Software License 1.0, `LicenseRef-scancode-caramel-1.0`
+- Careware License, `LicenseRef-scancode-careware`
+- Carnegie Mellon Contributors License, `CMU-Mach`
+- Carnegie Mellon License, `LicenseRef-scancode-carnegie-mellon`
+- Catharon Open Source License, `Catharon`
+- Cavium malloc License, `LicenseRef-scancode-cavium-malloc`
+- Creative Commons Attribution License 1.0, `CC-BY-1.0`
+- Creative Commons Attribution License 2.0, `CC-BY-2.0`
+- Creative Commons Attribution License 2.0 UK, `LicenseRef-scancode-cc-by-2.0-uk`
+- Creative Commons Attribution License 2.5, `CC-BY-2.5`
+- Creative Commons Attribution License 3.0, `CC-BY-3.0`
+- Creative Commons Attribution 3.0 Austria, `CC-BY-3.0-AT`
+- Creative Commons Attribution 3.0 United States, `CC-BY-3.0-US`
+- Creative Commons Attribution 4.0 International Public License, `CC-BY-4.0`
+- Community Data License Agreement Permissive 1.0, `CDLA-Permissive-1.0`
+- Community Data License Agreement Permissive 2.0, `CDLA-Permissive-2.0`
+- CeCILL-B Free Software License Agreement, `CECILL-B`
+- CeCILL-B Free Software License Agreement English, `LicenseRef-scancode-cecill-b-en`
+- CERN Attribution 1995, `LicenseRef-scancode-cern-attribution-1995`
+- CERN Open Hardware Licence v1.2, `CERN-OHL-1.2`
+- CERN Open Hardware License v1.1, `CERN-OHL-1.1`
+- CERN Open Hardware Licence Version 2 - Permissive, `CERN-OHL-P-2.0`
+- cexcept License 2008, `LicenseRef-scancode-cexcept-2008`
+- CFITSIO License, `CFITSIO`
+- CGIC License, `LicenseRef-scancode-cgic`
+- check-cvs License, `check-cvs`
+- Checkmk License, `checkmk`
+- Chicken Dance v0.2, `LicenseRef-scancode-chicken-dl-0.2`
+- Chris Maunder License, `LicenseRef-scancode-chris-maunder`
+- Chris Stoy Attribution License, `LicenseRef-scancode-chris-stoy`
+- Classic VB License, `LicenseRef-scancode-classic-vb`
+- Classworlds License, `classworlds`
+- Clear BSD 1-Clause License, `LicenseRef-scancode-clear-bsd-1-clause`
+- Clear BSD License, `BSD-3-Clause-Clear`
+- Click License, `MIT-Click`
+- CLIPS License 2017, `Clips`
+- Christian Michelsen Research AS License, `cmr-no`
+- Carnegie Mellon Computing Services License, `BSD-Attribution-HPND-disclaimer`
+- Carnegie Mellon University Flite License, `LicenseRef-scancode-cmu-flite`
+- Carnegie Mellon Template License, `LicenseRef-scancode-cmu-template`
+- Carnegie Mellon UC Regents MIT-style License, `LicenseRef-scancode-cmu-mit`
+- CMU Nara Nagoya License, `LicenseRef-scancode-cmu-nara-nagoya`
+- Carnegie Mellon Simple License, `LicenseRef-scancode-cmu-simple`
+- CMU Style, `MIT-CMU`
+- CNRI Jython License, `CNRI-Jython`
+- CNRI Open Source License Agreement for Python 1.6, `CNRI-Python`
+- CNRI Open Source License Agreement for Python 1.6.1, `CNRI-Python-GPL-Compatible`
+- Code Credit License v1.0.0, `LicenseRef-scancode-code-credit-license-1.0.0`
+- Code Credit License v1.0.0, `LicenseRef-scancode-code-credit-license-1.0.0`
+- Code Credit License v1.0.1, `LicenseRef-scancode-code-credit-license-1.0.1`
+- Code Credit License v1.1.0, `LicenseRef-scancode-code-credit-license-1.1.0`
+- CodeGuru Permissions, `LicenseRef-scancode-codeguru-permissions`
+- CodeSourcery 2004, `HPND-merchantability-variant`
+- Copyfree Open Innovation License 1.0, `COIL-1.0`
+- Common Lisp Generic LOOP License, `LicenseRef-scancode-generic-loop`
+- Common Lisp LOOP License, `LOOP`
+- CommonJ Timer and Work Manager License, `LicenseRef-scancode-commonj-timer`
+- Compass License, `LicenseRef-scancode-compass`
+- ComponentAce JCraft License, `LicenseRef-scancode-componentace-jcraft`
+- compuphase Linking Exception to Apache 2.0, `LicenseRef-scancode-compuphase-linking-exception`
+- Condor Public License 1.1, `Condor-1.1`
+- Cornell Lossless JPEG License, `Cornell-Lossless-JPEG`
+- Cougaar Open Source License, `LicenseRef-scancode-cosl`
+- CP/M License 2022, `LicenseRef-scancode-cpm-2022`
+- CppCoreGuidelines License, `LicenseRef-scancode-cpp-core-guidelines`
+- CRCalc license, `LicenseRef-scancode-crcalc`
+- Creative Commons Attribution 2.5 Australia, `CC-BY-2.5-AU`
+- Creative Commons Attribution 3.0 Australia, `CC-BY-3.0-AU`
+- Creative Commons Attribution 3.0 Germany, `CC-BY-3.0-DE`
+- Creative Commons Attribution 3.0 IGO, `CC-BY-3.0-IGO`
+- Creative Commons Attribution 3.0 Netherlands, `CC-BY-3.0-NL`
+- Cronyx License, `Cronyx`
+- Crossword License, `Crossword`
+- Crypto++ License, `LicenseRef-scancode-cryptopp`
+- CryptoSwift License, `CryptoSwift`
+- Crystal Stacker License, `CrystalStacker`
+- Community Specification License 1.0, `Community-Spec-1.0`
+- CSPRNG, `LicenseRef-scancode-csprng`
+- Cube License, `Cube`
+- cURL License, `curl`
+- Common Vulnerability Enumeration ToU License, `cve-tou`
+- Common Weaness Enumeration ToU License, `LicenseRef-scancode-cwe-tou`
+- CxImage License, `LicenseRef-scancode-cximage`
+- Cyverse 3-Clause License 2017, `LicenseRef-scancode-cyverse-3-clause-2017`
+- Digital Mars Zlib, `LicenseRef-scancode-d-zlib`
+- Daikon License 2022, `LicenseRef-scancode-daikon-2022`
+- Don't Ask Me About It License, `LicenseRef-scancode-damail`
+- Dante Treglia License, `Game-Programming-Gems`
+- Data licence Germany – zero – version 2.0, `DL-DE-ZERO-2.0`
+- DataMekanix License, `LicenseRef-scancode-datamekanix-license`
+- Don't Be a Dick Public License 1.1, `LicenseRef-scancode-dbad-1.1`
+- Debian reportbug License, `LicenseRef-scancode-reportbug`
+- DEC 3-Clause License, `DEC-3-Clause`
+- DejaVu Font License, `LicenseRef-scancode-dejavu-font`
+- Delorie Historical License, `LicenseRef-scancode-delorie-historical`
+- Dynamic HTML Lab Public License, `LicenseRef-scancode-dhtmlab-public`
+- Datenlizenz Deutschland - Namensnennung - Version 1.0 - Deutsch, `LicenseRef-scancode-dl-de-by-1-0-de`
+- Data licence Germany - attribution - Version 1 - English, `LicenseRef-scancode-dl-de-by-1-0-en`
+- Datenlizenz Deutschland - Namensnennung - Version 2.0 - Deutsch, `DL-DE-BY-2.0`
+- Data licence Germany - attribution - Version 2 - English, `LicenseRef-scancode-dl-de-by-2-0-en`
+- dmalloc License, `LicenseRef-scancode-dmalloc`
+- DMTF License 2017, `LicenseRef-scancode-dmtf-2017`
+- DocBook DTD License, `DocBook-DTD`
+- Docbook License, `DocBook-XML`
+- DocBook Schema License, `DocBook-Schema`
+- DocBook Stylesheet License, `DocBook-Stylesheet`
+- Dom4j License, `Plexus`
+- DOS32 Advanced DOS Extender Software License, `LicenseRef-scancode-dos32a-extender`
+- Dotseqn License, `Dotseqn`
+- Douglas Young License, `LicenseRef-scancode-douglas-young`
+- Dr John Maddock License, `dr-john-maddock`
+- Detection Rule License 1.0, `DRL-1.0`
+- Detection Rule License (DRL) 1.1, `DRL-1.1`
+- Dropbear License, `LicenseRef-scancode-dropbear`
+- Dropbear-2016, `LicenseRef-scancode-dropbear-2016`
+- Detection Rule Usage License (DRUL) 1.0, `LicenseRef-scancode-drul-1.0`
+- DSDP License, `DSDP`
+- Dtree License, `LicenseRef-scancode-dtree`
+- Dual BSD-GPL, `dual-bsd-gpl`
+- DUMB License, `LicenseRef-scancode-dumb`
+- Duplicate Network Time Protocol License, `network-time-protocol`
+- dvipdfm License, `dvipdfm`
+- DWTFNMFPL-3.0, `LicenseRef-scancode-dwtfnmfpl-3.0`
+- Dynamic Drive Terms of Use, `LicenseRef-scancode-dynamic-drive-tou`
+- Educational Community License 1.0, `ECL-1.0`
+- Educational Community License 2.0, `ECL-2.0`
+- Eiffel Forum License 1.0, `EFL-1.0`
+- Eiffel Forum License 2.0, `EFL-2.0`
+- Enlightenment (EFL) MIT-Style License, `MIT-advertising`
+- eGenix Public License 1.0.0, `LicenseRef-scancode-egenix-1.0.0`
+- eGenix Public License 1.1.0, `eGenix`
+- Ekioh License, `ekioh`
+- EllisLab License, `LicenseRef-scancode-ellis-lab`
+- EMX Library License, `LicenseRef-scancode-emx-library`
+- EnergyPlus BSD-Style License, `LicenseRef-scancode-energyplus-bsd`
+- EnergyPlus License, `LicenseRef-scancode-energyplus-2023`
+- Enhanced MIT License, `LicenseRef-scancode-emit`
+- enna License, `MIT-enna`
+- Entessa Public License v1.0, `Entessa`
+- ePaperPress License, `LicenseRef-scancode-epaperpress`
+- EPICS Open License, `EPICS`
+- Eric Glass License, `LicenseRef-scancode-eric-glass`
+- Errbot exception, `LicenseRef-scancode-errbot-exception`
+- Etalab Open License 2.0, `etalab-2.0`
+- Etalab Open License 2.0 English, `LicenseRef-scancode-etalab-2.0-en`
+- EU DataGrid Software License, `EUDatagrid`
+- Fabien Tassin License, `LicenseRef-scancode-fabien-tassin`
+- Fair License, `Fair`
+- Free Art License 1.3, `LicenseRef-scancode-free-art-1.3`
+- Far Manager exception to BSD-3-Clause, `LicenseRef-scancode-far-manager-exception`
+- FASTBuild License 2012-2020, `LicenseRef-scancode-fastbuild-2012-2020`
+- FastCGI DevKit, `OML`
+- FastCGI License for Spec Implementation, `LicenseRef-scancode-openmarket-fastcgi`
+- FatFs License, `LicenseRef-scancode-fatfs`
+- Ferguson Twofish License, `Ferguson-Twofish`
+- FFTPACK License 2004, `NCL`
+- Filament Group MIT License, `LicenseRef-scancode-filament-group-mit`
+- FIRST EPSS Usage Agreement, `LicenseRef-scancode-first-epss-usage`
+- Flex License v2.5, `BSD-3-Clause-flex`
+- Flora License v1.1, `LicenseRef-scancode-flora-1.1`
+- font-alias License, `LicenseRef-scancode-font-alias`
+- FPDF License, `LicenseRef-scancode-fpdf`
+- FPLOT LIcense, `LicenseRef-scancode-fplot`
+- Fraunhofer ISO 14496-10 License, `LicenseRef-scancode-fraunhofer-iso-14496-10`
+- FreeBSD Boot, `LicenseRef-scancode-freebsd-boot`
+- FreeBSD Doc License, `FreeBSD-DOC`
+- FreeBSD unmodified first lines License, `LicenseRef-scancode-freebsd-first`
+- FreeMarker License, `LicenseRef-scancode-freemarker`
+- FreeRTOS MIT, `LicenseRef-scancode-freertos-mit`
+- FreeSurfer Software License Agreement 1.0, `LicenseRef-scancode-free-surfer-1.0`
+- FreeTTS License, `MIT-Festival`
+- FreeType Project License, `FTL`
+- Freeware Public License (FPL), `LicenseRef-scancode-fpl`
+- FSF All Permissive License, `FSFAP`
+- FSF All Permissive License (without Warranty), `FSFAP-no-warranty-disclaimer`
+- FSF Notice, `LicenseRef-scancode-fsf-notice`
+- FSF Unlimited License No Warranty, `FSFULLRWD`
+- FSF Unlimited License (with License Retention and Short Disclaimer), `FSFULLRSD`
+- Free Software Foundation - Unlimited License, `FSFULLR`
+- Fujion Clinical Exception to Apache 2.0, `LicenseRef-scancode-fujion-exception-to-apache-2.0`
+- Furuseth License, `Furuseth`
+- Fuzzy Bitmap License, `FBM`
+- fwlw License, `fwlw`
+- g10-permissive, `LicenseRef-scancode-g10-permissive`
+- Gareth McCaughan License, `LicenseRef-scancode-gareth-mccaughan`
+- Gary S. Brown License, `LicenseRef-scancode-gary-s-brown`
+- GDCL License, `LicenseRef-scancode-gdcl`
+- Geant4 Software License v1.0, `LicenseRef-scancode-geant4-sl-1.0`
+- GeneralUser GS License v2.0, `LicenseRef-scancode-generaluser-gs-2.0`
+- Generic patent disclaimer, `LicenseRef-scancode-patent-disclaimer`
+- Generic XTS License, `generic-xts`
+- Geoff Kuenning License 1993, `LicenseRef-scancode-geoff-kuenning-1993`
+- Ghostpdl Permissive, `LicenseRef-scancode-ghostpdl-permissive`
+- Gladman Older Rigndael Code Use, `LicenseRef-scancode-gladman-older-rijndael-code`
+- Glulxe License, `Glulxe`
+- OpenGL Utility Toolkit (GLUT) License, `LicenseRef-scancode-glut`
+- Good Luck With That Public License, `GLWTPL`
+- GNOME examples exception, `GNOME-examples-exception`
+- Good Boy License, `LicenseRef-scancode-good-boy`
+- Graphics Gems License, `Graphics-Gems`
+- Greg Roelofs License, `LicenseRef-scancode-greg-roelofs`
+- Gregory Pietsch Liberal License, `LicenseRef-scancode-gregory-pietsch`
+- GStreamer Exception (2005), `GStreamer-exception-2005`
+- GStreamer Exception (2008), `GStreamer-exception-2008`
+- gtkbook License, `gtkbook`
+- Globus Toolkit Public License (GTPL) v1, `LicenseRef-scancode-gtpl-v1`
+- Globus Toolkit Public License (GTPL) v2, `LicenseRef-scancode-gtpl-v2`
+- Globus Toolkit Public License (GTPL) v3, `LicenseRef-scancode-gtpl-v3`
+- Gutmann License, `Gutmann`
+- Haskell Language Report License, `HaskellReport`
+- HDF4 License, `LicenseRef-scancode-hdf4`
+- HDF5 License, `HDF5`
+- HDPARM License, `hdparm`
+- Henry Spencer License 1999, `Spencer-99`
+- Henry Spencer Original Regexp License, `hs-regexp-orig`
+- Henry Spencer Regexp License, `Spencer-94`
+- Hewlett-Packard BSD variant license, `BSD-3-Clause-HP`
+- HIDAPI License, `HIDAPI`
+- Historical Permission Notice and Disclaimer - INRIA-IMAG variant, `HPND-INRIA-IMAG`
+- Historical Permission Notice and Disclaimer - documentation sell variant, `HPND-doc-sell`
+- Historical Permission Notice and Disclaimer - documentation variant, `HPND-doc`
+- Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant, `HPND-Fenneberg-Livingston`
+- Historical Notice - NTP, `LicenseRef-scancode-historical-ntp`
+- Historical Permission Notice and Disclaimer Pbmplus variant, `HPND-Pbmplus`
+- Historical Permission Notice and Disclaimer, `HPND`
+- Historical Permission Notice and Disclaimer - sell variant, `historical-sell-variant`
+- Historical Permission Notice and Disclaimer sell regexpr variant, `HPND-sell-regexpr`
+- Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer, `HPND-sell-MIT-disclaimer-xserver`
+- Historical Permission Notice and Disclaimer University of California variant, `HPND-UC`
+- Historical Permission Notice and Disclaimer with MIT disclaimer, `HPND-MIT-disclaimer`
+- Homebrewed or Craft Beer License, `LicenseRef-scancode-homebrewed`
+- Hot Potato, `LicenseRef-scancode-hot-potato`
+- Hewlett-Packard 1986 License, `HP-1986`
+- Historical Permission Notice and Disclaimer Netrek variant, `HPND-Netrek`
+- HPND sell variant with MIT disclaimer, `HPND-sell-variant-MIT-disclaimer`
+- HPND sell variant with MIT disclaimer - reverse, `HPND-sell-variant-MIT-disclaimer-rev`
+- HTML 5 specification License, `LicenseRef-scancode-html5`
+- httpget notice and disclaimer, `LicenseRef-scancode-httpget`
+- Ian Kaplan License, `LicenseRef-scancode-ian-kaplan`
+- Ian Piumarta License, `LicenseRef-scancode-ian-piumarta`
+- IBM AS-IS License, `LicenseRef-scancode-ibm-as-is`
+- IBM DHCP License, `LicenseRef-scancode-ibm-dhcp`
+- IBM glextrusion License, `LicenseRef-scancode-ibm-glextrusion`
+- IBM Java Portlet Specification 2.0 License, `LicenseRef-scancode-ibm-java-portlet-spec-2.0`
+- IBM International License Agreement for Non-Warranted Sample Code, `LicenseRef-scancode-ibm-nwsc`
+- IBM PowerPC Initialization and Boot Software, `IBM-pibs`
+- IBM Sample Program License, `LicenseRef-scancode-ibm-sample`
+- IBPP License, `LicenseRef-scancode-ibpp`
+- ICOT Free Software, `LicenseRef-scancode-icot-free`
+- ICU Composite License, `LicenseRef-scancode-ibm-icu`
+- ICU License 58 and later, `LicenseRef-scancode-unicode-icu-58`
+- IDT License Notice, `LicenseRef-scancode-idt-notice`
+- IEC Code Components End-user licence agreement, `IEC-Code-Components-EULA`
+- IEEE Std 1003.1 Text Usage, `LicenseRef-scancode-morbig-ieee-std-usage`
+- Internet Engineering Task Force License, `LicenseRef-scancode-ietf`
+- IETF Trust License, `LicenseRef-scancode-ietf-trust`
+- ilmid License, `LicenseRef-scancode-ilmid`
+- ImageMagick License, `ImageMagick`
+- Independent JPEG Group License - short, `IJG-short`
+- Indiana University Extreme! Lab Software License Version 1.1.1, `LicenseRef-scancode-indiana-extreme`
+- Indiana University Extreme! Lab Software License Version 1.2, `xpp`
+- Infineon Free Software License, `LicenseRef-scancode-infineon-free`
+- Info-Zip License, `Info-ZIP`
+- Info-Zip License 1997-10, `LicenseRef-scancode-info-zip-1997-10`
+- Info-Zip License 2001-01, `LicenseRef-scancode-info-zip-2001-01`
+- Info-Zip License 2002-02, `LicenseRef-scancode-info-zip-2002-02`
+- Info-Zip License 2003-05, `LicenseRef-scancode-info-zip-2003-05`
+- Info-Zip License 2004-05, `LicenseRef-scancode-info-zip-2004-05`
+- Info-Zip License 2005-02, `LicenseRef-scancode-info-zip-2005-02`
+- Info-Zip License 2007-03, `LicenseRef-scancode-info-zip-2007-03`
+- Info-Zip License 2009-01, `LicenseRef-scancode-info-zip-2009-01`
+- Inner Net License 2.0, `Inner-Net-2.0`
+- Inno Setup License, `InnoSetup`
+- Intel ACPI Software License Agreement, `Intel-ACPI`
+- Intel BSD - Export Control, `Intel`
+- Intel BSD 2 Clause License, `LicenseRef-scancode-intel-bsd-2-clause`
+- Intel BSD License, `BSD-3-Clause-acpica`
+- Intel Open Source License 1989, `LicenseRef-scancode-intel-osl-1989`
+- Intel Open Source License 1993, `HPND-Intel`
+- Intel Royalty Free License, `LicenseRef-scancode-intel-royalty-free`
+- ISC License, `ISC`
+- ISO 14496-10, `LicenseRef-scancode-iso-14496-10`
+- ISO 8879, `LicenseRef-scancode-iso-8879`
+- ITU License, `LicenseRef-scancode-itu`
+- JA-SiG License, `LicenseRef-scancode-ja-sig`
+- Jam License, `Jam`
+- Jason Mayes License, `LicenseRef-scancode-jason-mayes`
+- Jasper Reports License 1.0, `LicenseRef-scancode-jasper-1.0`
+- JasPer License 2.0, `JasPer-2.0`
+- Java Application Stub Binary Module License, `LicenseRef-scancode-java-app-stub`
+- JDBM License v1.00, `LicenseRef-scancode-jdbm-1.00`
+- JDOM License, `LicenseRef-scancode-jdom`
+- Jetty License, `LicenseRef-scancode-jetty`
+- JGraph License, `LicenseRef-scancode-jgraph`
+- Jove License, `jove`
+- Independent JPEG Group License, `IJG`
+- Independent JPEG Group License 2020, `LicenseRef-scancode-ijg-2020`
+- JPNIC idnkit License, `JPNIC`
+- JPNIC mdnkit License, `LicenseRef-scancode-jpnic-mdnkit`
+- JPython License 1.1, `LicenseRef-scancode-jpython-1.1`
+- Jscheme License, `LicenseRef-scancode-jscheme`
+- JSFromHell License, `LicenseRef-scancode-jsfromhell`
+- JSON License, `JSON`
+- Jython License, `LicenseRef-scancode-jython`
+- Kalle Kaukonen License, `LicenseRef-scancode-kalle-kaukonen`
+- Kastrup License, `Kastrup`
+- Kazlib License, `Kazlib`
+- Keith Rule License, `LicenseRef-scancode-keith-rule`
+- Kerberos License, `LicenseRef-scancode-kerberos`
+- Kevan Stannard Free Software License, `LicenseRef-scancode-kevan-stannard`
+- Kevlin Henney License, `HPND-Kevlin-Henney`
+- Khronos License, `LicenseRef-scancode-khronos`
+- Knuth CTAN License, `Knuth-CTAN`
+- Korean Manpage Project License, `LicenseRef-scancode-ko-man-page`
+- Kumar Robotics License, `LicenseRef-scancode-kumar-robotics`
+- Lance Norskog License, `LicenseRef-scancode-lance-norskog-license`
+- Los Alamos National Labs BSD-3 Variant, `LicenseRef-scancode-lanl-bsd-3-variant`
+- Copyright notice to the ec fonts, `LicenseRef-scancode-ecfonts-1.0`
+- Latex2e License, `Latex2e`
+- Latex2e with translated notice permission, `Latex2e-translated-notice`
+- Lawrence Berkeley National Labs BSD variant license, `BSD-3-Clause-LBNL`
+- LCS-Telegraphics License, `LicenseRef-scancode-lcs-telegraphics`
+- Leptonica License, `Leptonica`
+- libcap License, `libcap`
+- libgd License 2018, `GD`
+- libgeoTiff License, `LicenseRef-scancode-libgeotiff`
+- LibMib License, `LicenseRef-scancode-libmib`
+- libmng License 2007, `LicenseRef-scancode-libmng-2007`
+- Libpng License, `Libpng`
+- PNG Reference Library License version 2, `libpng-2.0`
+- libsrv License v1.0.2, `LicenseRef-scancode-libsrv-1.0.2`
+- libutil David Nugent License, `libutil-David-Nugent`
+- NiH libzip License, `libzip`
+- Lil License v1, `LicenseRef-scancode-lil-1`
+- LILO License, `LicenseRef-scancode-lilo`
+- Linum Software License, `linum`
+- Linux Device Drivers License, `LicenseRef-scancode-linux-device-drivers`
+- Linux-OpenIB, `Linux-OpenIB`
+- LinuxBIOS License, `LicenseRef-scancode-linuxbios`
+- linuxhowtos License, `LicenseRef-scancode-linuxhowtos`
+- LLNL, `LicenseRef-scancode-llnl`
+- LLVM Exception to Apache 2.0, `LLVM-exception`
+- Logica Open Source License v1.0, `LicenseRef-scancode-logica-1.0`
+- Lucre License, `LicenseRef-scancode-lucre`
+- M+ Fonts license, `mplus`
+- MadWifi Dual BSD-GPL, `madwifi-dual`
+- magaz License, `magaz`
+- mailprio License, `mailprio`
+- MakeHuman License, `LicenseRef-scancode-make-human-exception`
+- man2html License, `man2html`
+- Markus Kuhn License, `HPND-Markus-Kuhn`
+- Markus Mummert Permissive, `LicenseRef-scancode-markus-mummert-permissive`
+- Martin Bergmeier License, `Martin-Birgmeier`
+- matplotlib 1.3.0, `LicenseRef-scancode-matplotlib-1.3.0`
+- Matrix Template Library License, `MTLL`
+- Matt Gallagher Attribution License, `LicenseRef-scancode-matt-gallagher-attribution`
+- Matt Kruse License, `LicenseRef-scancode-mattkruse`
+- Matthew Kwan License, `LicenseRef-scancode-matthew-kwan`
+- McPhee Slideshow License, `McPhee-slideshow`
+- MediaInfo(Lib) License, `LicenseRef-scancode-mediainfo-lib`
+- Mentalis Source Code License, `mentalis`
+- metamail License, `metamail`
+- MGB Open Source License 1.0, `LicenseRef-scancode-mgb-1.0`
+- MgOpen Font License, `LicenseRef-scancode-mgopen-font-license`
+- Michael Barr License, `LicenseRef-scancode-michael-barr`
+- Michigan/Merit Networks License, `UMich-Merit`
+- Minpack Copyright Notice, `Minpack`
+- MIPS License, `MIPS`
+- MirOS License, `MirOS`
+- MIT (SEI), `LicenseRef-scancode-vince`
+- MIT INRIA W3C 1995, `LicenseRef-scancode-mit-1995`
+- MIT Acknowledgment License, `MIT-feh`
+- MIT Addition License, `MIT-Wu`
+- MIT Khronos - old variant, `MIT-Khronos-old`
+- MIT License, `MIT`
+- MIT License 1998, `LicenseRef-scancode-mit-license-1998`
+- MIT Modern Variant, `MIT-Modern-Variant`
+- MIT Szabolcs Nagy Variant, `LicenseRef-scancode-mit-nagy`
+- MIT no advertising with Export Control, `HPND-export2-US`
+- MIT No Commercial Use of Trademarks, `LicenseRef-scancode-mit-no-trademarks`
+- MIT with no false attribution License, `MITNFA`
+- MIT Old Style, `LicenseRef-scancode-mit-old-style`
+- MIT Old Style no advertising, `NTP`
+- MIT Old Style Spare, `LicenseRef-scancode-mit-old-style-sparse`
+- MIT README License, `LicenseRef-scancode-mit-readme`
+- MIT Synopsys License, `LicenseRef-scancode-mit-synopsys`
+- MIT Taylor Variant, `pkgconf`
+- MIT testregex Variant, `MIT-testregex`
+- MIT Veillard Variant, `ISC-Veillard`
+- MIT with Export Control, `Xerox`
+- MIT With Modification Obligations, `HPND-export-US-modify`
+- MIT with Specification Disclaimer, `LicenseRef-scancode-mit-specification-disclaimer`
+- MIT Xfig Variant, `Xfig`
+- MIT No Attribution, `MIT-0`
+- MMIXware License, `MMIXware`
+- mod_dav License Agreement v1, `LicenseRef-scancode-mod-dav-1.0`
+- Modified MIT License for Public Domain software, `LicenseRef-scancode-pd-mit`
+- Motorola Microprocessor & Memory Technology Group License, `LicenseRef-scancode-motorola`
+- Mozilla GC License, `Boehm-GC`
+- MPEG SSG License, `MPEG-SSG`
+- MPEG-2 NBC MPEG-4 Audio ISO License, `LicenseRef-scancode-mpeg-iso`
+- mpi Permissive License, `mpi-permissive`
+- MPICH License, `mpich2`
+- Microsoft Limited Public License, `ms-limited-public`
+- Microsoft Systems Journal Sample Code License, `LicenseRef-scancode-msj-sample-code`
+- Microsoft WS Routing Specifications License, `LicenseRef-scancode-ms-ws-routing-spec`
+- Microsoft Limited Permissive License (MS-LPL), `MS-LPL`
+- Microsoft Public License, `MS-PL`
+- Microsoft Permissive License (MS-PL) v1.1, `ms-permissive-1.1`
+- Microsoft Shared Source Permissive License (SS-PL), `LicenseRef-scancode-ms-sspl`
+- Mulan Permissive Software License, Version 1, `MulanPSL-1.0`
+- Mulan Permissive Software License, Version 1 (English), `LicenseRef-scancode-mulanpsl-1.0-en`
+- Mulan Permissive Software License, Version 2, `MulanPSL-2.0`
+- Mulan Permissive Software License, Version 2 (English), `LicenseRef-scancode-mulanpsl-2.0-en`
+- Mulle Kybernetik License, `LicenseRef-scancode-mulle-kybernetik`
+- Multics License, `Multics`
+- Mup License, `Mup`
+- musl attribution exception, `LicenseRef-scancode-musl-exception`
+- MX4J License 1.0, `LicenseRef-scancode-mx4j`
+- Nara Institute License 2003, `NAIST-2003`
+- NAUMEN Public License, `Naumen`
+- University of Illinois/NCSA Open Source License, `NCSA`
+- Net SNMP License, `LicenseRef-scancode-net-snmp`
+- Netcat License, `LicenseRef-scancode-netcat`
+- NetCDF License, `NetCDF`
+- NetComponents License, `LicenseRef-scancode-netcomponents`
+- Netron Project License, `LicenseRef-scancode-netron`
+- Newlib Historical License, `LicenseRef-scancode-newlib-historical`
+- Newran License, `LicenseRef-scancode-newran`
+- Newsletr License, `Newsletr`
+- ngrep License, `ngrep`
+- Nice License, `LicenseRef-scancode-nice`
+- NICTA Public Software Licence 1.0, `NICTA-1.0`
+- Niels Ferguson License, `LicenseRef-scancode-niels-ferguson`
+- Nilsson Historical License, `LicenseRef-scancode-nilsson-historical`
+- NIST NVD API Terms of Use, `LicenseRef-scancode-nist-nvd-api-tou`
+- NIST Public Domain Notice with license fallback, `NIST-PD-fallback`
+- NIST Software License, `NIST-Software`
+- NIST Standard Reference Data License, `LicenseRef-scancode-nist-srd`
+- Norwegian Licence for Open Government Data, `NLOD-1.0`
+- Norwegian Licence for Open Government Data (NLOD) 2.0, `NLOD-2.0`
+- Node License, `LicenseRef-scancode-node-js`
+- Non White Heterosexual Male, `LicenseRef-scancode-nwhm`
+- Nonexclusive License, `LicenseRef-scancode-nonexclusive`
+- Nortel DASA License, `LicenseRef-scancode-nortel-dasa`
+- University of Notre Dame License, `LicenseRef-scancode-notre-dame`
+- NRL License, `NRL`
+- NRL permission, `CMU-Mach-nodoc`
+- NTLM License, `LicenseRef-scancode-ntlm`
+- Network Time Protocol License, `ntpl`
+- NTP Origin License, `LicenseRef-scancode-ntpl-origin`
+- NTP No Attribution, `NTP-0`
+- NUnit v2 License, `nunit-v2`
+- NVIDIA 2002 License, `AML-glslang`
+- NVIDIA License, `LicenseRef-scancode-nvidia`
+- NVIDIA License with Government Qualifications, `LicenseRef-scancode-nvidia-gov`
+- NYSL 0.9982, `LicenseRef-scancode-nysl-0.9982`
+- NYSL 0.9982 Japanese, `LicenseRef-scancode-nysl-0.9982-jp`
+- O Young Jong License, `LicenseRef-scancode-o-young-jong`
+- O'Reilly Code Sample Notice, `LicenseRef-scancode-oreilly-notice`
+- Open Use of Data Agreement v1.0, `O-UDA-1.0`
+- Oasis WS Security Specification License, `LicenseRef-scancode-oasis-ws-security-spec`
+- Object Form Exception to MIT, `fmt-exception`
+- Open Data Commons Attribution License v1.0, `ODC-By-1.0`
+- ODMG License, `LicenseRef-scancode-odmg`
+- OFFIS License, `OFFIS`
+- SIL Open Font License 1.0, `OFL-1.0`
+- SIL Open Font License 1.0 with no Reserved Font Name, `OFL-1.0-no-RFN`
+- SIL Open Font License 1.0 with Reserved Font Name, `OFL-1.0-RFN`
+- SIL Open Font License 1.1 with no Reserved Font Name, `OFL-1.1-no-RFN`
+- OGC Software License, Version 1.0, `OGC-1.0`
+- OGC Software Notice, `LicenseRef-scancode-ogc`
+- OGC Software Notice 2006, `ogc-2006`
+- Open Game License v1.0a, `LicenseRef-scancode-ogl-1.0a`
+- Open Government Licence Alberta 2.1, `LicenseRef-scancode-can-ogl-alberta-2.1`
+- Open Government Licence British Columbia 2.0, `LicenseRef-scancode-can-ogl-british-columbia-2.0`
+- Open Government Licence Canada 2.0, `OGL-Canada-2.0`
+- Licence du gouvernement ouvert Canada 2.0, `LicenseRef-scancode-ogl-canada-2.0-fr`
+- Open Government Licence Nova Scotia 1.0, `LicenseRef-scancode-can-ogl-nova-scotia-1.0`
+- Open Government Licence Ontario 1.0, `LicenseRef-scancode-can-ogl-ontario-1.0`
+- Open Government Licence Toronto 1.0, `LicenseRef-scancode-can-ogl-toronto-1.0`
+- U.K. Open Government License for Public Sector Information v1.0, `OGL-UK-1.0`
+- U.K. Open Government License for Public Sector Information v2.0, `OGL-UK-2.0`
+- U.K. Open Government License for Public Sector Information v3.0, `OGL-UK-3.0`
+- Western Power Distribution Open Data Licence v3.0, `LicenseRef-scancode-ogl-wpd-3.0`
+- Open Logistics License Version 1.0, `LicenseRef-scancode-oll-1.0`
+- Open Directory License, `LicenseRef-scancode-odl`
+- Open Logistics Foundation License Version 1.3, `OLFL-1.3`
+- Open Publication License v1.0, `OPUBL-1.0`
+- Open Weights Permissive License Version 1.0.0, `LicenseRef-scancode-open-weights-permissive-1.0.0`
+- OpenLDAP Public License 2.0, `OLDAP-2.0`
+- OpenLDAP Public License 2.0.1, `OLDAP-2.0.1`
+- OpenLDAP Public License 2.1, `OLDAP-2.1`
+- OpenLDAP Public License 2.2, `OLDAP-2.2`
+- OpenLDAP Public License 2.2.1, `OLDAP-2.2.1`
+- OpenLDAP Public License 2.2.2, `OLDAP-2.2.2`
+- OpenLDAP Public License 2.3, `OLDAP-2.3`
+- OpenLDAP Public License 2.4, `OLDAP-2.4`
+- OpenLDAP Public License 2.5, `OLDAP-2.5`
+- OpenLDAP Public License 2.6, `OLDAP-2.6`
+- OpenLDAP Public License 2.7, `OLDAP-2.7`
+- OpenLDAP Public License 2.8, `OLDAP-2.8`
+- OpenMDW License Agreement, version 1.0, `LicenseRef-scancode-openmdw-1.0`
+- OpenORB Community Software License Version 1.0, `LicenseRef-scancode-openorb-1.0`
+- OpenSAML License Version 1, `LicenseRef-scancode-opensaml-1.0`
+- OpenSSH License, `SSH-OpenSSH`
+- OpenSSL License, `OpenSSL-standalone`
+- OpenSSL/SSLeay License, `OpenSSL`
+- OpenVision License, `OpenVision`
+- Openwall MD5 Permissive, `LicenseRef-scancode-openwall-md5-permissive`
+- OPML Specification License 1.0, `LicenseRef-scancode-opml-1.0`
+- Open Innovation License version 1.0, `LicenseRef-scancode-opnl-1.0`
+- Open Innovation License version 2.0, `LicenseRef-scancode-opnl-2.0`
+- Original SSLeay License, `LicenseRef-scancode-ssleay`
+- Original SSLeay License with Windows Clause, `SSLeay-standalone`
+- OSF 1990 License, `HP-1989`
+- Oswego Concurrent License, `LicenseRef-scancode-oswego-concurrent`
+- Other Permissive Licenses, `LicenseRef-scancode-other-permissive`
+- Open Works License v0.9.4, `LicenseRef-scancode-owl-0.9.4`
+- OWTChart License, `LicenseRef-scancode-owtchart`
+- Australian Public Licence B Version 1.0, `LicenseRef-scancode-ozplb-1.0`
+- Australian Public Licence B Version 1.1, `LicenseRef-scancode-ozplb-1.1`
+- PADL License, `PADL`
+- Paolo Messina 2000, `LicenseRef-scancode-paolo-messina-2000`
+- ParaView License 1.2, `LicenseRef-scancode-paraview-1.2`
+- Paul Mackerras Binary License, `LicenseRef-scancode-paul-mackerras-binary`
+- Paul Mackerras License, `Mackerras-3-Clause-acknowledgment`
+- Paul Mackerras New License, `Mackerras-3-Clause`
+- Paul Mackerras Simplified License, `LicenseRef-scancode-paul-mackerras-simplified`
+- Paulo Soares License, `LicenseRef-scancode-paulo-soares`
+- PayPal SDK License 2013-2016, `LicenseRef-scancode-paypal-sdk-2013-2016`
+- PBM Library License, `xlock`
+- PCRE License, `LicenseRef-scancode-pcre`
+- PD'Programming License, `LicenseRef-scancode-pd-programming`
+- Perl 1.0, `LicenseRef-scancode-perl-1.0`
+- Peter Deutsch Document License, `LPD-document`
+- Philippe De Muyter License, `LicenseRef-scancode-philippe-de-muyter`
+- Phorum License 2.0, `LicenseRef-scancode-phorum-2.0`
+- PHP License 2.0.2, `LicenseRef-scancode-php-2.0.2`
+- PHP License 3.0, `PHP-3.0`
+- PHP License 3.01, `PHP-3.01`
+- Pine License, `LicenseRef-scancode-pine`
+- Pixar License, `Pixar`
+- Plastimatch Software License Version 1.0, `LicenseRef-scancode-plastimatch-1.0`
+- PNG Reference Library License v1 (for libpng 0.5 through 1.6.35), `libpng-1.6.35`
+- PngSuite License, `LicenseRef-scancode-pngsuite`
+- pnmstitch License, `pnmstitch`
+- Politepix Public License 1.0, `LicenseRef-scancode-politepix-pl-1.0`
+- PostgreSQL License, `PostgreSQL`
+- ppp License, `LicenseRef-scancode-ppp`
+- Protobuf License, `LicenseRef-scancode-protobuf`
+- PS Utilities License, `psutils`
+- PSF License Agreement for Python 3.7.2, `LicenseRef-scancode-psf-3.7.2`
+- PSF-2.0, `PSF-2.0`
+- psfrag License, `psfrag`
+- Psytec Free Software License, `LicenseRef-scancode-psytec-freesoft`
+- Punycode License, `LicenseRef-scancode-punycode`
+- Purdue BSD-Style License, `lsof`
+- pybench License, `LicenseRef-scancode-pybench`
+- PyCrypto License, `LicenseRef-scancode-pycrypto`
+- PyGres License v2.2, `LicenseRef-scancode-pygres-2.2`
+- Python CWI License Agreement, `LicenseRef-scancode-python-cwi`
+- Python ldap License, `python-ldap`
+- Python Software Foundation License v2, `Python-2.0`
+- Python Software Foundation License v2.0.1, `Python-2.0.1`
+- QLogic Microcode, `LicenseRef-scancode-qlogic-microcode`
+- Qpopper License, `LicenseRef-scancode-qpopper`
+- Qualcomm Turing License, `LicenseRef-scancode-qualcomm-turing`
+- The QuickFIX Software License, Version 1.0, `LicenseRef-scancode-quickfix-1.0`
+- Quirksmode Copyright Notice, `LicenseRef-scancode-quirksmode`
+- Radiance Software License, Version 1.0, `LicenseRef-scancode-radiance-sl-v1.0`
+- radvd License, `radvd`
+- Ralf Corsepius License, `ralf-corsepius`
+- Rdisc License, `Rdisc`
+- Reading Godiva License 2010, `LicenseRef-scancode-reading-godiva-2010`
+- Red Hat Apache-Based End User License Agreement, `LicenseRef-scancode-rh-eula-apache2`
+- Red Hat Attribution License, `LicenseRef-scancode-red-hat-attribution`
+- Red Hat BSD-Simplified, `LicenseRef-scancode-red-hat-bsd-simplified`
+- Regexp License, `Spencer-86`
+- Repoze License, `BSD-3-Clause-Modification`
+- Rice BSD Software License, `LicenseRef-scancode-ricebsd`
+- Richard Black License, `LicenseRef-scancode-richard-black`
+- RIL (Rick's Internet Licence) 3-Clause License 2019, `LicenseRef-scancode-ril-2019`
+- Robert Hubley License, `LicenseRef-scancode-robert-hubley`
+- RSA Data Security Notice 1990, `LicenseRef-scancode-rsa-1990`
+- RSA Cryptoki License, `LicenseRef-scancode-rsa-cryptoki`
+- RSA Demo License, `LicenseRef-scancode-rsa-demo`
+- RSA Data Security MD4, `LicenseRef-scancode-rsa-md4`
+- RSA Data Security MD5, `RSA-MD`
+- RTools.Util License, `LicenseRef-scancode-rtools-util`
+- Ruby pty extension license, `Ruby-pty`
+- Runtime Library Exception to the Apache 2.0 License, `Swift-exception`
+- Rute Users Tutorial and Exposition License v0.8.0, `LicenseRef-scancode-rute`
+- Ryszard Szopa License, `LicenseRef-scancode-ryszard-szopa`
+- SaaS MIT License, `LicenseRef-scancode-saas-mit`
+- Sash Notice, `LicenseRef-scancode-sash`
+- Star And Thank Author License, `LicenseRef-scancode-sata`
+- Saxpath License, `Saxpath`
+- SBIA Software license - Downloading Agreement, `LicenseRef-scancode-sbia-b`
+- ScanCode generated data acknowledgment, `LicenseRef-scancode-scancode-acknowledgment`
+- scanlogd License, `LicenseRef-scancode-scanlogd-license`
+- ScanSoft Public License v1.2, `LicenseRef-scancode-scansoft-1.2`
+- SCEA Shared Source License 1.0, `SCEA`
+- Scheme Language Report License, `SchemeReport`
+- Scheme Widget Library (SWL) Software License Agreement, `SWL`
+- Scintilla License, `LicenseRef-scancode-scintilla`
+- Scribbles Demos Recognizer Notice, `LicenseRef-scancode-scribbles`
+- Script Asylum License, `LicenseRef-scancode-script-asylum`
+- Secret Labs License 2011, `LicenseRef-scancode-secret-labs-2011`
+- Sendmail License, `Sendmail`
+- Sendmail Open Source License v1.1, `Sendmail-Open-Source-1.1`
+- Service Availability Forum License, `LicenseRef-scancode-saf`
+- License for the Service Component Architecture JavaDoc, Interface Definition files and XSD files, `LicenseRef-scancode-service-comp-arch`
+- SFL License Agreement, `iMatix`
+- SGI CID Font Code Public License v1.0, `LicenseRef-scancode-sgi-cid-1.0`
+- SGI Free Software License B v1.1, `SGI-B-1.1`
+- SGI Free Software License B v2.0, `SGI-B-2.0`
+- SGI GLX Public License v1.0, `LicenseRef-scancode-sgi-glx-1.0`
+- Sglib License, `LicenseRef-scancode-sglib`
+- SGMLUG, `LicenseRef-scancode-sgmlug`
+- SGP4 Permission Notice, `SGP4`
+- Shital Shah License, `LicenseRef-scancode-shital-shah`
+- OFL 1.1 Reserved Font Name, `OFL-1.1-RFN`
+- Simple Public License Version 1.1, `LicenseRef-scancode-simpl-1.1`
+- SL License, `SL`
+- SLF4J License 2005, `slf4j-2005`
+- SLF4J License 2008, `slf4j-2008`
+- SnapEDA Design Exception 1.0, `LicenseRef-scancode-snapeda-design-exception-1.0`
+- SNMP++ License, `LicenseRef-scancode-hp-snmp-pp`
+- snprintf License, `snprintf`
+- Socketxx License 2003, `LicenseRef-scancode-socketxx-2003`
+- SoftFloat Legal Notice, `LicenseRef-scancode-softfloat`
+- SoftFloat Legal Notice with Prominent Notice, `LicenseRef-scancode-softfloat-2.0`
+- SoftFloat Legal Notice 2c, `LicenseRef-scancode-softfloat-2c`
+- softSurfer License, `softSurfer`
+- SolderPad Hardware License v0.5, `SHL-0.5`
+- Solderpad Hardware License v2.0, `SHL-2.0`
+- Solderpad Hardware License v2.1, `SHL-2.1`
+- SolderPad Hardware License, Version 0.51, `SHL-0.51`
+- Soundex License, `Soundex`
+- Sparky License, `LicenseRef-scancode-sparky`
+- SpeechWorks Public License v1.1, `LicenseRef-scancode-speechworks-1.1`
+- ssh-keyscan License, `ssh-keyscan`
+- Standard ML of New Jersey, `SMLNJ`
+- Stanford PVRG License, `LicenseRef-scancode-stanford-pvrg`
+- STLport License 2000, `LicenseRef-scancode-stlport-2000`
+- STLport License v4.5, `Boehm-GC-without-fee`
+- STREAM Benchmark License, `LicenseRef-scancode-stream-benchmark`
+- Stu Nicholls License, `LicenseRef-scancode-stu-nicholls`
+- Sudo License, `LicenseRef-scancode-sudo`
+- Sun PPP License, `Sun-PPP`
+- Sun PPP License (2000), `Sun-PPP-2000`
+- Sun RPC License, `LicenseRef-scancode-sun-rpc`
+- Sun source code License, `LicenseRef-scancode-sun-source`
+- SunPro Attribution License, `SunPro`
+- Sunsoft License, `LicenseRef-scancode-sunsoft`
+- Supervisor License, `LicenseRef-scancode-supervisor`
+- svndiff License, `LicenseRef-scancode-svndiff`
+- SWIG Library License, `LicenseRef-scancode-swig`
+- swrule License, `swrule`
+- Symphonysoft License, `LicenseRef-scancode-symphonysoft`
+- Synopsys MIT License, `LicenseRef-scancode-synopsys-mit`
+- Synthesis Toolkit License, `LicenseRef-scancode-synthesis-toolkit`
+- SystemC Open Source License Agreement, `LicenseRef-scancode-accellera-systemc`
+- Systemics BSD variant license, `BSD-Systemics`
+- Systemics W3Works BSD variant license, `BSD-Systemics-W3Works`
+- Taiwan Open Government Data License, version 1.0, `OGDL-Taiwan-1.0`
+- Takao Abe License, `LicenseRef-scancode-takao-abe`
+- Takuya OOURA License, `LicenseRef-scancode-takuya-ooura`
+- The Talis Community License, `LicenseRef-scancode-ttcl`
+- Tatu Ylonen License, `SSH-short`
+- Trusted Computing Group Spec License v1, `LicenseRef-scancode-tcg-spec-license-v1`
+- Trusted Computing Group Spec License v2, `LicenseRef-scancode-tcg-spec-license-v2`
+- TCL/TK License, `TCL`
+- TCP Wrappers License, `TCP-wrappers`
+- TekHVC License, `LicenseRef-scancode-tekhvc`
+- Term Readkey License, `TermReadKey`
+- Tested Software License, `LicenseRef-scancode-tested-software`
+- TeX Live License, `LicenseRef-scancode-tex-live`
+- Text-Tabs+Wrap License, `TTWL`
+- The Happy Bunny License, `LicenseRef-scancode-happy-bunny`
+- Theodore Ts'o license, `LicenseRef-scancode-tso-license`
+- Things I Made (TIM) Public License, `LicenseRef-scancode-things-i-made-public-license`
+- ThirdEye License, `ThirdEye`
+- threeparttable License, `threeparttable`
+- Tidy License, `HTMLTIDY`
+- Tiger Cryptography License, `LicenseRef-scancode-tiger-crypto`
+- Tigra Calendar v3.2 License, `LicenseRef-scancode-tigra-calendar-3.2`
+- Tigra Calendar v4.0 License, `LicenseRef-scancode-tigra-calendar-4.0`
+- Tim Janik License 2003, `LicenseRef-scancode-tim-janik-2003`
+- Time::ParseDate License, `TPDL`
+- Timestamp Picker License, `LicenseRef-scancode-timestamp-picker`
+- TOPPERS Educational contents license agreement, `LicenseRef-scancode-toppers-educational`
+- TOPPERS License Agreement, `LicenseRef-scancode-toppers-license`
+- Treeware Option 1, `LicenseRef-scancode-treeware-option-1`
+- TrustedQSL License, `TrustedQSL`
+- TTF2PT1 Project License, `ttf2pt1`
+- TTYP0 License, `TTYP0`
+- Technische Universitaet Berlin Attribution License 1.0, `TU-Berlin-1.0`
+- Technische Universitaet Berlin License 2.0, `TU-Berlin-2.0`
+- Tumbolia Public License, `LicenseRef-scancode-tumbolia`
+- TwistedSNMP License, `LicenseRef-scancode-twisted-snmp`
+- UCAR License, `UCAR`
+- UGUI License, `LicenseRef-scancode-ugui`
+- ulem License, `ulem`
+- UN-CEFACT License 2016, `LicenseRef-scancode-un-cefact-2016`
+- UnboundID LDAP SDK Free Use License, `LicenseRef-scancode-ldap-sdk-free-use`
+- Unicode License Agreement - Data Files and Software, `unicode-data-software`
+- Unicode License Agreement - Data Files and Software (2015), `Unicode-DFS-2015`
+- Unicode License Agreement - Data Files and Software (2016), `Unicode-DFS-2016`
+- Unicode Inc License Agreement, `LicenseRef-scancode-unicode`
+- Unicode License v3, `Unicode-3.0`
+- Unicode Mappings License, `LicenseRef-scancode-unicode-mappings`
+- Unicode Character Database (UCD) Terms of Use, `LicenseRef-scancode-unicode-ucd`
+- United Kingdom Open Parliament Licence v3.0, `OPL-UK-3.0`
+- University of British Columbia License, `LicenseRef-scancode-ubc`
+- University of Michigan Open Source License, `LicenseRef-scancode-michigan-disclaimer`
+- UNIX Network Programming Book License, `LicenseRef-scancode-unpbook`
+- UnixCrypt License, `UnixCrypt`
+- Unlimited Binary Linking Exception, `LicenseRef-scancode-unlimited-binary-linking`
+- Unlimited Binary Use Exception, `LicenseRef-scancode-unlimited-binary-use-exception`
+- Universal Permissive License (UPL) v1.0, `UPL-1.0`
+- US Government Grant of Unlimited Rights, `LicenseRef-scancode-us-govt-unlimited-rights`
+- USRobotics Permissive License, `LicenseRef-scancode-usrobotics-permissive`
+- University of Utah Computer Systems Laboratory License, `LicenseRef-scancode-utah-csl`
+- License to TeX Users Group for the Utopia Typeface, `LicenseRef-scancode-utopia`
+- VCalendar License, `LicenseRef-scancode-vcalendar`
+- Visual Idiot License, `LicenseRef-scancode-visual-idiot`
+- Visual Numerics License, `LicenseRef-scancode-visual-numerics`
+- Vixie Cron License, `LicenseRef-scancode-vixie-cron`
+- Vovida Software License v. 1.0, `VSL-1.0`
+- W3C 3-Clause BSD License, `LicenseRef-scancode-w3c-03-bsd-license`
+- W3C Community Final Specification Agreement, `LicenseRef-scancode-w3c-community-final-spec`
+- W3C Software License 2023, `LicenseRef-scancode-w3c-software-2023`
+- W3C Software Notice and License, `W3C`
+- W3C Software Notice and License (1998-07-20), `W3C-19980720`
+- W3C Software Notice and License (2002-12-31), `w3c-software-20021231`
+- W3C Software and Document (2015-05-13), `W3C-20150513`
+- w3m License, `w3m`
+- Wadalab Font License, `LicenseRef-scancode-wadalab`
+- Westhawk License, `LicenseRef-scancode-westhawk`
+- Whistle Communications License, `LicenseRef-scancode-whistle`
+- Whitecat License, `LicenseRef-scancode-whitecat`
+- WIDE License, `LicenseRef-scancode-wide-license`
+- Wide Open License, `LicenseRef-scancode-wol`
+- Widget Workshop License, `Widget-Workshop`
+- William Alexander License, `LicenseRef-scancode-william-alexander`
+- wingo License, `LicenseRef-scancode-wingo`
+- Wordnet License, `LicenseRef-scancode-wordnet`
+- Wrox Press License, `LicenseRef-scancode-wrox`
+- WS-Addressing Specification License, `LicenseRef-scancode-ws-addressing-spec`
+- WS-Policy Specification, `LicenseRef-scancode-ws-policy-specification`
+- WS-Trust Specification, `LicenseRef-scancode-ws-trust-specification`
+- Wsuipa License, `Wsuipa`
+- WTFNMFPL-1.0, `LicenseRef-scancode-wtfnmfpl-1.0`
+- WWL License, `wwl`
+- wxWidgets Licence, `LicenseRef-scancode-wxwidgets`
+- wxWindows Unrestricted Licence 3.0, `LicenseRef-scancode-wxwindows-u-3.0`
+- X11 Documentation License, `LicenseRef-scancode-x11-doc`
+- X11 License, `ICU`
+- X11 swapped final paragraphs, `X11-swapped`
+- X11-R5, `LicenseRef-scancode-x11-x11r5`
+- X11-R5 Authors, `x11r5-authors`
+- X.Org Preferred License, `x11-r75`
+- X11-Style (Acer), `LicenseRef-scancode-x11-acer`
+- X11-Style (Adobe), `Adobe-Display-PostScript`
+- X11-Style (Adobe-DEC), `LicenseRef-scancode-x11-adobe-dec`
+- X11-Style (Bitstream Charter), `Bitstream-Charter`
+- X11-Style (David R. Hanson), `LicenseRef-scancode-x11-hanson`
+- X11-Style (DEC 1), `LicenseRef-scancode-x11-dec1`
+- X11-Style (DEC 2), `HPND-DEC`
+- X11-Style (DSC Technologies), `LicenseRef-scancode-x11-dsc`
+- X11-Style (FSF), `X11-distribute-modifications-variant`
+- X11-Style (Keith Packard), `HPND-sell-variant`
+- X11-Style (Lucent), `dtoa`
+- X11-Style (Lucent-variant), `LicenseRef-scancode-x11-lucent-variant`
+- X11-Style (OAR), `OAR`
+- X11-Style (Open Group), `MIT-open-group`
+- X11-Style (OpenGL), `SGI-OpenGL`
+- X11-Style (Quarterdeck), `LicenseRef-scancode-x11-quarterdeck`
+- X11-Style (Realmode), `LicenseRef-scancode-x11-realmode`
+- X11-Style (Silicon Graphics), `LicenseRef-scancode-x11-sg`
+- X11-Style (Stanford University), `LicenseRef-scancode-x11-stanford`
+- X11-Style (Tektronix), `LicenseRef-scancode-x11-tektronix`
+- X11-Style (Tiff), `libtiff`
+- X11-Style (X Consortium Veillard), `LicenseRef-scancode-x11-xconsortium-veillard`
+- X11-Style (X Consortium Veillard) - Deprecated, `x11-xconsortium_veillard`
+- X11-Style (X Consortium), `X11`
+- Xdebug License v 1.03, `Xdebug-1.03`
+- XFree86 License 1.0, `LicenseRef-scancode-xfree86-1.0`
+- XFree86 License 1.1, `XFree86-1.1`
+- xinetd License, `xinetd`
+- xkeyboard-config Zinoviev License, `xkeyboard-config-Zinoviev`
+- XML:DB Initiative Software License 1.0, `LicenseRef-scancode-xmldb-1.0`
+- XSkat License, `XSkat`
+- xxd License, `LicenseRef-scancode-xxd`
+- xzoom License, `xzoom`
+- Yale CAS License, `LicenseRef-scancode-yale-cas`
+- Yensdesign License, `LicenseRef-scancode-yensdesign`
+- Zed License, `Zed`
+- Zeeff License, `Zeeff`
+- Zend Engine License 2.0, `Zend-2.0`
+- ZeusBench notice, `LicenseRef-scancode-zeusbench`
+- ZLIB License, `Zlib`
+- ZLIB License with Acknowledgment, `zlib-acknowledgement`
+- Zope Public License 1.0, `LicenseRef-scancode-zpl-1.0`
+- Zope Public License 1.1, `ZPL-1.1`
+- Zope Public License 2.0, `ZPL-2.0`
+- Zope Public License 2.1, `ZPL-2.1`
+- Z Shell License, `LicenseRef-scancode-zsh`
+- Zuora Software License, `LicenseRef-scancode-zuora-software`
+- Zveno Research License, `LicenseRef-scancode-zveno-research`
 
 ## Proprietary Free
 
-- A-Star-Logic Memoire temporary License, LicenseRef-scancode-a-star-logic-memoire-temp
-- Aardvark I2C/SPI Software and Firmware License 2014, LicenseRef-scancode-aardvark-py-2014
-- Anyone But Richard Stallman License, LicenseRef-scancode-abrms
-- ACM Software License Agreement, LicenseRef-scancode-acm-sla
-- Acroname Brainstem Development Kit license, LicenseRef-scancode-acroname-bdk
-- Acter Public Source License 1.0, LicenseRef-scancode-acter-psl-1.0
-- ActiveState Community License, LicenseRef-scancode-activestate-community
-- ActiveState Community License 2012, LicenseRef-scancode-activestate-community-2012
-- ActiveState Komodo Edit EULA, LicenseRef-scancode-activestate-komodo-edit
-- Activision EULA, LicenseRef-scancode-activision-eula
-- Adaptec Downloadable Software License, LicenseRef-scancode-adaptec-downloadable
-- Adaptec EULA, LicenseRef-scancode-adaptec-eula
-- AdColony Terms of Service for Publishers 2022, LicenseRef-scancode-adcolony-tos-2022
-- AddThis Mobile Application SDK License 1.0, LicenseRef-scancode-addthis-mobile-sdk-1.0
-- ADI BSD License 2011, LicenseRef-scancode-adi-bsd-2011
-- ADI BSD License 2017, LicenseRef-scancode-adi-bsd-2017
-- Adobe Acrobat Reader EULA, LicenseRef-scancode-adobe-acrobat-reader-eula
-- Adobe AIR SDK EULA - 2008, LicenseRef-scancode-adobe-air-sdk
-- Adobe Air SDK EULA - 2014, LicenseRef-scancode-adobe-air-sdk-2014
-- Adobe Color Profile Bundling agreement, LicenseRef-scancode-adobe-color-profile-bundling
-- Adobe Color Profile License agreement, LicenseRef-scancode-adobe-color-profile-license
-- Adobe DNG SDK License Agreement, LicenseRef-scancode-adobe-dng-sdk
-- Adobe Flash Player EULA 21.0, LicenseRef-scancode-adobe-flash-player-eula-21.0
-- Adobe Flex 2.0.1 SDK EULA, LicenseRef-scancode-flex2sdk
-- Adobe Flex 4 SDK Software License Agreement, LicenseRef-scancode-adobe-flex-4-sdk
-- Adobe Flex SDK SLA, LicenseRef-scancode-adobe-flex-sdk
-- Adobe SDK License for INDESIGN, INDESIGN SERVER and INCOPY Software, LicenseRef-scancode-adobe-indesign-sdk
-- Adobe PostScript License, LicenseRef-scancode-adobe-postscript
-- Agere Systems WinModem EULA, LicenseRef-scancode-agere-sla
-- Ago Private License 1.0, LicenseRef-scancode-ago-private-1.0
-- The Alasir Licence, LicenseRef-scancode-alasir
-- Aldor Public License 2.0, LicenseRef-scancode-aldor-public-2.0
-- Amazon Program Materials License Agreement 2020, LicenseRef-scancode-pml-2020
-- Amazon Redshift JDBC Driver License Agreement, LicenseRef-scancode-amazon-redshift-jdbc
-- Amazon Software License, LicenseRef-.amazon.com.-AmznSL-1.0
-- AMD Linux Firmware Export License, LicenseRef-scancode-amd-linux-firmware-export
-- AMD Linux Firmware License, LicenseRef-scancode-amd-linux-firmware
-- Amlogic Linux Firmware License, LicenseRef-scancode-amlogic-linux-firmware
-- Amplication Enterprise Edition license 2022, LicenseRef-scancode-amplication-ee-2022
-- Android Software Development Kit License Agreement 2009, LicenseRef-scancode-android-sdk-2009
-- Android Software Development Kit License Agreement 2012, LicenseRef-scancode-android-sdk-2012
-- Android Software Development Kit License Agreement 2015, LicenseRef-scancode-android-sdk-license
-- Android Software Development Kit License Agreement 2021, LicenseRef-scancode-android-sdk-2021
-- Android SDK Preview License Agreement, LicenseRef-scancode-android-sdk-preview-2015
-- Academic Public License version 1.1, LicenseRef-scancode-apl-1.1
-- Appfire EULA, LicenseRef-scancode-appfire-eula
-- Apple Academic License Agreement Lisa OS v3.1, LicenseRef-scancode-apple-academic-lisa-os-3.1
-- Apple iTunes License, LicenseRef-scancode-itunes
-- Apple MFi License, LicenseRef-scancode-apple-mfi-license
-- Apple Quicktime License, LicenseRef-scancode-quicktime
-- Apple Squeak License, LicenseRef-scancode-squeak
-- AppsFlyer Framework License, LicenseRef-scancode-appsflyer-framework
-- Arachni Public Source License v1.0, LicenseRef-scancode-arachni-psl-1.0
-- ARM Cortex-Mx Proprietary, LicenseRef-scancode-arm-cortex-mx
-- Ascender Corporation End User License Agreement, LicenseRef-scancode-ascender-eula
-- ATI Software End User License Agreement, LicenseRef-scancode-ati-eula
-- Atlassian Marketplace Terms of Use, LicenseRef-scancode-atlassian-marketplace-tou
-- Atmel Firmware License, LicenseRef-scancode-atmel-firmware
-- Atmel Linux Firmware License, LicenseRef-scancode-atmel-linux-firmware
-- Atmel Microcontroller License, LicenseRef-scancode-atmel-microcontroller
-- Autodesk 3D Studio File Toolkit for Release 3, LicenseRef-scancode-autodesk-3d-sft-3.0
-- Autoit EULA, LicenseRef-scancode-autoit-eula
-- AUTOSAR Proprietary Notice, LicenseRef-scancode-autosar-proprietary
-- Avdpro License 2023-10-30, LicenseRef-scancode-avdpro-2023-10-30
-- AWS Intellectual Property License 2021, LicenseRef-scancode-aws-ip-2021
-- BigCode Open RAIL-M v1 License Agreement, LicenseRef-scancode-bigcode-open-rail-m-v1
-- Bigelow & Holmes Luxi fonts license, LicenseRef-scancode-luxi
-- BigScience Open RAIL-M License, LicenseRef-scancode-bigscience-open-rail-m
-- BigScience Open RAIL-M2 License, LicenseRef-scancode-bigscience-open-rail-m2
-- BigScience RAIL License v1.0, LicenseRef-scancode-bigscience-rail-1.0
-- Binary-Only Linux Firmware License, LicenseRef-scancode-binary-linux-firmware
-- Binary-Only Linux Firmware Patent License, LicenseRef-scancode-binary-linux-firmware-patent
-- Actuate Corporation BIRT iHub F-Type Software License Agreement, LicenseRef-scancode-actuate-birt-ihub-ftype-sla
-- BitTorrent End User License Agreement (EULA), LicenseRef-scancode-bittorrent-eula
-- Bloomberg BLPAPI License, LicenseRef-scancode-bloomberg-blpapi
-- BPEL4WS Specification license, LicenseRef-scancode-bpel4ws-spec
-- Broadcom Linux Firmware License, LicenseRef-scancode-broadcom-linux-firmware
-- Broadcom Proprietary License, LicenseRef-scancode-broadcom-proprietary
-- Broadcom Raspberry Pi Firmware License, LicenseRef-scancode-broadcom-raspberry-pi
-- Broadcom WICED Development Kit License Agreement, LicenseRef-scancode-broadcom-wiced
-- Broadleaf Fair Use License Agreement v1.0, LicenseRef-scancode-broadleaf-fair-use
-- BugSense SDK License, LicenseRef-scancode-bugsense-sdk
-- C/Migemo License, LicenseRef-scancode-cmigemo
-- Cadence Linux Firmware License, LicenseRef-scancode-cadence-linux-firmware
-- Corporate Accountability Lab Software, LicenseRef-scancode-corporate-accountability-1.1
-- Cavium Linux Firmware License, LicenseRef-scancode-cavium-linux-firmware
-- CC + Corporate Accountability Lab, LicenseRef-scancode-accountability-commercial-1.1
-- Chameleon Research License 2024, LicenseRef-scancode-chameleon-research-2024
-- Charm++ Software License 2019, LicenseRef-scancode-charmpp-2019
-- Charm++/Converse License 2017, LicenseRef-scancode-charmpp-converse-2017
-- ChartDirector 6.0 License Agreement, LicenseRef-scancode-chartdirector-6.0
-- Chelsio Linux Firmware License, LicenseRef-scancode-chelsio-linux-firmware
-- Christopher Velazquez License, LicenseRef-scancode-christopher-velazquez
-- Clearthought Software License v2.0, LicenseRef-scancode-clearthought-2.0
-- Cloudera Express License, LicenseRef-scancode-cloudera-express
-- Cooperative Non-Violent Public License v4, LicenseRef-scancode-cooperative-non-violent-4.0
-- Cooperative Non-Violent Public License v6, LicenseRef-scancode-cooperative-non-violent-6.0
-- Cooperative Non-Violent Public License v7, LicenseRef-scancode-cooperative-non-violent-7.0
-- CockroachDB Software License 2024-10-01, LicenseRef-scancode-cockroachdb-2024-10-01
-- Codexia License, LicenseRef-scancode-codexia
-- Cognitive Computation Group Research License, LicenseRef-scancode-ccg-research-academic
-- Collaborative Virtual Workspace License, LicenseRef-scancode-cvwl
-- Concursive Public License 1.0, LicenseRef-scancode-concursive-pl-1.0
-- Couchbase Community Edition License, LicenseRef-scancode-couchbase-community
-- Couchbase Enterprise Edition License, LicenseRef-scancode-couchbase-enterprise
-- CRAPL v0 BETA 1, LicenseRef-scancode-crapl-0.1
-- Creative Technology Linux Firmware License, LicenseRef-scancode-ctl-linux-firmware
-- Crunchbase Data Access Terms 2019-12-17, LicenseRef-scancode-crunchbase-data-2019-12-17
-- CUDA Toolkit Supplement to SLA for NVIDIA SDKs, LicenseRef-scancode-nvidia-cuda-supplement-2020
-- Cypress Linux Firmware License, LicenseRef-scancode-cypress-linux-firmware
-- Databricks DB License, LicenseRef-scancode-databricks-db
-- DataBricks eXtensions aka dbx 2021, LicenseRef-scancode-databricks-dbx-2021
-- Day Specification License, LicenseRef-scancode-day-spec
-- Dont Be A Dick Public License, LicenseRef-scancode-dbad
-- Defold License 1.0, LicenseRef-scancode-defold-1.0
-- Developing Nations 2.0, LicenseRef-scancode-cc-devnations-2.0
-- Do No Harm, LicenseRef-scancode-do-no-harm-0.1
-- Delayed Open Source Attribution License 1.0 (DOSA-1.0), LicenseRef-scancode-dosa-1.0
-- Duende SLA 2022, LicenseRef-scancode-duende-sla-2022
-- Eclipse Foundation Quality Verification Suite License - V 1.0, LicenseRef-scancode-eqvsl-1.0
-- Eclipse Foundation Technology Compatibility Kit License - v1.1, LicenseRef-scancode-eclipse-tck-1.1
-- Ecma Code of Conduct in Patent Matters v1, LicenseRef-scancode-ecma-patent-coc-1
-- Ecma Code of Conduct in Patent Matters v2, LicenseRef-scancode-ecma-patent-coc-2
-- Ecma Historical Code of Conduct in Patent Matters, LicenseRef-scancode-ecma-patent-coc-0
-- Ecma no patent notice, LicenseRef-scancode-ecma-no-patent
-- Ecma Standard Copyright Notice 2024, LicenseRef-scancode-ecma-standard-copyright-2024
-- Eclipse Foundation Specification License - v1.0, LicenseRef-scancode-efsl-1.0
-- Eclipse Foundation Specification License - v2.0, LicenseRef-scancode-efsl-2.0
-- Elixir Team Trademarks Policy, LicenseRef-scancode-elixir-trademark-policy
-- EmbedThis Evaluation License, LicenseRef-scancode-embedthis-evaluation
-- Epson AVASYS Public License 2008, LicenseRef-scancode-epson-avasys-pl-2008
-- Epson End User Software License Agreement 2023, LicenseRef-scancode-epson-linux-sla-2023
-- Esri Developer Kit License, LicenseRef-scancode-esri-devkit
-- ExamDiff License, LicenseRef-scancode-examdiff
-- EXAONE AI Model License Agreement 1.1 - NC, LicenseRef-scancode-exaone-ai-model-1.1-nc
-- Facebook License Agreement for Nuclide Software, LicenseRef-scancode-facebook-nuclide
-- Facebook Software License, LicenseRef-scancode-facebook-software-license
-- Fair AI Public License 1.0-SD, LicenseRef-scancode-fair-ai-public-1.0-sd
-- Falcon 2 11B TII License Version 1.0, LicenseRef-scancode-falcon-2-11b-1.0
-- FancyZoom License, LicenseRef-scancode-fancyzoom
-- First Works Appreciative License 1.2, LicenseRef-scancode-first-works-appreciative-1.2
-- FlowCrypt Free License 1.0, LicenseRef-scancode-flowcrypt-1.0
-- FlowCrypt License 1.1, LicenseRef-scancode-flowcrypt-1.1
-- FlowCrypt License 1.2, LicenseRef-scancode-flowcrypt-1.2
-- FLUX.1 [dev] Non-Commercial License, LicenseRef-scancode-flux-1-nc
-- foobar2000 License, LicenseRef-scancode-foobar2000
-- Froala Open Web Design License, LicenseRef-scancode-froala-owdl-1.0
-- Future Technology Devices International License, LicenseRef-scancode-ftdi
-- FtpBean License, LicenseRef-scancode-ftpbean
-- FUTO Source First License 1.0, LicenseRef-scancode-futo-sfl-1.0
-- Gatling-Highcharts License, LicenseRef-scancode-gatling-highcharts
-- Gaussian-Splatting License 2024, LicenseRef-scancode-gaussian-splatting-2024
-- GCO-v3.0, LicenseRef-scancode-gco-v3.0
-- Gemma Terms of Use 2024-04-01, LicenseRef-scancode-gemma-tou-2024-04-01
-- Generic-amiwm, LicenseRef-scancode-generic-amiwm
-- GeoGebra Non-Commercial License Agreement 2022, LicenseRef-scancode-geogebra-ncla-2022
-- Gigablast Exception to Apache 2.0, LicenseRef-scancode-gigablast-apache-2.0-exception
-- GitHub CodeQL Terms and Conditions 2020, LicenseRef-scancode-github-codeql-terms-2020
-- Gitpod Self-Hosted Free License Terms 2020, LicenseRef-scancode-gitpod-self-hosted-free-2020
-- GoAhead License, LicenseRef-scancode-goahead
-- Google Analytics Terms of Service, LicenseRef-scancode-google-analytics-tos
-- Google Analytics Terms of Service 2015, LicenseRef-scancode-google-analytics-tos-2015
-- Google Analytics Terms of Service 2016, LicenseRef-scancode-google-analytics-tos-2016
-- Google Analytics Terms of Service 2019, LicenseRef-scancode-google-analytics-tos-2019
-- Google APIs Terms of Service 2021, LicenseRef-scancode-google-apis-tos-2021
-- Google Maps Platform Terms of Service 2018-02-07, LicenseRef-scancode-google-maps-tos-2018-02-07
-- Google Maps Platform Terms of Service 2018-05-01, LicenseRef-scancode-google-maps-tos-2018-05-01
-- Google Maps Platform Terms of Service 2018-06-07, LicenseRef-scancode-google-maps-tos-2018-06-07
-- Google Maps Platform Terms of Service 2018-07-09, LicenseRef-scancode-google-maps-tos-2018-07-09
-- Google Maps Platform Terms of Service 2018-07-19, LicenseRef-scancode-google-maps-tos-2018-07-19
-- Google Maps Platform Terms of Service 2018-10-01, LicenseRef-scancode-google-maps-tos-2018-10-01
-- Google Maps Platform Terms of Service 2018-10-31, LicenseRef-scancode-google-maps-tos-2018-10-31
-- Google Maps Platform Terms of Service 2019-05-02, LicenseRef-scancode-google-maps-tos-2019-05-02
-- Google Maps Platform Terms of Service 2019-11-21, LicenseRef-scancode-google-maps-tos-2019-11-21
-- Google Maps Platform Terms of Service 2020-04-02, LicenseRef-scancode-google-maps-tos-2020-04-02
-- Google Maps Platform Terms of Service 2020-04-27, LicenseRef-scancode-google-maps-tos-2020-04-27
-- Google Maps Platform Terms of Service 2020-05-06, LicenseRef-scancode-google-maps-tos-2020-05-06
-- Google ML Kit Terms of Service 2022, LicenseRef-scancode-google-ml-kit-tos-2022
-- Google Play Core Software Development Kit Terms of Service, LicenseRef-scancode-google-playcore-sdk-tos-2020
-- Google Terms of Service 2013, LicenseRef-scancode-google-tos-2013
-- Google Terms of Service 2014, LicenseRef-scancode-google-tos-2014
-- Google Terms of Service 2017, LicenseRef-scancode-google-tos-2017
-- Google Terms of Service 2019, LicenseRef-scancode-google-tos-2019
-- Google Terms of Service 2020, LicenseRef-scancode-google-tos-2020
-- Gradle Terms of Use 2022-01-13, LicenseRef-scancode-gradle-tou-2022-01-13
-- Gumroad Community License 1.0, LicenseRef-scancode-gumroad-cl-1.0
-- Project Gutenberg License 2020, LicenseRef-scancode-gutenberg-2020
-- Hauppauge Firmware EULA, LicenseRef-scancode-hauppauge-firmware-eula
-- Hauppauge Firmware OEM License, LicenseRef-scancode-hauppauge-firmware-oem
-- Helix DNA Technology Binary Research Use License, LicenseRef-scancode-helix
-- Hacktivismo Enhanced-Source Software License Agreement, LicenseRef-scancode-hessla
-- HP Enterprise EULA, LicenseRef-scancode-hp-enterprise-eula
-- Hewlett Packard JRE License, LicenseRef-scancode-hp-ux-jre
-- HP Non-Commercial License, LicenseRef-scancode-hp
-- HP Software EULA, LicenseRef-scancode-hp-software-eula
-- HP-UX 11i Java Technology Software, LicenseRef-scancode-hp-ux-java
-- HxD License, LicenseRef-scancode-hxd
-- HyperCLOVA X SEED Model License Agreement 2025, LicenseRef-scancode-hyperclova-x-seed-2025
-- IBM developerWorks Community Download of Content Agreement, LicenseRef-scancode-ibm-developerworks-community
-- IBM License Agreement for IBM Employee-Written Software, LicenseRef-scancode-ibm-employee-written
-- INRIA End User License Agreement for IceSL Software, LicenseRef-scancode-inria-icesl
-- INRIA Non-Commercial License Agreement for the CompCert verified compiler, LicenseRef-scancode-inria-compcert
-- INRIA Non-Commercial License Agreement for the Zélus compiler, LicenseRef-scancode-inria-zelus
-- inSSIDer End User License Agreement, LicenseRef-scancode-metageek-inssider-eula
-- Intel Binary Code License, LicenseRef-scancode-intel-bcl
-- Intel Code Samples License, LicenseRef-scancode-intel-code-samples
-- Intel Firmware License, LicenseRef-scancode-intel-firmware
-- Intel Limited Patent License, LicenseRef-scancode-intel
-- Intel Master EULA for SW Development Products March 2016, LicenseRef-scancode-intel-master-eula-sw-dev-2016
-- Intel MCU path license 2018, LicenseRef-scancode-intel-mcu-2018
-- Intel Microcode License, LicenseRef-scancode-intel-microcode
-- Intel Sample Source Code License Agreement 2015, LicenseRef-scancode-intel-sample-source-code-2015
-- Intel Source Code License Agreement, LicenseRef-scancode-intel-scl
-- IOzone License, LicenseRef-scancode-iozone
-- License Agreement for International Press Telecommunications Council 2006, LicenseRef-scancode-iptc-2006
-- ISO Recorder License, LicenseRef-scancode-iso-recorder
-- Java Research License Version 1.5, LicenseRef-scancode-java-research-1.5
-- Java Research License Version 1.6, LicenseRef-scancode-java-research-1.6
-- JBoss EULA, LicenseRef-scancode-jboss-eula
-- Toolbox Subscription License Agreement For Open Source Projects Version 3, LicenseRef-scancode-jetbrains-toolbox-oss-3
-- JGraph General License, LicenseRef-scancode-jgraph-general
-- JMagnetic License, LicenseRef-scancode-jmagnetic
-- JoinBase Community Edition License Agreement 2022, LicenseRef-scancode-joinbase-cela-2022
-- Joplin Server Personal Use License v1, LicenseRef-scancode-joplin-server-personal-v1
-- JRunner Software License, LicenseRef-scancode-jrunner
-- JSR-107 JCache Specification 2013 License, LicenseRef-scancode-jsr-107-jcache-spec-2013
-- JSR-107 JCache Specification License, LicenseRef-scancode-jsr-107-jcache-spec
-- Katharos License v0.1.0, LicenseRef-scancode-katharos-0.1.0
-- Katharos License v0.2.0, LicenseRef-scancode-katharos-0.2.0
-- Keypirinha License, LicenseRef-scancode-keypirinha
-- Kreative Software Relay Fonts Free Use License 1.2f, LicenseRef-scancode-kreative-relay-fonts-free-1.2f
-- LA_OPT_NXP_Software_License v51 November 2023, LicenseRef-scancode-la-opt-nxp-v51-2023
-- Larabie Fonts EULA, LicenseRef-scancode-larabie
-- Leap Motion SDK Agreement 2019, LicenseRef-scancode-leap-motion-sdk-2019
-- Lens Terms of Service Agreement 2023, LicenseRef-scancode-lens-tos-2023
-- Librato Open License Version 1.0, LicenseRef-scancode-librato-exception
-- Liferay Marketplace Terms of Service Agreement, LicenseRef-scancode-liferay-marketplace-tos
-- Liferay-DXP-EULA-2.0.0-2023-06, LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06
-- Llama 2 Community License Agreement 2023, LicenseRef-scancode-llama-2-license-2023
-- Llama 3.1 Community License Agreement 2024, LicenseRef-scancode-llama-3.1-license-2024
-- Llama 3.2 Community License Agreement 2024, LicenseRef-scancode-llama-3.2-license-2024
-- Llama 3.3 Community License Agreement 2024, LicenseRef-scancode-llama-3.3-license-2024
-- Llama 4 Acceptable Use Policy 2025, LicenseRef-scancode-llama-4-license-2025
-- Llama 4 Community License Agreement 2025, LicenseRef-scancode-llama-4-cla-2025
-- LLaMA License Agreement 2023, LicenseRef-scancode-llama-license-2023
-- Lontium Linux Firmware License, LicenseRef-scancode-lontium-linux-firmware
-- LSI Proprietary EULA, LicenseRef-scancode-lsi-proprietary-eula
-- LumiSoft Mail Server License, LicenseRef-scancode-lumisoft-mail-server
-- Lyubinskiy dropdown License, LicenseRef-scancode-lyubinskiy-dropdown
-- Lyubinskiy popup-window License, LicenseRef-scancode-lyubinskiy-popup-window
-- Marvell Firmware License, LicenseRef-scancode-marvell-firmware
-- Marvell Firmware License 2019, LicenseRef-scancode-marvell-firmware-2019
-- MAX & Mojo Community License 20240828, LicenseRef-scancode-max-mojo-community-20240828
-- McAfee Software royalty-Free License, LicenseRef-scancode-mcafee-tou
-- McRae General Public License (version 4.r53), LicenseRef-scancode-mcrae-pl-4-r53
-- Montreal Data License (MDL) 2021, LicenseRef-scancode-mdl-2021
-- MediaTek Firmware License, LicenseRef-scancode-mediatek-firmware
-- MediaTek No Warranty Clause, LicenseRef-scancode-mediatek-no-warranty
-- Mediatek Proprietary License 2005, LicenseRef-scancode-mediatek-proprietary-2005
-- MediaTek Proprietary License 2008, LicenseRef-scancode-mediatek-proprietary-2008
-- Mediatek Proprietary License 2010, LicenseRef-scancode-mediatek-proprietary-2010
-- Mediatek Proprietary License 2016, LicenseRef-scancode-mediatek-proprietary-2016
-- Mediatek Proprietary License 2020, LicenseRef-scancode-mediatek-proprietary-2020
-- Melange Chat Server/Client Public License, LicenseRef-scancode-melange
-- Menuet64 License 2024, LicenseRef-scancode-menuet64-2024
-- Microchip ENC28J60 License 2009, LicenseRef-scancode-microchip-enc28j60-2009
-- Microchip Linux Firmware License, LicenseRef-scancode-microchip-linux-firmware
-- Microchip pk2cmd License 2009, LicenseRef-scancode-microchip-pk2cmd-2009
-- Microchip Technology Products 2018, LicenseRef-scancode-microchip-products-2018
-- Microsoft CAPICOM License, LicenseRef-scancode-ms-capicom
-- Microsoft Container EULA, LicenseRef-scancode-ms-container-eula
-- MicroType Express (MTX) License, LicenseRef-scancode-mtx-licensing-statement
-- Minecraft Mod License, LicenseRef-scancode-minecraft-mod
-- MIT Proprietary, LicenseRef-scancode-mit-proprietary
-- MIT with Jamie Kyle Restrictions, LicenseRef-scancode-mit-kyle-restrictions
-- Moxa Linux Firmware License, LicenseRef-scancode-moxa-linux-firmware
-- MPEG-7 License, LicenseRef-scancode-mpeg-7
-- Microsoft .NET Library License, LicenseRef-scancode-ms-net-library
-- Microsoft .NET Library License 2016-05, LicenseRef-scancode-ms-net-library-2016-05
-- Microsoft .NET Library License 2018-11, LicenseRef-scancode-ms-net-library-2018-11
-- Microsoft .NET Library License 2019-06, LicenseRef-scancode-ms-net-library-2019-06
-- Microsoft .NET Library License 2020-09, LicenseRef-scancode-ms-net-library-2020-09
-- Microsoft ASP.NET MVC 4 Extensions License, LicenseRef-scancode-ms-asp-net-mvc4-extensions
-- Microsoft ASP.NET MVC 3 License, LicenseRef-scancode-ms-asp-net-mvc3
-- Microsoft ASP.NET MVC 4 License, LicenseRef-scancode-ms-asp-net-mvc4
-- Microsoft ASP.NET Software License, LicenseRef-scancode-ms-asp-net-software
-- Microsoft ASP.NET Tools Pre-Release License, LicenseRef-scancode-ms-asp-net-tools-pre-release
-- Microsoft ASP.NET Web Optimization Framework, LicenseRef-scancode-ms-asp-net-web-optimization
-- Microsoft ASP.NET Web Pages 2 License, LicenseRef-scancode-ms-asp-net-web-pages-2
-- Microsoft ASP.NET Web Pages Templates License, LicenseRef-scancode-ms-asp-net-web-pages-templates
-- Microsoft Azure Data Studio License Terms, LicenseRef-scancode-ms-azure-data-studio
-- Microsoft Azure RTOS 2020-05, LicenseRef-scancode-ms-azure-rtos-2020-05
-- Microsoft Azure RTOS 2020-07, LicenseRef-scancode-ms-azure-rtos-2020-07
-- Microsoft Azure RTOS 2023-05, LicenseRef-scancode-ms-azure-rtos-2023-05
-- Microsoft Azure Spatial Anchors WinRT 2.9.0, LicenseRef-scancode-ms-azure-spatialanchors-2.9.0
-- Microsoft Control Spy 2.0, LicenseRef-scancode-ms-control-spy-2.0
-- Microsoft Data-Tier Application Framework License Terms, LicenseRef-scancode-ms-data-tier-af-2022
-- Microsoft Developer Services Agreement, LicenseRef-scancode-ms-dev-services-agreement
-- Microsoft Developer Services Agreement 2018-06, LicenseRef-scancode-ms-dev-services-2018-06
-- Microsoft Device Emulator 3.0, LicenseRef-scancode-ms-device-emulator-3.0
-- Microsoft Direct3D D3D12On7 1.1.0, LicenseRef-scancode-ms-direct3d-d3d120n7-1.1.0
-- Microsoft DirectX SDK EULA, LicenseRef-scancode-ms-directx-sdk-eula
-- Microsoft DirectX SDK EULA 2020, LicenseRef-scancode-ms-directx-sdk-eula-2020
-- Microsoft DXSDK.D3DX 9.29.952.3, LicenseRef-scancode-ms-dxsdk-d3dx-9.29.952.3
-- Microsoft Edge Developer Tools 2022, LicenseRef-scancode-ms-edge-devtools-2022
-- Microsoft Edge WebView2 Runtime License, LicenseRef-scancode-ms-edge-webview2
-- Microsoft Edge WebView2 Runtime License (Fixed), LicenseRef-scancode-ms-edge-webview2-fixed
-- Microsoft Enterprise Library EULA, LicenseRef-scancode-ms-enterprise-library-eula
-- Microsoft Entity Framework 4.1 License, LicenseRef-scancode-ms-entity-framework-4.1
-- MS Entity Framework 5 License, LicenseRef-scancode-ms-entity-framework-5
-- Microsoft Exchange Server 2010 SP2 Web Services SDK, LicenseRef-scancode-ms-exchange-srv-2010-sp2-sdk
-- Microsoft IIS Container Images EULA 202, LicenseRef-scancode-ms-iis-container-eula-2020
-- MS ILMerge License, LicenseRef-scancode-ms-ilmerge
-- Microsoft Invisible Computing EULA 1.0, LicenseRef-scancode-ms-invisible-eula-1.0
-- Microsoft JDBC Driver 4.0 for SQL Server, LicenseRef-scancode-ms-jdbc-driver-40-sql-server
-- Microsoft JDBC Driver 4.1 for SQL Server, LicenseRef-scancode-ms-jdbc-driver-41-sql-server
-- Microsoft JDBC Driver 6.0 for SQL Server, LicenseRef-scancode-ms-jdbc-driver-60-sql-server
-- Microsoft Kinect for Windows SDK License, LicenseRef-scancode-ms-kinext-win-sdk
-- Microsoft Limited Community License, LicenseRef-scancode-ms-limited-community
-- Microsoft MSN WebGrease License, LicenseRef-scancode-ms-msn-webgrease
-- Microsoft Nuget License, LicenseRef-scancode-ms-nuget
-- Microsoft NuGet-Based Package Manager License, LicenseRef-scancode-ms-nuget-package-manager
-- Microsoft Office Extensible File License, LicenseRef-scancode-ms-office-extensible-file
-- Microsoft Pre-Release Software License Terms 2023, LicenseRef-scancode-ms-pre-release-sla-2023
-- Microsoft ProgramSynthesis 7.22.0, LicenseRef-scancode-ms-programsynthesis-7.22.0
-- Microsoft Reactive Extensions EULA, LicenseRef-scancode-ms-reactive-extensions-eula
-- Microsoft Reference License, ms-refl
-- Microsoft Reference Source License, LicenseRef-scancode-ms-rsl
-- Microsoft Research Shared Source License, LicenseRef-scancode-ms-research-shared-source
-- Microsoft Silverlight 3 License, LicenseRef-scancode-ms-silverlight-3
-- Microsoft SQL Server Compact 4.0 License, LicenseRef-scancode-ms-sql-server-compact-4.0
-- Microsoft SQL Server Data Tools License, LicenseRef-scancode-ms-sql-server-data-tools
-- Microsoft Software Supplemental License - .NET Framework 4, LicenseRef-scancode-ms-net-framework-4-supp-terms
-- Microsoft Software Supplemental License - ASP.NET 2.0 AJAX EXTENSIONS, LicenseRef-scancode-ms-asp-net-ajax-supp-terms
-- Microsoft Visual Studio TestPlatform 17.0.0, LicenseRef-scancode-ms-testplatform-17.0.0
-- Microsoft TypeScript MSBuild 4.1.4, LicenseRef-scancode-ms-typescript-msbuild-4.1.4
-- Microsoft Visual C++ 2008 Runtime Libraries License, LicenseRef-scancode-ms-visual-2008-runtime
-- Microsoft Visual C++ 2010 Runtime Libraries License, LicenseRef-scancode-ms-visual-2010-runtime
-- Microsoft Visual C++ 2015-2022 Runtime, LicenseRef-scancode-ms-visual-cpp-2015-runtime
-- Microsoft Visual Studio 2015 Software Development Kit License, LicenseRef-scancode-ms-visual-2015-sdk
-- Microsoft Visual Studio Code License, LicenseRef-scancode-ms-visual-studio-code
-- Microsoft Visual Studio Code License 2018, LicenseRef-scancode-ms-visual-studio-code-2018
-- Microsoft Visual Studio Code License 2022, LicenseRef-scancode-ms-visual-studio-code-2022
-- Microsoft Visual Studio Add-Ons and Extensions 17.2.0, LicenseRef-scancode-ms-vs-addons-ext-17.2.0
-- Microsoft Web Developer Tools 1.0, LicenseRef-scancode-ms-web-developer-tools-1.0
-- Microsoft Windows API Code Pack for Microsoft .NET Framework, LicenseRef-scancode-ms-api-code-pack-net
-- Microsoft Windows CE 5.0 Shared Source License Agreement, LicenseRef-scancode-wince-50-shared-source
-- Microsoft Windows Container Base Image EULA 2020, LicenseRef-scancode-ms-win-container-eula-2020
-- Microsoft Windows Driver Kit License, LicenseRef-scancode-ms-windows-driver-kit
-- Microsoft Windows Identity Foundation License, LicenseRef-scancode-ms-windows-identity-foundation
-- Microsoft Windows Rally Development Kit License, LicenseRef-scancode-microsoft-windows-rally-devkit
-- Microsoft Windows SDK for Windows 10 and.NET Framework 6, LicenseRef-scancode-ms-windows-sdk-win10-net-6
-- Microsoft Windows SDK for Windows 7 and .NET Framework 4, LicenseRef-scancode-ms-windows-sdk-win7-net-4
-- Microsoft Windows Server 2003 DDK License, LicenseRef-scancode-ms-windows-server-2003-ddk
-- Microsoft Windows Server 2003 SP1 Platform SDK License, LicenseRef-scancode-ms-windows-server-2003-sdk
-- Microsoft Xamarin.UITest 3.2.0, LicenseRef-scancode-ms-xamarin-uitest3.2.0
-- Remote Network Driver Interface Specification (RNDIS) Protocol, LicenseRef-scancode-ms-rndis
-- Microsoft MSDN Magazine Sample Code EULA 2007, LicenseRef-scancode-msdn-magazine-sample-code-2007
-- Microsoft patterns & practices License, LicenseRef-scancode-msppl
-- MStar Proprietary License 2007, LicenseRef-scancode-mstar-2007
-- MStar Proprietary License 2012, LicenseRef-scancode-mstar-2012
-- Microsoft XML Core Services (MSXML) 4.0 EULA, LicenseRef-scancode-ms-xml-core-4.0
-- muT-License, LicenseRef-scancode-mut-license
-- Oxford Nanopore Technologies PLC. Public License Version 1.0, LicenseRef-scancode-nanoporetech-public-1.0
-- NCSA HTTPd License 1995, LicenseRef-scancode-ncsa-httpd-1995
-- NetApp Manageability SDK License Agreement rev. Aug2020, LicenseRef-scancode-netapp-sdk-aug2020
-- Netdata Cloud UI License v1.0 (NCUL1), LicenseRef-scancode-netdata-ncul1
-- Netronome Firmware License, LicenseRef-scancode-netronome-firmware
-- New Relic License, LicenseRef-scancode-new-relic
-- NonCommercial Sampling Plus 1.0, LicenseRef-scancode-cc-nc-sampling-plus-1.0
-- Northwoods Software Evaluation License 2024, LicenseRef-scancode-northwoods-evaluation-2024
-- NucleusIcons EULA, LicenseRef-scancode-nucleusicons-eula
-- NVIDIA APEX SDK End User License Agreement 2011, LicenseRef-scancode-nvidia-apex-sdk-eula-2011
-- NVIDIA Deep Learning Container License 2021, LicenseRef-scancode-nvidia-dlc-2021
-- NVIDIA ISAAC EULA v2019.1, LicenseRef-scancode-nvidia-isaac-eula-2019.1
-- NVIDIA NCCL SLA 2016, LicenseRef-scancode-nvidia-nccl-sla-2016
-- NVIDIA NGX EULA 2019, LicenseRef-scancode-nvidia-ngx-eula-2019
-- NVIDIA Open Model License Agreement 2025-04-28, LicenseRef-scancode-nvidia-open-model-2025-04-28
-- License Agreement for NVIDIA Software Development Kits v0.11, LicenseRef-scancode-nvidia-sdk-eula-v0.11
-- License Agreement for NVIDIA Software Development Kits v12.8, LicenseRef-scancode-nvidia-sdk-12.8
-- NVIDIA Video Codec SDK Agreement, LicenseRef-scancode-nvidia-video-codec-agreement
-- Non-Violent Public License v4, LicenseRef-scancode-non-violent-4.0
-- Non-Violent Public License v7, LicenseRef-scancode-non-violent-7.0
-- NXP Firmware with Patent License, LicenseRef-scancode-nxp-firmware-patent
-- NXP Linux Firmware License, LicenseRef-scancode-nxp-linux-firmware
-- NXP MC Firmware License, LicenseRef-scancode-nxp-mc-firmware
-- NXP Microcontroller Proprietary, LicenseRef-scancode-nxp-microctl-proprietary
-- NXP Warranty Disclaimer, LicenseRef-scancode-nxp-warranty-disclaimer
-- OASIS Intellectual Property Rights (IPR) Policy 2013, LicenseRef-scancode-oasis-ipr-2013
-- Oasis IPR Policy License 2014-10-15, LicenseRef-scancode-oasis-ipr-policy-2014
-- Obsidian Terms of Service 2025, LicenseRef-scancode-obsidian-tos-2025
-- OCamlPro Non-Commercial Purpose License v1, LicenseRef-scancode-ocamlpro-nc-v1
-- License for Non-MilitarySoftware Implementations of OCB 2013, LicenseRef-scancode-ocb-non-military-2013
-- License for OpenSource Software Implementations of OCB 2013, LicenseRef-scancode-ocb-open-source-2013
-- Patent License for OpenSSL of OCB 2013, LicenseRef-scancode-ocb-patent-openssl-2013
-- Oculus SDK License Agreement 2020, LicenseRef-scancode-oculus-sdk-2020
-- Oculus Software Development Kit License Agreement v3.5, LicenseRef-scancode-oculus-sdk-3.5
-- ODB Free Proprietary License (FPL), LicenseRef-scancode-odb-fpl
-- Odin Software License 2000, LicenseRef-scancode-odin-2000
-- OFRAK Community License Agreement 1.1, LicenseRef-scancode-ofrak-community-1.1
-- OGC Document Notice 2020, LicenseRef-scancode-ogc-document-2020
-- OMG Business Process Model and Notation 2.0, LicenseRef-scancode-omg-bpmn-2.0
-- OOURA License 2001, LicenseRef-scancode-ooura-2001
-- Open Source Maintenance Fee EULA, LicenseRef-scancode-os-maintenance-fee-eula
-- Sybase Open Watcom Public License v1.0, Watcom-1.0
-- Open WebUI License 2025, LicenseRef-scancode-open-webui-2025
-- openCARP v1.0, LicenseRef-scancode-opencarp-1.0
-- OpenNETCF Shared Source License, LicenseRef-scancode-opennetcf-shared-source
-- OpenVPN Access Server EULA, LicenseRef-scancode-openvpn-as-eula
-- Opera for Computers EULA 2018, LicenseRef-scancode-opera-eula-2018
-- Opera EULA for European Economic Area 2018, LicenseRef-scancode-opera-eula-eea-2018
-- Opera Web Applications License v1.0, LicenseRef-scancode-owal-1.0
-- Opera Widget License v1.0, LicenseRef-scancode-opera-widget-1.0
-- Oracle BCL for Java EE Technologies, LicenseRef-scancode-oracle-bcl-javaee
-- Oracle BCL for Java SE and JavaFX Technologies 2013, LicenseRef-scancode-oracle-bcl-javase-javafx-2013
-- Oracle BCL for Java SE Platform Products and JavaFX 2013 Restricted, LicenseRef-scancode-oracle-bcl-java-platform-2013
-- Oracle BCL for Java SE Platform Products and JavaFX 2017 Restricted, LicenseRef-scancode-oracle-bcl-java-platform-2017
-- Oracle BCL for Java SE Platform Products and JavaFX 2012, LicenseRef-scancode-oracle-bcl-javase-javafx-2012
-- Oracle BCL for JSSE 1.0.3 for CDC 1.0.2, LicenseRef-scancode-oracle-bcl-jsse-1.0.3
-- Oracle Developer Tools for Visual Studio .NET Development License, LicenseRef-scancode-oracle-devtools-vsnet-dev
-- Oracle Entitlement 5 plus 15, LicenseRef-scancode-oracle-entitlement-05-15
-- Oracle Free License 2018, LicenseRef-scancode-oracle-free-2018
-- Oracle GraalVM Free Terms and Conditions (GFTC) 2023-06-12, LicenseRef-scancode-oracle-gftc-2023-06-12
-- Oracle No-Fee Terms and Conditions (NFTC) 2021, LicenseRef-scancode-oracle-nftc-2021
-- Oracle SQL Developer License Terms, LicenseRef-scancode-oracle-sql-developer
-- Oracle VirtualBox Extension Pack Personal Use and Educational License (PUEL) v12, LicenseRef-scancode-oracle-vb-puel-12
-- Oracle Web Sites Terms of Use, LicenseRef-scancode-oracle-web-sites-tou
-- Bitcaster Source License, Version 1.1, Apache 2.0 Future License, LicenseRef-scancode-os4d-1.1-apache-2.0
-- OSGi Specification License Version 2.0, LicenseRef-scancode-osgi-spec-2.0
-- Open Source Social Network License v3.0, LicenseRef-scancode-ossn-3.0
-- Open Sourced Vulnerability Database (OSVDB) License, LicenseRef-scancode-osvdb
-- OTN Developer License for JAVA EE SDK, LicenseRef-scancode-oracle-java-ee-sdk-2010
-- OTN Early Adopter Development License 2018, LicenseRef-scancode-otn-early-adopter-2018
-- OTN Early Adopter Development License Agreement, LicenseRef-scancode-otn-early-adopter-development
-- Oracle Technology Network License Agreement for Oracle Java SE, LicenseRef-scancode-oracle-otn-javase-2019
-- Oracle Technology Network Development and Distribution License Terms, LicenseRef-scancode-otn-dev-dist
-- Oracle Technology Network Free Developer License 2009, LicenseRef-scancode-otn-dev-dist-2009
-- Oracle Technology Network Free Developer License 2014, LicenseRef-scancode-otn-dev-dist-2014
-- Oracle Technology Network License Agreement 2014-09, LicenseRef-scancode-otn-standard-2014-09
-- Oracle Technology Network License Agreement 2016, LicenseRef-scancode-otn-dev-dist-2016
-- Oracle Technology Network License Agreement 2016-11-30, LicenseRef-scancode-otnla-2016-11-30
-- Paint.NET License, LicenseRef-scancode-paint-net
-- Passive-Aggressive License, LicenseRef-scancode-passive-aggressive
-- PFE Proprietary Notice, LicenseRef-scancode-pfe-proprietary-notice
-- Protected Free To Use Software License, LicenseRef-scancode-pftus-1.1
-- Phaser Academic Non-Commercial EULA, LicenseRef-scancode-phaser-academic
-- Playground v2 Community License, LicenseRef-scancode-playground-v2-community
-- Polyform Strict License 1.0.0, LicenseRef-scancode-polyform-strict-1.0.0
-- Postman Terms of Service 2024, LicenseRef-scancode-postman-tos-2024
-- PowerVR Tools Software End User License Agreement, LicenseRef-scancode-powervr-tools-software-eula
-- proconX Modbus Driver License rev4, LicenseRef-scancode-proconx-modbus-rev4
-- Proprietary, proprietary
-- The Prosperity Public License 1.0.1, LicenseRef-scancode-prosperity-1.0.1
-- Psion User LIcence for S3AEMUL, LicenseRef-scancode-psion-s3aemul
-- Psion User LIcence for SiEMUL, LicenseRef-scancode-psion-siemul
-- Psion User LIcence for WrkAEmul, LicenseRef-scancode-psion-wrkaemul
-- QAPlug License, LicenseRef-scancode-qaplug
-- QCA Linux Firmware License, LicenseRef-scancode-qca-linux-firmware
-- Qualcomm Atheros Technology License, LicenseRef-scancode-qca-technology
-- QLogic Firmware License, LicenseRef-scancode-qlogic-firmware
-- QTI Linux Firmware, LicenseRef-scancode-qti-linux-firmware
-- QuinStreet License, LicenseRef-scancode-quin-street
-- Ralink Firmware License, LicenseRef-scancode-ralink-firmware
-- RealNetworks Community Source License v2.0, LicenseRef-scancode-rcsl-2.0
-- RealNetworks Community Source License v3.0, LicenseRef-scancode-rcsl-3.0
-- Realm Platform Extensions License 2017, LicenseRef-scancode-realm-platform-extension-2017
-- Red Hat Logos License, LicenseRef-scancode-red-hat-logos
-- Red Hat Standard End User License Agreement, LicenseRef-scancode-rh-standard-eula-2019
-- Red Hat Trademarks License, LicenseRef-scancode-red-hat-trademarks
-- Red Hat Universal Base Image EULA, LicenseRef-scancode-rh-ubi-eula-2019
-- Reponsible AI Source Code License v1.0, LicenseRef-scancode-responsible-ai-source-1.0
-- Reponsible AI Source Code License v1.1, LicenseRef-scancode-responsible-ai-source-1.1
-- Research Software Disclaimer, LicenseRef-scancode-research-disclaimer
-- Maxim Godzi Retentioneering Tools Software Non-Exclusive License 2023, LicenseRef-scancode-retentioneering-2023
-- Retype Software License Agreement v3.7.0, LicenseRef-scancode-retype-3.7.0
-- Rockchip Proprietary 2019, LicenseRef-scancode-rockchip-proprietary-2019
-- Rockchip Proprietary 2022, LicenseRef-scancode-rockchip-proprietary-2022
-- Rockchip Proprietary 2023, LicenseRef-scancode-rockchip-proprietary-2023
-- Root Certificate License Agreement v3.0, LicenseRef-scancode-root-cert-3.0
-- RubyEncoder Loader Licence, LicenseRef-scancode-rubyencoder-loader
-- RWTH RETURNN LIcense 2024, LicenseRef-scancode-rwth-returnn-2024
-- S-Lab License 1.0, LicenseRef-scancode-s-lab-1.0
-- SafeCopy EULA, LicenseRef-scancode-safecopy-eula
-- SalesforceSans Font License, LicenseRef-scancode-salesforcesans-font
-- Sampling 1.0, LicenseRef-scancode-cc-sampling-1.0
-- Sampling Plus 1.0, LicenseRef-scancode-cc-sampling-plus-1.0
-- Apple San Francisco Font License, LicenseRef-scancode-san-francisco-font
-- Sandeep License, LicenseRef-scancode-sandeep
-- SCILAB License 2005, LicenseRef-scancode-scilab-en
-- Licence SCILAB, LicenseRef-scancode-scilab-fr
-- Script# License, LicenseRef-scancode-script-nikhilk
-- SCRUB License, LicenseRef-scancode-scrub
-- Semaphore Enterprise Edition (EE) License 2025, LicenseRef-scancode-semaphore-ee-2025
-- Semgrep Rules License v.1.0, LicenseRef-scancode-semgrep-rules-1.0
-- Shopify License 2024, LicenseRef-scancode-shopify-2024
-- Siesta Academic Licence for Individuals, LicenseRef-scancode-siesta-academic-individuals
-- Siesta Licence for Computer Centres, LicenseRef-scancode-siesta-computer-centres
-- Silicon Image Proprietary License 2007, LicenseRef-scancode-silicon-image-2007
-- SmartLabs Freeware License, LicenseRef-scancode-smartlabs-freeware
-- SMSC Non-Commercial 2012, LicenseRef-scancode-smsc-non-commercial-2012
-- Snowplow Community License Agreement 1.0, LicenseRef-scancode-snowplow-cla-1.0
-- Snowplow Limited Use License Agreement 1.0, LicenseRef-scancode-snowplow-lula-1.0
-- Snowplow Personal & Academic License Agreement 1.0, LicenseRef-scancode-snowplow-person-academic-1.0
-- SOFA Software License, SOFA
-- Softerra LDAP Browser EULA, LicenseRef-scancode-softerra-ldap-browser-eula
-- Solace-Software-EULA-2020, LicenseRef-scancode-solace-software-eula-2020
-- Spark Jive License, LicenseRef-scancode-spark-jive
-- Splunk EULA for Third-Party Content, LicenseRef-scancode-splunk-3pp-eula
-- Splunk MINT Terms of Service 2018, LicenseRef-scancode-splunk-mint-tos-2018
-- sRGB Profile Licensing Agreement, LicenseRef-scancode-srgb
-- Stability AI Community License Agreement 2024, LicenseRef-scancode-stability-ai-community-2024
-- Stability AI Non-Commercial Research Community License Agreement 2023-12-06, LicenseRef-scancode-stability-ai-nc-2023-12-06
-- Stable Diffusion License 2022-08-22, LicenseRef-scancode-stable-diffusion-2022-08-22
-- Standard "No Charge" GSAP License 2025, LicenseRef-scancode-gsap-standard-no-charge-2025
-- Entente de licence ouverte de Statistique Canada, LicenseRef-scancode-scola-fr
-- Statistics Canada Open Licence Agreement, LicenseRef-scancode-scola-en
-- Stefano Apostolico MIT License, LicenseRef-scancode-saxix-mit
-- STMicro Liberty License v2, LicenseRef-scancode-st-mcd-2.0
-- STMicroelectronics Linux Firmware License, LicenseRef-scancode-stmicro-linux-firmware
-- Sun BCL 11 plus 6, LicenseRef-scancode-sun-bcl-11-06
-- Sun BCL 11 plus 7, LicenseRef-scancode-sun-bcl-11-07
-- Sun BCL 11 plus 8, LicenseRef-scancode-sun-bcl-11-08
-- Sun BCL J2RE 1.2.X, LicenseRef-scancode-sun-bcl-j2re-1.2.x
-- Sun BCL J2RE 1.4.2, LicenseRef-scancode-sun-bcl-j2re-1.4.2
-- Sun BCL J2RE 1.4.X, LicenseRef-scancode-sun-bcl-j2re-1.4.x
-- Sun BCL J2RE 5.0, LicenseRef-scancode-sun-bcl-j2re-5.0
-- Sun BCL Java Servlet Implementation Classes 2.1.1, LicenseRef-scancode-sun-bcl-java-servlet-imp-2.1.1
-- Sun BCL JavaHelp, LicenseRef-scancode-sun-bcl-javahelp
-- Sun BCL JIMI SDK, LicenseRef-scancode-sun-bcl-jimi-sdk
-- Sun BCL JRE 6, LicenseRef-scancode-sun-bcl-jre6
-- Sun BCL JSMQ, LicenseRef-scancode-sun-bcl-jsmq
-- Sun BCL OpenDMK, LicenseRef-scancode-sun-bcl-opendmk
-- Sun BCL OpenJDK, LicenseRef-scancode-sun-bcl-openjdk
-- Sun BCL SDK 1.3, LicenseRef-scancode-sun-bcl-sdk-1.3
-- Sun BCL SDK 1.4.2, LicenseRef-scancode-sun-bcl-sdk-1.4.2
-- Sun BCL SDK 5.0, LicenseRef-scancode-sun-bcl-sdk-5.0
-- Sun BCL SDK 6.0, LicenseRef-scancode-sun-bcl-sdk-6.0
-- Sun BCL Web Start, LicenseRef-scancode-sun-bcl-web-start
-- Sun CC-PP Processing License 1.0, LicenseRef-scancode-sun-cc-pp-1.0
-- Sun Communications API, LicenseRef-scancode-sun-communications-api
-- Sun EJB Specification 2.1, LicenseRef-scancode-sun-ejb-spec-2.1
-- Sun EJB Specification 3.0, LicenseRef-scancode-sun-ejb-spec-3.0
-- Sun Entitlement 3 plus 15, LicenseRef-scancode-sun-entitlement-03-15
-- Sun Entitlement JAF, LicenseRef-scancode-sun-entitlement-jaf
-- Sun GlassFish License, LicenseRef-scancode-sun-glassfish
-- Sun IIOP License, LicenseRef-scancode-sun-iiop
-- Sun Industry Standards Source License 1.1, SISSL
-- Sun Industry Standards Source License 1.2, SISSL-1.2
-- Sun Java Transaction API License, LicenseRef-scancode-sun-java-transaction-api
-- Sun Java Web Services Developer Pack 1.6, LicenseRef-scancode-sun-java-web-services-dev-1.6
-- Sun JavaMail, LicenseRef-scancode-sun-javamail
-- Sun Java Advanced Imaging Distribution License v1.1.X, LicenseRef-scancode-sun-jdl-jai-1.1.x
-- Sun JSR Specification License April 2006, LicenseRef-scancode-sun-jsr-spec-04-2006
-- Sun JTA Specification License v1.0.1, LicenseRef-scancode-sun-jta-spec-1.0.1
-- Sun JTA Specification License v1.0.1B, LicenseRef-scancode-sun-jta-spec-1.0.1b
-- Sun Project X, LicenseRef-scancode-sun-project-x
-- Sun Proprietary Non-Commercial License, LicenseRef-scancode-sun-prop-non-commercial
-- Sun SDK Specification 1.1, LicenseRef-scancode-sun-sdk-spec-1.1
-- T-Engine Public License, LicenseRef-scancode-t-engine-public
-- T-License 1.0, LicenseRef-scancode-t-license-1.0
-- T-License 2.0, LicenseRef-scancode-t-license-2.0
-- T-License 2.1, LicenseRef-scancode-t-license-2.1
-- T-License 2.2, LicenseRef-scancode-t-license-2.2
-- T-License for AMP T-Kernel, LicenseRef-scancode-t-license-amp-t-kernel
-- T-License for AMP T-Kernel Standard Extension, LicenseRef-scancode-t-license-amp-tkse
-- T-License for SMP T-Kernel, LicenseRef-scancode-t-license-smp-t-kernel
-- T-License for SMP T-Kernel Standard Extension, LicenseRef-scancode-t-license-smp-tkse
-- T-License for T-Kernel Standard Extension, LicenseRef-scancode-t-license-tkse
-- Taligent JDK Proprietary Notice, LicenseRef-scancode-taligent-jdk
-- Teleport Community Edition License 2024, LicenseRef-scancode-teleport-ce-2024
-- Tenable Nessus Software License and Subscription Agreement, LicenseRef-scancode-tenable-nessus
-- Texas Instruments Broadband Applications License, LicenseRef-scancode-ti-broadband-apps
-- TI Linux Firmware License, LicenseRef-scancode-ti-linux-firmware
-- Tizen SDK License, LicenseRef-scancode-tizen-sdk
-- Tongyi Qianwen License Agreement 2023, LicenseRef-scancode-tongyi-qianwen-2023
-- Trainy Software License Version 1.0, LicenseRef-scancode-trainy-1.0
-- TreeView Developer License, LicenseRef-scancode-treeview-developer
-- TreeView Distributor License, LicenseRef-scancode-treeview-distributor
-- Trend Micro Community License 1.0, LicenseRef-scancode-trendmicro-cl-1.0
-- TripTracker Slideshow License, LicenseRef-scancode-triptracker
-- Trustonic Proprietary License 2013, LicenseRef-scancode-trustonic-proprietary-2013
-- Unicode Terms of Use, Unicode-TOU
-- Uthmanic Script License, LicenseRef-scancode-kfgqpc-uthmanic-script-hafs
-- University of Utah Research Foundation Public License, LicenseRef-scancode-uofu-rfpl
-- Vanderbilt Contribution and Software License Agreement v1.0, LicenseRef-scancode-vanderbilt-sla-1.0
-- VeriSign License, LicenseRef-scancode-verisign
-- Vitesse Proprietary Notice, LicenseRef-scancode-vitesse-prop
-- Volla Licence 1.0, LicenseRef-scancode-volla-1.0
-- VS10x Code Map, LicenseRef-scancode-vs10x-code-map
-- Vuforia SDK License Agreement 2013-07-29, LicenseRef-scancode-vuforia-2013-07-29
-- VVVVVV Source Code License v1.0, LicenseRef-scancode-vvvvvv-scl-1.0
-- whosonfirst license, LicenseRef-scancode-whosonfirst-license
-- winIDEA SDK 2025, LicenseRef-scancode-winidea-sdk-2025
-- Wink License, LicenseRef-scancode-wink
-- Xceed Community License 2021, LicenseRef-scancode-xceed-community-2021
-- XMOS Public Licence v1, LicenseRef-scancode-xmos-public-1
-- Yahoo BrowserPlus End User License, LicenseRef-scancode-yahoo-browserplus-eula
-- Yahoo Messenger EULA, LicenseRef-scancode-yahoo-messenger-eula
-- YOLO License v1, LicenseRef-scancode-yolo-1.0
-- YOLO License v2, LicenseRef-scancode-yolo-2.0
-- Zhorn Stickies License, LicenseRef-scancode-zhorn-stickies
-- Zipeg License, LicenseRef-scancode-zipeg
-- ZUGFeRD Datenformat Version 2.2.0 14.02.2022, LicenseRef-scancode-zugferd-datenformat-2.2.0
+- A-Star-Logic Memoire temporary License, `LicenseRef-scancode-a-star-logic-memoire-temp`
+- Aardvark I2C/SPI Software and Firmware License 2014, `LicenseRef-scancode-aardvark-py-2014`
+- Anyone But Richard Stallman License, `LicenseRef-scancode-abrms`
+- ACM Software License Agreement, `LicenseRef-scancode-acm-sla`
+- Acroname Brainstem Development Kit license, `LicenseRef-scancode-acroname-bdk`
+- Acter Public Source License 1.0, `LicenseRef-scancode-acter-psl-1.0`
+- ActiveState Community License, `LicenseRef-scancode-activestate-community`
+- ActiveState Community License 2012, `LicenseRef-scancode-activestate-community-2012`
+- ActiveState Komodo Edit EULA, `LicenseRef-scancode-activestate-komodo-edit`
+- Activision EULA, `LicenseRef-scancode-activision-eula`
+- Adaptec Downloadable Software License, `LicenseRef-scancode-adaptec-downloadable`
+- Adaptec EULA, `LicenseRef-scancode-adaptec-eula`
+- AdColony Terms of Service for Publishers 2022, `LicenseRef-scancode-adcolony-tos-2022`
+- AddThis Mobile Application SDK License 1.0, `LicenseRef-scancode-addthis-mobile-sdk-1.0`
+- ADI BSD License 2011, `LicenseRef-scancode-adi-bsd-2011`
+- ADI BSD License 2017, `LicenseRef-scancode-adi-bsd-2017`
+- Adobe Acrobat Reader EULA, `LicenseRef-scancode-adobe-acrobat-reader-eula`
+- Adobe AIR SDK EULA - 2008, `LicenseRef-scancode-adobe-air-sdk`
+- Adobe Air SDK EULA - 2014, `LicenseRef-scancode-adobe-air-sdk-2014`
+- Adobe Color Profile Bundling agreement, `LicenseRef-scancode-adobe-color-profile-bundling`
+- Adobe Color Profile License agreement, `LicenseRef-scancode-adobe-color-profile-license`
+- Adobe DNG SDK License Agreement, `LicenseRef-scancode-adobe-dng-sdk`
+- Adobe Flash Player EULA 21.0, `LicenseRef-scancode-adobe-flash-player-eula-21.0`
+- Adobe Flex 2.0.1 SDK EULA, `LicenseRef-scancode-flex2sdk`
+- Adobe Flex 4 SDK Software License Agreement, `LicenseRef-scancode-adobe-flex-4-sdk`
+- Adobe Flex SDK SLA, `LicenseRef-scancode-adobe-flex-sdk`
+- Adobe SDK License for INDESIGN, INDESIGN SERVER and INCOPY Software, `LicenseRef-scancode-adobe-indesign-sdk`
+- Adobe PostScript License, `LicenseRef-scancode-adobe-postscript`
+- Agere Systems WinModem EULA, `LicenseRef-scancode-agere-sla`
+- Ago Private License 1.0, `LicenseRef-scancode-ago-private-1.0`
+- The Alasir Licence, `LicenseRef-scancode-alasir`
+- Aldor Public License 2.0, `LicenseRef-scancode-aldor-public-2.0`
+- Amazon Program Materials License Agreement 2020, `LicenseRef-scancode-pml-2020`
+- Amazon Redshift JDBC Driver License Agreement, `LicenseRef-scancode-amazon-redshift-jdbc`
+- Amazon Software License, `LicenseRef-.amazon.com.-AmznSL-1.0`
+- AMD Linux Firmware Export License, `LicenseRef-scancode-amd-linux-firmware-export`
+- AMD Linux Firmware License, `LicenseRef-scancode-amd-linux-firmware`
+- Amlogic Linux Firmware License, `LicenseRef-scancode-amlogic-linux-firmware`
+- Amplication Enterprise Edition license 2022, `LicenseRef-scancode-amplication-ee-2022`
+- Android Software Development Kit License Agreement 2009, `LicenseRef-scancode-android-sdk-2009`
+- Android Software Development Kit License Agreement 2012, `LicenseRef-scancode-android-sdk-2012`
+- Android Software Development Kit License Agreement 2015, `LicenseRef-scancode-android-sdk-license`
+- Android Software Development Kit License Agreement 2021, `LicenseRef-scancode-android-sdk-2021`
+- Android SDK Preview License Agreement, `LicenseRef-scancode-android-sdk-preview-2015`
+- Academic Public License version 1.1, `LicenseRef-scancode-apl-1.1`
+- Appfire EULA, `LicenseRef-scancode-appfire-eula`
+- Apple Academic License Agreement Lisa OS v3.1, `LicenseRef-scancode-apple-academic-lisa-os-3.1`
+- Apple iTunes License, `LicenseRef-scancode-itunes`
+- Apple MFi License, `LicenseRef-scancode-apple-mfi-license`
+- Apple Quicktime License, `LicenseRef-scancode-quicktime`
+- Apple Squeak License, `LicenseRef-scancode-squeak`
+- AppsFlyer Framework License, `LicenseRef-scancode-appsflyer-framework`
+- Arachni Public Source License v1.0, `LicenseRef-scancode-arachni-psl-1.0`
+- ARM Cortex-Mx Proprietary, `LicenseRef-scancode-arm-cortex-mx`
+- Ascender Corporation End User License Agreement, `LicenseRef-scancode-ascender-eula`
+- ATI Software End User License Agreement, `LicenseRef-scancode-ati-eula`
+- Atlassian Marketplace Terms of Use, `LicenseRef-scancode-atlassian-marketplace-tou`
+- Atmel Firmware License, `LicenseRef-scancode-atmel-firmware`
+- Atmel Linux Firmware License, `LicenseRef-scancode-atmel-linux-firmware`
+- Atmel Microcontroller License, `LicenseRef-scancode-atmel-microcontroller`
+- Autodesk 3D Studio File Toolkit for Release 3, `LicenseRef-scancode-autodesk-3d-sft-3.0`
+- Autoit EULA, `LicenseRef-scancode-autoit-eula`
+- AUTOSAR Proprietary Notice, `LicenseRef-scancode-autosar-proprietary`
+- Avdpro License 2023-10-30, `LicenseRef-scancode-avdpro-2023-10-30`
+- AWS Intellectual Property License 2021, `LicenseRef-scancode-aws-ip-2021`
+- BigCode Open RAIL-M v1 License Agreement, `LicenseRef-scancode-bigcode-open-rail-m-v1`
+- Bigelow & Holmes Luxi fonts license, `LicenseRef-scancode-luxi`
+- BigScience Open RAIL-M License, `LicenseRef-scancode-bigscience-open-rail-m`
+- BigScience Open RAIL-M2 License, `LicenseRef-scancode-bigscience-open-rail-m2`
+- BigScience RAIL License v1.0, `LicenseRef-scancode-bigscience-rail-1.0`
+- Binary-Only Linux Firmware License, `LicenseRef-scancode-binary-linux-firmware`
+- Binary-Only Linux Firmware Patent License, `LicenseRef-scancode-binary-linux-firmware-patent`
+- Actuate Corporation BIRT iHub F-Type Software License Agreement, `LicenseRef-scancode-actuate-birt-ihub-ftype-sla`
+- BitTorrent End User License Agreement (EULA), `LicenseRef-scancode-bittorrent-eula`
+- Bloomberg BLPAPI License, `LicenseRef-scancode-bloomberg-blpapi`
+- BPEL4WS Specification license, `LicenseRef-scancode-bpel4ws-spec`
+- Broadcom Linux Firmware License, `LicenseRef-scancode-broadcom-linux-firmware`
+- Broadcom Proprietary License, `LicenseRef-scancode-broadcom-proprietary`
+- Broadcom Raspberry Pi Firmware License, `LicenseRef-scancode-broadcom-raspberry-pi`
+- Broadcom WICED Development Kit License Agreement, `LicenseRef-scancode-broadcom-wiced`
+- Broadleaf Fair Use License Agreement v1.0, `LicenseRef-scancode-broadleaf-fair-use`
+- BugSense SDK License, `LicenseRef-scancode-bugsense-sdk`
+- C/Migemo License, `LicenseRef-scancode-cmigemo`
+- Cadence Linux Firmware License, `LicenseRef-scancode-cadence-linux-firmware`
+- Corporate Accountability Lab Software, `LicenseRef-scancode-corporate-accountability-1.1`
+- Cavium Linux Firmware License, `LicenseRef-scancode-cavium-linux-firmware`
+- CC + Corporate Accountability Lab, `LicenseRef-scancode-accountability-commercial-1.1`
+- Chameleon Research License 2024, `LicenseRef-scancode-chameleon-research-2024`
+- Charm++ Software License 2019, `LicenseRef-scancode-charmpp-2019`
+- Charm++/Converse License 2017, `LicenseRef-scancode-charmpp-converse-2017`
+- ChartDirector 6.0 License Agreement, `LicenseRef-scancode-chartdirector-6.0`
+- Chelsio Linux Firmware License, `LicenseRef-scancode-chelsio-linux-firmware`
+- Christopher Velazquez License, `LicenseRef-scancode-christopher-velazquez`
+- Clearthought Software License v2.0, `LicenseRef-scancode-clearthought-2.0`
+- Cloudera Express License, `LicenseRef-scancode-cloudera-express`
+- Cooperative Non-Violent Public License v4, `LicenseRef-scancode-cooperative-non-violent-4.0`
+- Cooperative Non-Violent Public License v6, `LicenseRef-scancode-cooperative-non-violent-6.0`
+- Cooperative Non-Violent Public License v7, `LicenseRef-scancode-cooperative-non-violent-7.0`
+- CockroachDB Software License 2024-10-01, `LicenseRef-scancode-cockroachdb-2024-10-01`
+- Codexia License, `LicenseRef-scancode-codexia`
+- Cognitive Computation Group Research License, `LicenseRef-scancode-ccg-research-academic`
+- Collaborative Virtual Workspace License, `LicenseRef-scancode-cvwl`
+- Concursive Public License 1.0, `LicenseRef-scancode-concursive-pl-1.0`
+- Couchbase Community Edition License, `LicenseRef-scancode-couchbase-community`
+- Couchbase Enterprise Edition License, `LicenseRef-scancode-couchbase-enterprise`
+- CRAPL v0 BETA 1, `LicenseRef-scancode-crapl-0.1`
+- Creative Technology Linux Firmware License, `LicenseRef-scancode-ctl-linux-firmware`
+- Crunchbase Data Access Terms 2019-12-17, `LicenseRef-scancode-crunchbase-data-2019-12-17`
+- CUDA Toolkit Supplement to SLA for NVIDIA SDKs, `LicenseRef-scancode-nvidia-cuda-supplement-2020`
+- Cypress Linux Firmware License, `LicenseRef-scancode-cypress-linux-firmware`
+- Databricks DB License, `LicenseRef-scancode-databricks-db`
+- DataBricks eXtensions aka dbx 2021, `LicenseRef-scancode-databricks-dbx-2021`
+- Day Specification License, `LicenseRef-scancode-day-spec`
+- Dont Be A Dick Public License, `LicenseRef-scancode-dbad`
+- Defold License 1.0, `LicenseRef-scancode-defold-1.0`
+- Developing Nations 2.0, `LicenseRef-scancode-cc-devnations-2.0`
+- Do No Harm, `LicenseRef-scancode-do-no-harm-0.1`
+- Delayed Open Source Attribution License 1.0 (DOSA-1.0), `LicenseRef-scancode-dosa-1.0`
+- Duende SLA 2022, `LicenseRef-scancode-duende-sla-2022`
+- Eclipse Foundation Quality Verification Suite License - V 1.0, `LicenseRef-scancode-eqvsl-1.0`
+- Eclipse Foundation Technology Compatibility Kit License - v1.1, `LicenseRef-scancode-eclipse-tck-1.1`
+- Ecma Code of Conduct in Patent Matters v1, `LicenseRef-scancode-ecma-patent-coc-1`
+- Ecma Code of Conduct in Patent Matters v2, `LicenseRef-scancode-ecma-patent-coc-2`
+- Ecma Historical Code of Conduct in Patent Matters, `LicenseRef-scancode-ecma-patent-coc-0`
+- Ecma no patent notice, `LicenseRef-scancode-ecma-no-patent`
+- Ecma Standard Copyright Notice 2024, `LicenseRef-scancode-ecma-standard-copyright-2024`
+- Eclipse Foundation Specification License - v1.0, `LicenseRef-scancode-efsl-1.0`
+- Eclipse Foundation Specification License - v2.0, `LicenseRef-scancode-efsl-2.0`
+- Elixir Team Trademarks Policy, `LicenseRef-scancode-elixir-trademark-policy`
+- EmbedThis Evaluation License, `LicenseRef-scancode-embedthis-evaluation`
+- Epson AVASYS Public License 2008, `LicenseRef-scancode-epson-avasys-pl-2008`
+- Epson End User Software License Agreement 2023, `LicenseRef-scancode-epson-linux-sla-2023`
+- Esri Developer Kit License, `LicenseRef-scancode-esri-devkit`
+- ExamDiff License, `LicenseRef-scancode-examdiff`
+- EXAONE AI Model License Agreement 1.1 - NC, `LicenseRef-scancode-exaone-ai-model-1.1-nc`
+- Facebook License Agreement for Nuclide Software, `LicenseRef-scancode-facebook-nuclide`
+- Facebook Software License, `LicenseRef-scancode-facebook-software-license`
+- Fair AI Public License 1.0-SD, `LicenseRef-scancode-fair-ai-public-1.0-sd`
+- Falcon 2 11B TII License Version 1.0, `LicenseRef-scancode-falcon-2-11b-1.0`
+- FancyZoom License, `LicenseRef-scancode-fancyzoom`
+- First Works Appreciative License 1.2, `LicenseRef-scancode-first-works-appreciative-1.2`
+- FlowCrypt Free License 1.0, `LicenseRef-scancode-flowcrypt-1.0`
+- FlowCrypt License 1.1, `LicenseRef-scancode-flowcrypt-1.1`
+- FlowCrypt License 1.2, `LicenseRef-scancode-flowcrypt-1.2`
+- FLUX.1 [dev] Non-Commercial License, `LicenseRef-scancode-flux-1-nc`
+- foobar2000 License, `LicenseRef-scancode-foobar2000`
+- Froala Open Web Design License, `LicenseRef-scancode-froala-owdl-1.0`
+- Future Technology Devices International License, `LicenseRef-scancode-ftdi`
+- FtpBean License, `LicenseRef-scancode-ftpbean`
+- FUTO Source First License 1.0, `LicenseRef-scancode-futo-sfl-1.0`
+- Gatling-Highcharts License, `LicenseRef-scancode-gatling-highcharts`
+- Gaussian-Splatting License 2024, `LicenseRef-scancode-gaussian-splatting-2024`
+- GCO-v3.0, `LicenseRef-scancode-gco-v3.0`
+- Gemma Terms of Use 2024-04-01, `LicenseRef-scancode-gemma-tou-2024-04-01`
+- Generic-amiwm, `LicenseRef-scancode-generic-amiwm`
+- GeoGebra Non-Commercial License Agreement 2022, `LicenseRef-scancode-geogebra-ncla-2022`
+- Gigablast Exception to Apache 2.0, `LicenseRef-scancode-gigablast-apache-2.0-exception`
+- GitHub CodeQL Terms and Conditions 2020, `LicenseRef-scancode-github-codeql-terms-2020`
+- Gitpod Self-Hosted Free License Terms 2020, `LicenseRef-scancode-gitpod-self-hosted-free-2020`
+- GoAhead License, `LicenseRef-scancode-goahead`
+- Google Analytics Terms of Service, `LicenseRef-scancode-google-analytics-tos`
+- Google Analytics Terms of Service 2015, `LicenseRef-scancode-google-analytics-tos-2015`
+- Google Analytics Terms of Service 2016, `LicenseRef-scancode-google-analytics-tos-2016`
+- Google Analytics Terms of Service 2019, `LicenseRef-scancode-google-analytics-tos-2019`
+- Google APIs Terms of Service 2021, `LicenseRef-scancode-google-apis-tos-2021`
+- Google Maps Platform Terms of Service 2018-02-07, `LicenseRef-scancode-google-maps-tos-2018-02-07`
+- Google Maps Platform Terms of Service 2018-05-01, `LicenseRef-scancode-google-maps-tos-2018-05-01`
+- Google Maps Platform Terms of Service 2018-06-07, `LicenseRef-scancode-google-maps-tos-2018-06-07`
+- Google Maps Platform Terms of Service 2018-07-09, `LicenseRef-scancode-google-maps-tos-2018-07-09`
+- Google Maps Platform Terms of Service 2018-07-19, `LicenseRef-scancode-google-maps-tos-2018-07-19`
+- Google Maps Platform Terms of Service 2018-10-01, `LicenseRef-scancode-google-maps-tos-2018-10-01`
+- Google Maps Platform Terms of Service 2018-10-31, `LicenseRef-scancode-google-maps-tos-2018-10-31`
+- Google Maps Platform Terms of Service 2019-05-02, `LicenseRef-scancode-google-maps-tos-2019-05-02`
+- Google Maps Platform Terms of Service 2019-11-21, `LicenseRef-scancode-google-maps-tos-2019-11-21`
+- Google Maps Platform Terms of Service 2020-04-02, `LicenseRef-scancode-google-maps-tos-2020-04-02`
+- Google Maps Platform Terms of Service 2020-04-27, `LicenseRef-scancode-google-maps-tos-2020-04-27`
+- Google Maps Platform Terms of Service 2020-05-06, `LicenseRef-scancode-google-maps-tos-2020-05-06`
+- Google ML Kit Terms of Service 2022, `LicenseRef-scancode-google-ml-kit-tos-2022`
+- Google Play Core Software Development Kit Terms of Service, `LicenseRef-scancode-google-playcore-sdk-tos-2020`
+- Google Terms of Service 2013, `LicenseRef-scancode-google-tos-2013`
+- Google Terms of Service 2014, `LicenseRef-scancode-google-tos-2014`
+- Google Terms of Service 2017, `LicenseRef-scancode-google-tos-2017`
+- Google Terms of Service 2019, `LicenseRef-scancode-google-tos-2019`
+- Google Terms of Service 2020, `LicenseRef-scancode-google-tos-2020`
+- Gradle Terms of Use 2022-01-13, `LicenseRef-scancode-gradle-tou-2022-01-13`
+- Gumroad Community License 1.0, `LicenseRef-scancode-gumroad-cl-1.0`
+- Project Gutenberg License 2020, `LicenseRef-scancode-gutenberg-2020`
+- Hauppauge Firmware EULA, `LicenseRef-scancode-hauppauge-firmware-eula`
+- Hauppauge Firmware OEM License, `LicenseRef-scancode-hauppauge-firmware-oem`
+- Helix DNA Technology Binary Research Use License, `LicenseRef-scancode-helix`
+- Hacktivismo Enhanced-Source Software License Agreement, `LicenseRef-scancode-hessla`
+- HP Enterprise EULA, `LicenseRef-scancode-hp-enterprise-eula`
+- Hewlett Packard JRE License, `LicenseRef-scancode-hp-ux-jre`
+- HP Non-Commercial License, `LicenseRef-scancode-hp`
+- HP Software EULA, `LicenseRef-scancode-hp-software-eula`
+- HP-UX 11i Java Technology Software, `LicenseRef-scancode-hp-ux-java`
+- HxD License, `LicenseRef-scancode-hxd`
+- HyperCLOVA X SEED Model License Agreement 2025, `LicenseRef-scancode-hyperclova-x-seed-2025`
+- IBM developerWorks Community Download of Content Agreement, `LicenseRef-scancode-ibm-developerworks-community`
+- IBM License Agreement for IBM Employee-Written Software, `LicenseRef-scancode-ibm-employee-written`
+- INRIA End User License Agreement for IceSL Software, `LicenseRef-scancode-inria-icesl`
+- INRIA Non-Commercial License Agreement for the CompCert verified compiler, `LicenseRef-scancode-inria-compcert`
+- INRIA Non-Commercial License Agreement for the Zélus compiler, `LicenseRef-scancode-inria-zelus`
+- inSSIDer End User License Agreement, `LicenseRef-scancode-metageek-inssider-eula`
+- Intel Binary Code License, `LicenseRef-scancode-intel-bcl`
+- Intel Code Samples License, `LicenseRef-scancode-intel-code-samples`
+- Intel Firmware License, `LicenseRef-scancode-intel-firmware`
+- Intel Limited Patent License, `LicenseRef-scancode-intel`
+- Intel Master EULA for SW Development Products March 2016, `LicenseRef-scancode-intel-master-eula-sw-dev-2016`
+- Intel MCU path license 2018, `LicenseRef-scancode-intel-mcu-2018`
+- Intel Microcode License, `LicenseRef-scancode-intel-microcode`
+- Intel Sample Source Code License Agreement 2015, `LicenseRef-scancode-intel-sample-source-code-2015`
+- Intel Source Code License Agreement, `LicenseRef-scancode-intel-scl`
+- IOzone License, `LicenseRef-scancode-iozone`
+- License Agreement for International Press Telecommunications Council 2006, `LicenseRef-scancode-iptc-2006`
+- ISO Recorder License, `LicenseRef-scancode-iso-recorder`
+- Java Research License Version 1.5, `LicenseRef-scancode-java-research-1.5`
+- Java Research License Version 1.6, `LicenseRef-scancode-java-research-1.6`
+- JBoss EULA, `LicenseRef-scancode-jboss-eula`
+- Toolbox Subscription License Agreement For Open Source Projects Version 3, `LicenseRef-scancode-jetbrains-toolbox-oss-3`
+- JGraph General License, `LicenseRef-scancode-jgraph-general`
+- JMagnetic License, `LicenseRef-scancode-jmagnetic`
+- JoinBase Community Edition License Agreement 2022, `LicenseRef-scancode-joinbase-cela-2022`
+- Joplin Server Personal Use License v1, `LicenseRef-scancode-joplin-server-personal-v1`
+- JRunner Software License, `LicenseRef-scancode-jrunner`
+- JSR-107 JCache Specification 2013 License, `LicenseRef-scancode-jsr-107-jcache-spec-2013`
+- JSR-107 JCache Specification License, `LicenseRef-scancode-jsr-107-jcache-spec`
+- Katharos License v0.1.0, `LicenseRef-scancode-katharos-0.1.0`
+- Katharos License v0.2.0, `LicenseRef-scancode-katharos-0.2.0`
+- Keypirinha License, `LicenseRef-scancode-keypirinha`
+- Kreative Software Relay Fonts Free Use License 1.2f, `LicenseRef-scancode-kreative-relay-fonts-free-1.2f`
+- LA_OPT_NXP_Software_License v51 November 2023, `LicenseRef-scancode-la-opt-nxp-v51-2023`
+- Larabie Fonts EULA, `LicenseRef-scancode-larabie`
+- Leap Motion SDK Agreement 2019, `LicenseRef-scancode-leap-motion-sdk-2019`
+- Lens Terms of Service Agreement 2023, `LicenseRef-scancode-lens-tos-2023`
+- Librato Open License Version 1.0, `LicenseRef-scancode-librato-exception`
+- Liferay Marketplace Terms of Service Agreement, `LicenseRef-scancode-liferay-marketplace-tos`
+- Liferay-DXP-EULA-2.0.0-2023-06, `LicenseRef-Liferay-DXP-EULA-2.0.0-2023-06`
+- Llama 2 Community License Agreement 2023, `LicenseRef-scancode-llama-2-license-2023`
+- Llama 3.1 Community License Agreement 2024, `LicenseRef-scancode-llama-3.1-license-2024`
+- Llama 3.2 Community License Agreement 2024, `LicenseRef-scancode-llama-3.2-license-2024`
+- Llama 3.3 Community License Agreement 2024, `LicenseRef-scancode-llama-3.3-license-2024`
+- Llama 4 Acceptable Use Policy 2025, `LicenseRef-scancode-llama-4-license-2025`
+- Llama 4 Community License Agreement 2025, `LicenseRef-scancode-llama-4-cla-2025`
+- LLaMA License Agreement 2023, `LicenseRef-scancode-llama-license-2023`
+- Lontium Linux Firmware License, `LicenseRef-scancode-lontium-linux-firmware`
+- LSI Proprietary EULA, `LicenseRef-scancode-lsi-proprietary-eula`
+- LumiSoft Mail Server License, `LicenseRef-scancode-lumisoft-mail-server`
+- Lyubinskiy dropdown License, `LicenseRef-scancode-lyubinskiy-dropdown`
+- Lyubinskiy popup-window License, `LicenseRef-scancode-lyubinskiy-popup-window`
+- Marvell Firmware License, `LicenseRef-scancode-marvell-firmware`
+- Marvell Firmware License 2019, `LicenseRef-scancode-marvell-firmware-2019`
+- MAX & Mojo Community License 20240828, `LicenseRef-scancode-max-mojo-community-20240828`
+- McAfee Software royalty-Free License, `LicenseRef-scancode-mcafee-tou`
+- McRae General Public License (version 4.r53), `LicenseRef-scancode-mcrae-pl-4-r53`
+- Montreal Data License (MDL) 2021, `LicenseRef-scancode-mdl-2021`
+- MediaTek Firmware License, `LicenseRef-scancode-mediatek-firmware`
+- MediaTek No Warranty Clause, `LicenseRef-scancode-mediatek-no-warranty`
+- Mediatek Proprietary License 2005, `LicenseRef-scancode-mediatek-proprietary-2005`
+- MediaTek Proprietary License 2008, `LicenseRef-scancode-mediatek-proprietary-2008`
+- Mediatek Proprietary License 2010, `LicenseRef-scancode-mediatek-proprietary-2010`
+- Mediatek Proprietary License 2016, `LicenseRef-scancode-mediatek-proprietary-2016`
+- Mediatek Proprietary License 2020, `LicenseRef-scancode-mediatek-proprietary-2020`
+- Melange Chat Server/Client Public License, `LicenseRef-scancode-melange`
+- Menuet64 License 2024, `LicenseRef-scancode-menuet64-2024`
+- Microchip ENC28J60 License 2009, `LicenseRef-scancode-microchip-enc28j60-2009`
+- Microchip Linux Firmware License, `LicenseRef-scancode-microchip-linux-firmware`
+- Microchip pk2cmd License 2009, `LicenseRef-scancode-microchip-pk2cmd-2009`
+- Microchip Technology Products 2018, `LicenseRef-scancode-microchip-products-2018`
+- Microsoft CAPICOM License, `LicenseRef-scancode-ms-capicom`
+- Microsoft Container EULA, `LicenseRef-scancode-ms-container-eula`
+- MicroType Express (MTX) License, `LicenseRef-scancode-mtx-licensing-statement`
+- Minecraft Mod License, `LicenseRef-scancode-minecraft-mod`
+- MIT Proprietary, `LicenseRef-scancode-mit-proprietary`
+- MIT with Jamie Kyle Restrictions, `LicenseRef-scancode-mit-kyle-restrictions`
+- Moxa Linux Firmware License, `LicenseRef-scancode-moxa-linux-firmware`
+- MPEG-7 License, `LicenseRef-scancode-mpeg-7`
+- Microsoft .NET Library License, `LicenseRef-scancode-ms-net-library`
+- Microsoft .NET Library License 2016-05, `LicenseRef-scancode-ms-net-library-2016-05`
+- Microsoft .NET Library License 2018-11, `LicenseRef-scancode-ms-net-library-2018-11`
+- Microsoft .NET Library License 2019-06, `LicenseRef-scancode-ms-net-library-2019-06`
+- Microsoft .NET Library License 2020-09, `LicenseRef-scancode-ms-net-library-2020-09`
+- Microsoft ASP.NET MVC 4 Extensions License, `LicenseRef-scancode-ms-asp-net-mvc4-extensions`
+- Microsoft ASP.NET MVC 3 License, `LicenseRef-scancode-ms-asp-net-mvc3`
+- Microsoft ASP.NET MVC 4 License, `LicenseRef-scancode-ms-asp-net-mvc4`
+- Microsoft ASP.NET Software License, `LicenseRef-scancode-ms-asp-net-software`
+- Microsoft ASP.NET Tools Pre-Release License, `LicenseRef-scancode-ms-asp-net-tools-pre-release`
+- Microsoft ASP.NET Web Optimization Framework, `LicenseRef-scancode-ms-asp-net-web-optimization`
+- Microsoft ASP.NET Web Pages 2 License, `LicenseRef-scancode-ms-asp-net-web-pages-2`
+- Microsoft ASP.NET Web Pages Templates License, `LicenseRef-scancode-ms-asp-net-web-pages-templates`
+- Microsoft Azure Data Studio License Terms, `LicenseRef-scancode-ms-azure-data-studio`
+- Microsoft Azure RTOS 2020-05, `LicenseRef-scancode-ms-azure-rtos-2020-05`
+- Microsoft Azure RTOS 2020-07, `LicenseRef-scancode-ms-azure-rtos-2020-07`
+- Microsoft Azure RTOS 2023-05, `LicenseRef-scancode-ms-azure-rtos-2023-05`
+- Microsoft Azure Spatial Anchors WinRT 2.9.0, `LicenseRef-scancode-ms-azure-spatialanchors-2.9.0`
+- Microsoft Control Spy 2.0, `LicenseRef-scancode-ms-control-spy-2.0`
+- Microsoft Data-Tier Application Framework License Terms, `LicenseRef-scancode-ms-data-tier-af-2022`
+- Microsoft Developer Services Agreement, `LicenseRef-scancode-ms-dev-services-agreement`
+- Microsoft Developer Services Agreement 2018-06, `LicenseRef-scancode-ms-dev-services-2018-06`
+- Microsoft Device Emulator 3.0, `LicenseRef-scancode-ms-device-emulator-3.0`
+- Microsoft Direct3D D3D12On7 1.1.0, `LicenseRef-scancode-ms-direct3d-d3d120n7-1.1.0`
+- Microsoft DirectX SDK EULA, `LicenseRef-scancode-ms-directx-sdk-eula`
+- Microsoft DirectX SDK EULA 2020, `LicenseRef-scancode-ms-directx-sdk-eula-2020`
+- Microsoft DXSDK.D3DX 9.29.952.3, `LicenseRef-scancode-ms-dxsdk-d3dx-9.29.952.3`
+- Microsoft Edge Developer Tools 2022, `LicenseRef-scancode-ms-edge-devtools-2022`
+- Microsoft Edge WebView2 Runtime License, `LicenseRef-scancode-ms-edge-webview2`
+- Microsoft Edge WebView2 Runtime License (Fixed), `LicenseRef-scancode-ms-edge-webview2-fixed`
+- Microsoft Enterprise Library EULA, `LicenseRef-scancode-ms-enterprise-library-eula`
+- Microsoft Entity Framework 4.1 License, `LicenseRef-scancode-ms-entity-framework-4.1`
+- MS Entity Framework 5 License, `LicenseRef-scancode-ms-entity-framework-5`
+- Microsoft Exchange Server 2010 SP2 Web Services SDK, `LicenseRef-scancode-ms-exchange-srv-2010-sp2-sdk`
+- Microsoft IIS Container Images EULA 202, `LicenseRef-scancode-ms-iis-container-eula-2020`
+- MS ILMerge License, `LicenseRef-scancode-ms-ilmerge`
+- Microsoft Invisible Computing EULA 1.0, `LicenseRef-scancode-ms-invisible-eula-1.0`
+- Microsoft JDBC Driver 4.0 for SQL Server, `LicenseRef-scancode-ms-jdbc-driver-40-sql-server`
+- Microsoft JDBC Driver 4.1 for SQL Server, `LicenseRef-scancode-ms-jdbc-driver-41-sql-server`
+- Microsoft JDBC Driver 6.0 for SQL Server, `LicenseRef-scancode-ms-jdbc-driver-60-sql-server`
+- Microsoft Kinect for Windows SDK License, `LicenseRef-scancode-ms-kinext-win-sdk`
+- Microsoft Limited Community License, `LicenseRef-scancode-ms-limited-community`
+- Microsoft MSN WebGrease License, `LicenseRef-scancode-ms-msn-webgrease`
+- Microsoft Nuget License, `LicenseRef-scancode-ms-nuget`
+- Microsoft NuGet-Based Package Manager License, `LicenseRef-scancode-ms-nuget-package-manager`
+- Microsoft Office Extensible File License, `LicenseRef-scancode-ms-office-extensible-file`
+- Microsoft Pre-Release Software License Terms 2023, `LicenseRef-scancode-ms-pre-release-sla-2023`
+- Microsoft ProgramSynthesis 7.22.0, `LicenseRef-scancode-ms-programsynthesis-7.22.0`
+- Microsoft Reactive Extensions EULA, `LicenseRef-scancode-ms-reactive-extensions-eula`
+- Microsoft Reference License, `ms-refl`
+- Microsoft Reference Source License, `LicenseRef-scancode-ms-rsl`
+- Microsoft Research Shared Source License, `LicenseRef-scancode-ms-research-shared-source`
+- Microsoft Silverlight 3 License, `LicenseRef-scancode-ms-silverlight-3`
+- Microsoft SQL Server Compact 4.0 License, `LicenseRef-scancode-ms-sql-server-compact-4.0`
+- Microsoft SQL Server Data Tools License, `LicenseRef-scancode-ms-sql-server-data-tools`
+- Microsoft Software Supplemental License - .NET Framework 4, `LicenseRef-scancode-ms-net-framework-4-supp-terms`
+- Microsoft Software Supplemental License - ASP.NET 2.0 AJAX EXTENSIONS, `LicenseRef-scancode-ms-asp-net-ajax-supp-terms`
+- Microsoft Visual Studio TestPlatform 17.0.0, `LicenseRef-scancode-ms-testplatform-17.0.0`
+- Microsoft TypeScript MSBuild 4.1.4, `LicenseRef-scancode-ms-typescript-msbuild-4.1.4`
+- Microsoft Visual C++ 2008 Runtime Libraries License, `LicenseRef-scancode-ms-visual-2008-runtime`
+- Microsoft Visual C++ 2010 Runtime Libraries License, `LicenseRef-scancode-ms-visual-2010-runtime`
+- Microsoft Visual C++ 2015-2022 Runtime, `LicenseRef-scancode-ms-visual-cpp-2015-runtime`
+- Microsoft Visual Studio 2015 Software Development Kit License, `LicenseRef-scancode-ms-visual-2015-sdk`
+- Microsoft Visual Studio Code License, `LicenseRef-scancode-ms-visual-studio-code`
+- Microsoft Visual Studio Code License 2018, `LicenseRef-scancode-ms-visual-studio-code-2018`
+- Microsoft Visual Studio Code License 2022, `LicenseRef-scancode-ms-visual-studio-code-2022`
+- Microsoft Visual Studio Add-Ons and Extensions 17.2.0, `LicenseRef-scancode-ms-vs-addons-ext-17.2.0`
+- Microsoft Web Developer Tools 1.0, `LicenseRef-scancode-ms-web-developer-tools-1.0`
+- Microsoft Windows API Code Pack for Microsoft .NET Framework, `LicenseRef-scancode-ms-api-code-pack-net`
+- Microsoft Windows CE 5.0 Shared Source License Agreement, `LicenseRef-scancode-wince-50-shared-source`
+- Microsoft Windows Container Base Image EULA 2020, `LicenseRef-scancode-ms-win-container-eula-2020`
+- Microsoft Windows Driver Kit License, `LicenseRef-scancode-ms-windows-driver-kit`
+- Microsoft Windows Identity Foundation License, `LicenseRef-scancode-ms-windows-identity-foundation`
+- Microsoft Windows Rally Development Kit License, `LicenseRef-scancode-microsoft-windows-rally-devkit`
+- Microsoft Windows SDK for Windows 10 and.NET Framework 6, `LicenseRef-scancode-ms-windows-sdk-win10-net-6`
+- Microsoft Windows SDK for Windows 7 and .NET Framework 4, `LicenseRef-scancode-ms-windows-sdk-win7-net-4`
+- Microsoft Windows Server 2003 DDK License, `LicenseRef-scancode-ms-windows-server-2003-ddk`
+- Microsoft Windows Server 2003 SP1 Platform SDK License, `LicenseRef-scancode-ms-windows-server-2003-sdk`
+- Microsoft Xamarin.UITest 3.2.0, `LicenseRef-scancode-ms-xamarin-uitest3.2.0`
+- Remote Network Driver Interface Specification (RNDIS) Protocol, `LicenseRef-scancode-ms-rndis`
+- Microsoft MSDN Magazine Sample Code EULA 2007, `LicenseRef-scancode-msdn-magazine-sample-code-2007`
+- Microsoft patterns & practices License, `LicenseRef-scancode-msppl`
+- MStar Proprietary License 2007, `LicenseRef-scancode-mstar-2007`
+- MStar Proprietary License 2012, `LicenseRef-scancode-mstar-2012`
+- Microsoft XML Core Services (MSXML) 4.0 EULA, `LicenseRef-scancode-ms-xml-core-4.0`
+- muT-License, `LicenseRef-scancode-mut-license`
+- Oxford Nanopore Technologies PLC. Public License Version 1.0, `LicenseRef-scancode-nanoporetech-public-1.0`
+- NCSA HTTPd License 1995, `LicenseRef-scancode-ncsa-httpd-1995`
+- NetApp Manageability SDK License Agreement rev. Aug2020, `LicenseRef-scancode-netapp-sdk-aug2020`
+- Netdata Cloud UI License v1.0 (NCUL1), `LicenseRef-scancode-netdata-ncul1`
+- Netronome Firmware License, `LicenseRef-scancode-netronome-firmware`
+- New Relic License, `LicenseRef-scancode-new-relic`
+- NonCommercial Sampling Plus 1.0, `LicenseRef-scancode-cc-nc-sampling-plus-1.0`
+- Northwoods Software Evaluation License 2024, `LicenseRef-scancode-northwoods-evaluation-2024`
+- NucleusIcons EULA, `LicenseRef-scancode-nucleusicons-eula`
+- NVIDIA APEX SDK End User License Agreement 2011, `LicenseRef-scancode-nvidia-apex-sdk-eula-2011`
+- NVIDIA Deep Learning Container License 2021, `LicenseRef-scancode-nvidia-dlc-2021`
+- NVIDIA ISAAC EULA v2019.1, `LicenseRef-scancode-nvidia-isaac-eula-2019.1`
+- NVIDIA NCCL SLA 2016, `LicenseRef-scancode-nvidia-nccl-sla-2016`
+- NVIDIA NGX EULA 2019, `LicenseRef-scancode-nvidia-ngx-eula-2019`
+- NVIDIA Open Model License Agreement 2025-04-28, `LicenseRef-scancode-nvidia-open-model-2025-04-28`
+- License Agreement for NVIDIA Software Development Kits v0.11, `LicenseRef-scancode-nvidia-sdk-eula-v0.11`
+- License Agreement for NVIDIA Software Development Kits v12.8, `LicenseRef-scancode-nvidia-sdk-12.8`
+- NVIDIA Video Codec SDK Agreement, `LicenseRef-scancode-nvidia-video-codec-agreement`
+- Non-Violent Public License v4, `LicenseRef-scancode-non-violent-4.0`
+- Non-Violent Public License v7, `LicenseRef-scancode-non-violent-7.0`
+- NXP Firmware with Patent License, `LicenseRef-scancode-nxp-firmware-patent`
+- NXP Linux Firmware License, `LicenseRef-scancode-nxp-linux-firmware`
+- NXP MC Firmware License, `LicenseRef-scancode-nxp-mc-firmware`
+- NXP Microcontroller Proprietary, `LicenseRef-scancode-nxp-microctl-proprietary`
+- NXP Warranty Disclaimer, `LicenseRef-scancode-nxp-warranty-disclaimer`
+- OASIS Intellectual Property Rights (IPR) Policy 2013, `LicenseRef-scancode-oasis-ipr-2013`
+- Oasis IPR Policy License 2014-10-15, `LicenseRef-scancode-oasis-ipr-policy-2014`
+- Obsidian Terms of Service 2025, `LicenseRef-scancode-obsidian-tos-2025`
+- OCamlPro Non-Commercial Purpose License v1, `LicenseRef-scancode-ocamlpro-nc-v1`
+- License for Non-MilitarySoftware Implementations of OCB 2013, `LicenseRef-scancode-ocb-non-military-2013`
+- License for OpenSource Software Implementations of OCB 2013, `LicenseRef-scancode-ocb-open-source-2013`
+- Patent License for OpenSSL of OCB 2013, `LicenseRef-scancode-ocb-patent-openssl-2013`
+- Oculus SDK License Agreement 2020, `LicenseRef-scancode-oculus-sdk-2020`
+- Oculus Software Development Kit License Agreement v3.5, `LicenseRef-scancode-oculus-sdk-3.5`
+- ODB Free Proprietary License (FPL), `LicenseRef-scancode-odb-fpl`
+- Odin Software License 2000, `LicenseRef-scancode-odin-2000`
+- OFRAK Community License Agreement 1.1, `LicenseRef-scancode-ofrak-community-1.1`
+- OGC Document Notice 2020, `LicenseRef-scancode-ogc-document-2020`
+- OMG Business Process Model and Notation 2.0, `LicenseRef-scancode-omg-bpmn-2.0`
+- OOURA License 2001, `LicenseRef-scancode-ooura-2001`
+- Open Source Maintenance Fee EULA, `LicenseRef-scancode-os-maintenance-fee-eula`
+- Sybase Open Watcom Public License v1.0, `Watcom-1.0`
+- Open WebUI License 2025, `LicenseRef-scancode-open-webui-2025`
+- openCARP v1.0, `LicenseRef-scancode-opencarp-1.0`
+- OpenNETCF Shared Source License, `LicenseRef-scancode-opennetcf-shared-source`
+- OpenVPN Access Server EULA, `LicenseRef-scancode-openvpn-as-eula`
+- Opera for Computers EULA 2018, `LicenseRef-scancode-opera-eula-2018`
+- Opera EULA for European Economic Area 2018, `LicenseRef-scancode-opera-eula-eea-2018`
+- Opera Web Applications License v1.0, `LicenseRef-scancode-owal-1.0`
+- Opera Widget License v1.0, `LicenseRef-scancode-opera-widget-1.0`
+- Oracle BCL for Java EE Technologies, `LicenseRef-scancode-oracle-bcl-javaee`
+- Oracle BCL for Java SE and JavaFX Technologies 2013, `LicenseRef-scancode-oracle-bcl-javase-javafx-2013`
+- Oracle BCL for Java SE Platform Products and JavaFX 2013 Restricted, `LicenseRef-scancode-oracle-bcl-java-platform-2013`
+- Oracle BCL for Java SE Platform Products and JavaFX 2017 Restricted, `LicenseRef-scancode-oracle-bcl-java-platform-2017`
+- Oracle BCL for Java SE Platform Products and JavaFX 2012, `LicenseRef-scancode-oracle-bcl-javase-javafx-2012`
+- Oracle BCL for JSSE 1.0.3 for CDC 1.0.2, `LicenseRef-scancode-oracle-bcl-jsse-1.0.3`
+- Oracle Developer Tools for Visual Studio .NET Development License, `LicenseRef-scancode-oracle-devtools-vsnet-dev`
+- Oracle Entitlement 5 plus 15, `LicenseRef-scancode-oracle-entitlement-05-15`
+- Oracle Free License 2018, `LicenseRef-scancode-oracle-free-2018`
+- Oracle GraalVM Free Terms and Conditions (GFTC) 2023-06-12, `LicenseRef-scancode-oracle-gftc-2023-06-12`
+- Oracle No-Fee Terms and Conditions (NFTC) 2021, `LicenseRef-scancode-oracle-nftc-2021`
+- Oracle SQL Developer License Terms, `LicenseRef-scancode-oracle-sql-developer`
+- Oracle VirtualBox Extension Pack Personal Use and Educational License (PUEL) v12, `LicenseRef-scancode-oracle-vb-puel-12`
+- Oracle Web Sites Terms of Use, `LicenseRef-scancode-oracle-web-sites-tou`
+- Bitcaster Source License, Version 1.1, Apache 2.0 Future License, `LicenseRef-scancode-os4d-1.1-apache-2.0`
+- OSGi Specification License Version 2.0, `LicenseRef-scancode-osgi-spec-2.0`
+- Open Source Social Network License v3.0, `LicenseRef-scancode-ossn-3.0`
+- Open Sourced Vulnerability Database (OSVDB) License, `LicenseRef-scancode-osvdb`
+- OTN Developer License for JAVA EE SDK, `LicenseRef-scancode-oracle-java-ee-sdk-2010`
+- OTN Early Adopter Development License 2018, `LicenseRef-scancode-otn-early-adopter-2018`
+- OTN Early Adopter Development License Agreement, `LicenseRef-scancode-otn-early-adopter-development`
+- Oracle Technology Network License Agreement for Oracle Java SE, `LicenseRef-scancode-oracle-otn-javase-2019`
+- Oracle Technology Network Development and Distribution License Terms, `LicenseRef-scancode-otn-dev-dist`
+- Oracle Technology Network Free Developer License 2009, `LicenseRef-scancode-otn-dev-dist-2009`
+- Oracle Technology Network Free Developer License 2014, `LicenseRef-scancode-otn-dev-dist-2014`
+- Oracle Technology Network License Agreement 2014-09, `LicenseRef-scancode-otn-standard-2014-09`
+- Oracle Technology Network License Agreement 2016, `LicenseRef-scancode-otn-dev-dist-2016`
+- Oracle Technology Network License Agreement 2016-11-30, `LicenseRef-scancode-otnla-2016-11-30`
+- Paint.NET License, `LicenseRef-scancode-paint-net`
+- Passive-Aggressive License, `LicenseRef-scancode-passive-aggressive`
+- PFE Proprietary Notice, `LicenseRef-scancode-pfe-proprietary-notice`
+- Protected Free To Use Software License, `LicenseRef-scancode-pftus-1.1`
+- Phaser Academic Non-Commercial EULA, `LicenseRef-scancode-phaser-academic`
+- Playground v2 Community License, `LicenseRef-scancode-playground-v2-community`
+- Polyform Strict License 1.0.0, `LicenseRef-scancode-polyform-strict-1.0.0`
+- Postman Terms of Service 2024, `LicenseRef-scancode-postman-tos-2024`
+- PowerVR Tools Software End User License Agreement, `LicenseRef-scancode-powervr-tools-software-eula`
+- proconX Modbus Driver License rev4, `LicenseRef-scancode-proconx-modbus-rev4`
+- Proprietary, `proprietary`
+- The Prosperity Public License 1.0.1, `LicenseRef-scancode-prosperity-1.0.1`
+- Psion User LIcence for S3AEMUL, `LicenseRef-scancode-psion-s3aemul`
+- Psion User LIcence for SiEMUL, `LicenseRef-scancode-psion-siemul`
+- Psion User LIcence for WrkAEmul, `LicenseRef-scancode-psion-wrkaemul`
+- QAPlug License, `LicenseRef-scancode-qaplug`
+- QCA Linux Firmware License, `LicenseRef-scancode-qca-linux-firmware`
+- Qualcomm Atheros Technology License, `LicenseRef-scancode-qca-technology`
+- QLogic Firmware License, `LicenseRef-scancode-qlogic-firmware`
+- QTI Linux Firmware, `LicenseRef-scancode-qti-linux-firmware`
+- QuinStreet License, `LicenseRef-scancode-quin-street`
+- Ralink Firmware License, `LicenseRef-scancode-ralink-firmware`
+- RealNetworks Community Source License v2.0, `LicenseRef-scancode-rcsl-2.0`
+- RealNetworks Community Source License v3.0, `LicenseRef-scancode-rcsl-3.0`
+- Realm Platform Extensions License 2017, `LicenseRef-scancode-realm-platform-extension-2017`
+- Red Hat Logos License, `LicenseRef-scancode-red-hat-logos`
+- Red Hat Standard End User License Agreement, `LicenseRef-scancode-rh-standard-eula-2019`
+- Red Hat Trademarks License, `LicenseRef-scancode-red-hat-trademarks`
+- Red Hat Universal Base Image EULA, `LicenseRef-scancode-rh-ubi-eula-2019`
+- Reponsible AI Source Code License v1.0, `LicenseRef-scancode-responsible-ai-source-1.0`
+- Reponsible AI Source Code License v1.1, `LicenseRef-scancode-responsible-ai-source-1.1`
+- Research Software Disclaimer, `LicenseRef-scancode-research-disclaimer`
+- Maxim Godzi Retentioneering Tools Software Non-Exclusive License 2023, `LicenseRef-scancode-retentioneering-2023`
+- Retype Software License Agreement v3.7.0, `LicenseRef-scancode-retype-3.7.0`
+- Rockchip Proprietary 2019, `LicenseRef-scancode-rockchip-proprietary-2019`
+- Rockchip Proprietary 2022, `LicenseRef-scancode-rockchip-proprietary-2022`
+- Rockchip Proprietary 2023, `LicenseRef-scancode-rockchip-proprietary-2023`
+- Root Certificate License Agreement v3.0, `LicenseRef-scancode-root-cert-3.0`
+- RubyEncoder Loader Licence, `LicenseRef-scancode-rubyencoder-loader`
+- RWTH RETURNN LIcense 2024, `LicenseRef-scancode-rwth-returnn-2024`
+- S-Lab License 1.0, `LicenseRef-scancode-s-lab-1.0`
+- SafeCopy EULA, `LicenseRef-scancode-safecopy-eula`
+- SalesforceSans Font License, `LicenseRef-scancode-salesforcesans-font`
+- Sampling 1.0, `LicenseRef-scancode-cc-sampling-1.0`
+- Sampling Plus 1.0, `LicenseRef-scancode-cc-sampling-plus-1.0`
+- Apple San Francisco Font License, `LicenseRef-scancode-san-francisco-font`
+- Sandeep License, `LicenseRef-scancode-sandeep`
+- SCILAB License 2005, `LicenseRef-scancode-scilab-en`
+- Licence SCILAB, `LicenseRef-scancode-scilab-fr`
+- Script# License, `LicenseRef-scancode-script-nikhilk`
+- SCRUB License, `LicenseRef-scancode-scrub`
+- Semaphore Enterprise Edition (EE) License 2025, `LicenseRef-scancode-semaphore-ee-2025`
+- Semgrep Rules License v.1.0, `LicenseRef-scancode-semgrep-rules-1.0`
+- Shopify License 2024, `LicenseRef-scancode-shopify-2024`
+- Siesta Academic Licence for Individuals, `LicenseRef-scancode-siesta-academic-individuals`
+- Siesta Licence for Computer Centres, `LicenseRef-scancode-siesta-computer-centres`
+- Silicon Image Proprietary License 2007, `LicenseRef-scancode-silicon-image-2007`
+- SmartLabs Freeware License, `LicenseRef-scancode-smartlabs-freeware`
+- SMSC Non-Commercial 2012, `LicenseRef-scancode-smsc-non-commercial-2012`
+- Snowplow Community License Agreement 1.0, `LicenseRef-scancode-snowplow-cla-1.0`
+- Snowplow Limited Use License Agreement 1.0, `LicenseRef-scancode-snowplow-lula-1.0`
+- Snowplow Personal & Academic License Agreement 1.0, `LicenseRef-scancode-snowplow-person-academic-1.0`
+- SOFA Software License, `SOFA`
+- Softerra LDAP Browser EULA, `LicenseRef-scancode-softerra-ldap-browser-eula`
+- Solace-Software-EULA-2020, `LicenseRef-scancode-solace-software-eula-2020`
+- Spark Jive License, `LicenseRef-scancode-spark-jive`
+- Splunk EULA for Third-Party Content, `LicenseRef-scancode-splunk-3pp-eula`
+- Splunk MINT Terms of Service 2018, `LicenseRef-scancode-splunk-mint-tos-2018`
+- sRGB Profile Licensing Agreement, `LicenseRef-scancode-srgb`
+- Stability AI Community License Agreement 2024, `LicenseRef-scancode-stability-ai-community-2024`
+- Stability AI Non-Commercial Research Community License Agreement 2023-12-06, `LicenseRef-scancode-stability-ai-nc-2023-12-06`
+- Stable Diffusion License 2022-08-22, `LicenseRef-scancode-stable-diffusion-2022-08-22`
+- Standard "No Charge" GSAP License 2025, `LicenseRef-scancode-gsap-standard-no-charge-2025`
+- Entente de licence ouverte de Statistique Canada, `LicenseRef-scancode-scola-fr`
+- Statistics Canada Open Licence Agreement, `LicenseRef-scancode-scola-en`
+- Stefano Apostolico MIT License, `LicenseRef-scancode-saxix-mit`
+- STMicro Liberty License v2, `LicenseRef-scancode-st-mcd-2.0`
+- STMicroelectronics Linux Firmware License, `LicenseRef-scancode-stmicro-linux-firmware`
+- Sun BCL 11 plus 6, `LicenseRef-scancode-sun-bcl-11-06`
+- Sun BCL 11 plus 7, `LicenseRef-scancode-sun-bcl-11-07`
+- Sun BCL 11 plus 8, `LicenseRef-scancode-sun-bcl-11-08`
+- Sun BCL J2RE 1.2.X, `LicenseRef-scancode-sun-bcl-j2re-1.2.x`
+- Sun BCL J2RE 1.4.2, `LicenseRef-scancode-sun-bcl-j2re-1.4.2`
+- Sun BCL J2RE 1.4.X, `LicenseRef-scancode-sun-bcl-j2re-1.4.x`
+- Sun BCL J2RE 5.0, `LicenseRef-scancode-sun-bcl-j2re-5.0`
+- Sun BCL Java Servlet Implementation Classes 2.1.1, `LicenseRef-scancode-sun-bcl-java-servlet-imp-2.1.1`
+- Sun BCL JavaHelp, `LicenseRef-scancode-sun-bcl-javahelp`
+- Sun BCL JIMI SDK, `LicenseRef-scancode-sun-bcl-jimi-sdk`
+- Sun BCL JRE 6, `LicenseRef-scancode-sun-bcl-jre6`
+- Sun BCL JSMQ, `LicenseRef-scancode-sun-bcl-jsmq`
+- Sun BCL OpenDMK, `LicenseRef-scancode-sun-bcl-opendmk`
+- Sun BCL OpenJDK, `LicenseRef-scancode-sun-bcl-openjdk`
+- Sun BCL SDK 1.3, `LicenseRef-scancode-sun-bcl-sdk-1.3`
+- Sun BCL SDK 1.4.2, `LicenseRef-scancode-sun-bcl-sdk-1.4.2`
+- Sun BCL SDK 5.0, `LicenseRef-scancode-sun-bcl-sdk-5.0`
+- Sun BCL SDK 6.0, `LicenseRef-scancode-sun-bcl-sdk-6.0`
+- Sun BCL Web Start, `LicenseRef-scancode-sun-bcl-web-start`
+- Sun CC-PP Processing License 1.0, `LicenseRef-scancode-sun-cc-pp-1.0`
+- Sun Communications API, `LicenseRef-scancode-sun-communications-api`
+- Sun EJB Specification 2.1, `LicenseRef-scancode-sun-ejb-spec-2.1`
+- Sun EJB Specification 3.0, `LicenseRef-scancode-sun-ejb-spec-3.0`
+- Sun Entitlement 3 plus 15, `LicenseRef-scancode-sun-entitlement-03-15`
+- Sun Entitlement JAF, `LicenseRef-scancode-sun-entitlement-jaf`
+- Sun GlassFish License, `LicenseRef-scancode-sun-glassfish`
+- Sun IIOP License, `LicenseRef-scancode-sun-iiop`
+- Sun Industry Standards Source License 1.1, `SISSL`
+- Sun Industry Standards Source License 1.2, `SISSL-1.2`
+- Sun Java Transaction API License, `LicenseRef-scancode-sun-java-transaction-api`
+- Sun Java Web Services Developer Pack 1.6, `LicenseRef-scancode-sun-java-web-services-dev-1.6`
+- Sun JavaMail, `LicenseRef-scancode-sun-javamail`
+- Sun Java Advanced Imaging Distribution License v1.1.X, `LicenseRef-scancode-sun-jdl-jai-1.1.x`
+- Sun JSR Specification License April 2006, `LicenseRef-scancode-sun-jsr-spec-04-2006`
+- Sun JTA Specification License v1.0.1, `LicenseRef-scancode-sun-jta-spec-1.0.1`
+- Sun JTA Specification License v1.0.1B, `LicenseRef-scancode-sun-jta-spec-1.0.1b`
+- Sun Project X, `LicenseRef-scancode-sun-project-x`
+- Sun Proprietary Non-Commercial License, `LicenseRef-scancode-sun-prop-non-commercial`
+- Sun SDK Specification 1.1, `LicenseRef-scancode-sun-sdk-spec-1.1`
+- T-Engine Public License, `LicenseRef-scancode-t-engine-public`
+- T-License 1.0, `LicenseRef-scancode-t-license-1.0`
+- T-License 2.0, `LicenseRef-scancode-t-license-2.0`
+- T-License 2.1, `LicenseRef-scancode-t-license-2.1`
+- T-License 2.2, `LicenseRef-scancode-t-license-2.2`
+- T-License for AMP T-Kernel, `LicenseRef-scancode-t-license-amp-t-kernel`
+- T-License for AMP T-Kernel Standard Extension, `LicenseRef-scancode-t-license-amp-tkse`
+- T-License for SMP T-Kernel, `LicenseRef-scancode-t-license-smp-t-kernel`
+- T-License for SMP T-Kernel Standard Extension, `LicenseRef-scancode-t-license-smp-tkse`
+- T-License for T-Kernel Standard Extension, `LicenseRef-scancode-t-license-tkse`
+- Taligent JDK Proprietary Notice, `LicenseRef-scancode-taligent-jdk`
+- Teleport Community Edition License 2024, `LicenseRef-scancode-teleport-ce-2024`
+- Tenable Nessus Software License and Subscription Agreement, `LicenseRef-scancode-tenable-nessus`
+- Texas Instruments Broadband Applications License, `LicenseRef-scancode-ti-broadband-apps`
+- TI Linux Firmware License, `LicenseRef-scancode-ti-linux-firmware`
+- Tizen SDK License, `LicenseRef-scancode-tizen-sdk`
+- Tongyi Qianwen License Agreement 2023, `LicenseRef-scancode-tongyi-qianwen-2023`
+- Trainy Software License Version 1.0, `LicenseRef-scancode-trainy-1.0`
+- TreeView Developer License, `LicenseRef-scancode-treeview-developer`
+- TreeView Distributor License, `LicenseRef-scancode-treeview-distributor`
+- Trend Micro Community License 1.0, `LicenseRef-scancode-trendmicro-cl-1.0`
+- TripTracker Slideshow License, `LicenseRef-scancode-triptracker`
+- Trustonic Proprietary License 2013, `LicenseRef-scancode-trustonic-proprietary-2013`
+- Unicode Terms of Use, `Unicode-TOU`
+- Uthmanic Script License, `LicenseRef-scancode-kfgqpc-uthmanic-script-hafs`
+- University of Utah Research Foundation Public License, `LicenseRef-scancode-uofu-rfpl`
+- Vanderbilt Contribution and Software License Agreement v1.0, `LicenseRef-scancode-vanderbilt-sla-1.0`
+- VeriSign License, `LicenseRef-scancode-verisign`
+- Vitesse Proprietary Notice, `LicenseRef-scancode-vitesse-prop`
+- Volla Licence 1.0, `LicenseRef-scancode-volla-1.0`
+- VS10x Code Map, `LicenseRef-scancode-vs10x-code-map`
+- Vuforia SDK License Agreement 2013-07-29, `LicenseRef-scancode-vuforia-2013-07-29`
+- VVVVVV Source Code License v1.0, `LicenseRef-scancode-vvvvvv-scl-1.0`
+- whosonfirst license, `LicenseRef-scancode-whosonfirst-license`
+- winIDEA SDK 2025, `LicenseRef-scancode-winidea-sdk-2025`
+- Wink License, `LicenseRef-scancode-wink`
+- Xceed Community License 2021, `LicenseRef-scancode-xceed-community-2021`
+- XMOS Public Licence v1, `LicenseRef-scancode-xmos-public-1`
+- Yahoo BrowserPlus End User License, `LicenseRef-scancode-yahoo-browserplus-eula`
+- Yahoo Messenger EULA, `LicenseRef-scancode-yahoo-messenger-eula`
+- YOLO License v1, `LicenseRef-scancode-yolo-1.0`
+- YOLO License v2, `LicenseRef-scancode-yolo-2.0`
+- Zhorn Stickies License, `LicenseRef-scancode-zhorn-stickies`
+- Zipeg License, `LicenseRef-scancode-zipeg`
+- ZUGFeRD Datenformat Version 2.2.0 14.02.2022, `LicenseRef-scancode-zugferd-datenformat-2.2.0`
 
 ## Public Domain
 
-- AES-128 v3.0 License, LicenseRef-scancode-aes-128-3.0
-- ANTLR Software Rights Notice with license fallback, ANTLR-PD-fallback
-- AOP Public Domain License, aop-pd
-- Creative Commons Public Domain Certification, CC-PDDC
-- Creative Commons Public Domain Mark 1.0, CC-PDM-1.0
-- Creative Commons CC0 1.0 Universal, CC0-1.0
-- Copyheart, LicenseRef-scancode-copyheart
-- diffmark License, diffmark
-- Doug Lea License, doug-lea
-- Free Software Foundation - Free Software License, FSFUL
-- ICANN-Public, LicenseRef-scancode-icann-public
-- jQuery Tools Public Domain License, LicenseRef-scancode-jquery-pd
-- JSON-js Public Domain Notice, LicenseRef-scancode-json-js-pd
-- JSON Public Domain Notice, LicenseRef-scancode-json-pd
-- libselinux License, LicenseRef-scancode-libselinux-pd
-- LZMA SDK License (versions 9.11 to 9.20), LZMA-SDK-9.11-to-9.20
-- LZMA SDK License (versions 9.22 and beyond), LZMA-SDK-9.22
-- LZMA SDK Public Domain, LicenseRef-scancode-lzma-sdk-pd
-- NCBI Public Domain Notice, NCBI-PD
-- NIST Public Domain Notice, NIST-PD
-- No Limit Public License, NLPL
-- NTIA Public Domain Notice, NTIA-PD
-- Public Domain Dedication & Licence (PDDL), PDDL-1.0
-- Phil Bunce License, LicenseRef-scancode-phil-bunce
-- Public Domain, LicenseRef-scancode-public-domain
-- Public Domain Disclaimer, LicenseRef-scancode-public-domain-disclaimer
-- Sax Public Domain Notice 2.0, SAX-PD-2.0
-- SAX Public Domain Notice, SAX-PD
-- selinux-nsa-declaration-1.0, libselinux-1.0
-- SQLite Blessing, blessing
-- Symlinks License, Symlinks
-- Truly Free License, LicenseRef-scancode-tfl
-- Unlicense, Unlicense
-- Unlicense - libwhirlpool variant, Unlicense-libwhirlpool
-- Unlicense - libtelnet variant, Unlicense-libtelnet
-- United States Government Public Domain, LicenseRef-scancode-us-govt-public-domain
-- Vic Metcalfe Public Domain Notice, LicenseRef-scancode-vic-metcalfe-pd
-- WTFPL 1.0, LicenseRef-scancode-wtfpl-1.0
-- WTFPL 2.0, WTFPL
-- DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE 1.0, LicenseRef-scancode-wthpl-1.0
+- AES-128 v3.0 License, `LicenseRef-scancode-aes-128-3.0`
+- ANTLR Software Rights Notice with license fallback, `ANTLR-PD-fallback`
+- AOP Public Domain License, `aop-pd`
+- Creative Commons Public Domain Certification, `CC-PDDC`
+- Creative Commons Public Domain Mark 1.0, `CC-PDM-1.0`
+- Creative Commons CC0 1.0 Universal, `CC0-1.0`
+- Copyheart, `LicenseRef-scancode-copyheart`
+- diffmark License, `diffmark`
+- Doug Lea License, `doug-lea`
+- Free Software Foundation - Free Software License, `FSFUL`
+- ICANN-Public, `LicenseRef-scancode-icann-public`
+- jQuery Tools Public Domain License, `LicenseRef-scancode-jquery-pd`
+- JSON-js Public Domain Notice, `LicenseRef-scancode-json-js-pd`
+- JSON Public Domain Notice, `LicenseRef-scancode-json-pd`
+- libselinux License, `LicenseRef-scancode-libselinux-pd`
+- LZMA SDK License (versions 9.11 to 9.20), `LZMA-SDK-9.11-to-9.20`
+- LZMA SDK License (versions 9.22 and beyond), `LZMA-SDK-9.22`
+- LZMA SDK Public Domain, `LicenseRef-scancode-lzma-sdk-pd`
+- NCBI Public Domain Notice, `NCBI-PD`
+- NIST Public Domain Notice, `NIST-PD`
+- No Limit Public License, `NLPL`
+- NTIA Public Domain Notice, `NTIA-PD`
+- Public Domain Dedication & Licence (PDDL), `PDDL-1.0`
+- Phil Bunce License, `LicenseRef-scancode-phil-bunce`
+- Public Domain, `LicenseRef-scancode-public-domain`
+- Public Domain Disclaimer, `LicenseRef-scancode-public-domain-disclaimer`
+- Sax Public Domain Notice 2.0, `SAX-PD-2.0`
+- SAX Public Domain Notice, `SAX-PD`
+- selinux-nsa-declaration-1.0, `libselinux-1.0`
+- SQLite Blessing, `blessing`
+- Symlinks License, `Symlinks`
+- Truly Free License, `LicenseRef-scancode-tfl`
+- Unlicense, `Unlicense`
+- Unlicense - libwhirlpool variant, `Unlicense-libwhirlpool`
+- Unlicense - libtelnet variant, `Unlicense-libtelnet`
+- United States Government Public Domain, `LicenseRef-scancode-us-govt-public-domain`
+- Vic Metcalfe Public Domain Notice, `LicenseRef-scancode-vic-metcalfe-pd`
+- WTFPL 1.0, `LicenseRef-scancode-wtfpl-1.0`
+- WTFPL 2.0, `WTFPL`
+- DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE 1.0, `LicenseRef-scancode-wthpl-1.0`
 
 ## Source-available
 
-- Any Source Available License 1.0, LicenseRef-scancode-asal-1.0
-- Atmosphere Software License Version 0.4, LicenseRef-scancode-atmosphere-0.4
-- AVSystem 5-Clause License, LicenseRef-scancode-avsystem-5-clause
-- BeeGFS End User License Agreement 2024, LicenseRef-scancode-beegfs-eula-2024
-- Bitwarden License Agreement v1, LicenseRef-scancode-bitwarden-1.0
-- Booz Allen Public License v1.0, LicenseRef-scancode-bapl-1.0
-- Business Source License 1.0, LicenseRef-scancode-bsl-1.0
-- Business Source License 1.1, BUSL-1.1
-- Creative Commons Attribution Non-Commercial 1.0, CC-BY-NC-1.0
-- Creative Commons Attribution Non-Commercial 2.0, CC-BY-NC-2.0
-- Creative Commons Attribution Non-Commercial 2.5, CC-BY-NC-2.5
-- Creative Commons Attribution Non-Commercial 3.0, CC-BY-NC-3.0
-- Creative Commons Attribution Non Commercial 3.0 Germany, CC-BY-NC-3.0-DE
-- Creative Commons Attribution-NonCommercial 4.0 International Public License, CC-BY-NC-4.0
-- Creative Commons Attribution Non-Commercial No Derivatives License 1.0, CC-BY-NC-ND-1.0
-- Creative Commons Attribution Non-Commercial No Derivatives License 2.0, CC-BY-NC-ND-2.0
-- Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitung 2.0, LicenseRef-scancode-cc-by-nc-nd-2.0-at
-- Creative Commons Attribution Non-Commercial No Derivatives License 2.0 Austrialis, LicenseRef-scancode-cc-by-nc-nd-2.0-au
-- Creative Commons Attribution Non-Commercial No Derivatives License 2.5, CC-BY-NC-ND-2.5
-- Creative Commons Attribution Non-Commercial No Derivatives License 3.0, CC-BY-NC-ND-3.0
-- Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany, CC-BY-NC-ND-3.0-DE
-- Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO, CC-BY-NC-ND-3.0-IGO
-- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, CC-BY-NC-ND-4.0
-- Creative Commons Attribution Non-Commercial Share Alike License 1.0, CC-BY-NC-SA-1.0
-- Creative Commons Attribution Non-Commercial Share Alike License 2.0, CC-BY-NC-SA-2.0
-- Creative Commons Attribution Non Commercial Share Alike 2.0 Germany, CC-BY-NC-SA-2.0-DE
-- Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France, CC-BY-NC-SA-2.0-FR
-- Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales, CC-BY-NC-SA-2.0-UK
-- Creative Commons Attribution Non-Commercial Share Alike License 2.5, CC-BY-NC-SA-2.5
-- Creative Commons Attribution Non-Commercial Share Alike License 3.0, CC-BY-NC-SA-3.0
-- Creative Commons Attribution Non Commercial Share Alike 3.0 Germany, CC-BY-NC-SA-3.0-DE
-- Creative Commons Attribution Non Commercial Share Alike 3.0 IGO, CC-BY-NC-SA-3.0-IGO
-- Creative Commons Attribution Non-Commercial Share Alike License 3.0 US, LicenseRef-scancode-cc-by-nc-sa-3.0-us
-- Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License, CC-BY-NC-SA-4.0
-- Creative Commons Attribution No Derivatives License 1.0, CC-BY-ND-1.0
-- Creative Commons Attribution No Derivatives License 2.0, CC-BY-ND-2.0
-- Creative Commons Attribution No Derivatives License 2.5, CC-BY-ND-2.5
-- Creative Commons Attribution No Derivatives License 3.0, CC-BY-ND-3.0
-- Creative Commons Attribution No Derivatives 3.0 Germany, CC-BY-ND-3.0-DE
-- Creative Commons Attribution-NoDerivatives 4.0 International Public License, CC-BY-ND-4.0
-- Creative Commons NonCommercial License 1.0, LicenseRef-scancode-cc-nc-1.0
-- Creative Commons NoDerivatives License 1.0, LicenseRef-scancode-cc-nd-1.0
-- Cockroach Community License, LicenseRef-scancode-cockroach
-- CockroachDB Additional Use Grant for BSL 1.1, LicenseRef-scancode-cockroachdb-use-grant-bsl-1.1
-- Commons Clause License Condition v1.0, LicenseRef-scancode-commons-clause
-- Confluent Community License 1.0, LicenseRef-scancode-confluent-community-1.0
-- DeepSeek License Agreement v1.0, LicenseRef-scancode-deepseek-la-1.0
-- Dgraph Community License Agreement, LicenseRef-scancode-dgraph-cla
-- Elastic License 2.0 (ELv2), Elastic-2.0
-- Elastic License Agreement 2018, LicenseRef-scancode-elastic-license-2018
-- Fair Source License v0.9, LicenseRef-scancode-fair-source-0.9
-- Fair Core License, Version 1.0, Apache 2.0 Future License, LicenseRef-scancode-fcl-1.0-apache-2.0
-- Fair Core License, Version 1.0, MIT Future License, LicenseRef-scancode-fcl-1.0-mit
-- Functional Source License, Version 1.0, Apache 2.0 Change License, LicenseRef-scancode-fsl-1.0-apache-2.0
-- Functional Source License, Version 1.0, MIT Change License, LicenseRef-scancode-fsl-1.0-mit
-- Functional Source License, Version 1.1, Apache 2.0 Future License, FSL-1.1-ALv2
-- Functional Source License, Version 1.1, MIT Future License, FSL-1.1-MIT
-- Gretel.AI Source Available License Agreement v1.0, LicenseRef-scancode-gretelai-sal-1.0
-- Hazelcast Community License 1.0, LicenseRef-scancode-hazelcast-community-1.0
-- Hugging Face Optimized Inference License 1.0, LicenseRef-scancode-hfoil-1.0
-- Hugo License, LicenseRef-scancode-hugo
-- JPL Image Use Policy, JPL-image
-- LTXV Open Weights License 2025-04-17, LicenseRef-scancode-ltxv-owl-2025-04-17
-- LTXV Open Weights License 2025-05-05, LicenseRef-scancode-ltxv-owl-2025-05-05
-- Mattermost Source Available License 2024, LicenseRef-scancode-mattermost-sal-2024
-- Moderne Source Available License Agreement 2024, LicenseRef-scancode-moderne-sala-2024
-- Mov.AI License version 1.0, LicenseRef-scancode-mov-ai-1.0
-- NXLOG Public License v1.0, LicenseRef-scancode-nxlog-public-license-1.0
-- OneZoom Non-Profit Source Available Licence v1, LicenseRef-scancode-onezoom-np-sal-v1
-- Open Aleph License 1.0, LicenseRef-scancode-open-aleph-1.0
-- Open Compensation Token License Version 0.21, LicenseRef-scancode-octl-0.21
-- Pipedream Source Available License Version 1.0, LicenseRef-scancode-pipedream-sal-1.0
-- Plural Licensing 20211124, LicenseRef-scancode-plural-20211124
-- PolyForm Defensive License 1.0.0, polyform-defensive-1.0.0
-- Polyform Free Trial License 1.0.0, LicenseRef-scancode-polyform-free-trial-1.0.0
-- Polyform Internal Use License 1.0.0, LicenseRef-scancode-polyform-internal-use-1.0.0
-- Polyform Noncommercial License 1.0.0, PolyForm-Noncommercial-1.0.0
-- PolyForm Perimeter License 1.0.0, LicenseRef-scancode-polyform-perimeter-1.0.0
-- Polyform Shield License 1.0.0, LicenseRef-scancode-polyform-shield-1.0.0
-- Polyform Small Business License 1.0.0, PolyForm-Small-Business-1.0.0
-- The Prosperity Public License 2.0, LicenseRef-scancode-prosperity-2.0
-- The Prosperity Public License 3.0, LicenseRef-scancode-prosperity-3.0
-- Quadratic Source Available License 2024, LicenseRef-scancode-quadratic-sal-2024
-- Redis Source Available License Agreement 1.0, LicenseRef-scancode-redis-source-available-1.0
-- Redpanda Community License Agreement, LicenseRef-scancode-redpanda-community-la
-- Redis Source Available License 2.0 (RSALv2) Agreement, LicenseRef-scancode-rsalv2
-- ScyllaDB Software License Agreement 1.0, LicenseRef-scancode-scylladb-sla-1.0
-- Semgrep Registry License, LicenseRef-scancode-semgrep-registry
-- Sonar Source-Available License v1.0, LicenseRef-scancode-sonar-sal-1.0
-- Server Side Public License (SSPL) 1.0, SSPL-1.0
-- Tencent Hunyuan 3D 2.0 Community License Agreement, LicenseRef-scancode-tencent-hunyuan-3d-2.0-cla
-- Timescale License Agreement, LicenseRef-scancode-tsl-2018
-- Timescale License Agreement 2020, LicenseRef-scancode-tsl-2020
-- UnRar License, LicenseRef-scancode-unrar
-- UnRar License v3, LicenseRef-scancode-unrar-v3
-- Wrox Download Terms and Conditions, LicenseRef-scancode-wrox-download
-- Zeebe Community License v1.0, LicenseRef-scancode-zeebe-community-1.0
-- Zeebe Community License v1.1, LicenseRef-scancode-zeebe-community-1.1
+- Any Source Available License 1.0, `LicenseRef-scancode-asal-1.0`
+- Atmosphere Software License Version 0.4, `LicenseRef-scancode-atmosphere-0.4`
+- AVSystem 5-Clause License, `LicenseRef-scancode-avsystem-5-clause`
+- BeeGFS End User License Agreement 2024, `LicenseRef-scancode-beegfs-eula-2024`
+- Bitwarden License Agreement v1, `LicenseRef-scancode-bitwarden-1.0`
+- Booz Allen Public License v1.0, `LicenseRef-scancode-bapl-1.0`
+- Business Source License 1.0, `LicenseRef-scancode-bsl-1.0`
+- Business Source License 1.1, `BUSL-1.1`
+- Creative Commons Attribution Non-Commercial 1.0, `CC-BY-NC-1.0`
+- Creative Commons Attribution Non-Commercial 2.0, `CC-BY-NC-2.0`
+- Creative Commons Attribution Non-Commercial 2.5, `CC-BY-NC-2.5`
+- Creative Commons Attribution Non-Commercial 3.0, `CC-BY-NC-3.0`
+- Creative Commons Attribution Non Commercial 3.0 Germany, `CC-BY-NC-3.0-DE`
+- Creative Commons Attribution-NonCommercial 4.0 International Public License, `CC-BY-NC-4.0`
+- Creative Commons Attribution Non-Commercial No Derivatives License 1.0, `CC-BY-NC-ND-1.0`
+- Creative Commons Attribution Non-Commercial No Derivatives License 2.0, `CC-BY-NC-ND-2.0`
+- Creative Commons Namensnennung - Nicht-kommerziell - Keine Bearbeitung 2.0, `LicenseRef-scancode-cc-by-nc-nd-2.0-at`
+- Creative Commons Attribution Non-Commercial No Derivatives License 2.0 Austrialis, `LicenseRef-scancode-cc-by-nc-nd-2.0-au`
+- Creative Commons Attribution Non-Commercial No Derivatives License 2.5, `CC-BY-NC-ND-2.5`
+- Creative Commons Attribution Non-Commercial No Derivatives License 3.0, `CC-BY-NC-ND-3.0`
+- Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany, `CC-BY-NC-ND-3.0-DE`
+- Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO, `CC-BY-NC-ND-3.0-IGO`
+- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License, `CC-BY-NC-ND-4.0`
+- Creative Commons Attribution Non-Commercial Share Alike License 1.0, `CC-BY-NC-SA-1.0`
+- Creative Commons Attribution Non-Commercial Share Alike License 2.0, `CC-BY-NC-SA-2.0`
+- Creative Commons Attribution Non Commercial Share Alike 2.0 Germany, `CC-BY-NC-SA-2.0-DE`
+- Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France, `CC-BY-NC-SA-2.0-FR`
+- Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales, `CC-BY-NC-SA-2.0-UK`
+- Creative Commons Attribution Non-Commercial Share Alike License 2.5, `CC-BY-NC-SA-2.5`
+- Creative Commons Attribution Non-Commercial Share Alike License 3.0, `CC-BY-NC-SA-3.0`
+- Creative Commons Attribution Non Commercial Share Alike 3.0 Germany, `CC-BY-NC-SA-3.0-DE`
+- Creative Commons Attribution Non Commercial Share Alike 3.0 IGO, `CC-BY-NC-SA-3.0-IGO`
+- Creative Commons Attribution Non-Commercial Share Alike License 3.0 US, `LicenseRef-scancode-cc-by-nc-sa-3.0-us`
+- Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License, `CC-BY-NC-SA-4.0`
+- Creative Commons Attribution No Derivatives License 1.0, `CC-BY-ND-1.0`
+- Creative Commons Attribution No Derivatives License 2.0, `CC-BY-ND-2.0`
+- Creative Commons Attribution No Derivatives License 2.5, `CC-BY-ND-2.5`
+- Creative Commons Attribution No Derivatives License 3.0, `CC-BY-ND-3.0`
+- Creative Commons Attribution No Derivatives 3.0 Germany, `CC-BY-ND-3.0-DE`
+- Creative Commons Attribution-NoDerivatives 4.0 International Public License, `CC-BY-ND-4.0`
+- Creative Commons NonCommercial License 1.0, `LicenseRef-scancode-cc-nc-1.0`
+- Creative Commons NoDerivatives License 1.0, `LicenseRef-scancode-cc-nd-1.0`
+- Cockroach Community License, `LicenseRef-scancode-cockroach`
+- CockroachDB Additional Use Grant for BSL 1.1, `LicenseRef-scancode-cockroachdb-use-grant-bsl-1.1`
+- Commons Clause License Condition v1.0, `LicenseRef-scancode-commons-clause`
+- Confluent Community License 1.0, `LicenseRef-scancode-confluent-community-1.0`
+- DeepSeek License Agreement v1.0, `LicenseRef-scancode-deepseek-la-1.0`
+- Dgraph Community License Agreement, `LicenseRef-scancode-dgraph-cla`
+- Elastic License 2.0 (ELv2), `Elastic-2.0`
+- Elastic License Agreement 2018, `LicenseRef-scancode-elastic-license-2018`
+- Fair Source License v0.9, `LicenseRef-scancode-fair-source-0.9`
+- Fair Core License, Version 1.0, Apache 2.0 Future License, `LicenseRef-scancode-fcl-1.0-apache-2.0`
+- Fair Core License, Version 1.0, MIT Future License, `LicenseRef-scancode-fcl-1.0-mit`
+- Functional Source License, Version 1.0, Apache 2.0 Change License, `LicenseRef-scancode-fsl-1.0-apache-2.0`
+- Functional Source License, Version 1.0, MIT Change License, `LicenseRef-scancode-fsl-1.0-mit`
+- Functional Source License, Version 1.1, Apache 2.0 Future License, `FSL-1.1-ALv2`
+- Functional Source License, Version 1.1, MIT Future License, `FSL-1.1-MIT`
+- Gretel.AI Source Available License Agreement v1.0, `LicenseRef-scancode-gretelai-sal-1.0`
+- Hazelcast Community License 1.0, `LicenseRef-scancode-hazelcast-community-1.0`
+- Hugging Face Optimized Inference License 1.0, `LicenseRef-scancode-hfoil-1.0`
+- Hugo License, `LicenseRef-scancode-hugo`
+- JPL Image Use Policy, `JPL-image`
+- LTXV Open Weights License 2025-04-17, `LicenseRef-scancode-ltxv-owl-2025-04-17`
+- LTXV Open Weights License 2025-05-05, `LicenseRef-scancode-ltxv-owl-2025-05-05`
+- Mattermost Source Available License 2024, `LicenseRef-scancode-mattermost-sal-2024`
+- Moderne Source Available License Agreement 2024, `LicenseRef-scancode-moderne-sala-2024`
+- Mov.AI License version 1.0, `LicenseRef-scancode-mov-ai-1.0`
+- NXLOG Public License v1.0, `LicenseRef-scancode-nxlog-public-license-1.0`
+- OneZoom Non-Profit Source Available Licence v1, `LicenseRef-scancode-onezoom-np-sal-v1`
+- Open Aleph License 1.0, `LicenseRef-scancode-open-aleph-1.0`
+- Open Compensation Token License Version 0.21, `LicenseRef-scancode-octl-0.21`
+- Pipedream Source Available License Version 1.0, `LicenseRef-scancode-pipedream-sal-1.0`
+- Plural Licensing 20211124, `LicenseRef-scancode-plural-20211124`
+- PolyForm Defensive License 1.0.0, `polyform-defensive-1.0.0`
+- Polyform Free Trial License 1.0.0, `LicenseRef-scancode-polyform-free-trial-1.0.0`
+- Polyform Internal Use License 1.0.0, `LicenseRef-scancode-polyform-internal-use-1.0.0`
+- Polyform Noncommercial License 1.0.0, `PolyForm-Noncommercial-1.0.0`
+- PolyForm Perimeter License 1.0.0, `LicenseRef-scancode-polyform-perimeter-1.0.0`
+- Polyform Shield License 1.0.0, `LicenseRef-scancode-polyform-shield-1.0.0`
+- Polyform Small Business License 1.0.0, `PolyForm-Small-Business-1.0.0`
+- The Prosperity Public License 2.0, `LicenseRef-scancode-prosperity-2.0`
+- The Prosperity Public License 3.0, `LicenseRef-scancode-prosperity-3.0`
+- Quadratic Source Available License 2024, `LicenseRef-scancode-quadratic-sal-2024`
+- Redis Source Available License Agreement 1.0, `LicenseRef-scancode-redis-source-available-1.0`
+- Redpanda Community License Agreement, `LicenseRef-scancode-redpanda-community-la`
+- Redis Source Available License 2.0 (RSALv2) Agreement, `LicenseRef-scancode-rsalv2`
+- ScyllaDB Software License Agreement 1.0, `LicenseRef-scancode-scylladb-sla-1.0`
+- Semgrep Registry License, `LicenseRef-scancode-semgrep-registry`
+- Sonar Source-Available License v1.0, `LicenseRef-scancode-sonar-sal-1.0`
+- Server Side Public License (SSPL) 1.0, `SSPL-1.0`
+- Tencent Hunyuan 3D 2.0 Community License Agreement, `LicenseRef-scancode-tencent-hunyuan-3d-2.0-cla`
+- Timescale License Agreement, `LicenseRef-scancode-tsl-2018`
+- Timescale License Agreement 2020, `LicenseRef-scancode-tsl-2020`
+- UnRar License, `LicenseRef-scancode-unrar`
+- UnRar License v3, `LicenseRef-scancode-unrar-v3`
+- Wrox Download Terms and Conditions, `LicenseRef-scancode-wrox-download`
+- Zeebe Community License v1.0, `LicenseRef-scancode-zeebe-community-1.0`
+- Zeebe Community License v1.1, `LicenseRef-scancode-zeebe-community-1.1`
 
 ## Unstated License
 
-- Any OSI License, any-OSI
-- Any OSI License - Perl Modules, any-OSI-perl-modules
-- BIOSL v4, LicenseRef-scancode-biosl-4.0
-- Etalab Open License 2.0 French, etalab-2.0-fr
-- Free unknown license detected but not recognized, LicenseRef-scancode-free-unknown
-- Generic Bare Warranty Disclaimer, LicenseRef-scancode-warranty-disclaimer
-- Generic Exception Notice, LicenseRef-scancode-generic-exception
-- Generic Export Compliance Notice, LicenseRef-scancode-generic-export-compliance
-- Generic Terms of Service, LicenseRef-scancode-generic-tos
-- Generic Trademark and Name Protection Notice, LicenseRef-scancode-generic-trademark
-- HERE Disclaimer, LicenseRef-scancode-here-disclaimer
-- license-file-reference, license-file-reference
-- No License Stated, LicenseRef-scancode-no-license
-- PCRE2 exception, PCRE2-exception
-- See License mention, see-license
-- Generic Trademark Notice, trademark-notice
-- Unknown license detected but not recognized, LicenseRef-scancode-unknown
-- Unknown License file reference, LicenseRef-scancode-unknown-license-reference
-- Unknown SPDX license detected but not recognized, LicenseRef-scancode-unknown-spdx
-- Unstated License, LicenseRef-scancode-unstated
+- Any OSI License, `any-OSI`
+- Any OSI License - Perl Modules, `any-OSI-perl-modules`
+- BIOSL v4, `LicenseRef-scancode-biosl-4.0`
+- Etalab Open License 2.0 French, `etalab-2.0-fr`
+- Free unknown license detected but not recognized, `LicenseRef-scancode-free-unknown`
+- Generic Bare Warranty Disclaimer, `LicenseRef-scancode-warranty-disclaimer`
+- Generic Exception Notice, `LicenseRef-scancode-generic-exception`
+- Generic Export Compliance Notice, `LicenseRef-scancode-generic-export-compliance`
+- Generic Terms of Service, `LicenseRef-scancode-generic-tos`
+- Generic Trademark and Name Protection Notice, `LicenseRef-scancode-generic-trademark`
+- HERE Disclaimer, `LicenseRef-scancode-here-disclaimer`
+- license-file-reference, `license-file-reference`
+- No License Stated, `LicenseRef-scancode-no-license`
+- PCRE2 exception, `PCRE2-exception`
+- See License mention, `see-license`
+- Generic Trademark Notice, `trademark-notice`
+- Unknown license detected but not recognized, `LicenseRef-scancode-unknown`
+- Unknown License file reference, `LicenseRef-scancode-unknown-license-reference`
+- Unknown SPDX license detected but not recognized, `LicenseRef-scancode-unknown-spdx`
+- Unstated License, `LicenseRef-scancode-unstated`
 
