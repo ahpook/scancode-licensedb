@@ -5,9 +5,18 @@
 import json
 import os
 import glob
+import argparse
 from collections import defaultdict
 
 def main():
+    # Parse command line arguments
+    parser = argparse.ArgumentParser(description='Create structured output sliced by license category')
+    parser.add_argument('--exclude-licenserefs', '-x', action='store_true',
+                        help='Exclude licenses with LicenseRef-scancode- keys')
+    parser.add_argument('--output-prefix', '-o', default='licenses_by_category',
+                        help='Base name for output files (default: licenses_by_category)')
+    args = parser.parse_args()
+    
     # Initialize the result dictionary with categories as keys
     categories = defaultdict(list)
 
@@ -17,7 +26,6 @@ def main():
         'Usually requires review': ['Copyleft Limited', 'Source-available'],
         'High-risk for businesses': ['Commercial', 'Copyleft'],
         'Other': ['CLA', 'Patent License', 'Unstated License']
-
     }
 
     # Get all JSON files in the docs directory
@@ -47,10 +55,13 @@ def main():
                 'short_name': short_name,
                 'name': name
             }
+
+            # Only exclude LicenseRef-scancode keys if --exclude-licenserefs flag is passed
+            if args.exclude_licenserefs and spdx_license_key.startswith('LicenseRef-scancode-'):
+                continue
             
-            # Add to the appropriate category
             categories[category].append(license_entry)
-            
+
         except (json.JSONDecodeError, FileNotFoundError) as e:
             print(f"Error processing {json_file}: {e}")
             continue
@@ -62,12 +73,12 @@ def main():
         result[category] = sorted(licenses, key=lambda x: x['short_name'].lower())
     
     # Write the unified JSON file
-    output_file = 'licenses_by_category.json'
+    output_file = f'{args.output_prefix}.json'
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
     
     # Write the markdown file
-    markdown_file = 'licenses_by_category.md'
+    markdown_file = f'{args.output_prefix}.md'
     with open(markdown_file, 'w', encoding='utf-8') as f:
         f.write("# Licenses by Category\n\n")
         # insert metacategories as header 1
