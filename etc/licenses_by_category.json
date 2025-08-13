@@ -12930,12 +12930,5 @@
       "short_name": "Xiph Opus Patent License",
       "name": "Xiph Opus Patent License"
     }
-  ],
-  "Unknown": [
-    {
-      "spdx_license_key": null,
-      "short_name": "",
-      "name": ""
-    }
   ]
 }
