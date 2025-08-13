@@ -10,7 +10,16 @@ from collections import defaultdict
 def main():
     # Initialize the result dictionary with categories as keys
     categories = defaultdict(list)
-    
+
+    # set up a dict with the metacategories we want to use
+    metacategories = {
+        'Safe for most uses': ['Free Restricted', 'Permissive', 'Public Domain'],
+        'Usually requires review': ['Copyleft Limited', 'Source-available'],
+        'High-risk for businesses': ['Commercial', 'Copyleft'],
+        'Other': ['CLA', 'Patent License', 'Unstated License']
+
+    }
+
     # Get all JSON files in the docs directory
     json_files = glob.glob('../docs/*.json')
     
@@ -61,18 +70,17 @@ def main():
     markdown_file = 'licenses_by_category.md'
     with open(markdown_file, 'w', encoding='utf-8') as f:
         f.write("# Licenses by Category\n\n")
-        
-        for category, licenses in sorted(result.items()):
-            f.write(f"## {category}\n\n")
-            
-            for license_entry in licenses:
-                name = license_entry['name']
-                spdx_key = license_entry['spdx_license_key']
-                
-                f.write(f"- {name}, `{spdx_key}`\n")
-            
-            f.write("\n")
-    
+        # insert metacategories as header 1
+        for metacategory, subcategories in metacategories.items():
+            f.write(f"## {metacategory}\n\n")
+            for subcategory in subcategories:
+                f.write(f"### {subcategory}\n\n")
+                for category, licenses in sorted(result.items()):
+                    if category == subcategory:
+                        for license_entry in licenses:
+                            f.write(f"- {license_entry['name']}, `{license_entry['spdx_license_key']}`\n")
+                f.write("\n")
+   
     print(f"Created unified JSON file: {output_file}")
     print(f"Created markdown file: {markdown_file}")
     print(f"Found {len(result)} categories:")
