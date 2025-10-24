@@ -22,8 +22,8 @@ def main():
 
     # set up a dict with the metacategories we want to use
     metacategories = {
-        'Safe for most uses': ['Free Restricted', 'Permissive', 'Public Domain'],
-        'Usually requires review': ['Copyleft Limited', 'Source-available'],
+        'Safe for most uses': ['Permissive', 'Public Domain'],
+        'Usually requires review': ['Free Restricted', 'Copyleft Limited', 'Source-available'],
         'High-risk for businesses': ['Commercial', 'Copyleft'],
         'Other': ['CLA', 'Patent License', 'Unstated License']
     }

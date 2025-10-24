@@ -2,110 +2,6 @@
 
 ## Safe for most uses
 
-### Free Restricted
-
-- Anti-Capitalist Software License (v 1.4), `LicenseRef-scancode-anti-capitalist-1.4`
-- Allen Institute Software License 2018, `LicenseRef-scancode-allen-institute-software-2018`
-- AMD Secure Encrypted Virtualization (SEV) Firmware License, `LicenseRef-scancode-amd-aspf-2023`
-- Anti 996 License Version 1.0 (Draft), `LicenseRef-scancode-996-icu-1.0`
-- Apple MPEG-4 License, `LicenseRef-scancode-apple-mpeg-4`
-- Artop Software License for Preparatory Development, `LicenseRef-scancode-aslp`
-- ASWF Digital Assets License v1.0, `ASWF-Digital-Assets-1.0`
-- ASWF Digital Assets License v1.1, `ASWF-Digital-Assets-1.1`
-- AuthorizeNet Software Development Kit (SDK) License Agreement, `LicenseRef-scancode-authorizenet-sdk`
-- AVC/H.264 Patent Portfolio License, `LicenseRef-scancode-cisco-avch264-patent`
-- Brad Martinez VB-32 License, `LicenseRef-scancode-brad-martinez-vb-32`
-- Brankas Open License 1.0, `LicenseRef-scancode-brankas-open-license-1.0`
-- BSD 3-Clause No Nuclear Warranty, `BSD-3-Clause-No-Nuclear-Warranty`
-- BSD-3-Clause-No-Military, `BSD-3-Clause-No-Military-License`
-- Caldera License, `Caldera`
-- Cavium Targeted Hardware License, `LicenseRef-scancode-cavium-targeted-hardware`
-- CCLRC License, `LicenseRef-scancode-cclrc`
-- Colt License Agreement, `LicenseRef-scancode-colt`
-- Computational Use of Data Agreement v1.0, `C-UDA-1.0`
-- Civilian Open Source License, `LicenseRef-scancode-cosli`
-- Code Project Open License (CPOL) 1.0, `LicenseRef-scancode-cpol-1.0`
-- Code Project Open License (CPOL) 1.02, `CPOL-1.02`
-- CSLA .NET License, `LicenseRef-scancode-csla`
-- Dennis Ferguson License, `LicenseRef-scancode-dennis-ferguson`
-- Datenlizenz Deutschland - Namensnennung - nicht kommerziell - Version 1.0 - Deutsch, `LicenseRef-scancode-dl-de-by-nc-1-0-de`
-- Data licence Germany - attribution - non-commercial - Version 1.0 - English, `LicenseRef-scancode-dl-de-by-nc-1-0-en`
-- Dynarch Linkware Agreement, `LicenseRef-scancode-dynarch-linkware`
-- Ecma Documentation License, `LicenseRef-scancode-ecma-documentation`
-- Embedthis Extension License, `LicenseRef-scancode-embedthis-extension`
-- GridGain Community Edition License 2022, `LicenseRef-scancode-gcel-2022`
-- Hippocratic License v1.0, `LicenseRef-scancode-hippocratic-1.0`
-- Hippocratic License v1.1, `LicenseRef-scancode-hippocratic-1.1`
-- Hippocratic License v2.0, `LicenseRef-scancode-hippocratic-2.0`
-- Hippocratic License v1.2, `LicenseRef-scancode-hippocratic-1.2`
-- Hippocratic License v2.1, `Hippocratic-2.1`
-- Hippocratic License v3.0, `LicenseRef-scancode-Hippocratic-3.0`
-- HP Netperf License, `LicenseRef-scancode-hp-netperf`
-- Historical Permission Notice and Disclaimer - University of California, US export warning, `HPND-UC-export-US`
-- HPND with US Government export control warning and acknowledgment, `HPND-export-US-acknowledgement`
-- HPND with US Government export control warning, `HPND-export-US`
-- Internet Computer Community Source License 1.0, `LicenseRef-scancode-ic-1.0`
-- Internet Computer Shared Community Source License 1.0, `LicenseRef-scancode-ic-shared-1.0`
-- IMAGEN License, `LicenseRef-scancode-imagen`
-- InstallSite License Agreement, `LicenseRef-scancode-installsite`
-- Intel Simplified Software License (Version April 2018), `LicenseRef-scancode-issl-2018`
-- Intel Simplified Software License (Version October 2022), `LicenseRef-scancode-issl-2022`
-- ITU-T License, `LicenseRef-scancode-itu-t`
-- Jam STAPL Software License, `LicenseRef-scancode-jam-stapl`
-- JAMon License, `LicenseRef-scancode-jamon`
-- JJ2000 License, `LicenseRef-scancode-jj2000`
-- JPEG XR License, `LicenseRef-scancode-jpegxr`
-- JPRS Open Source Code License v1.1, `LicenseRef-scancode-jprs-oscl-1.1`
-- Karl Peterson License, `LicenseRef-scancode-karl-peterson`
-- LHA, `LicenseRef-scancode-lha`
-- Madwifi License Agreement, `LicenseRef-scancode-bsd-no-mod`
-- MAME license, `LicenseRef-scancode-mame`
-- Manfred Klein Fonts TOS, `LicenseRef-scancode-manfred-klein-fonts-tos`
-- Matthew Welch Font License, `LicenseRef-scancode-matthew-welch-font-license`
-- MaxMind Open Data License, `LicenseRef-scancode-maxmind-odl`
-- Mike95 License, `LicenseRef-scancode-mike95`
-- Monkeys Audio License Agreement, `LicenseRef-scancode-monkeysaudio`
-- Microsoft Specification License, `LicenseRef-scancode-ms-specification`
-- MVT License 1.1, `LicenseRef-scancode-mvt-1.1`
-- Naughter Software License, `LicenseRef-scancode-naughter`
-- Non-Commercial Government Licence, `NCGL-UK-2.0`
-- Obsolete Font License 1.0, `unbuntu-font-1.0`
-- OFRAK Community License Agreement 1.0, `LicenseRef-scancode-ofrak-community-1.0`
-- Oracle BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License-2014`
-- Oracle Code Samples BSD-Style License, `LicenseRef-scancode-oracle-code-samples-bsd`
-- Paul Hsieh Derivative License, `LicenseRef-scancode-paul-hsieh-derivative`
-- Paul Hsieh Exposition License, `LicenseRef-scancode-paul-hsieh-exposition`
-- Permissive Binary License 1.0, `LicenseRef-scancode-pbl-1.0`
-- Pixabay Content License, `LicenseRef-scancode-pixabay-content`
-- Planet Source Code License, `LicenseRef-scancode-planet-source-code`
-- Qualcomm ISO/IEC MPEG-B DASH License, `LicenseRef-scancode-qualcomm-iso`
-- Rackspace License, `LicenseRef-scancode-rackspace`
-- Riverbank SIP License, `LicenseRef-scancode-riverbank-sip`
-- RSA Data Security MD2, `LicenseRef-scancode-rsa-md2`
-- SGI Free Software License B v1.0, `SGI-B-1.0`
-- Six Labors Split License 1.0, `LicenseRef-scancode-six-labors-split-1.0`
-- Slint Royalty-free Desktop and Web Applications License, version 1.0.1, `LicenseRef-scancode-slint-royalty-free-1.0`
-- STMicro BSD Restricted, `LicenseRef-scancode-st-bsd-restricted`
-- STMicroelectronics CentralLabs License, `LicenseRef-scancode-stmicroelectronics-centrallabs`
-- Sun BSD-Style with Additional Restrictions, `LicenseRef-scancode-sun-bsd-extra`
-- Sun BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License`
-- Sun Industry Standards Source License 1.0, `LicenseRef-scancode-sun-sissl-1.0`
-- Sun No High Risk Activities License, `LicenseRef-scancode-sun-no-high-risk-activities`
-- Sustainable Use License 1.0, `SUL-1.0`
-- Synopsys Attribution License, `LicenseRef-scancode-synopsys-attribution`
-- Thomas Bandt License, `LicenseRef-scancode-thomas-bandt`
-- Toronto Region Conservation Authority Open Data Licence 1.0, `LicenseRef-scancode-trca-odl-1.0`
-- TXL 10.5 License, `LicenseRef-scancode-txl-10.5`
-- Unsplash License, `LicenseRef-scancode-unsplash`
-- vbAccelerator Distribution Notice, `LicenseRef-scancode-vbaccelerator`
-- W3C Documentation License, `LicenseRef-scancode-w3c-documentation`
-- W3C Test Suite Licence, `LicenseRef-scancode-w3c-test-suite`
-- W3C Document Notice and License (1999-04-05), `LicenseRef-scancode-w3c-docs-19990405`
-- W3C Document License (2002-12-31), `LicenseRef-scancode-w3c-docs-20021231`
-- Waterfall Feed Parser License, `LicenseRef-scancode-waterfall-feed-parser`
-- Woodruff Restricted MIT 2002, `LicenseRef-scancode-woodruff-2002`
-- Xilinx License 2016, `LicenseRef-scancode-xilinx-2016`
-
 ### Permissive
 
 - 3Com Microcode, `LicenseRef-scancode-3com-microcode`
@@ -1121,6 +1017,110 @@
 - DO WHAT THE HELL YOU WANT TO PUBLIC LICENSE 1.0, `LicenseRef-scancode-wthpl-1.0`
 
 ## Usually requires review
+
+### Free Restricted
+
+- Anti-Capitalist Software License (v 1.4), `LicenseRef-scancode-anti-capitalist-1.4`
+- Allen Institute Software License 2018, `LicenseRef-scancode-allen-institute-software-2018`
+- AMD Secure Encrypted Virtualization (SEV) Firmware License, `LicenseRef-scancode-amd-aspf-2023`
+- Anti 996 License Version 1.0 (Draft), `LicenseRef-scancode-996-icu-1.0`
+- Apple MPEG-4 License, `LicenseRef-scancode-apple-mpeg-4`
+- Artop Software License for Preparatory Development, `LicenseRef-scancode-aslp`
+- ASWF Digital Assets License v1.0, `ASWF-Digital-Assets-1.0`
+- ASWF Digital Assets License v1.1, `ASWF-Digital-Assets-1.1`
+- AuthorizeNet Software Development Kit (SDK) License Agreement, `LicenseRef-scancode-authorizenet-sdk`
+- AVC/H.264 Patent Portfolio License, `LicenseRef-scancode-cisco-avch264-patent`
+- Brad Martinez VB-32 License, `LicenseRef-scancode-brad-martinez-vb-32`
+- Brankas Open License 1.0, `LicenseRef-scancode-brankas-open-license-1.0`
+- BSD 3-Clause No Nuclear Warranty, `BSD-3-Clause-No-Nuclear-Warranty`
+- BSD-3-Clause-No-Military, `BSD-3-Clause-No-Military-License`
+- Caldera License, `Caldera`
+- Cavium Targeted Hardware License, `LicenseRef-scancode-cavium-targeted-hardware`
+- CCLRC License, `LicenseRef-scancode-cclrc`
+- Colt License Agreement, `LicenseRef-scancode-colt`
+- Computational Use of Data Agreement v1.0, `C-UDA-1.0`
+- Civilian Open Source License, `LicenseRef-scancode-cosli`
+- Code Project Open License (CPOL) 1.0, `LicenseRef-scancode-cpol-1.0`
+- Code Project Open License (CPOL) 1.02, `CPOL-1.02`
+- CSLA .NET License, `LicenseRef-scancode-csla`
+- Dennis Ferguson License, `LicenseRef-scancode-dennis-ferguson`
+- Datenlizenz Deutschland - Namensnennung - nicht kommerziell - Version 1.0 - Deutsch, `LicenseRef-scancode-dl-de-by-nc-1-0-de`
+- Data licence Germany - attribution - non-commercial - Version 1.0 - English, `LicenseRef-scancode-dl-de-by-nc-1-0-en`
+- Dynarch Linkware Agreement, `LicenseRef-scancode-dynarch-linkware`
+- Ecma Documentation License, `LicenseRef-scancode-ecma-documentation`
+- Embedthis Extension License, `LicenseRef-scancode-embedthis-extension`
+- GridGain Community Edition License 2022, `LicenseRef-scancode-gcel-2022`
+- Hippocratic License v1.0, `LicenseRef-scancode-hippocratic-1.0`
+- Hippocratic License v1.1, `LicenseRef-scancode-hippocratic-1.1`
+- Hippocratic License v2.0, `LicenseRef-scancode-hippocratic-2.0`
+- Hippocratic License v1.2, `LicenseRef-scancode-hippocratic-1.2`
+- Hippocratic License v2.1, `Hippocratic-2.1`
+- Hippocratic License v3.0, `LicenseRef-scancode-Hippocratic-3.0`
+- HP Netperf License, `LicenseRef-scancode-hp-netperf`
+- Historical Permission Notice and Disclaimer - University of California, US export warning, `HPND-UC-export-US`
+- HPND with US Government export control warning and acknowledgment, `HPND-export-US-acknowledgement`
+- HPND with US Government export control warning, `HPND-export-US`
+- Internet Computer Community Source License 1.0, `LicenseRef-scancode-ic-1.0`
+- Internet Computer Shared Community Source License 1.0, `LicenseRef-scancode-ic-shared-1.0`
+- IMAGEN License, `LicenseRef-scancode-imagen`
+- InstallSite License Agreement, `LicenseRef-scancode-installsite`
+- Intel Simplified Software License (Version April 2018), `LicenseRef-scancode-issl-2018`
+- Intel Simplified Software License (Version October 2022), `LicenseRef-scancode-issl-2022`
+- ITU-T License, `LicenseRef-scancode-itu-t`
+- Jam STAPL Software License, `LicenseRef-scancode-jam-stapl`
+- JAMon License, `LicenseRef-scancode-jamon`
+- JJ2000 License, `LicenseRef-scancode-jj2000`
+- JPEG XR License, `LicenseRef-scancode-jpegxr`
+- JPRS Open Source Code License v1.1, `LicenseRef-scancode-jprs-oscl-1.1`
+- Karl Peterson License, `LicenseRef-scancode-karl-peterson`
+- LHA, `LicenseRef-scancode-lha`
+- Madwifi License Agreement, `LicenseRef-scancode-bsd-no-mod`
+- MAME license, `LicenseRef-scancode-mame`
+- Manfred Klein Fonts TOS, `LicenseRef-scancode-manfred-klein-fonts-tos`
+- Matthew Welch Font License, `LicenseRef-scancode-matthew-welch-font-license`
+- MaxMind Open Data License, `LicenseRef-scancode-maxmind-odl`
+- Mike95 License, `LicenseRef-scancode-mike95`
+- Monkeys Audio License Agreement, `LicenseRef-scancode-monkeysaudio`
+- Microsoft Specification License, `LicenseRef-scancode-ms-specification`
+- MVT License 1.1, `LicenseRef-scancode-mvt-1.1`
+- Naughter Software License, `LicenseRef-scancode-naughter`
+- Non-Commercial Government Licence, `NCGL-UK-2.0`
+- Obsolete Font License 1.0, `unbuntu-font-1.0`
+- OFRAK Community License Agreement 1.0, `LicenseRef-scancode-ofrak-community-1.0`
+- Oracle BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License-2014`
+- Oracle Code Samples BSD-Style License, `LicenseRef-scancode-oracle-code-samples-bsd`
+- Paul Hsieh Derivative License, `LicenseRef-scancode-paul-hsieh-derivative`
+- Paul Hsieh Exposition License, `LicenseRef-scancode-paul-hsieh-exposition`
+- Permissive Binary License 1.0, `LicenseRef-scancode-pbl-1.0`
+- Pixabay Content License, `LicenseRef-scancode-pixabay-content`
+- Planet Source Code License, `LicenseRef-scancode-planet-source-code`
+- Qualcomm ISO/IEC MPEG-B DASH License, `LicenseRef-scancode-qualcomm-iso`
+- Rackspace License, `LicenseRef-scancode-rackspace`
+- Riverbank SIP License, `LicenseRef-scancode-riverbank-sip`
+- RSA Data Security MD2, `LicenseRef-scancode-rsa-md2`
+- SGI Free Software License B v1.0, `SGI-B-1.0`
+- Six Labors Split License 1.0, `LicenseRef-scancode-six-labors-split-1.0`
+- Slint Royalty-free Desktop and Web Applications License, version 1.0.1, `LicenseRef-scancode-slint-royalty-free-1.0`
+- STMicro BSD Restricted, `LicenseRef-scancode-st-bsd-restricted`
+- STMicroelectronics CentralLabs License, `LicenseRef-scancode-stmicroelectronics-centrallabs`
+- Sun BSD-Style with Additional Restrictions, `LicenseRef-scancode-sun-bsd-extra`
+- Sun BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License`
+- Sun Industry Standards Source License 1.0, `LicenseRef-scancode-sun-sissl-1.0`
+- Sun No High Risk Activities License, `LicenseRef-scancode-sun-no-high-risk-activities`
+- Sustainable Use License 1.0, `SUL-1.0`
+- Synopsys Attribution License, `LicenseRef-scancode-synopsys-attribution`
+- Thomas Bandt License, `LicenseRef-scancode-thomas-bandt`
+- Toronto Region Conservation Authority Open Data Licence 1.0, `LicenseRef-scancode-trca-odl-1.0`
+- TXL 10.5 License, `LicenseRef-scancode-txl-10.5`
+- Unsplash License, `LicenseRef-scancode-unsplash`
+- vbAccelerator Distribution Notice, `LicenseRef-scancode-vbaccelerator`
+- W3C Documentation License, `LicenseRef-scancode-w3c-documentation`
+- W3C Test Suite Licence, `LicenseRef-scancode-w3c-test-suite`
+- W3C Document Notice and License (1999-04-05), `LicenseRef-scancode-w3c-docs-19990405`
+- W3C Document License (2002-12-31), `LicenseRef-scancode-w3c-docs-20021231`
+- Waterfall Feed Parser License, `LicenseRef-scancode-waterfall-feed-parser`
+- Woodruff Restricted MIT 2002, `LicenseRef-scancode-woodruff-2002`
+- Xilinx License 2016, `LicenseRef-scancode-xilinx-2016`
 
 ### Copyleft Limited
 

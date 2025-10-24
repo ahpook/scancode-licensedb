@@ -2,26 +2,6 @@
 
 ## Safe for most uses
 
-### Free Restricted
-
-- ASWF Digital Assets License v1.0, `ASWF-Digital-Assets-1.0`
-- ASWF Digital Assets License v1.1, `ASWF-Digital-Assets-1.1`
-- BSD 3-Clause No Nuclear Warranty, `BSD-3-Clause-No-Nuclear-Warranty`
-- BSD-3-Clause-No-Military, `BSD-3-Clause-No-Military-License`
-- Caldera License, `Caldera`
-- Computational Use of Data Agreement v1.0, `C-UDA-1.0`
-- Code Project Open License (CPOL) 1.02, `CPOL-1.02`
-- Hippocratic License v2.1, `Hippocratic-2.1`
-- Historical Permission Notice and Disclaimer - University of California, US export warning, `HPND-UC-export-US`
-- HPND with US Government export control warning and acknowledgment, `HPND-export-US-acknowledgement`
-- HPND with US Government export control warning, `HPND-export-US`
-- Non-Commercial Government Licence, `NCGL-UK-2.0`
-- Obsolete Font License 1.0, `unbuntu-font-1.0`
-- Oracle BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License-2014`
-- SGI Free Software License B v1.0, `SGI-B-1.0`
-- Sun BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License`
-- Sustainable Use License 1.0, `SUL-1.0`
-
 ### Permissive
 
 - 3D Slicer Contribution and Software License Agreement v1.0, `3D-Slicer-1.0`
@@ -502,6 +482,26 @@
 - WTFPL 2.0, `WTFPL`
 
 ## Usually requires review
+
+### Free Restricted
+
+- ASWF Digital Assets License v1.0, `ASWF-Digital-Assets-1.0`
+- ASWF Digital Assets License v1.1, `ASWF-Digital-Assets-1.1`
+- BSD 3-Clause No Nuclear Warranty, `BSD-3-Clause-No-Nuclear-Warranty`
+- BSD-3-Clause-No-Military, `BSD-3-Clause-No-Military-License`
+- Caldera License, `Caldera`
+- Computational Use of Data Agreement v1.0, `C-UDA-1.0`
+- Code Project Open License (CPOL) 1.02, `CPOL-1.02`
+- Hippocratic License v2.1, `Hippocratic-2.1`
+- Historical Permission Notice and Disclaimer - University of California, US export warning, `HPND-UC-export-US`
+- HPND with US Government export control warning and acknowledgment, `HPND-export-US-acknowledgement`
+- HPND with US Government export control warning, `HPND-export-US`
+- Non-Commercial Government Licence, `NCGL-UK-2.0`
+- Obsolete Font License 1.0, `unbuntu-font-1.0`
+- Oracle BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License-2014`
+- SGI Free Software License B v1.0, `SGI-B-1.0`
+- Sun BSD-Style with Nuclear Restrictions, `BSD-3-Clause-No-Nuclear-License`
+- Sustainable Use License 1.0, `SUL-1.0`
 
 ### Copyleft Limited
 
