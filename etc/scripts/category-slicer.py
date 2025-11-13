@@ -60,6 +60,10 @@ def main():
             if args.exclude_licenserefs and spdx_license_key.startswith('LicenseRef-scancode-'):
                 continue
             
+            # Skip entries which have an is_deprecated field set to True
+            if license_data.get('is_deprecated', False):
+                continue
+
             categories[category].append(license_entry)
 
         except (json.JSONDecodeError, FileNotFoundError) as e:

@@ -16,11 +16,6 @@
       "name": "Ada linking exception to GPL 2.0 or later"
     },
     {
-      "spdx_license_key": "agpl-3.0-linking-exception",
-      "short_name": "AGPL 3.0 linking exception",
-      "name": "AGPL 3.0 linking exception"
-    },
-    {
       "spdx_license_key": "APSL-1.0",
       "short_name": "APSL 1.0",
       "name": "Apple Public Source License 1.0"
@@ -251,11 +246,6 @@
       "name": "CUA Office Public License 1.0"
     },
     {
-      "spdx_license_key": "digia-qt-exception-lgpl-2.1",
-      "short_name": "Digia Qt Exception to LGPL 2.1",
-      "name": "Digia Qt Exception to LGPL 2.1"
-    },
-    {
       "spdx_license_key": "DigiRule-FOSS-exception",
       "short_name": "DigiRule FOSS Exception to GPL 2.0",
       "name": "DigiRule FOSS License Exception to GPL 2.0"
@@ -471,246 +461,6 @@
       "name": "gnuplot License"
     },
     {
-      "spdx_license_key": "gpl-2.0-plus-syntext",
-      "short_name": "GPL 2.0 or GPL 3.0 with Syntext Serna exception",
-      "name": "GPL 2.0 or GPL 3.0 with Syntext Serna exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-ada",
-      "short_name": "GPL 2.0 or later with Ada exception",
-      "name": "GPL 2.0 or later with Ada exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-autoopts",
-      "short_name": "GPL 2.0 or later with AutoOpts exception",
-      "name": "GPL 2.0 or later with AutoOpts exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-bison-2.2",
-      "short_name": "GPL 2.0 or later with Bison 2.2 exception",
-      "name": "GPL 2.0 or later with Bison 2.2 exception"
-    },
-    {
-      "spdx_license_key": "eCos-2.0",
-      "short_name": "GPL 2.0 or later with eCos Exception",
-      "name": "GPL 2.0 or later with eCos Exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-ekiga",
-      "short_name": "GPL 2.0 or later with Ekiga exception",
-      "name": "GPL 2.0 or later with Ekiga exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-gcc",
-      "short_name": "GPL 2.0 or later with GCC exception",
-      "name": "GPL 2.0 or later with GCC exception"
-    },
-    {
-      "spdx_license_key": "GPL-2.0-with-GCC-exception",
-      "short_name": "GPL 2.0 or later with GCC LInking exception",
-      "name": "GPL 2.0 or later with GCC Runtime Library exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-geoserver",
-      "short_name": "GPL 2.0 or later with GeoServer exception",
-      "name": "GPL 2.0 or later with GeoServer exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-linking",
-      "short_name": "GPL 2.0 or later with Linking exception",
-      "name": "GPL 2.0 or later with Linking exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-nant",
-      "short_name": "GPL 2.0 or later with NAnt exception",
-      "name": "GPL 2.0 or later with NAnt exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-openmotif",
-      "short_name": "GPL 2.0 or later with Open Motif exception",
-      "name": "GPL 2.0 or later with Open Motif exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-sane",
-      "short_name": "GPL 2.0 or later with SANE exception",
-      "name": "GPL 2.0 or later with SANE exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-subcommander",
-      "short_name": "GPL 2.0 or later with Subcommander exception",
-      "name": "GPL 2.0 or later with Subcommander exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-plus-upx",
-      "short_name": "GPL 2.0 or later with UPX exception",
-      "name": "GPL 2.0 or later with UPX exception"
-    },
-    {
-      "spdx_license_key": "GPL-2.0-with-autoconf-exception",
-      "short_name": "GPL 2.0 with Autoconf exception",
-      "name": "GPL 2.0 with Autoconf exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-bison",
-      "short_name": "GPL 2.0 with bison exception",
-      "name": "GPL 2.0 with bison exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-broadcom-linking",
-      "short_name": "GPL 2.0 with Broadcom Linking Exception",
-      "name": "GPL 2.0 with Broadcom Linking Exception"
-    },
-    {
-      "spdx_license_key": "GPL-2.0-with-classpath-exception",
-      "short_name": "GPL 2.0 with classpath exception",
-      "name": "GPL 2.0 with classpath exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-cygwin",
-      "short_name": "GPL 2.0 with Cygwin exception",
-      "name": "GPL 2.0 with Cygwin exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-redhat",
-      "short_name": "GPL 2.0 with Fedora Red Hat Exception",
-      "name": "GPL 2.0 with Fedora Red Hat Exception"
-    },
-    {
-      "spdx_license_key": "GPL-2.0-with-font-exception",
-      "short_name": "GPL 2.0 with font exception",
-      "name": "GPL 2.0 with font exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-freertos",
-      "short_name": "GPL 2.0 with FreeRTOS exception",
-      "name": "GPL 2.0 with FreeRTOS exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-gcc-compiler-exception",
-      "short_name": "GPL 2.0 with GCC compiler exception",
-      "name": "GPL 2.0 with GCC compiler exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-glibc",
-      "short_name": "GPL 2.0 with GLibC exception",
-      "name": "GPL 2.0 with GLibC exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-iolib",
-      "short_name": "GPL 2.0 with GNU IO Library exception",
-      "name": "GPL 2.0 with GNU IO Library exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-libtool",
-      "short_name": "GPL 2.0 with GNU Libtool exception",
-      "name": "GPL 2.0 with GNU Libtool exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-guile",
-      "short_name": "GPL 2.0 with GUILE exception",
-      "name": "GPL 2.0 with GUILE exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-independent-module-linking",
-      "short_name": "GPL 2.0 with Independent Module Linking exception",
-      "name": "GPL 2.0 with Independent Module Linking exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-iso-cpp",
-      "short_name": "GPL 2.0 with ISO C++ Library exception",
-      "name": "GPL 2.0 with ISO C++ Library exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-javascript",
-      "short_name": "GPL 2.0 with Javascript exception",
-      "name": "GPL 2.0 with Javascript exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-kernel",
-      "short_name": "GPL 2.0 with Kernel Exception",
-      "name": "GPL 2.0 with Kernel Exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-libgit2",
-      "short_name": "GPL 2.0 with libgit2 exception",
-      "name": "GPL 2.0 with libgit2 exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-library",
-      "short_name": "GPL 2.0 with Library exception",
-      "name": "GPL 2.0 with Library exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-mysql-connector-odbc",
-      "short_name": "GPL 2.0 with MySQL Connector ODBC exception",
-      "name": "GPL 2.0 with MySQL Connector ODBC exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-openjdk",
-      "short_name": "GPL 2.0 with OpenJDK Classpath exception",
-      "name": "GPL 2.0 with OpenJDK Classpath exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-openssl",
-      "short_name": "GPL 2.0 with OpenSSL exception",
-      "name": "GPL 2.0 with OpenSSL exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-oracle-openjdk",
-      "short_name": "GPL 2.0 with Oracle OpenJDK classpath exception",
-      "name": "GPL 2.0 with Oracle OpenJDK classpath exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-proguard",
-      "short_name": "GPL 2.0 with ProGuard exception",
-      "name": "GPL 2.0 with ProGuard exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-qt-qca",
-      "short_name": "GPL 2.0 with Qt-QCA exception",
-      "name": "GPL 2.0 with Qt-QCA exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-rrdtool-floss",
-      "short_name": "GPL 2.0 with RRDtool FLOSS Exception",
-      "name": "GPL 2.0 with RRDtool FLOSS Exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-uboot",
-      "short_name": "GPL 2.0 with U-Boot exception",
-      "name": "GPL 2.0 with U-Boot exception"
-    },
-    {
-      "spdx_license_key": "gpl-3.0-bison",
-      "short_name": "GPL 3.0 or later with Bison exception",
-      "name": "GPL 3.0 or later with Bison exception"
-    },
-    {
-      "spdx_license_key": "gpl-3.0-cygwin",
-      "short_name": "GPL 3.0 or later with Cygwin exception",
-      "name": "GPL 3.0 or later with Cygwin exception"
-    },
-    {
-      "spdx_license_key": "gpl-3.0-font",
-      "short_name": "GPL 3.0 or later with font exception",
-      "name": "GPL 3.0 or later with font exception"
-    },
-    {
-      "spdx_license_key": "gpl-3.0-plus-openssl",
-      "short_name": "GPL 3.0 or later with OpenSSL exception",
-      "name": "GPL 3.0 or later with OpenSSL exception"
-    },
-    {
-      "spdx_license_key": "GPL-3.0-with-autoconf-exception",
-      "short_name": "GPL 3.0 with Autoconf exception",
-      "name": "GPL 3.0 with Autoconf exception"
-    },
-    {
-      "spdx_license_key": "GPL-3.0-with-GCC-exception",
-      "short_name": "GPL 3.0 with GCC runtime library exception",
-      "name": "GPL 3.0 with GCC runtime library exception"
-    },
-    {
       "spdx_license_key": "GPL-CC-1.0",
       "short_name": "GPL Cooperation Commitment 1.0",
       "name": "GPL Cooperation Commitment 1.0"
@@ -791,21 +541,6 @@
       "name": "GNU Library General Public License 2.0 or later"
     },
     {
-      "spdx_license_key": "lgpl-2.0-plus-gcc",
-      "short_name": "LGPL 2.0 or later with GCC exception",
-      "name": "LGPL 2.0 or later with GCC Runtime Library exception"
-    },
-    {
-      "spdx_license_key": "lgpl-2.0-fltk",
-      "short_name": "LGPL 2.0 with FLTK exception",
-      "name": "LGPL 2.0 with FLTK exception"
-    },
-    {
-      "spdx_license_key": "mini-xml",
-      "short_name": "LGPL 2.0 with Mini-XML exception",
-      "name": "LGPL 2.0 with Mini-XML exception"
-    },
-    {
       "spdx_license_key": "LGPL-2.1-only",
       "short_name": "LGPL 2.1",
       "name": "GNU Lesser General Public License 2.1"
@@ -814,46 +549,6 @@
       "spdx_license_key": "LGPL-2.1-or-later",
       "short_name": "LGPL 2.1 or later",
       "name": "GNU Lesser General Public License 2.1 or later"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-plus-linking",
-      "short_name": "LGPL 2.1 or later with Linking exception",
-      "name": "LGPL 2.1 or later with Linking exception"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-spell-checker",
-      "short_name": "LGPL 2.1 or later with Spell-Checker exception",
-      "name": "LGPL 2.1 or later with Spell-Checker exception"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-plus-unlimited-linking",
-      "short_name": "LGPL 2.1 or later with Unlimited linking exception",
-      "name": "LGPL 2.1 or later with Unlimited linking exception"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-digia-qt",
-      "short_name": "LGPL 2.1 with Digia Qt Exception",
-      "name": "LGPL 2.1 with Digia Qt Exception"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-nokia-qt",
-      "short_name": "LGPL 2.1 with Nokia Qt Exception",
-      "name": "LGPL 2.1 with Nokia Qt Exception"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-qt-company",
-      "short_name": "LGPL 2.1 with Qt Company Exception",
-      "name": "LGPL 2.1 with Qt Company Exception"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-qt-company-2017",
-      "short_name": "LGPL 2.1 with Qt Company Exception 2017",
-      "name": "LGPL 2.1 with Qt Company Exception 2017"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-rxtx",
-      "short_name": "LGPL 2.1 with RXTX exception",
-      "name": "LGPL 2.1 with RXTX exception"
     },
     {
       "spdx_license_key": "LGPL-3.0-only",
@@ -866,26 +561,6 @@
       "name": "GNU Lesser General Public License 3.0 or later"
     },
     {
-      "spdx_license_key": "lgpl-3.0-cygwin",
-      "short_name": "LGPL 3.0 or later with Cygwin exception",
-      "name": "LGPL 3.0 or later with Cygwin exception"
-    },
-    {
-      "spdx_license_key": "lgpl-3-plus-linking",
-      "short_name": "LGPL 3.0 or later with Linking exception",
-      "name": "LGPL 3.0 or later with Linking exception"
-    },
-    {
-      "spdx_license_key": "lgpl-3.0-plus-openssl",
-      "short_name": "LGPL 3.0 or later with OpenSSL exception",
-      "name": "LGPL 3.0 or later with OpenSSL exception"
-    },
-    {
-      "spdx_license_key": "lgpl-3.0-zeromq",
-      "short_name": "LGPL 3.0 with ZeroMQ exception",
-      "name": "LGPL 3.0 with ZeroMQ exception"
-    },
-    {
       "spdx_license_key": "LGPL-3.0-linking-exception",
       "short_name": "LGPL-3.0 Linking Exception",
       "name": "LGPL-3.0 Linking Exception"
@@ -894,11 +569,6 @@
       "spdx_license_key": "LGPLLR",
       "short_name": "LGPLLR",
       "name": "Lesser General Public License For Linguistic Resources"
-    },
-    {
-      "spdx_license_key": "libtool-exception",
-      "short_name": "Libtool Exception",
-      "name": "GNU Libtool Exception"
     },
     {
       "spdx_license_key": "LiLiQ-P-1.1",
@@ -914,11 +584,6 @@
       "spdx_license_key": "romic-exception",
       "short_name": "Linking exception to AGPL 3.0",
       "name": "Linking exception to AGPL 3.0"
-    },
-    {
-      "spdx_license_key": "linking-exception-lgpl-3.0",
-      "short_name": "Linking exception to LGPL 3.0",
-      "name": "Linking exception to LGPL 3.0"
     },
     {
       "spdx_license_key": "Linux-man-pages-1-para",
@@ -1004,21 +669,6 @@
       "spdx_license_key": "NGPL",
       "short_name": "Nethack General Public License",
       "name": "Nethack General Public License"
-    },
-    {
-      "spdx_license_key": "nokia-qt-exception-1.1",
-      "short_name": "Nokia Qt Exception to LGPL 2.1",
-      "name": "Nokia Qt Exception to LGPL 2.1"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-nokia-qt-1.0",
-      "short_name": "Nokia Qt LGPL Exception 1.0",
-      "name": "Nokia Qt LGPL Exception v1.0"
-    },
-    {
-      "spdx_license_key": "lgpl-2.1-nokia-qt-1.1",
-      "short_name": "Nokia Qt LGPL Exception 1.1",
-      "name": "Nokia Qt LGPL Exception v1.1"
     },
     {
       "spdx_license_key": "Nokia",
@@ -1116,11 +766,6 @@
       "name": "OpenVPN OpenSSL Exception to GPL"
     },
     {
-      "spdx_license_key": "osetpl-2.1",
-      "short_name": "OSET 2.1",
-      "name": "OSET Public License v2.1"
-    },
-    {
       "spdx_license_key": "OSET-PL-2.1",
       "short_name": "OSET-PL-2.1",
       "name": "OSET Public License version 2.1"
@@ -1151,11 +796,6 @@
       "name": "Qt Company Exception to LGPL 2.1"
     },
     {
-      "spdx_license_key": "qt-company-exception-2017-lgpl-2.1",
-      "short_name": "Qt Company Exception to LGPL 2.1 2017",
-      "name": "Qt Company Exception to LGPL 2.1 2017"
-    },
-    {
       "spdx_license_key": "Qt-GPL-exception-1.0",
       "short_name": "Qt GPL exception 1.0",
       "name": "Qt GPL exception 1.0"
@@ -1169,11 +809,6 @@
       "spdx_license_key": "Qwt-exception-1.0",
       "short_name": "Qwt exception to LGPL 2.1",
       "name": "Qwt exception to LGPL 2.1"
-    },
-    {
-      "spdx_license_key": "qwt-1.0",
-      "short_name": "Qwt License 1.0 Deprecated",
-      "name": "Qwt License 1.0 Deprecated"
     },
     {
       "spdx_license_key": "RPSL-1.0",
@@ -1296,11 +931,6 @@
       "name": "WxWindows Library Exception to GNU Licenses"
     },
     {
-      "spdx_license_key": "wxWindows",
-      "short_name": "wxWindows Library Licence 3.1",
-      "name": "wxWindows Library Licence 3.1"
-    },
-    {
       "spdx_license_key": "YPL-1.0",
       "short_name": "YPL 1.0",
       "name": "Yahoo! Public License v1.0"
@@ -1393,11 +1023,6 @@
       "name": "afmparse License"
     },
     {
-      "spdx_license_key": "aladdin-md5",
-      "short_name": "Aladdin MD5 License",
-      "name": "Aladdin MD5 License"
-    },
-    {
       "spdx_license_key": "Giftware",
       "short_name": "Allegro 4 License",
       "name": "Allegro 4 License"
@@ -1448,34 +1073,9 @@
       "name": "Apache License 2.0"
     },
     {
-      "spdx_license_key": "apache-2.0-linking-exception",
-      "short_name": "Apache 2.0 with Linking Exception",
-      "name": "Apache 2.0 with Linking Exception"
-    },
-    {
-      "spdx_license_key": "apache-2.0-runtime-library-exception",
-      "short_name": "Apache 2.0 with Runtime Library Exception",
-      "name": "Apache 2.0 with Runtime Library Exception"
-    },
-    {
-      "spdx_license_key": "apache-due-credit",
-      "short_name": "Apache Due Credit Variant",
-      "name": "Apache Due Credit Variant"
-    },
-    {
-      "spdx_license_key": "apache-patent-provision-exception",
-      "short_name": "Apache Patent Provision Exception Deprecated",
-      "name": "Apache Patent Provision Exception Deprecated"
-    },
-    {
       "spdx_license_key": "mxml-exception",
       "short_name": "Apache Patent Provision Exception Terms",
       "name": "Apache Patent Provision Exception Terms"
-    },
-    {
-      "spdx_license_key": "apache-exception-llvm",
-      "short_name": "Apache-Exception-llvm",
-      "name": "Apache Exception LLVM"
     },
     {
       "spdx_license_key": "App-s2p",
@@ -1583,11 +1183,6 @@
       "name": "BSD Advertising Acknowledgement License"
     },
     {
-      "spdx_license_key": "bsd-intel",
-      "short_name": "BSD Intel License",
-      "name": "BSD Intel License"
-    },
-    {
       "spdx_license_key": "BSD-2-Clause-Darwin",
       "short_name": "BSD Simplified Darwin",
       "name": "BSD Simplified Darwin"
@@ -1618,16 +1213,6 @@
       "name": "BSD-2-Clause Plus Patent"
     },
     {
-      "spdx_license_key": "bsd-2-clause-freebsd",
-      "short_name": "BSD-2-Clause-FreeBSD",
-      "name": "BSD-2-Clause-FreeBSD License"
-    },
-    {
-      "spdx_license_key": "bsd-2-clause-netbsd",
-      "short_name": "BSD-2-Clause-NetBSD",
-      "name": "BSD-2-Clause-NetBSD License"
-    },
-    {
       "spdx_license_key": "BSD-2-Clause-Views",
       "short_name": "BSD-2-Clause-Views",
       "name": "BSD 2-Clause with views sentence"
@@ -1638,19 +1223,9 @@
       "name": "BSD-3-Clause"
     },
     {
-      "spdx_license_key": "bsd-new-far-manager",
-      "short_name": "BSD-3-Clause with Far Manager exception",
-      "name": "BSD-3-Clause with Far Manager exception"
-    },
-    {
       "spdx_license_key": "BSD-4-Clause-Shortened",
       "short_name": "BSD-4-Clause-Shortened",
       "name": "BSD-4-Clause-Shortened"
-    },
-    {
-      "spdx_license_key": "bsd-axis",
-      "short_name": "BSD-Axis",
-      "name": "BSD-Axis"
     },
     {
       "spdx_license_key": "BSD-Inferno-Nettverk",
@@ -1673,11 +1248,6 @@
       "name": "BSD-Original-UC-1986"
     },
     {
-      "spdx_license_key": "bsd-original-uc-1990",
-      "short_name": "BSD-Original-UC-1990",
-      "name": "BSD-Original-UC-1990"
-    },
-    {
       "spdx_license_key": "BSD-Source-beginning-file",
       "short_name": "BSD-Top",
       "name": "BSD-Top"
@@ -1686,11 +1256,6 @@
       "spdx_license_key": "BSD-4.3TAHOE",
       "short_name": "BSLA",
       "name": "Berkeley Software License Agreement"
-    },
-    {
-      "spdx_license_key": "bzip2-libbzip-1.0.5",
-      "short_name": "bzip2 License",
-      "name": "bzip2 License"
     },
     {
       "spdx_license_key": "bzip2-1.0.6",
@@ -1793,11 +1358,6 @@
       "name": "Checkmk License"
     },
     {
-      "spdx_license_key": "classworlds",
-      "short_name": "Classworlds License",
-      "name": "Classworlds License"
-    },
-    {
       "spdx_license_key": "BSD-3-Clause-Clear",
       "short_name": "Clear BSD License",
       "name": "Clear BSD License"
@@ -1811,11 +1371,6 @@
       "spdx_license_key": "Clips",
       "short_name": "CLIPS License 2017",
       "name": "CLIPS License 2017"
-    },
-    {
-      "spdx_license_key": "cmr-no",
-      "short_name": "CMR License",
-      "name": "Christian Michelsen Research AS License"
     },
     {
       "spdx_license_key": "BSD-Attribution-HPND-disclaimer",
@@ -1983,11 +1538,6 @@
       "name": "Dotseqn License"
     },
     {
-      "spdx_license_key": "dr-john-maddock",
-      "short_name": "Dr John Maddock License",
-      "name": "Dr John Maddock License"
-    },
-    {
       "spdx_license_key": "DRL-1.0",
       "short_name": "DRL-1.0",
       "name": "Detection Rule License 1.0"
@@ -2001,16 +1551,6 @@
       "spdx_license_key": "DSDP",
       "short_name": "DSDP License",
       "name": "DSDP License"
-    },
-    {
-      "spdx_license_key": "dual-bsd-gpl",
-      "short_name": "Dual BSD-GPL",
-      "name": "Dual BSD-GPL"
-    },
-    {
-      "spdx_license_key": "network-time-protocol",
-      "short_name": "Duplicate Network Time Protocol License",
-      "name": "Duplicate Network Time Protocol License"
     },
     {
       "spdx_license_key": "dvipdfm",
@@ -2046,11 +1586,6 @@
       "spdx_license_key": "eGenix",
       "short_name": "eGenix Public License 1.1.0",
       "name": "eGenix Public License 1.1.0"
-    },
-    {
-      "spdx_license_key": "ekioh",
-      "short_name": "Ekioh License",
-      "name": "Ekioh License"
     },
     {
       "spdx_license_key": "MIT-enna",
@@ -2223,11 +1758,6 @@
       "name": "Henry Spencer License 1999"
     },
     {
-      "spdx_license_key": "hs-regexp-orig",
-      "short_name": "Henry Spencer Original Regexp License",
-      "name": "Henry Spencer Original Regexp License"
-    },
-    {
       "spdx_license_key": "Spencer-94",
       "short_name": "Henry Spencer Regexp License",
       "name": "Henry Spencer Regexp License"
@@ -2271,11 +1801,6 @@
       "spdx_license_key": "HPND",
       "short_name": "Historical Permission Notice and Disclaimer",
       "name": "Historical Permission Notice and Disclaimer"
-    },
-    {
-      "spdx_license_key": "historical-sell-variant",
-      "short_name": "Historical Permission Notice and Disclaimer - sell variant",
-      "name": "Historical Permission Notice and Disclaimer - sell variant"
     },
     {
       "spdx_license_key": "HPND-sell-regexpr",
@@ -2453,11 +1978,6 @@
       "name": "Leptonica License"
     },
     {
-      "spdx_license_key": "libcap",
-      "short_name": "libcap License",
-      "name": "libcap License"
-    },
-    {
       "spdx_license_key": "GD",
       "short_name": "libgd License 2018",
       "name": "libgd License 2018"
@@ -2478,16 +1998,6 @@
       "name": "libutil David Nugent License"
     },
     {
-      "spdx_license_key": "libzip",
-      "short_name": "libzip License",
-      "name": "NiH libzip License"
-    },
-    {
-      "spdx_license_key": "linum",
-      "short_name": "Linum Software License",
-      "name": "Linum Software License"
-    },
-    {
       "spdx_license_key": "Linux-OpenIB",
       "short_name": "Linux-OpenIB",
       "name": "Linux-OpenIB"
@@ -2501,11 +2011,6 @@
       "spdx_license_key": "mplus",
       "short_name": "M+ Fonts license",
       "name": "M+ Fonts license"
-    },
-    {
-      "spdx_license_key": "madwifi-dual",
-      "short_name": "MadWifi Dual BSD-GPL",
-      "name": "MadWifi Dual BSD-GPL"
     },
     {
       "spdx_license_key": "magaz",
@@ -2541,11 +2046,6 @@
       "spdx_license_key": "McPhee-slideshow",
       "short_name": "McPhee Slideshow License",
       "name": "McPhee Slideshow License"
-    },
-    {
-      "spdx_license_key": "mentalis",
-      "short_name": "Mentalis License",
-      "name": "Mentalis Source Code License"
     },
     {
       "spdx_license_key": "metamail",
@@ -2673,11 +2173,6 @@
       "name": "MPICH License"
     },
     {
-      "spdx_license_key": "ms-limited-public",
-      "short_name": "MS Limited Public License",
-      "name": "Microsoft Limited Public License"
-    },
-    {
       "spdx_license_key": "MS-LPL",
       "short_name": "MS-LPL",
       "name": "Microsoft Limited Permissive License (MS-LPL)"
@@ -2686,11 +2181,6 @@
       "spdx_license_key": "MS-PL",
       "short_name": "MS-PL",
       "name": "Microsoft Public License"
-    },
-    {
-      "spdx_license_key": "ms-permissive-1.1",
-      "short_name": "MS-PL 1.1",
-      "name": "Microsoft Permissive License (MS-PL) v1.1"
     },
     {
       "spdx_license_key": "MulanPSL-1.0",
@@ -2778,19 +2268,9 @@
       "name": "NRL permission"
     },
     {
-      "spdx_license_key": "ntpl",
-      "short_name": "NTP License",
-      "name": "Network Time Protocol License"
-    },
-    {
       "spdx_license_key": "NTP-0",
       "short_name": "NTP-0",
       "name": "NTP No Attribution"
-    },
-    {
-      "spdx_license_key": "nunit-v2",
-      "short_name": "NUnit v2 License",
-      "name": "NUnit v2 License"
     },
     {
       "spdx_license_key": "AML-glslang",
@@ -2841,11 +2321,6 @@
       "spdx_license_key": "OGC-1.0",
       "short_name": "OGC 1.0",
       "name": "OGC Software License, Version 1.0"
-    },
-    {
-      "spdx_license_key": "ogc-2006",
-      "short_name": "OGC Software Notice 2006",
-      "name": "OGC Software Notice 2006"
     },
     {
       "spdx_license_key": "OGL-Canada-2.0",
@@ -3063,11 +2538,6 @@
       "name": "radvd License"
     },
     {
-      "spdx_license_key": "ralf-corsepius",
-      "short_name": "Ralf Corsepius License",
-      "name": "Ralf Corsepius License"
-    },
-    {
       "spdx_license_key": "Rdisc",
       "short_name": "Rdisc License",
       "name": "Rdisc License"
@@ -3156,16 +2626,6 @@
       "spdx_license_key": "SL",
       "short_name": "SL License",
       "name": "SL License"
-    },
-    {
-      "spdx_license_key": "slf4j-2005",
-      "short_name": "SLF4J License 2005",
-      "name": "SLF4J License 2005"
-    },
-    {
-      "spdx_license_key": "slf4j-2008",
-      "short_name": "SLF4J License 2008",
-      "name": "SLF4J License 2008"
     },
     {
       "spdx_license_key": "snprintf",
@@ -3303,11 +2763,6 @@
       "name": "TrustedQSL License"
     },
     {
-      "spdx_license_key": "ttf2pt1",
-      "short_name": "TTF2PT1 Project License",
-      "name": "TTF2PT1 Project License"
-    },
-    {
       "spdx_license_key": "TTYP0",
       "short_name": "TTYP0 License",
       "name": "TTYP0 License"
@@ -3331,11 +2786,6 @@
       "spdx_license_key": "ulem",
       "short_name": "ulem License",
       "name": "ulem License"
-    },
-    {
-      "spdx_license_key": "unicode-data-software",
-      "short_name": "Unicode - Data Files and Software",
-      "name": "Unicode License Agreement - Data Files and Software"
     },
     {
       "spdx_license_key": "Unicode-DFS-2015",
@@ -3383,11 +2833,6 @@
       "name": "W3C Software Notice and License (1998-07-20)"
     },
     {
-      "spdx_license_key": "w3c-software-20021231",
-      "short_name": "W3C-SOFTWARE-20021231",
-      "name": "W3C Software Notice and License (2002-12-31)"
-    },
-    {
       "spdx_license_key": "W3C-20150513",
       "short_name": "W3C-SOFTWARE-DOC-20150513",
       "name": "W3C Software and Document (2015-05-13)"
@@ -3421,16 +2866,6 @@
       "spdx_license_key": "X11-swapped",
       "short_name": "X11 swapped final paragraphs",
       "name": "X11 swapped final paragraphs"
-    },
-    {
-      "spdx_license_key": "x11r5-authors",
-      "short_name": "X11-R5 Authors",
-      "name": "X11-R5 Authors"
-    },
-    {
-      "spdx_license_key": "x11-r75",
-      "short_name": "X11-R7.5",
-      "name": "X.Org Preferred License"
     },
     {
       "spdx_license_key": "Adobe-Display-PostScript",
@@ -3481,11 +2916,6 @@
       "spdx_license_key": "libtiff",
       "short_name": "X11-Style (Tiff)",
       "name": "X11-Style (Tiff)"
-    },
-    {
-      "spdx_license_key": "x11-xconsortium_veillard",
-      "short_name": "X11-Style (X Consortium Veillard) - Deprecated",
-      "name": "X11-Style (X Consortium Veillard) - Deprecated"
     },
     {
       "spdx_license_key": "X11",
@@ -3561,43 +2991,6 @@
       "spdx_license_key": "ZPL-2.1",
       "short_name": "ZPL 2.1",
       "name": "Zope Public License 2.1"
-    }
-  ],
-  "Unstated License": [
-    {
-      "spdx_license_key": "any-OSI",
-      "short_name": "Any OSI License",
-      "name": "Any OSI License"
-    },
-    {
-      "spdx_license_key": "any-OSI-perl-modules",
-      "short_name": "Any OSI Perl Modules",
-      "name": "Any OSI License - Perl Modules"
-    },
-    {
-      "spdx_license_key": "etalab-2.0-fr",
-      "short_name": "Etalab Open License 2.0 French",
-      "name": "Etalab Open License 2.0 French"
-    },
-    {
-      "spdx_license_key": "license-file-reference",
-      "short_name": "license-file-reference",
-      "name": "license-file-reference"
-    },
-    {
-      "spdx_license_key": "PCRE2-exception",
-      "short_name": "PCRE2 exception",
-      "name": "PCRE2 exception"
-    },
-    {
-      "spdx_license_key": "see-license",
-      "short_name": "See License mention",
-      "name": "See License mention"
-    },
-    {
-      "spdx_license_key": "trademark-notice",
-      "short_name": "Trademark Notice",
-      "name": "Generic Trademark Notice"
     }
   ],
   "Source-available": [
@@ -3772,11 +3165,6 @@
       "name": "JPL Image Use Policy"
     },
     {
-      "spdx_license_key": "polyform-defensive-1.0.0",
-      "short_name": "PolyForm Defensive License 1.0.0",
-      "name": "PolyForm Defensive License 1.0.0"
-    },
-    {
       "spdx_license_key": "PolyForm-Noncommercial-1.0.0",
       "short_name": "Polyform Noncommercial License 1.0.0",
       "name": "Polyform Noncommercial License 1.0.0"
@@ -3819,16 +3207,6 @@
       "name": "GNU Affero General Public License 3.0 or later"
     },
     {
-      "spdx_license_key": "agpl-3.0-bacula",
-      "short_name": "AGPL 3.0 with Bacula exception",
-      "name": "AGPL 3.0 with Bacula exception"
-    },
-    {
-      "spdx_license_key": "agpl-3.0-openssl",
-      "short_name": "AGPL 3.0 with OpenSSL exception",
-      "name": "AGPL 3.0 with OpenSSL exception"
-    },
-    {
       "spdx_license_key": "Aladdin",
       "short_name": "Aladdin FPL v8",
       "name": "Aladdin Free Public License v8"
@@ -3847,11 +3225,6 @@
       "spdx_license_key": "Asterisk-exception",
       "short_name": "Asterisk exception",
       "name": "Asterisk exception"
-    },
-    {
-      "spdx_license_key": "broadcom-dual",
-      "short_name": "Broadcom Dual GPL-Commercial",
-      "name": "Broadcom Dual GPL-Commercial"
     },
     {
       "spdx_license_key": "BSD-Protection",
@@ -3882,11 +3255,6 @@
       "spdx_license_key": "CERN-OHL-S-2.0",
       "short_name": "CERN-OHL-S-2.0",
       "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal"
-    },
-    {
-      "spdx_license_key": "ccrc-1.0",
-      "short_name": "Common Cure Rights Commitment v1.0",
-      "name": "Common Cure Rights Commitment v1.0"
     },
     {
       "spdx_license_key": "copyleft-next-0.3.0",
@@ -3939,31 +3307,6 @@
       "name": "GNU General Public License 2.0 or later"
     },
     {
-      "spdx_license_key": "gpl-2.0-plus-openssl",
-      "short_name": "GPL 2.0 or later with OpenSSL exception",
-      "name": "GPL 2.0 or later with OpenSSL exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-ice",
-      "short_name": "GPL 2.0 with Ice exception",
-      "name": "GPL 2.0 with Ice exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-lmbench",
-      "short_name": "GPL 2.0 with LMBench exception",
-      "name": "GPL 2.0 with LMBench exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-mysql-floss",
-      "short_name": "GPL 2.0 with MySQL FLOSS exception",
-      "name": "GPL 2.0 with MySQL FLOSS exception"
-    },
-    {
-      "spdx_license_key": "gpl-2.0-oracle-mysql-foss",
-      "short_name": "GPL 2.0 with Oracle MySQL FOSS exception",
-      "name": "GPL 2.0 with Oracle MySQL FOSS exception"
-    },
-    {
       "spdx_license_key": "GPL-3.0-only",
       "short_name": "GPL 3.0",
       "name": "GNU General Public License 3.0"
@@ -3972,16 +3315,6 @@
       "spdx_license_key": "GPL-3.0-or-later",
       "short_name": "GPL 3.0 or later",
       "name": "GNU General Public License 3.0 or later"
-    },
-    {
-      "spdx_license_key": "gpl-3.0-aptana",
-      "short_name": "GPL 3.0 with Aptana exception",
-      "name": "GPL 3.0 with Aptana exception"
-    },
-    {
-      "spdx_license_key": "gpl-3.0-openbd",
-      "short_name": "GPL 3.0h with OpenBD exception",
-      "name": "GPL 3.0h with OpenBD exception"
     },
     {
       "spdx_license_key": "Interbase-1.0",
@@ -4052,11 +3385,6 @@
       "spdx_license_key": "ODbL-1.0",
       "short_name": "ODbL 1.0",
       "name": "ODC Open Database License v1.0"
-    },
-    {
-      "spdx_license_key": "odc-1.0",
-      "short_name": "ODC-By",
-      "name": "Open Data Commons Attribution License"
     },
     {
       "spdx_license_key": "x11vnc-openssl-exception",
@@ -4181,11 +3509,6 @@
       "name": "ANTLR Software Rights Notice with license fallback"
     },
     {
-      "spdx_license_key": "aop-pd",
-      "short_name": "AOP-PD",
-      "name": "AOP Public Domain License"
-    },
-    {
       "spdx_license_key": "CC-PDDC",
       "short_name": "CC-PD",
       "name": "Creative Commons Public Domain Certification"
@@ -4204,11 +3527,6 @@
       "spdx_license_key": "diffmark",
       "short_name": "diffmark License",
       "name": "diffmark License"
-    },
-    {
-      "spdx_license_key": "doug-lea",
-      "short_name": "Doug Lea License",
-      "name": "Doug Lea License"
     },
     {
       "spdx_license_key": "FSFUL",
@@ -4358,11 +3676,6 @@
       "name": "Non-Commercial Government Licence"
     },
     {
-      "spdx_license_key": "unbuntu-font-1.0",
-      "short_name": "Obsolete Font License 1.0",
-      "name": "Obsolete Font License 1.0"
-    },
-    {
       "spdx_license_key": "BSD-3-Clause-No-Nuclear-License-2014",
       "short_name": "Oracle BSD-Style with Nuclear Restrictions",
       "name": "Oracle BSD-Style with Nuclear Restrictions"
@@ -4395,19 +3708,9 @@
       "name": "Liferay-DXP-EULA-2.0.0-2023-06"
     },
     {
-      "spdx_license_key": "ms-refl",
-      "short_name": "MS Reference License",
-      "name": "Microsoft Reference License"
-    },
-    {
       "spdx_license_key": "Watcom-1.0",
       "short_name": "Open Watcom 1.0",
       "name": "Sybase Open Watcom Public License v1.0"
-    },
-    {
-      "spdx_license_key": "proprietary",
-      "short_name": "Proprietary",
-      "name": "Proprietary"
     },
     {
       "spdx_license_key": "SOFA",
@@ -4430,28 +3733,21 @@
       "name": "Unicode Terms of Use"
     }
   ],
-  "Commercial": [
+  "Unstated License": [
     {
-      "spdx_license_key": "broadcom-unpublished-source",
-      "short_name": "Broadcom Unpublished Source License",
-      "name": "Broadcom Unpublished Source License"
+      "spdx_license_key": "any-OSI",
+      "short_name": "Any OSI License",
+      "name": "Any OSI License"
     },
     {
-      "spdx_license_key": "commercial-option",
-      "short_name": "Commercial Option",
-      "name": "Commercial Option"
+      "spdx_license_key": "any-OSI-perl-modules",
+      "short_name": "Any OSI Perl Modules",
+      "name": "Any OSI License - Perl Modules"
     },
     {
-      "spdx_license_key": "sun-proprietary-jdk",
-      "short_name": "Sun proprietary notice for Java sources",
-      "name": "Sun proprietary notice for Java sources"
-    }
-  ],
-  "Patent License": [
-    {
-      "spdx_license_key": "google-patent-license-fuschia",
-      "short_name": "Google Patent License for Fuschia",
-      "name": "Google Patent License for Fuschia"
+      "spdx_license_key": "PCRE2-exception",
+      "short_name": "PCRE2 exception",
+      "name": "PCRE2 exception"
     }
   ]
 }
