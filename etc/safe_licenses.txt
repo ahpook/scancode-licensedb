@@ -142,7 +142,6 @@ EUDatagrid
 Fair
 FBM
 Ferguson-Twofish
-fmt-exception
 FreeBSD-DOC
 FSFAP
 FSFAP-no-warranty-disclaimer
@@ -159,10 +158,7 @@ generic-xts
 Giftware
 Glulxe
 GLWTPL
-GNOME-examples-exception
 Graphics-Gems
-GStreamer-exception-2005
-GStreamer-exception-2008
 gtkbook
 Gutmann
 HaskellReport
@@ -225,7 +221,6 @@ libselinux-1.0
 libtiff
 libutil-David-Nugent
 Linux-OpenIB
-LLVM-exception
 LOOP
 LPD-document
 lsof
@@ -269,7 +264,6 @@ MulanPSL-1.0
 MulanPSL-2.0
 Multics
 Mup
-mxml-exception
 NAIST-2003
 Naumen
 NCBI-PD
@@ -355,8 +349,6 @@ SGI-OpenGL
 SGP4
 SHL-0.5
 SHL-0.51
-SHL-2.0
-SHL-2.1
 SL
 SMLNJ
 snprintf
@@ -372,7 +364,6 @@ SSLeay-standalone
 Sun-PPP
 Sun-PPP-2000
 SunPro
-Swift-exception
 SWL
 swrule
 Symlinks
